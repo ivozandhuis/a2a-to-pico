@@ -1,1110 +1,2773 @@
 @prefix pico: <https://data.cbg.nl/pico#> .
-
-<https://ex.org/Person2650307825> a pico:PersonObservation .
-
-<https://ex.org/Person2650307826> a pico:PersonObservation .
-
-<https://ex.org/Person2650307827> a pico:PersonObservation .
-
-<https://ex.org/Person2650307828> a pico:PersonObservation .
-
-<https://ex.org/Person2650307829> a pico:PersonObservation .
-
-<https://ex.org/Person2650307830> a pico:PersonObservation .
-
-<https://ex.org/Person2650307832> a pico:PersonObservation .
-
-<https://ex.org/Person2650307833> a pico:PersonObservation .
-
-<https://ex.org/Person2650307834> a pico:PersonObservation .
-
-<https://ex.org/Person2650307835> a pico:PersonObservation .
-
-<https://ex.org/Person2650307836> a pico:PersonObservation .
-
-<https://ex.org/Person2650307837> a pico:PersonObservation .
-
-<https://ex.org/Person2650307839> a pico:PersonObservation .
-
-<https://ex.org/Person2650307840> a pico:PersonObservation .
-
-<https://ex.org/Person2650307841> a pico:PersonObservation .
-
-<https://ex.org/Person2650307842> a pico:PersonObservation .
-
-<https://ex.org/Person2650307843> a pico:PersonObservation .
-
-<https://ex.org/Person2650307844> a pico:PersonObservation .
-
-<https://ex.org/Person2650307846> a pico:PersonObservation .
-
-<https://ex.org/Person2650307847> a pico:PersonObservation .
-
-<https://ex.org/Person2650307848> a pico:PersonObservation .
-
-<https://ex.org/Person2650307849> a pico:PersonObservation .
-
-<https://ex.org/Person2650307850> a pico:PersonObservation .
-
-<https://ex.org/Person2650307851> a pico:PersonObservation .
-
-<https://ex.org/Person2650307853> a pico:PersonObservation .
-
-<https://ex.org/Person2650307854> a pico:PersonObservation .
-
-<https://ex.org/Person2650307855> a pico:PersonObservation .
-
-<https://ex.org/Person2650307856> a pico:PersonObservation .
-
-<https://ex.org/Person2650307857> a pico:PersonObservation .
-
-<https://ex.org/Person2650307858> a pico:PersonObservation .
-
-<https://ex.org/Person2650307860> a pico:PersonObservation .
-
-<https://ex.org/Person2650307861> a pico:PersonObservation .
-
-<https://ex.org/Person2650307862> a pico:PersonObservation .
-
-<https://ex.org/Person2650307863> a pico:PersonObservation .
-
-<https://ex.org/Person2650307864> a pico:PersonObservation .
-
-<https://ex.org/Person2650307865> a pico:PersonObservation .
-
-<https://ex.org/Person2650307867> a pico:PersonObservation .
-
-<https://ex.org/Person2650307868> a pico:PersonObservation .
-
-<https://ex.org/Person2650307869> a pico:PersonObservation .
-
-<https://ex.org/Person2650307870> a pico:PersonObservation .
-
-<https://ex.org/Person2650307871> a pico:PersonObservation .
-
-<https://ex.org/Person2650307872> a pico:PersonObservation .
-
-<https://ex.org/Person2650307874> a pico:PersonObservation .
-
-<https://ex.org/Person2650307875> a pico:PersonObservation .
-
-<https://ex.org/Person2650307876> a pico:PersonObservation .
-
-<https://ex.org/Person2650307877> a pico:PersonObservation .
-
-<https://ex.org/Person2650307878> a pico:PersonObservation .
-
-<https://ex.org/Person2650307879> a pico:PersonObservation .
-
-<https://ex.org/Person2650307881> a pico:PersonObservation .
-
-<https://ex.org/Person2650307882> a pico:PersonObservation .
-
-<https://ex.org/Person2650307883> a pico:PersonObservation .
-
-<https://ex.org/Person2650307884> a pico:PersonObservation .
-
-<https://ex.org/Person2650307885> a pico:PersonObservation .
-
-<https://ex.org/Person2650307886> a pico:PersonObservation .
-
-<https://ex.org/Person2650307888> a pico:PersonObservation .
-
-<https://ex.org/Person2650307889> a pico:PersonObservation .
-
-<https://ex.org/Person2650307890> a pico:PersonObservation .
-
-<https://ex.org/Person2650307891> a pico:PersonObservation .
-
-<https://ex.org/Person2650307892> a pico:PersonObservation .
-
-<https://ex.org/Person2650307893> a pico:PersonObservation .
-
-<https://ex.org/Person2650307895> a pico:PersonObservation .
-
-<https://ex.org/Person2650307896> a pico:PersonObservation .
-
-<https://ex.org/Person2650307897> a pico:PersonObservation .
-
-<https://ex.org/Person2650307898> a pico:PersonObservation .
-
-<https://ex.org/Person2650307899> a pico:PersonObservation .
-
-<https://ex.org/Person2650307900> a pico:PersonObservation .
-
-<https://ex.org/Person2650307902> a pico:PersonObservation .
-
-<https://ex.org/Person2650307903> a pico:PersonObservation .
-
-<https://ex.org/Person2650307904> a pico:PersonObservation .
-
-<https://ex.org/Person2650307905> a pico:PersonObservation .
-
-<https://ex.org/Person2650307906> a pico:PersonObservation .
-
-<https://ex.org/Person2650307907> a pico:PersonObservation .
-
-<https://ex.org/Person2650307909> a pico:PersonObservation .
-
-<https://ex.org/Person2650307910> a pico:PersonObservation .
-
-<https://ex.org/Person2650307911> a pico:PersonObservation .
-
-<https://ex.org/Person2650307912> a pico:PersonObservation .
-
-<https://ex.org/Person2650307913> a pico:PersonObservation .
-
-<https://ex.org/Person2650307914> a pico:PersonObservation .
-
-<https://ex.org/Person2650307916> a pico:PersonObservation .
-
-<https://ex.org/Person2650307917> a pico:PersonObservation .
-
-<https://ex.org/Person2650307919> a pico:PersonObservation .
-
-<https://ex.org/Person2650307920> a pico:PersonObservation .
-
-<https://ex.org/Person2650307921> a pico:PersonObservation .
-
-<https://ex.org/Person2650307922> a pico:PersonObservation .
-
-<https://ex.org/Person2650307923> a pico:PersonObservation .
-
-<https://ex.org/Person2650307924> a pico:PersonObservation .
-
-<https://ex.org/Person2650307926> a pico:PersonObservation .
-
-<https://ex.org/Person2650307927> a pico:PersonObservation .
-
-<https://ex.org/Person2650307928> a pico:PersonObservation .
-
-<https://ex.org/Person2650307929> a pico:PersonObservation .
-
-<https://ex.org/Person2650307930> a pico:PersonObservation .
-
-<https://ex.org/Person2650307931> a pico:PersonObservation .
-
-<https://ex.org/Person2650307933> a pico:PersonObservation .
-
-<https://ex.org/Person2650307934> a pico:PersonObservation .
-
-<https://ex.org/Person2650307935> a pico:PersonObservation .
-
-<https://ex.org/Person2650307936> a pico:PersonObservation .
-
-<https://ex.org/Person2650307937> a pico:PersonObservation .
-
-<https://ex.org/Person2650307939> a pico:PersonObservation .
-
-<https://ex.org/Person2650307940> a pico:PersonObservation .
-
-<https://ex.org/Person2650307941> a pico:PersonObservation .
-
-<https://ex.org/Person2650307942> a pico:PersonObservation .
-
-<https://ex.org/Person2650307943> a pico:PersonObservation .
-
-<https://ex.org/Person2650307944> a pico:PersonObservation .
-
-<https://ex.org/Person2650307946> a pico:PersonObservation .
-
-<https://ex.org/Person2650307947> a pico:PersonObservation .
-
-<https://ex.org/Person2650307948> a pico:PersonObservation .
-
-<https://ex.org/Person2650307949> a pico:PersonObservation .
-
-<https://ex.org/Person2650307950> a pico:PersonObservation .
-
-<https://ex.org/Person2650307951> a pico:PersonObservation .
-
-<https://ex.org/Person2650307953> a pico:PersonObservation .
-
-<https://ex.org/Person2650307954> a pico:PersonObservation .
-
-<https://ex.org/Person2650307955> a pico:PersonObservation .
-
-<https://ex.org/Person2650307956> a pico:PersonObservation .
-
-<https://ex.org/Person2650307957> a pico:PersonObservation .
-
-<https://ex.org/Person2650307958> a pico:PersonObservation .
-
-<https://ex.org/Person2650307960> a pico:PersonObservation .
-
-<https://ex.org/Person2650307961> a pico:PersonObservation .
-
-<https://ex.org/Person2650307962> a pico:PersonObservation .
-
-<https://ex.org/Person2650307963> a pico:PersonObservation .
-
-<https://ex.org/Person2650307964> a pico:PersonObservation .
-
-<https://ex.org/Person2650307965> a pico:PersonObservation .
-
-<https://ex.org/Person2650307967> a pico:PersonObservation .
-
-<https://ex.org/Person2650307968> a pico:PersonObservation .
-
-<https://ex.org/Person2650307969> a pico:PersonObservation .
-
-<https://ex.org/Person2650307970> a pico:PersonObservation .
-
-<https://ex.org/Person2650307971> a pico:PersonObservation .
-
-<https://ex.org/Person2650307973> a pico:PersonObservation .
-
-<https://ex.org/Person2650307974> a pico:PersonObservation .
-
-<https://ex.org/Person2650307975> a pico:PersonObservation .
-
-<https://ex.org/Person2650307976> a pico:PersonObservation .
-
-<https://ex.org/Person2650307977> a pico:PersonObservation .
-
-<https://ex.org/Person2650307978> a pico:PersonObservation .
-
-<https://ex.org/Person2650307980> a pico:PersonObservation .
-
-<https://ex.org/Person2650307981> a pico:PersonObservation .
-
-<https://ex.org/Person2650307982> a pico:PersonObservation .
-
-<https://ex.org/Person2650307983> a pico:PersonObservation .
-
-<https://ex.org/Person2650307984> a pico:PersonObservation .
-
-<https://ex.org/Person2650307985> a pico:PersonObservation .
-
-<https://ex.org/Person2650307987> a pico:PersonObservation .
-
-<https://ex.org/Person2650307988> a pico:PersonObservation .
-
-<https://ex.org/Person2650307989> a pico:PersonObservation .
-
-<https://ex.org/Person2650307990> a pico:PersonObservation .
-
-<https://ex.org/Person2650307991> a pico:PersonObservation .
-
-<https://ex.org/Person2650307992> a pico:PersonObservation .
-
-<https://ex.org/Person2650307994> a pico:PersonObservation .
-
-<https://ex.org/Person2650307995> a pico:PersonObservation .
-
-<https://ex.org/Person2650307996> a pico:PersonObservation .
-
-<https://ex.org/Person2650307997> a pico:PersonObservation .
-
-<https://ex.org/Person2650307998> a pico:PersonObservation .
-
-<https://ex.org/Person2650307999> a pico:PersonObservation .
-
-<https://ex.org/Person2650308001> a pico:PersonObservation .
-
-<https://ex.org/Person2650308002> a pico:PersonObservation .
-
-<https://ex.org/Person2650308003> a pico:PersonObservation .
-
-<https://ex.org/Person2650308004> a pico:PersonObservation .
-
-<https://ex.org/Person2650308005> a pico:PersonObservation .
-
-<https://ex.org/Person2650308006> a pico:PersonObservation .
-
-<https://ex.org/Person2650308008> a pico:PersonObservation .
-
-<https://ex.org/Person2650308009> a pico:PersonObservation .
-
-<https://ex.org/Person2650308010> a pico:PersonObservation .
-
-<https://ex.org/Person2650308011> a pico:PersonObservation .
-
-<https://ex.org/Person2650308012> a pico:PersonObservation .
-
-<https://ex.org/Person2650308013> a pico:PersonObservation .
-
-<https://ex.org/Person2650308015> a pico:PersonObservation .
-
-<https://ex.org/Person2650308016> a pico:PersonObservation .
-
-<https://ex.org/Person2650308017> a pico:PersonObservation .
-
-<https://ex.org/Person2650308018> a pico:PersonObservation .
-
-<https://ex.org/Person2650308019> a pico:PersonObservation .
-
-<https://ex.org/Person2650308020> a pico:PersonObservation .
-
-<https://ex.org/Person2650308022> a pico:PersonObservation .
-
-<https://ex.org/Person2650308023> a pico:PersonObservation .
-
-<https://ex.org/Person2650308024> a pico:PersonObservation .
-
-<https://ex.org/Person2650308025> a pico:PersonObservation .
-
-<https://ex.org/Person2650308026> a pico:PersonObservation .
-
-<https://ex.org/Person2650308027> a pico:PersonObservation .
-
-<https://ex.org/Person2650308029> a pico:PersonObservation .
-
-<https://ex.org/Person2650308030> a pico:PersonObservation .
-
-<https://ex.org/Person2650308031> a pico:PersonObservation .
-
-<https://ex.org/Person2650308032> a pico:PersonObservation .
-
-<https://ex.org/Person2650308033> a pico:PersonObservation .
-
-<https://ex.org/Person2650308034> a pico:PersonObservation .
-
-<https://ex.org/Person2650308036> a pico:PersonObservation .
-
-<https://ex.org/Person2650308037> a pico:PersonObservation .
-
-<https://ex.org/Person2650308038> a pico:PersonObservation .
-
-<https://ex.org/Person2650308039> a pico:PersonObservation .
-
-<https://ex.org/Person2650308040> a pico:PersonObservation .
-
-<https://ex.org/Person2650308041> a pico:PersonObservation .
-
-<https://ex.org/Person2650308043> a pico:PersonObservation .
-
-<https://ex.org/Person2650308044> a pico:PersonObservation .
-
-<https://ex.org/Person2650308045> a pico:PersonObservation .
-
-<https://ex.org/Person2650308046> a pico:PersonObservation .
-
-<https://ex.org/Person2650308047> a pico:PersonObservation .
-
-<https://ex.org/Person2650308048> a pico:PersonObservation .
-
-<https://ex.org/Person2650308050> a pico:PersonObservation .
-
-<https://ex.org/Person2650308051> a pico:PersonObservation .
-
-<https://ex.org/Person2650308052> a pico:PersonObservation .
-
-<https://ex.org/Person2650308053> a pico:PersonObservation .
-
-<https://ex.org/Person2650308054> a pico:PersonObservation .
-
-<https://ex.org/Person2650308055> a pico:PersonObservation .
-
-<https://ex.org/Person2650308057> a pico:PersonObservation .
-
-<https://ex.org/Person2650308058> a pico:PersonObservation .
-
-<https://ex.org/Person2650308059> a pico:PersonObservation .
-
-<https://ex.org/Person2650308060> a pico:PersonObservation .
-
-<https://ex.org/Person2650308061> a pico:PersonObservation .
-
-<https://ex.org/Person2650308062> a pico:PersonObservation .
-
-<https://ex.org/Person2650308064> a pico:PersonObservation .
-
-<https://ex.org/Person2650308065> a pico:PersonObservation .
-
-<https://ex.org/Person2650308066> a pico:PersonObservation .
-
-<https://ex.org/Person2650308067> a pico:PersonObservation .
-
-<https://ex.org/Person2650308068> a pico:PersonObservation .
-
-<https://ex.org/Person2650308069> a pico:PersonObservation .
-
-<https://ex.org/Person2650308071> a pico:PersonObservation .
-
-<https://ex.org/Person2650308072> a pico:PersonObservation .
-
-<https://ex.org/Person2650308073> a pico:PersonObservation .
-
-<https://ex.org/Person2650308074> a pico:PersonObservation .
-
-<https://ex.org/Person2650308075> a pico:PersonObservation .
-
-<https://ex.org/Person2650308076> a pico:PersonObservation .
-
-<https://ex.org/Person2650308078> a pico:PersonObservation .
-
-<https://ex.org/Person2650308079> a pico:PersonObservation .
-
-<https://ex.org/Person2650308080> a pico:PersonObservation .
-
-<https://ex.org/Person2650308081> a pico:PersonObservation .
-
-<https://ex.org/Person2650308082> a pico:PersonObservation .
-
-<https://ex.org/Person2650308083> a pico:PersonObservation .
-
-<https://ex.org/Person2650308085> a pico:PersonObservation .
-
-<https://ex.org/Person2650308086> a pico:PersonObservation .
-
-<https://ex.org/Person2650308087> a pico:PersonObservation .
-
-<https://ex.org/Person2650308088> a pico:PersonObservation .
-
-<https://ex.org/Person2650308089> a pico:PersonObservation .
-
-<https://ex.org/Person2650308090> a pico:PersonObservation .
-
-<https://ex.org/Person2650308092> a pico:PersonObservation .
-
-<https://ex.org/Person2650308093> a pico:PersonObservation .
-
-<https://ex.org/Person2650308094> a pico:PersonObservation .
-
-<https://ex.org/Person2650308095> a pico:PersonObservation .
-
-<https://ex.org/Person2650308096> a pico:PersonObservation .
-
-<https://ex.org/Person2650308097> a pico:PersonObservation .
-
-<https://ex.org/Person2650308099> a pico:PersonObservation .
-
-<https://ex.org/Person2650308100> a pico:PersonObservation .
-
-<https://ex.org/Person2650308101> a pico:PersonObservation .
-
-<https://ex.org/Person2650308102> a pico:PersonObservation .
-
-<https://ex.org/Person2650308103> a pico:PersonObservation .
-
-<https://ex.org/Person2650308104> a pico:PersonObservation .
-
-<https://ex.org/Person2650308106> a pico:PersonObservation .
-
-<https://ex.org/Person2650308107> a pico:PersonObservation .
-
-<https://ex.org/Person2650308108> a pico:PersonObservation .
-
-<https://ex.org/Person2650308109> a pico:PersonObservation .
-
-<https://ex.org/Person2650308110> a pico:PersonObservation .
-
-<https://ex.org/Person2650308111> a pico:PersonObservation .
-
-<https://ex.org/Person2650308113> a pico:PersonObservation .
-
-<https://ex.org/Person2650308114> a pico:PersonObservation .
-
-<https://ex.org/Person2650308115> a pico:PersonObservation .
-
-<https://ex.org/Person2650308116> a pico:PersonObservation .
-
-<https://ex.org/Person2650308117> a pico:PersonObservation .
-
-<https://ex.org/Person2650308118> a pico:PersonObservation .
-
-<https://ex.org/Person2650308120> a pico:PersonObservation .
-
-<https://ex.org/Person2650308121> a pico:PersonObservation .
-
-<https://ex.org/Person2650308122> a pico:PersonObservation .
-
-<https://ex.org/Person2650308123> a pico:PersonObservation .
-
-<https://ex.org/Person2650308124> a pico:PersonObservation .
-
-<https://ex.org/Person2650308126> a pico:PersonObservation .
-
-<https://ex.org/Person2650308127> a pico:PersonObservation .
-
-<https://ex.org/Person2650308128> a pico:PersonObservation .
-
-<https://ex.org/Person2650308129> a pico:PersonObservation .
-
-<https://ex.org/Person2650308130> a pico:PersonObservation .
-
-<https://ex.org/Person2650308131> a pico:PersonObservation .
-
-<https://ex.org/Person2650308133> a pico:PersonObservation .
-
-<https://ex.org/Person2650308134> a pico:PersonObservation .
-
-<https://ex.org/Person2650308136> a pico:PersonObservation .
-
-<https://ex.org/Person2650308137> a pico:PersonObservation .
-
-<https://ex.org/Person2650308138> a pico:PersonObservation .
-
-<https://ex.org/Person2650308139> a pico:PersonObservation .
-
-<https://ex.org/Person2650308140> a pico:PersonObservation .
-
-<https://ex.org/Person2650308141> a pico:PersonObservation .
-
-<https://ex.org/Person2650308143> a pico:PersonObservation .
-
-<https://ex.org/Person2650308144> a pico:PersonObservation .
-
-<https://ex.org/Person2650308145> a pico:PersonObservation .
-
-<https://ex.org/Person2650308146> a pico:PersonObservation .
-
-<https://ex.org/Person2650308147> a pico:PersonObservation .
-
-<https://ex.org/Person2650308148> a pico:PersonObservation .
-
-<https://ex.org/Person2650308150> a pico:PersonObservation .
-
-<https://ex.org/Person2650308151> a pico:PersonObservation .
-
-<https://ex.org/Person2650308152> a pico:PersonObservation .
-
-<https://ex.org/Person2650308153> a pico:PersonObservation .
-
-<https://ex.org/Person2650308154> a pico:PersonObservation .
-
-<https://ex.org/Person2650308155> a pico:PersonObservation .
-
-<https://ex.org/Person2650308157> a pico:PersonObservation .
-
-<https://ex.org/Person2650308158> a pico:PersonObservation .
-
-<https://ex.org/Person2650308159> a pico:PersonObservation .
-
-<https://ex.org/Person2650308160> a pico:PersonObservation .
-
-<https://ex.org/Person2650308161> a pico:PersonObservation .
-
-<https://ex.org/Person2650308162> a pico:PersonObservation .
-
-<https://ex.org/Person2650308164> a pico:PersonObservation .
-
-<https://ex.org/Person2650308165> a pico:PersonObservation .
-
-<https://ex.org/Person2650308166> a pico:PersonObservation .
-
-<https://ex.org/Person2650308167> a pico:PersonObservation .
-
-<https://ex.org/Person2650308168> a pico:PersonObservation .
-
-<https://ex.org/Person2650308169> a pico:PersonObservation .
-
-<https://ex.org/Person2650308171> a pico:PersonObservation .
-
-<https://ex.org/Person2650308172> a pico:PersonObservation .
-
-<https://ex.org/Person2650308173> a pico:PersonObservation .
-
-<https://ex.org/Person2650308174> a pico:PersonObservation .
-
-<https://ex.org/Person2650308175> a pico:PersonObservation .
-
-<https://ex.org/Person2650308176> a pico:PersonObservation .
-
-<https://ex.org/Person2650308178> a pico:PersonObservation .
-
-<https://ex.org/Person2650308179> a pico:PersonObservation .
-
-<https://ex.org/Person2650308180> a pico:PersonObservation .
-
-<https://ex.org/Person2650308181> a pico:PersonObservation .
-
-<https://ex.org/Person2650308182> a pico:PersonObservation .
-
-<https://ex.org/Person2650308183> a pico:PersonObservation .
-
-<https://ex.org/Person2650308185> a pico:PersonObservation .
-
-<https://ex.org/Person2650308186> a pico:PersonObservation .
-
-<https://ex.org/Person2650308187> a pico:PersonObservation .
-
-<https://ex.org/Person2650308188> a pico:PersonObservation .
-
-<https://ex.org/Person2650308189> a pico:PersonObservation .
-
-<https://ex.org/Person2650308190> a pico:PersonObservation .
-
-<https://ex.org/Person2650308192> a pico:PersonObservation .
-
-<https://ex.org/Person2650308193> a pico:PersonObservation .
-
-<https://ex.org/Person2650308194> a pico:PersonObservation .
-
-<https://ex.org/Person2650308195> a pico:PersonObservation .
-
-<https://ex.org/Person2650308196> a pico:PersonObservation .
-
-<https://ex.org/Person2650308197> a pico:PersonObservation .
-
-<https://ex.org/Person2650308199> a pico:PersonObservation .
-
-<https://ex.org/Person2650308200> a pico:PersonObservation .
-
-<https://ex.org/Person2650308201> a pico:PersonObservation .
-
-<https://ex.org/Person2650308202> a pico:PersonObservation .
-
-<https://ex.org/Person2650308203> a pico:PersonObservation .
-
-<https://ex.org/Person2650308204> a pico:PersonObservation .
-
-<https://ex.org/Person2650308206> a pico:PersonObservation .
-
-<https://ex.org/Person2650308207> a pico:PersonObservation .
-
-<https://ex.org/Person2650308208> a pico:PersonObservation .
-
-<https://ex.org/Person2650308209> a pico:PersonObservation .
-
-<https://ex.org/Person2650308210> a pico:PersonObservation .
-
-<https://ex.org/Person2650308211> a pico:PersonObservation .
-
-<https://ex.org/Person2650308213> a pico:PersonObservation .
-
-<https://ex.org/Person2650308214> a pico:PersonObservation .
-
-<https://ex.org/Person2650308215> a pico:PersonObservation .
-
-<https://ex.org/Person2650308216> a pico:PersonObservation .
-
-<https://ex.org/Person2650308217> a pico:PersonObservation .
-
-<https://ex.org/Person2650308218> a pico:PersonObservation .
-
-<https://ex.org/Person2650308220> a pico:PersonObservation .
-
-<https://ex.org/Person2650308221> a pico:PersonObservation .
-
-<https://ex.org/Person2650308222> a pico:PersonObservation .
-
-<https://ex.org/Person2650308223> a pico:PersonObservation .
-
-<https://ex.org/Person2650308224> a pico:PersonObservation .
-
-<https://ex.org/Person2650308225> a pico:PersonObservation .
-
-<https://ex.org/Person2650308227> a pico:PersonObservation .
-
-<https://ex.org/Person2650308228> a pico:PersonObservation .
-
-<https://ex.org/Person2650308229> a pico:PersonObservation .
-
-<https://ex.org/Person2650308230> a pico:PersonObservation .
-
-<https://ex.org/Person2650308231> a pico:PersonObservation .
-
-<https://ex.org/Person2650308232> a pico:PersonObservation .
-
-<https://ex.org/Person2650308234> a pico:PersonObservation .
-
-<https://ex.org/Person2650308235> a pico:PersonObservation .
-
-<https://ex.org/Person2650308236> a pico:PersonObservation .
-
-<https://ex.org/Person2650308237> a pico:PersonObservation .
-
-<https://ex.org/Person2650308238> a pico:PersonObservation .
-
-<https://ex.org/Person2650308239> a pico:PersonObservation .
-
-<https://ex.org/Person2650308241> a pico:PersonObservation .
-
-<https://ex.org/Person2650308242> a pico:PersonObservation .
-
-<https://ex.org/Person2650308243> a pico:PersonObservation .
-
-<https://ex.org/Person2650308244> a pico:PersonObservation .
-
-<https://ex.org/Person2650308245> a pico:PersonObservation .
-
-<https://ex.org/Person2650308246> a pico:PersonObservation .
-
-<https://ex.org/Person2650308248> a pico:PersonObservation .
-
-<https://ex.org/Person2650308249> a pico:PersonObservation .
-
-<https://ex.org/Person2650308250> a pico:PersonObservation .
-
-<https://ex.org/Person2650308251> a pico:PersonObservation .
-
-<https://ex.org/Person2650308252> a pico:PersonObservation .
-
-<https://ex.org/Person2650308253> a pico:PersonObservation .
-
-<https://ex.org/Person2650308255> a pico:PersonObservation .
-
-<https://ex.org/Person2650308256> a pico:PersonObservation .
-
-<https://ex.org/Person2650308257> a pico:PersonObservation .
-
-<https://ex.org/Person2650308258> a pico:PersonObservation .
-
-<https://ex.org/Person2650308259> a pico:PersonObservation .
-
-<https://ex.org/Person2650308260> a pico:PersonObservation .
-
-<https://ex.org/Person2650308262> a pico:PersonObservation .
-
-<https://ex.org/Person2650308263> a pico:PersonObservation .
-
-<https://ex.org/Person2650308265> a pico:PersonObservation .
-
-<https://ex.org/Person2650308266> a pico:PersonObservation .
-
-<https://ex.org/Person2650308267> a pico:PersonObservation .
-
-<https://ex.org/Person2650308268> a pico:PersonObservation .
-
-<https://ex.org/Person2650308269> a pico:PersonObservation .
-
-<https://ex.org/Person2650308270> a pico:PersonObservation .
-
-<https://ex.org/Person2650308272> a pico:PersonObservation .
-
-<https://ex.org/Person2650308273> a pico:PersonObservation .
-
-<https://ex.org/Person2650308274> a pico:PersonObservation .
-
-<https://ex.org/Person2650308275> a pico:PersonObservation .
-
-<https://ex.org/Person2650308276> a pico:PersonObservation .
-
-<https://ex.org/Person2650308277> a pico:PersonObservation .
-
-<https://ex.org/Person2650308279> a pico:PersonObservation .
-
-<https://ex.org/Person2650308280> a pico:PersonObservation .
-
-<https://ex.org/Person2650308281> a pico:PersonObservation .
-
-<https://ex.org/Person2650308282> a pico:PersonObservation .
-
-<https://ex.org/Person2650308283> a pico:PersonObservation .
-
-<https://ex.org/Person2650308284> a pico:PersonObservation .
-
-<https://ex.org/Person2650308286> a pico:PersonObservation .
-
-<https://ex.org/Person2650308287> a pico:PersonObservation .
-
-<https://ex.org/Person2650308288> a pico:PersonObservation .
-
-<https://ex.org/Person2650308289> a pico:PersonObservation .
-
-<https://ex.org/Person2650308290> a pico:PersonObservation .
-
-<https://ex.org/Person2650308291> a pico:PersonObservation .
-
-<https://ex.org/Person2650308293> a pico:PersonObservation .
-
-<https://ex.org/Person2650308294> a pico:PersonObservation .
-
-<https://ex.org/Person2650308295> a pico:PersonObservation .
-
-<https://ex.org/Person2650308296> a pico:PersonObservation .
-
-<https://ex.org/Person2650308297> a pico:PersonObservation .
-
-<https://ex.org/Person2650308298> a pico:PersonObservation .
-
-<https://ex.org/Person2650308300> a pico:PersonObservation .
-
-<https://ex.org/Person2650308301> a pico:PersonObservation .
-
-<https://ex.org/Person2650308302> a pico:PersonObservation .
-
-<https://ex.org/Person2650308303> a pico:PersonObservation .
-
-<https://ex.org/Person2650308304> a pico:PersonObservation .
-
-<https://ex.org/Person2650308305> a pico:PersonObservation .
-
-<https://ex.org/Person2650308307> a pico:PersonObservation .
-
-<https://ex.org/Person2650308308> a pico:PersonObservation .
-
-<https://ex.org/Person2650308309> a pico:PersonObservation .
-
-<https://ex.org/Person2650308310> a pico:PersonObservation .
-
-<https://ex.org/Person2650308311> a pico:PersonObservation .
-
-<https://ex.org/Person2650308312> a pico:PersonObservation .
-
-<https://ex.org/Person2650308314> a pico:PersonObservation .
-
-<https://ex.org/Person2650308315> a pico:PersonObservation .
-
-<https://ex.org/Person2650308316> a pico:PersonObservation .
-
-<https://ex.org/Person2650308317> a pico:PersonObservation .
-
-<https://ex.org/Person2650308318> a pico:PersonObservation .
-
-<https://ex.org/Person2650308319> a pico:PersonObservation .
-
-<https://ex.org/Person2650308321> a pico:PersonObservation .
-
-<https://ex.org/Person2650308322> a pico:PersonObservation .
-
-<https://ex.org/Person2650308323> a pico:PersonObservation .
-
-<https://ex.org/Person2650308324> a pico:PersonObservation .
-
-<https://ex.org/Person2650308325> a pico:PersonObservation .
-
-<https://ex.org/Person2650308327> a pico:PersonObservation .
-
-<https://ex.org/Person2650308328> a pico:PersonObservation .
-
-<https://ex.org/Person2650308329> a pico:PersonObservation .
-
-<https://ex.org/Person2650308330> a pico:PersonObservation .
-
-<https://ex.org/Person2650308331> a pico:PersonObservation .
-
-<https://ex.org/Person2650308332> a pico:PersonObservation .
-
-<https://ex.org/Person2650308334> a pico:PersonObservation .
-
-<https://ex.org/Person2650308335> a pico:PersonObservation .
-
-<https://ex.org/Person2650308336> a pico:PersonObservation .
-
-<https://ex.org/Person2650308337> a pico:PersonObservation .
-
-<https://ex.org/Person2650308338> a pico:PersonObservation .
-
-<https://ex.org/Person2650308339> a pico:PersonObservation .
-
-<https://ex.org/Person2650308341> a pico:PersonObservation .
-
-<https://ex.org/Person2650308342> a pico:PersonObservation .
-
-<https://ex.org/Person2650308343> a pico:PersonObservation .
-
-<https://ex.org/Person2650308344> a pico:PersonObservation .
-
-<https://ex.org/Person2650308345> a pico:PersonObservation .
-
-<https://ex.org/Person2650308346> a pico:PersonObservation .
-
-<https://ex.org/Person2650308348> a pico:PersonObservation .
-
-<https://ex.org/Person2650308349> a pico:PersonObservation .
-
-<https://ex.org/Person2650308350> a pico:PersonObservation .
-
-<https://ex.org/Person2650308351> a pico:PersonObservation .
-
-<https://ex.org/Person2650308352> a pico:PersonObservation .
-
-<https://ex.org/Person2650308353> a pico:PersonObservation .
-
-<https://ex.org/Person2650308355> a pico:PersonObservation .
-
-<https://ex.org/Person2650308356> a pico:PersonObservation .
-
-<https://ex.org/Person2650308357> a pico:PersonObservation .
-
-<https://ex.org/Person2650308358> a pico:PersonObservation .
-
-<https://ex.org/Person2650308359> a pico:PersonObservation .
-
-<https://ex.org/Person2650308360> a pico:PersonObservation .
-
-<https://ex.org/Person2650308362> a pico:PersonObservation .
-
-<https://ex.org/Person2650308363> a pico:PersonObservation .
-
-<https://ex.org/Person2650308364> a pico:PersonObservation .
-
-<https://ex.org/Person2650308365> a pico:PersonObservation .
-
-<https://ex.org/Person2650308366> a pico:PersonObservation .
-
-<https://ex.org/Person2650308367> a pico:PersonObservation .
-
-<https://ex.org/Person2650308369> a pico:PersonObservation .
-
-<https://ex.org/Person2650308370> a pico:PersonObservation .
-
-<https://ex.org/Person2650308371> a pico:PersonObservation .
-
-<https://ex.org/Person2650308372> a pico:PersonObservation .
-
-<https://ex.org/Person2650308373> a pico:PersonObservation .
-
-<https://ex.org/Person2650308374> a pico:PersonObservation .
-
-<https://ex.org/Person2650308376> a pico:PersonObservation .
-
-<https://ex.org/Person2650308377> a pico:PersonObservation .
-
-<https://ex.org/Person2650308378> a pico:PersonObservation .
-
-<https://ex.org/Person2650308379> a pico:PersonObservation .
-
-<https://ex.org/Person2650308380> a pico:PersonObservation .
-
-<https://ex.org/Person2650308381> a pico:PersonObservation .
-
-<https://ex.org/Person2650308383> a pico:PersonObservation .
-
-<https://ex.org/Person2650308384> a pico:PersonObservation .
-
-<https://ex.org/Person2650308385> a pico:PersonObservation .
-
-<https://ex.org/Person2650308386> a pico:PersonObservation .
-
-<https://ex.org/Person2650308387> a pico:PersonObservation .
-
-<https://ex.org/Person2650308388> a pico:PersonObservation .
-
-<https://ex.org/Person2650308390> a pico:PersonObservation .
-
-<https://ex.org/Person2650308391> a pico:PersonObservation .
-
-<https://ex.org/Person2650308392> a pico:PersonObservation .
-
-<https://ex.org/Person2650308393> a pico:PersonObservation .
-
-<https://ex.org/Person2650308394> a pico:PersonObservation .
-
-<https://ex.org/Person2650308395> a pico:PersonObservation .
-
-<https://ex.org/Person2650308397> a pico:PersonObservation .
-
-<https://ex.org/Person2650308398> a pico:PersonObservation .
-
-<https://ex.org/Person2650308399> a pico:PersonObservation .
-
-<https://ex.org/Person2650308400> a pico:PersonObservation .
-
-<https://ex.org/Person2650308401> a pico:PersonObservation .
-
-<https://ex.org/Person2650308402> a pico:PersonObservation .
-
-<https://ex.org/Person2650308404> a pico:PersonObservation .
-
-<https://ex.org/Person2650308405> a pico:PersonObservation .
-
-<https://ex.org/Person2650308406> a pico:PersonObservation .
-
-<https://ex.org/Person2650308407> a pico:PersonObservation .
-
-<https://ex.org/Person2650308408> a pico:PersonObservation .
-
-<https://ex.org/Person2650308409> a pico:PersonObservation .
-
-<https://ex.org/Person2650308411> a pico:PersonObservation .
-
-<https://ex.org/Person2650308412> a pico:PersonObservation .
-
-<https://ex.org/Person2650308413> a pico:PersonObservation .
-
-<https://ex.org/Person2650308414> a pico:PersonObservation .
-
-<https://ex.org/Person2650308415> a pico:PersonObservation .
-
-<https://ex.org/Person2650308416> a pico:PersonObservation .
-
-<https://ex.org/Person2650308418> a pico:PersonObservation .
-
-<https://ex.org/Person2650308419> a pico:PersonObservation .
-
-<https://ex.org/Person2650308420> a pico:PersonObservation .
-
-<https://ex.org/Person2650308421> a pico:PersonObservation .
-
-<https://ex.org/Person2650308422> a pico:PersonObservation .
-
-<https://ex.org/Person2650308423> a pico:PersonObservation .
-
-<https://ex.org/Person2650308425> a pico:PersonObservation .
-
-<https://ex.org/Person2650308426> a pico:PersonObservation .
-
-<https://ex.org/Person2650308427> a pico:PersonObservation .
-
-<https://ex.org/Person2650308428> a pico:PersonObservation .
-
-<https://ex.org/Person2650308429> a pico:PersonObservation .
-
-<https://ex.org/Person2650308430> a pico:PersonObservation .
-
-<https://ex.org/Person2650308432> a pico:PersonObservation .
-
-<https://ex.org/Person2650308433> a pico:PersonObservation .
-
-<https://ex.org/Person2650308434> a pico:PersonObservation .
-
-<https://ex.org/Person2650308435> a pico:PersonObservation .
-
-<https://ex.org/Person2650308436> a pico:PersonObservation .
-
-<https://ex.org/Person2650308437> a pico:PersonObservation .
-
-<https://ex.org/Person2650308439> a pico:PersonObservation .
-
-<https://ex.org/Person2650308440> a pico:PersonObservation .
-
-<https://ex.org/Person2650308441> a pico:PersonObservation .
-
-<https://ex.org/Person2650308442> a pico:PersonObservation .
-
-<https://ex.org/Person2650308443> a pico:PersonObservation .
-
-<https://ex.org/Person2650308444> a pico:PersonObservation .
-
-<https://ex.org/Person2650308446> a pico:PersonObservation .
-
-<https://ex.org/Person2650308447> a pico:PersonObservation .
-
-<https://ex.org/Person2650308448> a pico:PersonObservation .
-
-<https://ex.org/Person2650308449> a pico:PersonObservation .
-
-<https://ex.org/Person2650308450> a pico:PersonObservation .
-
-<https://ex.org/Person2650308451> a pico:PersonObservation .
-
-<https://ex.org/Person2650308453> a pico:PersonObservation .
-
-<https://ex.org/Person2650308454> a pico:PersonObservation .
-
-<https://ex.org/Person2650308455> a pico:PersonObservation .
-
-<https://ex.org/Person2650308456> a pico:PersonObservation .
-
-<https://ex.org/Person2650308457> a pico:PersonObservation .
-
-<https://ex.org/Person2650308458> a pico:PersonObservation .
-
-<https://ex.org/Person2650308460> a pico:PersonObservation .
-
-<https://ex.org/Person2650308461> a pico:PersonObservation .
-
-<https://ex.org/Person2650308462> a pico:PersonObservation .
-
-<https://ex.org/Person2650308463> a pico:PersonObservation .
-
-<https://ex.org/Person2650308464> a pico:PersonObservation .
-
-<https://ex.org/Person2650308465> a pico:PersonObservation .
-
-<https://ex.org/Person2650308467> a pico:PersonObservation .
-
-<https://ex.org/Person2650308468> a pico:PersonObservation .
-
-<https://ex.org/Person2650308469> a pico:PersonObservation .
-
-<https://ex.org/Person2650308470> a pico:PersonObservation .
-
-<https://ex.org/Person2650308471> a pico:PersonObservation .
-
-<https://ex.org/Person2650308472> a pico:PersonObservation .
+@prefix schema: <http://schema.org/> .
+
+<https://ex.org/Person2650307825> a pico:PersonObservation ;
+    schema:familyName " Sluijter" ;
+    schema:givenName "Elisabeth " ;
+    schema:name "Elisabeth Sluijter" .
+
+<https://ex.org/Person2650307826> a pico:PersonObservation ;
+    schema:familyName "van Driel" ;
+    schema:givenName "Johannes Albertus " ;
+    schema:name "Johannes Albertus van Driel" .
+
+<https://ex.org/Person2650307827> a pico:PersonObservation ;
+    schema:familyName "van Driel" ;
+    schema:givenName "Hendrina Everarda " ;
+    schema:name "Hendrina Everarda van Driel" .
+
+<https://ex.org/Person2650307828> a pico:PersonObservation ;
+    schema:familyName " Booije" ;
+    schema:givenName "Dammiana " ;
+    schema:name "Dammiana Booije" .
+
+<https://ex.org/Person2650307829> a pico:PersonObservation ;
+    schema:familyName " Grootkop" ;
+    schema:givenName "George Stephanus " ;
+    schema:name "George Stephanus Grootkop" .
+
+<https://ex.org/Person2650307830> a pico:PersonObservation ;
+    schema:familyName " Grootkop" ;
+    schema:givenName "George Johannes " ;
+    schema:name "George Johannes Grootkop" .
+
+<https://ex.org/Person2650307832> a pico:PersonObservation ;
+    schema:familyName " Valkman" ;
+    schema:givenName "Josephine Wilhelmina " ;
+    schema:name "Josephine Wilhelmina Valkman" .
+
+<https://ex.org/Person2650307833> a pico:PersonObservation ;
+    schema:familyName " Heshof" ;
+    schema:givenName "Jan " ;
+    schema:name "Jan Heshof" .
+
+<https://ex.org/Person2650307834> a pico:PersonObservation ;
+    schema:familyName " Heshof" ;
+    schema:givenName "Josephina Wilhelmina " ;
+    schema:name "Josephina Wilhelmina Heshof" .
+
+<https://ex.org/Person2650307835> a pico:PersonObservation ;
+    schema:familyName " Wilmink" ;
+    schema:givenName "Gesina Anna " ;
+    schema:name "Gesina Anna Wilmink" .
+
+<https://ex.org/Person2650307836> a pico:PersonObservation ;
+    schema:familyName " Lasthuis" ;
+    schema:givenName "Eibert " ;
+    schema:name "Eibert Lasthuis" .
+
+<https://ex.org/Person2650307837> a pico:PersonObservation ;
+    schema:familyName " Lasthuis" ;
+    schema:givenName "Menzo " ;
+    schema:name "Menzo Lasthuis" .
+
+<https://ex.org/Person2650307839> a pico:PersonObservation ;
+    schema:familyName " Lera" ;
+    schema:givenName "Ernesta " ;
+    schema:name "Ernesta Lera" .
+
+<https://ex.org/Person2650307840> a pico:PersonObservation ;
+    schema:familyName " Cossa" ;
+    schema:givenName "Antonio " ;
+    schema:name "Antonio Cossa" .
+
+<https://ex.org/Person2650307841> a pico:PersonObservation ;
+    schema:familyName " Cossa" ;
+    schema:givenName "Julia Adeles Philomena " ;
+    schema:name "Julia Adeles Philomena Cossa" .
+
+<https://ex.org/Person2650307842> a pico:PersonObservation ;
+    schema:familyName " Ilonca" ;
+    schema:givenName "Catterina " ;
+    schema:name "Catterina Ilonca" .
+
+<https://ex.org/Person2650307843> a pico:PersonObservation ;
+    schema:familyName " Sani" ;
+    schema:givenName "Pietro Pius " ;
+    schema:name "Pietro Pius Sani" .
+
+<https://ex.org/Person2650307844> a pico:PersonObservation ;
+    schema:familyName " Giussani" ;
+    schema:givenName "Enrico Giovanni Battista " ;
+    schema:name "Enrico Giovanni Battista Giussani" .
+
+<https://ex.org/Person2650307846> a pico:PersonObservation ;
+    schema:familyName "van der Velden" ;
+    schema:givenName "Willemina " ;
+    schema:name "Willemina van der Velden" .
+
+<https://ex.org/Person2650307847> a pico:PersonObservation ;
+    schema:familyName " Wildeboer" ;
+    schema:givenName "Klaas " ;
+    schema:name "Klaas Wildeboer" .
+
+<https://ex.org/Person2650307848> a pico:PersonObservation ;
+    schema:familyName " Wildeboer" ;
+    schema:givenName "Maria Willemina " ;
+    schema:name "Maria Willemina Wildeboer" .
+
+<https://ex.org/Person2650307849> a pico:PersonObservation ;
+    schema:familyName " Eberstein" ;
+    schema:givenName "Maria " ;
+    schema:name "Maria Eberstein" .
+
+<https://ex.org/Person2650307850> a pico:PersonObservation ;
+    schema:familyName " Dorfmeijer" ;
+    schema:givenName "Johannes " ;
+    schema:name "Johannes Dorfmeijer" .
+
+<https://ex.org/Person2650307851> a pico:PersonObservation ;
+    schema:familyName " Dorfmeijer" ;
+    schema:givenName "Johannes " ;
+    schema:name "Johannes Dorfmeijer" .
+
+<https://ex.org/Person2650307853> a pico:PersonObservation ;
+    schema:familyName " Kruit" ;
+    schema:givenName "Elizabet " ;
+    schema:name "Elizabet Kruit" .
+
+<https://ex.org/Person2650307854> a pico:PersonObservation ;
+    schema:familyName "van Gelder" ;
+    schema:givenName "Willem " ;
+    schema:name "Willem van Gelder" .
+
+<https://ex.org/Person2650307855> a pico:PersonObservation ;
+    schema:familyName "van Gelder" ;
+    schema:givenName "Johanna Hillegonda Antoinetta " ;
+    schema:name "Johanna Hillegonda Antoinetta van Gelder" .
+
+<https://ex.org/Person2650307856> a pico:PersonObservation ;
+    schema:familyName " Pohlmeijer" ;
+    schema:givenName "Johanna " ;
+    schema:name "Johanna Pohlmeijer" .
+
+<https://ex.org/Person2650307857> a pico:PersonObservation ;
+    schema:familyName " Hes" ;
+    schema:givenName "Albertus " ;
+    schema:name "Albertus Hes" .
+
+<https://ex.org/Person2650307858> a pico:PersonObservation ;
+    schema:familyName " Hes" ;
+    schema:givenName "Wilhelm Albertus " ;
+    schema:name "Wilhelm Albertus Hes" .
+
+<https://ex.org/Person2650307860> a pico:PersonObservation ;
+    schema:familyName " Ekker" ;
+    schema:givenName "Anna Alberdina " ;
+    schema:name "Anna Alberdina Ekker" .
+
+<https://ex.org/Person2650307861> a pico:PersonObservation ;
+    schema:familyName " Hoogendijk" ;
+    schema:givenName "Cornelis " ;
+    schema:name "Cornelis Hoogendijk" .
+
+<https://ex.org/Person2650307862> a pico:PersonObservation ;
+    schema:familyName " Hoogendijk" ;
+    schema:givenName "Geertruida " ;
+    schema:name "Geertruida Hoogendijk" .
+
+<https://ex.org/Person2650307863> a pico:PersonObservation ;
+    schema:familyName " Geel" ;
+    schema:givenName "Aagje " ;
+    schema:name "Aagje Geel" .
+
+<https://ex.org/Person2650307864> a pico:PersonObservation ;
+    schema:familyName "van Slingerlandt" ;
+    schema:givenName "Willem Constantijn " ;
+    schema:name "Willem Constantijn van Slingerlandt" .
+
+<https://ex.org/Person2650307865> a pico:PersonObservation ;
+    schema:familyName "van Slingerlandt" ;
+    schema:givenName "Willem Jacobus Cornelis " ;
+    schema:name "Willem Jacobus Cornelis van Slingerlandt" .
+
+<https://ex.org/Person2650307867> a pico:PersonObservation ;
+    schema:familyName "van der Wiel" ;
+    schema:givenName "Alida " ;
+    schema:name "Alida van der Wiel" .
+
+<https://ex.org/Person2650307868> a pico:PersonObservation ;
+    schema:familyName "van Waalwijk" ;
+    schema:givenName "Adrianus " ;
+    schema:name "Adrianus van Waalwijk" .
+
+<https://ex.org/Person2650307869> a pico:PersonObservation ;
+    schema:familyName "van Waalwijk" ;
+    schema:givenName "Margaretha Gesina " ;
+    schema:name "Margaretha Gesina van Waalwijk" .
+
+<https://ex.org/Person2650307870> a pico:PersonObservation ;
+    schema:familyName " Lange" ;
+    schema:givenName "Berendina " ;
+    schema:name "Berendina Lange" .
+
+<https://ex.org/Person2650307871> a pico:PersonObservation ;
+    schema:familyName " Barendsen" ;
+    schema:givenName "Pieter " ;
+    schema:name "Pieter Barendsen" .
+
+<https://ex.org/Person2650307872> a pico:PersonObservation ;
+    schema:familyName " Barendsen" ;
+    schema:givenName "Pieter " ;
+    schema:name "Pieter Barendsen" .
+
+<https://ex.org/Person2650307874> a pico:PersonObservation ;
+    schema:familyName " Rolff" ;
+    schema:givenName "Sara " ;
+    schema:name "Sara Rolff" .
+
+<https://ex.org/Person2650307875> a pico:PersonObservation ;
+    schema:familyName " Smit" ;
+    schema:givenName "Okko Gerardus " ;
+    schema:name "Okko Gerardus Smit" .
+
+<https://ex.org/Person2650307876> a pico:PersonObservation ;
+    schema:familyName " Smit" ;
+    schema:givenName "Hillegonda Jacoba " ;
+    schema:name "Hillegonda Jacoba Smit" .
+
+<https://ex.org/Person2650307877> a pico:PersonObservation ;
+    schema:familyName "van Sittert" ;
+    schema:givenName "Elisabeth " ;
+    schema:name "Elisabeth van Sittert" .
+
+<https://ex.org/Person2650307878> a pico:PersonObservation ;
+    schema:familyName "van Heteren" ;
+    schema:givenName "Gerrit " ;
+    schema:name "Gerrit van Heteren" .
+
+<https://ex.org/Person2650307879> a pico:PersonObservation ;
+    schema:familyName "van Heteren" ;
+    schema:givenName "Jan Hijko " ;
+    schema:name "Jan Hijko van Heteren" .
+
+<https://ex.org/Person2650307881> a pico:PersonObservation ;
+    schema:familyName " Pruissenaar" ;
+    schema:givenName "Louise Catharina Aletta " ;
+    schema:name "Louise Catharina Aletta Pruissenaar" .
+
+<https://ex.org/Person2650307882> a pico:PersonObservation ;
+    schema:familyName " Hugues" ;
+    schema:givenName "Guillaume François " ;
+    schema:name "Guillaume François Hugues" .
+
+<https://ex.org/Person2650307883> a pico:PersonObservation ;
+    schema:familyName " Hugues" ;
+    schema:givenName "Johanna Maria " ;
+    schema:name "Johanna Maria Hugues" .
+
+<https://ex.org/Person2650307884> a pico:PersonObservation ;
+    schema:familyName " Magielse" ;
+    schema:givenName "Cornelia " ;
+    schema:name "Cornelia Magielse" .
+
+<https://ex.org/Person2650307885> a pico:PersonObservation ;
+    schema:familyName " Berkhoff" ;
+    schema:givenName "Willem " ;
+    schema:name "Willem Berkhoff" .
+
+<https://ex.org/Person2650307886> a pico:PersonObservation ;
+    schema:familyName " Berkhoff" ;
+    schema:givenName "Herman " ;
+    schema:name "Herman Berkhoff" .
+
+<https://ex.org/Person2650307888> a pico:PersonObservation ;
+    schema:familyName " Mähler" ;
+    schema:givenName "Elisabeth Maria Anna " ;
+    schema:name "Elisabeth Maria Anna Mähler" .
+
+<https://ex.org/Person2650307889> a pico:PersonObservation ;
+    schema:familyName "von der Möhlen" ;
+    schema:givenName "Ignatius Josephus " ;
+    schema:name "Ignatius Josephus von der Möhlen" .
+
+<https://ex.org/Person2650307890> a pico:PersonObservation ;
+    schema:familyName "von der Möhlen" ;
+    schema:givenName "Elisabeth Carolina " ;
+    schema:name "Elisabeth Carolina von der Möhlen" .
+
+<https://ex.org/Person2650307891> a pico:PersonObservation ;
+    schema:familyName " Franschke" ;
+    schema:givenName "Maria Anna " ;
+    schema:name "Maria Anna Franschke" .
+
+<https://ex.org/Person2650307892> a pico:PersonObservation ;
+    schema:familyName " Meltzer" ;
+    schema:givenName "Ignaz " ;
+    schema:name "Ignaz Meltzer" .
+
+<https://ex.org/Person2650307893> a pico:PersonObservation ;
+    schema:familyName " Meltzer" ;
+    schema:givenName "Reinhold " ;
+    schema:name "Reinhold Meltzer" .
+
+<https://ex.org/Person2650307895> a pico:PersonObservation ;
+    schema:familyName "van der Bilt" ;
+    schema:givenName "Wilhelmina " ;
+    schema:name "Wilhelmina van der Bilt" .
+
+<https://ex.org/Person2650307896> a pico:PersonObservation ;
+    schema:familyName " Vogelzang" ;
+    schema:givenName "Pieter " ;
+    schema:name "Pieter Vogelzang" .
+
+<https://ex.org/Person2650307897> a pico:PersonObservation ;
+    schema:familyName " Vogelzang" ;
+    schema:givenName "Geertruida Elizabeth " ;
+    schema:name "Geertruida Elizabeth Vogelzang" .
+
+<https://ex.org/Person2650307898> a pico:PersonObservation ;
+    schema:familyName " Elsas" ;
+    schema:givenName "Gertje " ;
+    schema:name "Gertje Elsas" .
+
+<https://ex.org/Person2650307899> a pico:PersonObservation ;
+    schema:familyName " Rijke" ;
+    schema:givenName "Pieter Abraham Jacobus " ;
+    schema:name "Pieter Abraham Jacobus Rijke" .
+
+<https://ex.org/Person2650307900> a pico:PersonObservation ;
+    schema:familyName " Rijke" ;
+    schema:givenName "Louis Pierre " ;
+    schema:name "Louis Pierre Rijke" .
+
+<https://ex.org/Person2650307902> a pico:PersonObservation ;
+    schema:familyName " Braakman" ;
+    schema:givenName "Christina Helena " ;
+    schema:name "Christina Helena Braakman" .
+
+<https://ex.org/Person2650307903> a pico:PersonObservation ;
+    schema:familyName " Arents" ;
+    schema:givenName "Antonie " ;
+    schema:name "Antonie Arents" .
+
+<https://ex.org/Person2650307904> a pico:PersonObservation ;
+    schema:familyName " Arents" ;
+    schema:givenName "Elisabeth Maria " ;
+    schema:name "Elisabeth Maria Arents" .
+
+<https://ex.org/Person2650307905> a pico:PersonObservation ;
+    schema:familyName " Green" ;
+    schema:givenName "Ane Cathrine " ;
+    schema:name "Ane Cathrine Green" .
+
+<https://ex.org/Person2650307906> a pico:PersonObservation ;
+    schema:familyName " Hansen" ;
+    schema:givenName "Jens " ;
+    schema:name "Jens Hansen" .
+
+<https://ex.org/Person2650307907> a pico:PersonObservation ;
+    schema:familyName " Hansen" ;
+    schema:givenName "Andreas Christian " ;
+    schema:name "Andreas Christian Hansen" .
+
+<https://ex.org/Person2650307909> a pico:PersonObservation ;
+    schema:familyName " Polak" ;
+    schema:givenName "Saartje " ;
+    schema:name "Saartje Polak" .
+
+<https://ex.org/Person2650307910> a pico:PersonObservation ;
+    schema:familyName " Salomon" ;
+    schema:givenName "Mozes " ;
+    schema:name "Mozes Salomon" .
+
+<https://ex.org/Person2650307911> a pico:PersonObservation ;
+    schema:familyName " Salomon" ;
+    schema:givenName "Sippora " ;
+    schema:name "Sippora Salomon" .
+
+<https://ex.org/Person2650307912> a pico:PersonObservation ;
+    schema:familyName " Nijgard" ;
+    schema:givenName "Lise " ;
+    schema:name "Lise Nijgard" .
+
+<https://ex.org/Person2650307913> a pico:PersonObservation ;
+    schema:familyName " Nijgard" ;
+    schema:givenName "Erik " ;
+    schema:name "Erik Nijgard" .
+
+<https://ex.org/Person2650307914> a pico:PersonObservation ;
+    schema:familyName " Nijgard" ;
+    schema:givenName "Michel " ;
+    schema:name "Michel Nijgard" .
+
+<https://ex.org/Person2650307916> a pico:PersonObservation ;
+    schema:familyName " Hoffmann" ;
+    schema:givenName "Elisabeth " ;
+    schema:name "Elisabeth Hoffmann" .
+
+<https://ex.org/Person2650307917> a pico:PersonObservation ;
+    schema:familyName " Lucas" ;
+    schema:givenName "Dingeman " ;
+    schema:name "Dingeman Lucas" .
+
+<https://ex.org/Person2650307919> a pico:PersonObservation ;
+    schema:familyName "van Blijdestijn" ;
+    schema:givenName "Alida Maria Elisabeth " ;
+    schema:name "Alida Maria Elisabeth van Blijdestijn" .
+
+<https://ex.org/Person2650307920> a pico:PersonObservation ;
+    schema:familyName " Swen" ;
+    schema:givenName "Joseph " ;
+    schema:name "Joseph Swen" .
+
+<https://ex.org/Person2650307921> a pico:PersonObservation ;
+    schema:familyName " Swen" ;
+    schema:givenName "Cornelia Henrietta " ;
+    schema:name "Cornelia Henrietta Swen" .
+
+<https://ex.org/Person2650307922> a pico:PersonObservation ;
+    schema:familyName "van Muijen" ;
+    schema:givenName "Hendrikie " ;
+    schema:name "Hendrikie van Muijen" .
+
+<https://ex.org/Person2650307923> a pico:PersonObservation ;
+    schema:familyName " Baggelaar" ;
+    schema:givenName "Harke " ;
+    schema:name "Harke Baggelaar" .
+
+<https://ex.org/Person2650307924> a pico:PersonObservation ;
+    schema:familyName " Baggelaar" ;
+    schema:givenName "Harme " ;
+    schema:name "Harme Baggelaar" .
+
+<https://ex.org/Person2650307926> a pico:PersonObservation ;
+    schema:familyName " Buisman" ;
+    schema:givenName "Johanna " ;
+    schema:name "Johanna Buisman" .
+
+<https://ex.org/Person2650307927> a pico:PersonObservation ;
+    schema:familyName " Kaiser" ;
+    schema:givenName "Johan Wilhelm " ;
+    schema:name "Johan Wilhelm Kaiser" .
+
+<https://ex.org/Person2650307928> a pico:PersonObservation ;
+    schema:familyName " Kaiser" ;
+    schema:givenName "Aletta Catharina " ;
+    schema:name "Aletta Catharina Kaiser" .
+
+<https://ex.org/Person2650307929> a pico:PersonObservation ;
+    schema:familyName "van Ginkel" ;
+    schema:givenName "Geertruida " ;
+    schema:name "Geertruida van Ginkel" .
+
+<https://ex.org/Person2650307930> a pico:PersonObservation ;
+    schema:familyName " Lorentz" ;
+    schema:givenName "Gerrit Frederik " ;
+    schema:name "Gerrit Frederik Lorentz" .
+
+<https://ex.org/Person2650307931> a pico:PersonObservation ;
+    schema:familyName " Lorentz" ;
+    schema:givenName "Hendrik Antoon " ;
+    schema:name "Hendrik Antoon Lorentz" .
+
+<https://ex.org/Person2650307933> a pico:PersonObservation ;
+    schema:familyName "van Wieringen" ;
+    schema:givenName "Johanna " ;
+    schema:name "Johanna van Wieringen" .
+
+<https://ex.org/Person2650307934> a pico:PersonObservation ;
+    schema:familyName " Leurs" ;
+    schema:givenName "Pieter " ;
+    schema:name "Pieter Leurs" .
+
+<https://ex.org/Person2650307935> a pico:PersonObservation ;
+    schema:familyName " Leurs" ;
+    schema:givenName "Catharina Maria " ;
+    schema:name "Catharina Maria Leurs" .
+
+<https://ex.org/Person2650307936> a pico:PersonObservation ;
+    schema:familyName " Sprengers" ;
+    schema:givenName "Hermina " ;
+    schema:name "Hermina Sprengers" .
+
+<https://ex.org/Person2650307937> a pico:PersonObservation ;
+    schema:familyName " Sprengers" ;
+    schema:givenName "Johannes " ;
+    schema:name "Johannes Sprengers" .
+
+<https://ex.org/Person2650307939> a pico:PersonObservation ;
+    schema:familyName " Lammerson" ;
+    schema:givenName "Roosje " ;
+    schema:name "Roosje Lammerson" .
+
+<https://ex.org/Person2650307940> a pico:PersonObservation ;
+    schema:familyName " Beth" ;
+    schema:givenName "Eliazer " ;
+    schema:name "Eliazer Beth" .
+
+<https://ex.org/Person2650307941> a pico:PersonObservation ;
+    schema:familyName " Beth" ;
+    schema:givenName "Rachel " ;
+    schema:name "Rachel Beth" .
+
+<https://ex.org/Person2650307942> a pico:PersonObservation ;
+    schema:familyName "van Dort" ;
+    schema:givenName "Heintje " ;
+    schema:name "Heintje van Dort" .
+
+<https://ex.org/Person2650307943> a pico:PersonObservation ;
+    schema:familyName " Harpman" ;
+    schema:givenName "Abraham " ;
+    schema:name "Abraham Harpman" .
+
+<https://ex.org/Person2650307944> a pico:PersonObservation ;
+    schema:familyName " Harpman" ;
+    schema:givenName "Eliazer " ;
+    schema:name "Eliazer Harpman" .
+
+<https://ex.org/Person2650307946> a pico:PersonObservation ;
+    schema:familyName " Drukker" ;
+    schema:givenName "Rachel " ;
+    schema:name "Rachel Drukker" .
+
+<https://ex.org/Person2650307947> a pico:PersonObservation ;
+    schema:familyName " Halverstad" ;
+    schema:givenName "Elias " ;
+    schema:name "Elias Halverstad" .
+
+<https://ex.org/Person2650307948> a pico:PersonObservation ;
+    schema:familyName " Halverstad" ;
+    schema:givenName "Klaartje " ;
+    schema:name "Klaartje Halverstad" .
+
+<https://ex.org/Person2650307949> a pico:PersonObservation ;
+    schema:familyName " Swart" ;
+    schema:givenName "Betje " ;
+    schema:name "Betje Swart" .
+
+<https://ex.org/Person2650307950> a pico:PersonObservation ;
+    schema:familyName " Halberstadt" ;
+    schema:givenName "Levie " ;
+    schema:name "Levie Halberstadt" .
+
+<https://ex.org/Person2650307951> a pico:PersonObservation ;
+    schema:familyName " Halberstadt" ;
+    schema:givenName "Mozes " ;
+    schema:name "Mozes Halberstadt" .
+
+<https://ex.org/Person2650307953> a pico:PersonObservation ;
+    schema:familyName " Schrijven" ;
+    schema:givenName "Wilhelmina " ;
+    schema:name "Wilhelmina Schrijven" .
+
+<https://ex.org/Person2650307954> a pico:PersonObservation ;
+    schema:familyName " Mulder" ;
+    schema:givenName "Jan " ;
+    schema:name "Jan Mulder" .
+
+<https://ex.org/Person2650307955> a pico:PersonObservation ;
+    schema:familyName " Mulder" ;
+    schema:givenName "Alida " ;
+    schema:name "Alida Mulder" .
+
+<https://ex.org/Person2650307956> a pico:PersonObservation ;
+    schema:familyName " Gunterman" ;
+    schema:givenName "Johanna Catharina Maria " ;
+    schema:name "Johanna Catharina Maria Gunterman" .
+
+<https://ex.org/Person2650307957> a pico:PersonObservation ;
+    schema:familyName " Veerman" ;
+    schema:givenName "Jan Gerrit " ;
+    schema:name "Jan Gerrit Veerman" .
+
+<https://ex.org/Person2650307958> a pico:PersonObservation ;
+    schema:familyName " Veerman" ;
+    schema:givenName "Jacobus Joannes " ;
+    schema:name "Jacobus Joannes Veerman" .
+
+<https://ex.org/Person2650307960> a pico:PersonObservation ;
+    schema:familyName " Bergsma" ;
+    schema:givenName "Aaltje " ;
+    schema:name "Aaltje Bergsma" .
+
+<https://ex.org/Person2650307961> a pico:PersonObservation ;
+    schema:familyName " Glastra" ;
+    schema:givenName "Siebe " ;
+    schema:name "Siebe Glastra" .
+
+<https://ex.org/Person2650307962> a pico:PersonObservation ;
+    schema:familyName " Glastra" ;
+    schema:givenName "Janneke " ;
+    schema:name "Janneke Glastra" .
+
+<https://ex.org/Person2650307963> a pico:PersonObservation ;
+    schema:familyName " Sondaal" ;
+    schema:givenName "Elisabeth " ;
+    schema:name "Elisabeth Sondaal" .
+
+<https://ex.org/Person2650307964> a pico:PersonObservation ;
+    schema:familyName " Kersbergen" ;
+    schema:givenName "Arnoldus " ;
+    schema:name "Arnoldus Kersbergen" .
+
+<https://ex.org/Person2650307965> a pico:PersonObservation ;
+    schema:familyName " Kersbergen" ;
+    schema:givenName "Arnoldus Antonius " ;
+    schema:name "Arnoldus Antonius Kersbergen" .
+
+<https://ex.org/Person2650307967> a pico:PersonObservation ;
+    schema:familyName " Cremer" ;
+    schema:givenName "Johanna Hermanna " ;
+    schema:name "Johanna Hermanna Cremer" .
+
+<https://ex.org/Person2650307968> a pico:PersonObservation ;
+    schema:familyName " Cremer" ;
+    schema:givenName "Annechina " ;
+    schema:name "Annechina Cremer" .
+
+<https://ex.org/Person2650307969> a pico:PersonObservation ;
+    schema:familyName " Scherbeijn" ;
+    schema:givenName "Isabella " ;
+    schema:name "Isabella Scherbeijn" .
+
+<https://ex.org/Person2650307970> a pico:PersonObservation ;
+    schema:familyName " Huig" ;
+    schema:givenName "Pieter " ;
+    schema:name "Pieter Huig" .
+
+<https://ex.org/Person2650307971> a pico:PersonObservation ;
+    schema:familyName " Huig" ;
+    schema:givenName "Pieter " ;
+    schema:name "Pieter Huig" .
+
+<https://ex.org/Person2650307973> a pico:PersonObservation ;
+    schema:familyName " Wagena" ;
+    schema:givenName "Johanna Jacoba Wilhelmina " ;
+    schema:name "Johanna Jacoba Wilhelmina Wagena" .
+
+<https://ex.org/Person2650307974> a pico:PersonObservation ;
+    schema:familyName " Gnade" ;
+    schema:givenName "Jan Hendrik " ;
+    schema:name "Jan Hendrik Gnade" .
+
+<https://ex.org/Person2650307975> a pico:PersonObservation ;
+    schema:familyName " Gnade" ;
+    schema:givenName "Johanna Maria Wilhelmina " ;
+    schema:name "Johanna Maria Wilhelmina Gnade" .
+
+<https://ex.org/Person2650307976> a pico:PersonObservation ;
+    schema:familyName " Post" ;
+    schema:givenName "Johanna " ;
+    schema:name "Johanna Post" .
+
+<https://ex.org/Person2650307977> a pico:PersonObservation ;
+    schema:familyName " Steelink" ;
+    schema:givenName "Jan Hendrik " ;
+    schema:name "Jan Hendrik Steelink" .
+
+<https://ex.org/Person2650307978> a pico:PersonObservation ;
+    schema:familyName " Steelink" ;
+    schema:givenName "Franciscus Hendricus " ;
+    schema:name "Franciscus Hendricus Steelink" .
+
+<https://ex.org/Person2650307980> a pico:PersonObservation ;
+    schema:familyName " Haazen" ;
+    schema:givenName "Maria Johanna " ;
+    schema:name "Maria Johanna Haazen" .
+
+<https://ex.org/Person2650307981> a pico:PersonObservation ;
+    schema:familyName " Lochtenberg" ;
+    schema:givenName "Antonius Johannes " ;
+    schema:name "Antonius Johannes Lochtenberg" .
+
+<https://ex.org/Person2650307982> a pico:PersonObservation ;
+    schema:familyName " Lochtenberg" ;
+    schema:givenName "Maria Johanna " ;
+    schema:name "Maria Johanna Lochtenberg" .
+
+<https://ex.org/Person2650307983> a pico:PersonObservation ;
+    schema:familyName " Scholten" ;
+    schema:givenName "Wilhelmina " ;
+    schema:name "Wilhelmina Scholten" .
+
+<https://ex.org/Person2650307984> a pico:PersonObservation ;
+    schema:familyName " Negenborn" ;
+    schema:givenName "Coenraad Pieter " ;
+    schema:name "Coenraad Pieter Negenborn" .
+
+<https://ex.org/Person2650307985> a pico:PersonObservation ;
+    schema:familyName " Negenborn" ;
+    schema:givenName "Adrianus " ;
+    schema:name "Adrianus Negenborn" .
+
+<https://ex.org/Person2650307987> a pico:PersonObservation ;
+    schema:familyName " Kulkebeek" ;
+    schema:givenName "Dorothea " ;
+    schema:name "Dorothea Kulkebeek" .
+
+<https://ex.org/Person2650307988> a pico:PersonObservation ;
+    schema:familyName " Plecke" ;
+    schema:givenName "Friedrich Berend " ;
+    schema:name "Friedrich Berend Plecke" .
+
+<https://ex.org/Person2650307989> a pico:PersonObservation ;
+    schema:familyName " Plecke" ;
+    schema:givenName "Johanna Catharina " ;
+    schema:name "Johanna Catharina Plecke" .
+
+<https://ex.org/Person2650307990> a pico:PersonObservation ;
+    schema:familyName " Behrendt" ;
+    schema:givenName "Fredrica Sophia " ;
+    schema:name "Fredrica Sophia Behrendt" .
+
+<https://ex.org/Person2650307991> a pico:PersonObservation ;
+    schema:familyName " Toorenburgh" ;
+    schema:givenName "Nicolaas Meijndert " ;
+    schema:name "Nicolaas Meijndert Toorenburgh" .
+
+<https://ex.org/Person2650307992> a pico:PersonObservation ;
+    schema:familyName " Toorenburgh" ;
+    schema:givenName "Johan Frederik " ;
+    schema:name "Johan Frederik Toorenburgh" .
+
+<https://ex.org/Person2650307994> a pico:PersonObservation ;
+    schema:familyName " Bakker" ;
+    schema:givenName "Sara " ;
+    schema:name "Sara Bakker" .
+
+<https://ex.org/Person2650307995> a pico:PersonObservation ;
+    schema:familyName " Stricker" ;
+    schema:givenName "Johann Heinrich " ;
+    schema:name "Johann Heinrich Stricker" .
+
+<https://ex.org/Person2650307996> a pico:PersonObservation ;
+    schema:familyName " Stricker" ;
+    schema:givenName "Anna Maria " ;
+    schema:name "Anna Maria Stricker" .
+
+<https://ex.org/Person2650307997> a pico:PersonObservation ;
+    schema:familyName " Rïkke" ;
+    schema:givenName "Anna " ;
+    schema:name "Anna Rïkke" .
+
+<https://ex.org/Person2650307998> a pico:PersonObservation ;
+    schema:familyName " Lacroix" ;
+    schema:givenName "Lambert " ;
+    schema:name "Lambert Lacroix" .
+
+<https://ex.org/Person2650307999> a pico:PersonObservation ;
+    schema:familyName " Lacroix" ;
+    schema:givenName "Lambert " ;
+    schema:name "Lambert Lacroix" .
+
+<https://ex.org/Person2650308001> a pico:PersonObservation ;
+    schema:familyName " Petiet" ;
+    schema:givenName "Maria " ;
+    schema:name "Maria Petiet" .
+
+<https://ex.org/Person2650308002> a pico:PersonObservation ;
+    schema:familyName " Steenkamp" ;
+    schema:givenName "Hendrik " ;
+    schema:name "Hendrik Steenkamp" .
+
+<https://ex.org/Person2650308003> a pico:PersonObservation ;
+    schema:familyName " Steenkamp" ;
+    schema:givenName "Maria " ;
+    schema:name "Maria Steenkamp" .
+
+<https://ex.org/Person2650308004> a pico:PersonObservation ;
+    schema:familyName " Huijbrechts" ;
+    schema:givenName "Truitje " ;
+    schema:name "Truitje Huijbrechts" .
+
+<https://ex.org/Person2650308005> a pico:PersonObservation ;
+    schema:familyName " Harmsen" ;
+    schema:givenName "Jan " ;
+    schema:name "Jan Harmsen" .
+
+<https://ex.org/Person2650308006> a pico:PersonObservation ;
+    schema:familyName " Harmsen" ;
+    schema:givenName "Jan " ;
+    schema:name "Jan Harmsen" .
+
+<https://ex.org/Person2650308008> a pico:PersonObservation ;
+    schema:familyName " Spoor" ;
+    schema:givenName "Maria " ;
+    schema:name "Maria Spoor" .
+
+<https://ex.org/Person2650308009> a pico:PersonObservation ;
+    schema:familyName " Kroesnel" ;
+    schema:givenName "Johannes " ;
+    schema:name "Johannes Kroesnel" .
+
+<https://ex.org/Person2650308010> a pico:PersonObservation ;
+    schema:familyName " Kroesnel" ;
+    schema:givenName "Antonia " ;
+    schema:name "Antonia Kroesnel" .
+
+<https://ex.org/Person2650308011> a pico:PersonObservation ;
+    schema:familyName " Fröling" ;
+    schema:givenName "Alida " ;
+    schema:name "Alida Fröling" .
+
+<https://ex.org/Person2650308012> a pico:PersonObservation ;
+    schema:familyName "van der Meer" ;
+    schema:givenName "Daniel " ;
+    schema:name "Daniel van der Meer" .
+
+<https://ex.org/Person2650308013> a pico:PersonObservation ;
+    schema:familyName "van der Meer" ;
+    schema:givenName "Daniel Nicolaas " ;
+    schema:name "Daniel Nicolaas van der Meer" .
+
+<https://ex.org/Person2650308015> a pico:PersonObservation ;
+    schema:familyName " Nieuwenhoff" ;
+    schema:givenName "Anna Maria " ;
+    schema:name "Anna Maria Nieuwenhoff" .
+
+<https://ex.org/Person2650308016> a pico:PersonObservation ;
+    schema:familyName " Swagerman" ;
+    schema:givenName "Christiaan David " ;
+    schema:name "Christiaan David Swagerman" .
+
+<https://ex.org/Person2650308017> a pico:PersonObservation ;
+    schema:familyName " Swagerman" ;
+    schema:givenName "Maria Carolina " ;
+    schema:name "Maria Carolina Swagerman" .
+
+<https://ex.org/Person2650308018> a pico:PersonObservation ;
+    schema:familyName " Peter" ;
+    schema:givenName "Anna Catharina " ;
+    schema:name "Anna Catharina Peter" .
+
+<https://ex.org/Person2650308019> a pico:PersonObservation ;
+    schema:familyName " Boer" ;
+    schema:givenName "Christiaan " ;
+    schema:name "Christiaan Boer" .
+
+<https://ex.org/Person2650308020> a pico:PersonObservation ;
+    schema:familyName " Boer" ;
+    schema:givenName "Johannes " ;
+    schema:name "Johannes Boer" .
+
+<https://ex.org/Person2650308022> a pico:PersonObservation ;
+    schema:familyName "van See" ;
+    schema:givenName "Aaltje " ;
+    schema:name "Aaltje van See" .
+
+<https://ex.org/Person2650308023> a pico:PersonObservation ;
+    schema:familyName " Beijers" ;
+    schema:givenName "Hendrik " ;
+    schema:name "Hendrik Beijers" .
+
+<https://ex.org/Person2650308024> a pico:PersonObservation ;
+    schema:familyName " Beijers" ;
+    schema:givenName "Grietje " ;
+    schema:name "Grietje Beijers" .
+
+<https://ex.org/Person2650308025> a pico:PersonObservation ;
+    schema:familyName "de Milde" ;
+    schema:givenName "Dirkje " ;
+    schema:name "Dirkje de Milde" .
+
+<https://ex.org/Person2650308026> a pico:PersonObservation ;
+    schema:familyName " Nuuwolt" ;
+    schema:givenName "Roelof Pieter " ;
+    schema:name "Roelof Pieter Nuuwolt" .
+
+<https://ex.org/Person2650308027> a pico:PersonObservation ;
+    schema:familyName " Nuuwolt" ;
+    schema:givenName "Johannes " ;
+    schema:name "Johannes Nuuwolt" .
+
+<https://ex.org/Person2650308029> a pico:PersonObservation ;
+    schema:familyName " Bock" ;
+    schema:givenName "Maria Johanna " ;
+    schema:name "Maria Johanna Bock" .
+
+<https://ex.org/Person2650308030> a pico:PersonObservation ;
+    schema:familyName " Samman" ;
+    schema:givenName "Jacob " ;
+    schema:name "Jacob Samman" .
+
+<https://ex.org/Person2650308031> a pico:PersonObservation ;
+    schema:familyName " Samman" ;
+    schema:givenName "Elisabeth Maria " ;
+    schema:name "Elisabeth Maria Samman" .
+
+<https://ex.org/Person2650308032> a pico:PersonObservation ;
+    schema:familyName " Jaski" ;
+    schema:givenName "Geertruijda " ;
+    schema:name "Geertruijda Jaski" .
+
+<https://ex.org/Person2650308033> a pico:PersonObservation ;
+    schema:familyName " Weber" ;
+    schema:givenName "Frederik Philippus " ;
+    schema:name "Frederik Philippus Weber" .
+
+<https://ex.org/Person2650308034> a pico:PersonObservation ;
+    schema:familyName " Weber" ;
+    schema:givenName "Johannes " ;
+    schema:name "Johannes Weber" .
+
+<https://ex.org/Person2650308036> a pico:PersonObservation ;
+    schema:familyName " Christiaans" ;
+    schema:givenName "Leena Gerhardina " ;
+    schema:name "Leena Gerhardina Christiaans" .
+
+<https://ex.org/Person2650308037> a pico:PersonObservation ;
+    schema:familyName " Alberts" ;
+    schema:givenName "Coobus " ;
+    schema:name "Coobus Alberts" .
+
+<https://ex.org/Person2650308038> a pico:PersonObservation ;
+    schema:familyName " Alberts" ;
+    schema:givenName "Dorothea " ;
+    schema:name "Dorothea Alberts" .
+
+<https://ex.org/Person2650308039> a pico:PersonObservation ;
+    schema:familyName " Brinkman" ;
+    schema:givenName "Geertruij " ;
+    schema:name "Geertruij Brinkman" .
+
+<https://ex.org/Person2650308040> a pico:PersonObservation ;
+    schema:familyName " Meijer" ;
+    schema:givenName "Jan Fredrik " ;
+    schema:name "Jan Fredrik Meijer" .
+
+<https://ex.org/Person2650308041> a pico:PersonObservation ;
+    schema:familyName " Meijer" ;
+    schema:givenName "August Julius " ;
+    schema:name "August Julius Meijer" .
+
+<https://ex.org/Person2650308043> a pico:PersonObservation ;
+    schema:familyName " Knobel" ;
+    schema:givenName "Judith " ;
+    schema:name "Judith Knobel" .
+
+<https://ex.org/Person2650308044> a pico:PersonObservation ;
+    schema:familyName " Ples" ;
+    schema:givenName "Jurjen " ;
+    schema:name "Jurjen Ples" .
+
+<https://ex.org/Person2650308045> a pico:PersonObservation ;
+    schema:familyName " Ples" ;
+    schema:givenName "Hendrikje " ;
+    schema:name "Hendrikje Ples" .
+
+<https://ex.org/Person2650308046> a pico:PersonObservation ;
+    schema:familyName " Jagers" ;
+    schema:givenName "Wilhelmina " ;
+    schema:name "Wilhelmina Jagers" .
+
+<https://ex.org/Person2650308047> a pico:PersonObservation ;
+    schema:familyName " Blömers" ;
+    schema:givenName "Berend " ;
+    schema:name "Berend Blömers" .
+
+<https://ex.org/Person2650308048> a pico:PersonObservation ;
+    schema:familyName " Blömers" ;
+    schema:givenName "Henderik " ;
+    schema:name "Henderik Blömers" .
+
+<https://ex.org/Person2650308050> a pico:PersonObservation ;
+    schema:familyName "de Man" ;
+    schema:givenName "Neeltje " ;
+    schema:name "Neeltje de Man" .
+
+<https://ex.org/Person2650308051> a pico:PersonObservation ;
+    schema:familyName " Beker" ;
+    schema:givenName "Friedrich Wilhelm " ;
+    schema:name "Friedrich Wilhelm Beker" .
+
+<https://ex.org/Person2650308052> a pico:PersonObservation ;
+    schema:familyName " Beker" ;
+    schema:givenName "Catharina Louisa " ;
+    schema:name "Catharina Louisa Beker" .
+
+<https://ex.org/Person2650308053> a pico:PersonObservation ;
+    schema:familyName " Uffelie" ;
+    schema:givenName "Helena " ;
+    schema:name "Helena Uffelie" .
+
+<https://ex.org/Person2650308054> a pico:PersonObservation ;
+    schema:familyName " Boshuisen" ;
+    schema:givenName "Wouter Jan " ;
+    schema:name "Wouter Jan Boshuisen" .
+
+<https://ex.org/Person2650308055> a pico:PersonObservation ;
+    schema:familyName " Boshuisen" ;
+    schema:givenName "Leendert Johannes " ;
+    schema:name "Leendert Johannes Boshuisen" .
+
+<https://ex.org/Person2650308057> a pico:PersonObservation ;
+    schema:familyName " Dingsdag" ;
+    schema:givenName "Sipora " ;
+    schema:name "Sipora Dingsdag" .
+
+<https://ex.org/Person2650308058> a pico:PersonObservation ;
+    schema:familyName " Appelboom" ;
+    schema:givenName "Samuel " ;
+    schema:name "Samuel Appelboom" .
+
+<https://ex.org/Person2650308059> a pico:PersonObservation ;
+    schema:familyName " Appelboom" ;
+    schema:givenName "Esther " ;
+    schema:name "Esther Appelboom" .
+
+<https://ex.org/Person2650308060> a pico:PersonObservation ;
+    schema:familyName " Stouwer" ;
+    schema:givenName "Eva " ;
+    schema:name "Eva Stouwer" .
+
+<https://ex.org/Person2650308061> a pico:PersonObservation ;
+    schema:familyName "van Praag" ;
+    schema:givenName "Mozes " ;
+    schema:name "Mozes van Praag" .
+
+<https://ex.org/Person2650308062> a pico:PersonObservation ;
+    schema:familyName "van Praag" ;
+    schema:givenName "Emanuel " ;
+    schema:name "Emanuel van Praag" .
+
+<https://ex.org/Person2650308064> a pico:PersonObservation ;
+    schema:familyName " Rabel" ;
+    schema:givenName "Jannetje " ;
+    schema:name "Jannetje Rabel" .
+
+<https://ex.org/Person2650308065> a pico:PersonObservation ;
+    schema:familyName " Windman" ;
+    schema:givenName "Matthias " ;
+    schema:name "Matthias Windman" .
+
+<https://ex.org/Person2650308066> a pico:PersonObservation ;
+    schema:familyName " Windman" ;
+    schema:givenName "Anna Catharina " ;
+    schema:name "Anna Catharina Windman" .
+
+<https://ex.org/Person2650308067> a pico:PersonObservation ;
+    schema:familyName " Uijldert" ;
+    schema:givenName "Johanna Maria " ;
+    schema:name "Johanna Maria Uijldert" .
+
+<https://ex.org/Person2650308068> a pico:PersonObservation ;
+    schema:familyName " Everts" ;
+    schema:givenName "Jannes " ;
+    schema:name "Jannes Everts" .
+
+<https://ex.org/Person2650308069> a pico:PersonObservation ;
+    schema:familyName " Everts" ;
+    schema:givenName "Hendrik " ;
+    schema:name "Hendrik Everts" .
+
+<https://ex.org/Person2650308071> a pico:PersonObservation ;
+    schema:familyName "ten Rouwelaar" ;
+    schema:givenName "Cornelia " ;
+    schema:name "Cornelia ten Rouwelaar" .
+
+<https://ex.org/Person2650308072> a pico:PersonObservation ;
+    schema:familyName " Seitner" ;
+    schema:givenName "Hendricus Jacobus " ;
+    schema:name "Hendricus Jacobus Seitner" .
+
+<https://ex.org/Person2650308073> a pico:PersonObservation ;
+    schema:familyName " Seitner" ;
+    schema:givenName "Johanna Maria " ;
+    schema:name "Johanna Maria Seitner" .
+
+<https://ex.org/Person2650308074> a pico:PersonObservation ;
+    schema:familyName " Hoezee" ;
+    schema:givenName "Geertrui " ;
+    schema:name "Geertrui Hoezee" .
+
+<https://ex.org/Person2650308075> a pico:PersonObservation ;
+    schema:familyName " Grijzenhout" ;
+    schema:givenName "Jacob Johannes " ;
+    schema:name "Jacob Johannes Grijzenhout" .
+
+<https://ex.org/Person2650308076> a pico:PersonObservation ;
+    schema:familyName " Grijzenhout" ;
+    schema:givenName "Antonie Daniel " ;
+    schema:name "Antonie Daniel Grijzenhout" .
+
+<https://ex.org/Person2650308078> a pico:PersonObservation ;
+    schema:familyName " Ronkers" ;
+    schema:givenName "Wilhelmina Frederika " ;
+    schema:name "Wilhelmina Frederika Ronkers" .
+
+<https://ex.org/Person2650308079> a pico:PersonObservation ;
+    schema:familyName " Steenkamp" ;
+    schema:givenName "Jan Casper " ;
+    schema:name "Jan Casper Steenkamp" .
+
+<https://ex.org/Person2650308080> a pico:PersonObservation ;
+    schema:familyName " Steenkamp" ;
+    schema:givenName "Johanna Elisabeth " ;
+    schema:name "Johanna Elisabeth Steenkamp" .
+
+<https://ex.org/Person2650308081> a pico:PersonObservation ;
+    schema:familyName "van der Tuin" ;
+    schema:givenName "Willemina " ;
+    schema:name "Willemina van der Tuin" .
+
+<https://ex.org/Person2650308082> a pico:PersonObservation ;
+    schema:familyName " Mostert" ;
+    schema:givenName "Gerrit " ;
+    schema:name "Gerrit Mostert" .
+
+<https://ex.org/Person2650308083> a pico:PersonObservation ;
+    schema:familyName " Mostert" ;
+    schema:givenName "Hendrik Jacob " ;
+    schema:name "Hendrik Jacob Mostert" .
+
+<https://ex.org/Person2650308085> a pico:PersonObservation ;
+    schema:familyName "van Straten" ;
+    schema:givenName "Joanna Christina " ;
+    schema:name "Joanna Christina van Straten" .
+
+<https://ex.org/Person2650308086> a pico:PersonObservation ;
+    schema:familyName " Weeterings" ;
+    schema:givenName "Joannes " ;
+    schema:name "Joannes Weeterings" .
+
+<https://ex.org/Person2650308087> a pico:PersonObservation ;
+    schema:familyName " Weeterings" ;
+    schema:givenName "Elisabeth Maria Catharina " ;
+    schema:name "Elisabeth Maria Catharina Weeterings" .
+
+<https://ex.org/Person2650308088> a pico:PersonObservation ;
+    schema:familyName " Beumer" ;
+    schema:givenName "Anna Anthonia " ;
+    schema:name "Anna Anthonia Beumer" .
+
+<https://ex.org/Person2650308089> a pico:PersonObservation ;
+    schema:familyName " Engelbracht" ;
+    schema:givenName "Herman Carel " ;
+    schema:name "Herman Carel Engelbracht" .
+
+<https://ex.org/Person2650308090> a pico:PersonObservation ;
+    schema:familyName " Engelbracht" ;
+    schema:givenName "Dirk Jillis " ;
+    schema:name "Dirk Jillis Engelbracht" .
+
+<https://ex.org/Person2650308092> a pico:PersonObservation ;
+    schema:familyName " Häusler" ;
+    schema:givenName "Clara Catharina " ;
+    schema:name "Clara Catharina Häusler" .
+
+<https://ex.org/Person2650308093> a pico:PersonObservation ;
+    schema:familyName "van Beek" ;
+    schema:givenName "Jacob " ;
+    schema:name "Jacob van Beek" .
+
+<https://ex.org/Person2650308094> a pico:PersonObservation ;
+    schema:familyName "van Beek" ;
+    schema:givenName "Clara Catharina Elisabeth " ;
+    schema:name "Clara Catharina Elisabeth van Beek" .
+
+<https://ex.org/Person2650308095> a pico:PersonObservation ;
+    schema:familyName " Mortel" ;
+    schema:givenName "Johanna " ;
+    schema:name "Johanna Mortel" .
+
+<https://ex.org/Person2650308096> a pico:PersonObservation ;
+    schema:familyName " Uriot" ;
+    schema:givenName "Claude Joseph " ;
+    schema:name "Claude Joseph Uriot" .
+
+<https://ex.org/Person2650308097> a pico:PersonObservation ;
+    schema:familyName " Uriot" ;
+    schema:givenName "Willem " ;
+    schema:name "Willem Uriot" .
+
+<https://ex.org/Person2650308099> a pico:PersonObservation ;
+    schema:familyName " Stadelaar" ;
+    schema:givenName "Johanna Maria " ;
+    schema:name "Johanna Maria Stadelaar" .
+
+<https://ex.org/Person2650308100> a pico:PersonObservation ;
+    schema:familyName " Blauw" ;
+    schema:givenName "Johan Adam " ;
+    schema:name "Johan Adam Blauw" .
+
+<https://ex.org/Person2650308101> a pico:PersonObservation ;
+    schema:familyName " Blauw" ;
+    schema:givenName "Maria " ;
+    schema:name "Maria Blauw" .
+
+<https://ex.org/Person2650308102> a pico:PersonObservation ;
+    schema:familyName " Wind" ;
+    schema:givenName "Aaltje " ;
+    schema:name "Aaltje Wind" .
+
+<https://ex.org/Person2650308103> a pico:PersonObservation ;
+    schema:familyName " Klun" ;
+    schema:givenName "Jan " ;
+    schema:name "Jan Klun" .
+
+<https://ex.org/Person2650308104> a pico:PersonObservation ;
+    schema:familyName " Klun" ;
+    schema:givenName "Gerrit " ;
+    schema:name "Gerrit Klun" .
+
+<https://ex.org/Person2650308106> a pico:PersonObservation ;
+    schema:familyName " Smit" ;
+    schema:givenName "Vogel " ;
+    schema:name "Vogel Smit" .
+
+<https://ex.org/Person2650308107> a pico:PersonObservation ;
+    schema:familyName " Wessel" ;
+    schema:givenName "Mozes " ;
+    schema:name "Mozes Wessel" .
+
+<https://ex.org/Person2650308108> a pico:PersonObservation ;
+    schema:familyName " Wessel" ;
+    schema:givenName "Margaretha " ;
+    schema:name "Margaretha Wessel" .
+
+<https://ex.org/Person2650308109> a pico:PersonObservation ;
+    schema:familyName " Koekoek" ;
+    schema:givenName "Schoontje " ;
+    schema:name "Schoontje Koekoek" .
+
+<https://ex.org/Person2650308110> a pico:PersonObservation ;
+    schema:familyName " Diamant" ;
+    schema:givenName "Levie " ;
+    schema:name "Levie Diamant" .
+
+<https://ex.org/Person2650308111> a pico:PersonObservation ;
+    schema:familyName " Diamant" ;
+    schema:givenName "Marcus " ;
+    schema:name "Marcus Diamant" .
+
+<https://ex.org/Person2650308113> a pico:PersonObservation ;
+    schema:familyName " Kemps" ;
+    schema:givenName "Maria Catharina " ;
+    schema:name "Maria Catharina Kemps" .
+
+<https://ex.org/Person2650308114> a pico:PersonObservation ;
+    schema:familyName " Nicolaas" ;
+    schema:givenName "Christiaan " ;
+    schema:name "Christiaan Nicolaas" .
+
+<https://ex.org/Person2650308115> a pico:PersonObservation ;
+    schema:familyName " Nicolaas" ;
+    schema:givenName "Sophia Maria " ;
+    schema:name "Sophia Maria Nicolaas" .
+
+<https://ex.org/Person2650308116> a pico:PersonObservation ;
+    schema:familyName " Walraven" ;
+    schema:givenName "Pieternella Adriana " ;
+    schema:name "Pieternella Adriana Walraven" .
+
+<https://ex.org/Person2650308117> a pico:PersonObservation ;
+    schema:familyName " Hottinga" ;
+    schema:givenName "Andries Willem " ;
+    schema:name "Andries Willem Hottinga" .
+
+<https://ex.org/Person2650308118> a pico:PersonObservation ;
+    schema:familyName " Hottinga" ;
+    schema:givenName "Willem Adriaan " ;
+    schema:name "Willem Adriaan Hottinga" .
+
+<https://ex.org/Person2650308120> a pico:PersonObservation ;
+    schema:familyName " Roelofsen" ;
+    schema:givenName "Maria Hermina " ;
+    schema:name "Maria Hermina Roelofsen" .
+
+<https://ex.org/Person2650308121> a pico:PersonObservation ;
+    schema:familyName " Roelofsen" ;
+    schema:givenName "Lubberta Berendina " ;
+    schema:name "Lubberta Berendina Roelofsen" .
+
+<https://ex.org/Person2650308122> a pico:PersonObservation ;
+    schema:familyName " Markes" ;
+    schema:givenName "Bontje " ;
+    schema:name "Bontje Markes" .
+
+<https://ex.org/Person2650308123> a pico:PersonObservation ;
+    schema:familyName " Groen" ;
+    schema:givenName "Douwe " ;
+    schema:name "Douwe Groen" .
+
+<https://ex.org/Person2650308124> a pico:PersonObservation ;
+    schema:familyName " Groen" ;
+    schema:givenName "Goukel " ;
+    schema:name "Goukel Groen" .
+
+<https://ex.org/Person2650308126> a pico:PersonObservation ;
+    schema:familyName " Smit" ;
+    schema:givenName "Antje Elisabeth " ;
+    schema:name "Antje Elisabeth Smit" .
+
+<https://ex.org/Person2650308127> a pico:PersonObservation ;
+    schema:familyName " Ruijsenberg" ;
+    schema:givenName "Johannes Jacobus " ;
+    schema:name "Johannes Jacobus Ruijsenberg" .
+
+<https://ex.org/Person2650308128> a pico:PersonObservation ;
+    schema:familyName " Ruijsenberg" ;
+    schema:givenName "Maria Petronella Elisabeth " ;
+    schema:name "Maria Petronella Elisabeth Ruijsenberg" .
+
+<https://ex.org/Person2650308129> a pico:PersonObservation ;
+    schema:familyName " Huijsman" ;
+    schema:givenName "Adriana Pieternella " ;
+    schema:name "Adriana Pieternella Huijsman" .
+
+<https://ex.org/Person2650308130> a pico:PersonObservation ;
+    schema:familyName "den Hartog" ;
+    schema:givenName "Mattheus " ;
+    schema:name "Mattheus den Hartog" .
+
+<https://ex.org/Person2650308131> a pico:PersonObservation ;
+    schema:familyName "den Hartog" ;
+    schema:givenName "Mattheus " ;
+    schema:name "Mattheus den Hartog" .
+
+<https://ex.org/Person2650308133> a pico:PersonObservation ;
+    schema:familyName " Duprez" ;
+    schema:givenName "Françoise " ;
+    schema:name "Françoise Duprez" .
+
+<https://ex.org/Person2650308134> a pico:PersonObservation ;
+    schema:familyName " Danten" ;
+    schema:givenName "William Jean " ;
+    schema:name "William Jean Danten" .
+
+<https://ex.org/Person2650308136> a pico:PersonObservation ;
+    schema:familyName " Bouten" ;
+    schema:givenName "Anna Margaretha " ;
+    schema:name "Anna Margaretha Bouten" .
+
+<https://ex.org/Person2650308137> a pico:PersonObservation ;
+    schema:familyName " Alings" ;
+    schema:givenName "Lambertus " ;
+    schema:name "Lambertus Alings" .
+
+<https://ex.org/Person2650308138> a pico:PersonObservation ;
+    schema:familyName " Alings" ;
+    schema:givenName "Hendrika Maria " ;
+    schema:name "Hendrika Maria Alings" .
+
+<https://ex.org/Person2650308139> a pico:PersonObservation ;
+    schema:familyName " Malgo" ;
+    schema:givenName "Geertrui Christina " ;
+    schema:name "Geertrui Christina Malgo" .
+
+<https://ex.org/Person2650308140> a pico:PersonObservation ;
+    schema:familyName " Schippers" ;
+    schema:givenName "Dirk " ;
+    schema:name "Dirk Schippers" .
+
+<https://ex.org/Person2650308141> a pico:PersonObservation ;
+    schema:familyName " Schippers" ;
+    schema:givenName "Dirk " ;
+    schema:name "Dirk Schippers" .
+
+<https://ex.org/Person2650308143> a pico:PersonObservation ;
+    schema:familyName "van Koot" ;
+    schema:givenName "Aaltje " ;
+    schema:name "Aaltje van Koot" .
+
+<https://ex.org/Person2650308144> a pico:PersonObservation ;
+    schema:familyName "van de Ridder" ;
+    schema:givenName "Ot " ;
+    schema:name "Ot van de Ridder" .
+
+<https://ex.org/Person2650308145> a pico:PersonObservation ;
+    schema:familyName "van de Ridder" ;
+    schema:givenName "Beertje " ;
+    schema:name "Beertje van de Ridder" .
+
+<https://ex.org/Person2650308146> a pico:PersonObservation ;
+    schema:familyName " Hoffman" ;
+    schema:givenName "Maria Theresia " ;
+    schema:name "Maria Theresia Hoffman" .
+
+<https://ex.org/Person2650308147> a pico:PersonObservation ;
+    schema:familyName " Eliam" ;
+    schema:givenName "Johannes " ;
+    schema:name "Johannes Eliam" .
+
+<https://ex.org/Person2650308148> a pico:PersonObservation ;
+    schema:familyName " Eliam" ;
+    schema:givenName "Jan " ;
+    schema:name "Jan Eliam" .
+
+<https://ex.org/Person2650308150> a pico:PersonObservation ;
+    schema:familyName " Mulder" ;
+    schema:givenName "Wilhelmina " ;
+    schema:name "Wilhelmina Mulder" .
+
+<https://ex.org/Person2650308151> a pico:PersonObservation ;
+    schema:familyName " Jordaan" ;
+    schema:givenName "Johannes " ;
+    schema:name "Johannes Jordaan" .
+
+<https://ex.org/Person2650308152> a pico:PersonObservation ;
+    schema:familyName " Jordaan" ;
+    schema:givenName "Maria Carolina " ;
+    schema:name "Maria Carolina Jordaan" .
+
+<https://ex.org/Person2650308153> a pico:PersonObservation ;
+    schema:familyName " Zandstra" ;
+    schema:givenName "Cornelia " ;
+    schema:name "Cornelia Zandstra" .
+
+<https://ex.org/Person2650308154> a pico:PersonObservation ;
+    schema:familyName "van Doesen" ;
+    schema:givenName "Lammert " ;
+    schema:name "Lammert van Doesen" .
+
+<https://ex.org/Person2650308155> a pico:PersonObservation ;
+    schema:familyName "van Doesen" ;
+    schema:givenName "Jan " ;
+    schema:name "Jan van Doesen" .
+
+<https://ex.org/Person2650308157> a pico:PersonObservation ;
+    schema:familyName "van Vugt" ;
+    schema:givenName "Adriana " ;
+    schema:name "Adriana van Vugt" .
+
+<https://ex.org/Person2650308158> a pico:PersonObservation ;
+    schema:familyName " Wilhelmus" ;
+    schema:givenName "Johannes " ;
+    schema:name "Johannes Wilhelmus" .
+
+<https://ex.org/Person2650308159> a pico:PersonObservation ;
+    schema:familyName " Wilhelmus" ;
+    schema:givenName "Hendrika Adriana " ;
+    schema:name "Hendrika Adriana Wilhelmus" .
+
+<https://ex.org/Person2650308160> a pico:PersonObservation ;
+    schema:familyName " Pichal" ;
+    schema:givenName "Rosalia Antonetta Jacoba " ;
+    schema:name "Rosalia Antonetta Jacoba Pichal" .
+
+<https://ex.org/Person2650308161> a pico:PersonObservation ;
+    schema:familyName " Put" ;
+    schema:givenName "Martinus Johannes Franciscus " ;
+    schema:name "Martinus Johannes Franciscus Put" .
+
+<https://ex.org/Person2650308162> a pico:PersonObservation ;
+    schema:familyName " Put" ;
+    schema:givenName "Martinus Johannes Franciscus " ;
+    schema:name "Martinus Johannes Franciscus Put" .
+
+<https://ex.org/Person2650308164> a pico:PersonObservation ;
+    schema:familyName "van der Moolen" ;
+    schema:givenName "Helena " ;
+    schema:name "Helena van der Moolen" .
+
+<https://ex.org/Person2650308165> a pico:PersonObservation ;
+    schema:familyName " Gielen" ;
+    schema:givenName "Joseph " ;
+    schema:name "Joseph Gielen" .
+
+<https://ex.org/Person2650308166> a pico:PersonObservation ;
+    schema:familyName " Gielen" ;
+    schema:givenName "Barbara Joanna Maria " ;
+    schema:name "Barbara Joanna Maria Gielen" .
+
+<https://ex.org/Person2650308167> a pico:PersonObservation ;
+    schema:familyName " Oudhuis" ;
+    schema:givenName "Gerardina " ;
+    schema:name "Gerardina Oudhuis" .
+
+<https://ex.org/Person2650308168> a pico:PersonObservation ;
+    schema:familyName " Thijssen" ;
+    schema:givenName "Christianus " ;
+    schema:name "Christianus Thijssen" .
+
+<https://ex.org/Person2650308169> a pico:PersonObservation ;
+    schema:familyName " Thijssen" ;
+    schema:givenName "Christianus " ;
+    schema:name "Christianus Thijssen" .
+
+<https://ex.org/Person2650308171> a pico:PersonObservation ;
+    schema:familyName " Rotgans" ;
+    schema:givenName "Grietje " ;
+    schema:name "Grietje Rotgans" .
+
+<https://ex.org/Person2650308172> a pico:PersonObservation ;
+    schema:familyName " Vonck" ;
+    schema:givenName "Cornelis " ;
+    schema:name "Cornelis Vonck" .
+
+<https://ex.org/Person2650308173> a pico:PersonObservation ;
+    schema:familyName " Vonck" ;
+    schema:givenName "Johanna Adriana " ;
+    schema:name "Johanna Adriana Vonck" .
+
+<https://ex.org/Person2650308174> a pico:PersonObservation ;
+    schema:familyName "van Klaveren" ;
+    schema:givenName "Geertruida Cornelia " ;
+    schema:name "Geertruida Cornelia van Klaveren" .
+
+<https://ex.org/Person2650308175> a pico:PersonObservation ;
+    schema:familyName "van Senden" ;
+    schema:givenName "Gerhard " ;
+    schema:name "Gerhard van Senden" .
+
+<https://ex.org/Person2650308176> a pico:PersonObservation ;
+    schema:familyName "van Senden" ;
+    schema:givenName "Christiaan " ;
+    schema:name "Christiaan van Senden" .
+
+<https://ex.org/Person2650308178> a pico:PersonObservation ;
+    schema:familyName " Telder" ;
+    schema:givenName "Maria Johanna " ;
+    schema:name "Maria Johanna Telder" .
+
+<https://ex.org/Person2650308179> a pico:PersonObservation ;
+    schema:familyName " Smelt" ;
+    schema:givenName "Bernardus " ;
+    schema:name "Bernardus Smelt" .
+
+<https://ex.org/Person2650308180> a pico:PersonObservation ;
+    schema:familyName " Smelt" ;
+    schema:givenName "Anna Gezina " ;
+    schema:name "Anna Gezina Smelt" .
+
+<https://ex.org/Person2650308181> a pico:PersonObservation ;
+    schema:familyName " Blank" ;
+    schema:givenName "Marritje " ;
+    schema:name "Marritje Blank" .
+
+<https://ex.org/Person2650308182> a pico:PersonObservation ;
+    schema:familyName " Spronk" ;
+    schema:givenName "Willem Carel " ;
+    schema:name "Willem Carel Spronk" .
+
+<https://ex.org/Person2650308183> a pico:PersonObservation ;
+    schema:familyName " Spronk" ;
+    schema:givenName "Cornelis Willem " ;
+    schema:name "Cornelis Willem Spronk" .
+
+<https://ex.org/Person2650308185> a pico:PersonObservation ;
+    schema:familyName " Trumper" ;
+    schema:givenName "Catharina " ;
+    schema:name "Catharina Trumper" .
+
+<https://ex.org/Person2650308186> a pico:PersonObservation ;
+    schema:familyName " Collard" ;
+    schema:givenName "Johannes Jacobus " ;
+    schema:name "Johannes Jacobus Collard" .
+
+<https://ex.org/Person2650308187> a pico:PersonObservation ;
+    schema:familyName " Collard" ;
+    schema:givenName "Cornelia Dorethea " ;
+    schema:name "Cornelia Dorethea Collard" .
+
+<https://ex.org/Person2650308188> a pico:PersonObservation ;
+    schema:familyName " Marcus" ;
+    schema:givenName "Marianna " ;
+    schema:name "Marianna Marcus" .
+
+<https://ex.org/Person2650308189> a pico:PersonObservation ;
+    schema:familyName " Bade" ;
+    schema:givenName "Johannes Egbertus " ;
+    schema:name "Johannes Egbertus Bade" .
+
+<https://ex.org/Person2650308190> a pico:PersonObservation ;
+    schema:familyName " Bade" ;
+    schema:givenName "Adrianus " ;
+    schema:name "Adrianus Bade" .
+
+<https://ex.org/Person2650308192> a pico:PersonObservation ;
+    schema:familyName " Helsloot" ;
+    schema:givenName "Sophia " ;
+    schema:name "Sophia Helsloot" .
+
+<https://ex.org/Person2650308193> a pico:PersonObservation ;
+    schema:familyName "van der Lee" ;
+    schema:givenName "Cornelis " ;
+    schema:name "Cornelis van der Lee" .
+
+<https://ex.org/Person2650308194> a pico:PersonObservation ;
+    schema:familyName "van der Lee" ;
+    schema:givenName "Maria Johanna " ;
+    schema:name "Maria Johanna van der Lee" .
+
+<https://ex.org/Person2650308195> a pico:PersonObservation ;
+    schema:familyName " Hulsink" ;
+    schema:givenName "Claara " ;
+    schema:name "Claara Hulsink" .
+
+<https://ex.org/Person2650308196> a pico:PersonObservation ;
+    schema:familyName " Sarlemijn" ;
+    schema:givenName "Joannes Henricus " ;
+    schema:name "Joannes Henricus Sarlemijn" .
+
+<https://ex.org/Person2650308197> a pico:PersonObservation ;
+    schema:familyName " Sarlemijn" ;
+    schema:givenName "Gerardus Joannes " ;
+    schema:name "Gerardus Joannes Sarlemijn" .
+
+<https://ex.org/Person2650308199> a pico:PersonObservation ;
+    schema:familyName "van Nieuwcasteel" ;
+    schema:givenName "Hendrica Willemina " ;
+    schema:name "Hendrica Willemina van Nieuwcasteel" .
+
+<https://ex.org/Person2650308200> a pico:PersonObservation ;
+    schema:familyName " Mulder" ;
+    schema:givenName "Hendrik " ;
+    schema:name "Hendrik Mulder" .
+
+<https://ex.org/Person2650308201> a pico:PersonObservation ;
+    schema:familyName " Mulder" ;
+    schema:givenName "Hendrika Ferdinandina Willemina " ;
+    schema:name "Hendrika Ferdinandina Willemina Mulder" .
+
+<https://ex.org/Person2650308202> a pico:PersonObservation ;
+    schema:familyName " Korthoef" ;
+    schema:givenName "Catharina Maria " ;
+    schema:name "Catharina Maria Korthoef" .
+
+<https://ex.org/Person2650308203> a pico:PersonObservation ;
+    schema:familyName " Boereboom" ;
+    schema:givenName "Dirk " ;
+    schema:name "Dirk Boereboom" .
+
+<https://ex.org/Person2650308204> a pico:PersonObservation ;
+    schema:familyName " Boereboom" ;
+    schema:givenName "Evert " ;
+    schema:name "Evert Boereboom" .
+
+<https://ex.org/Person2650308206> a pico:PersonObservation ;
+    schema:familyName " Ruarus" ;
+    schema:givenName "Johanna Hermina " ;
+    schema:name "Johanna Hermina Ruarus" .
+
+<https://ex.org/Person2650308207> a pico:PersonObservation ;
+    schema:familyName " Buijsingh" ;
+    schema:givenName "Pieter Hendrik " ;
+    schema:name "Pieter Hendrik Buijsingh" .
+
+<https://ex.org/Person2650308208> a pico:PersonObservation ;
+    schema:familyName " Buijsingh" ;
+    schema:givenName "Barendina Jacoba " ;
+    schema:name "Barendina Jacoba Buijsingh" .
+
+<https://ex.org/Person2650308209> a pico:PersonObservation ;
+    schema:familyName " Voordewind" ;
+    schema:givenName "Eleonora " ;
+    schema:name "Eleonora Voordewind" .
+
+<https://ex.org/Person2650308210> a pico:PersonObservation ;
+    schema:familyName " Groenevelt" ;
+    schema:givenName "Pieter " ;
+    schema:name "Pieter Groenevelt" .
+
+<https://ex.org/Person2650308211> a pico:PersonObservation ;
+    schema:familyName " Groenevelt" ;
+    schema:givenName "Reinier " ;
+    schema:name "Reinier Groenevelt" .
+
+<https://ex.org/Person2650308213> a pico:PersonObservation ;
+    schema:familyName " Ooms" ;
+    schema:givenName "Levina " ;
+    schema:name "Levina Ooms" .
+
+<https://ex.org/Person2650308214> a pico:PersonObservation ;
+    schema:familyName " Boelhouwer" ;
+    schema:givenName "Jacobus " ;
+    schema:name "Jacobus Boelhouwer" .
+
+<https://ex.org/Person2650308215> a pico:PersonObservation ;
+    schema:familyName " Boelhouwer" ;
+    schema:givenName "Mietje " ;
+    schema:name "Mietje Boelhouwer" .
+
+<https://ex.org/Person2650308216> a pico:PersonObservation ;
+    schema:familyName "van Dam" ;
+    schema:givenName "Klaasje " ;
+    schema:name "Klaasje van Dam" .
+
+<https://ex.org/Person2650308217> a pico:PersonObservation ;
+    schema:familyName "van Wieringen" ;
+    schema:givenName "Willem " ;
+    schema:name "Willem van Wieringen" .
+
+<https://ex.org/Person2650308218> a pico:PersonObservation ;
+    schema:familyName "van Wieringen" ;
+    schema:givenName "Kornelis " ;
+    schema:name "Kornelis van Wieringen" .
+
+<https://ex.org/Person2650308220> a pico:PersonObservation ;
+    schema:familyName " Niggemann" ;
+    schema:givenName "Maria Elisabeth Francisca " ;
+    schema:name "Maria Elisabeth Francisca Niggemann" .
+
+<https://ex.org/Person2650308221> a pico:PersonObservation ;
+    schema:familyName " Sierhuis" ;
+    schema:givenName "Johannes " ;
+    schema:name "Johannes Sierhuis" .
+
+<https://ex.org/Person2650308222> a pico:PersonObservation ;
+    schema:familyName " Sierhuis" ;
+    schema:givenName "Hendrika Maria " ;
+    schema:name "Hendrika Maria Sierhuis" .
+
+<https://ex.org/Person2650308223> a pico:PersonObservation ;
+    schema:familyName " Baas" ;
+    schema:givenName "Barbara Margaretha " ;
+    schema:name "Barbara Margaretha Baas" .
+
+<https://ex.org/Person2650308224> a pico:PersonObservation ;
+    schema:familyName " Rottgering" ;
+    schema:givenName "Heinrich Arnold " ;
+    schema:name "Heinrich Arnold Rottgering" .
+
+<https://ex.org/Person2650308225> a pico:PersonObservation ;
+    schema:familyName " Rottgering" ;
+    schema:givenName "Henricus Arnoldus " ;
+    schema:name "Henricus Arnoldus Rottgering" .
+
+<https://ex.org/Person2650308227> a pico:PersonObservation ;
+    schema:familyName " Rietsnijder" ;
+    schema:givenName "Grietje " ;
+    schema:name "Grietje Rietsnijder" .
+
+<https://ex.org/Person2650308228> a pico:PersonObservation ;
+    schema:familyName " Scheffer" ;
+    schema:givenName "Jan Christoffel " ;
+    schema:name "Jan Christoffel Scheffer" .
+
+<https://ex.org/Person2650308229> a pico:PersonObservation ;
+    schema:familyName " Scheffer" ;
+    schema:givenName "Wilhelmina Hillegonda " ;
+    schema:name "Wilhelmina Hillegonda Scheffer" .
+
+<https://ex.org/Person2650308230> a pico:PersonObservation ;
+    schema:familyName " Kuhlman" ;
+    schema:givenName "Christina " ;
+    schema:name "Christina Kuhlman" .
+
+<https://ex.org/Person2650308231> a pico:PersonObservation ;
+    schema:familyName " Martens" ;
+    schema:givenName "Jacobus " ;
+    schema:name "Jacobus Martens" .
+
+<https://ex.org/Person2650308232> a pico:PersonObservation ;
+    schema:familyName " Martens" ;
+    schema:givenName "Jacobus " ;
+    schema:name "Jacobus Martens" .
+
+<https://ex.org/Person2650308234> a pico:PersonObservation ;
+    schema:familyName "van der Bogt" ;
+    schema:givenName "Maria Elisabeth " ;
+    schema:name "Maria Elisabeth van der Bogt" .
+
+<https://ex.org/Person2650308235> a pico:PersonObservation ;
+    schema:familyName " Schluter" ;
+    schema:givenName "Johan Gerhard " ;
+    schema:name "Johan Gerhard Schluter" .
+
+<https://ex.org/Person2650308236> a pico:PersonObservation ;
+    schema:familyName " Schluter" ;
+    schema:givenName "Christina Carolina " ;
+    schema:name "Christina Carolina Schluter" .
+
+<https://ex.org/Person2650308237> a pico:PersonObservation ;
+    schema:familyName " Ellerkamp" ;
+    schema:givenName "Catharina Dorothea " ;
+    schema:name "Catharina Dorothea Ellerkamp" .
+
+<https://ex.org/Person2650308238> a pico:PersonObservation ;
+    schema:familyName " Klinkert" ;
+    schema:givenName "Willem " ;
+    schema:name "Willem Klinkert" .
+
+<https://ex.org/Person2650308239> a pico:PersonObservation ;
+    schema:familyName " Klinkert" ;
+    schema:givenName "Hendrik " ;
+    schema:name "Hendrik Klinkert" .
+
+<https://ex.org/Person2650308241> a pico:PersonObservation ;
+    schema:familyName " Franck" ;
+    schema:givenName "Helene " ;
+    schema:name "Helene Franck" .
+
+<https://ex.org/Person2650308242> a pico:PersonObservation ;
+    schema:familyName " Frank" ;
+    schema:givenName "Simon " ;
+    schema:name "Simon Frank" .
+
+<https://ex.org/Person2650308243> a pico:PersonObservation ;
+    schema:familyName " Frank" ;
+    schema:givenName "Sophie " ;
+    schema:name "Sophie Frank" .
+
+<https://ex.org/Person2650308244> a pico:PersonObservation ;
+    schema:familyName " Abrahams" ;
+    schema:givenName "Minetta " ;
+    schema:name "Minetta Abrahams" .
+
+<https://ex.org/Person2650308245> a pico:PersonObservation ;
+    schema:familyName "van Lier" ;
+    schema:givenName "David " ;
+    schema:name "David van Lier" .
+
+<https://ex.org/Person2650308246> a pico:PersonObservation ;
+    schema:familyName "van Lier" ;
+    schema:givenName "Martinus " ;
+    schema:name "Martinus van Lier" .
+
+<https://ex.org/Person2650308248> a pico:PersonObservation ;
+    schema:familyName " Klouzing" ;
+    schema:givenName "Anna Maria " ;
+    schema:name "Anna Maria Klouzing" .
+
+<https://ex.org/Person2650308249> a pico:PersonObservation ;
+    schema:familyName " Hauer" ;
+    schema:givenName "Gerrit " ;
+    schema:name "Gerrit Hauer" .
+
+<https://ex.org/Person2650308250> a pico:PersonObservation ;
+    schema:familyName " Hauer" ;
+    schema:givenName "Marretje " ;
+    schema:name "Marretje Hauer" .
+
+<https://ex.org/Person2650308251> a pico:PersonObservation ;
+    schema:familyName " Koper" ;
+    schema:givenName "Margaretha Maria " ;
+    schema:name "Margaretha Maria Koper" .
+
+<https://ex.org/Person2650308252> a pico:PersonObservation ;
+    schema:familyName " Korthals" ;
+    schema:givenName "Nicolaas " ;
+    schema:name "Nicolaas Korthals" .
+
+<https://ex.org/Person2650308253> a pico:PersonObservation ;
+    schema:familyName " Korthals" ;
+    schema:givenName "Johannes " ;
+    schema:name "Johannes Korthals" .
+
+<https://ex.org/Person2650308255> a pico:PersonObservation ;
+    schema:familyName "van de Wiele" ;
+    schema:givenName "Cornelia " ;
+    schema:name "Cornelia van de Wiele" .
+
+<https://ex.org/Person2650308256> a pico:PersonObservation ;
+    schema:familyName " Goossens" ;
+    schema:givenName "Abraham Joannes " ;
+    schema:name "Abraham Joannes Goossens" .
+
+<https://ex.org/Person2650308257> a pico:PersonObservation ;
+    schema:familyName " Goossens" ;
+    schema:givenName "Maria Ursula Helena " ;
+    schema:name "Maria Ursula Helena Goossens" .
+
+<https://ex.org/Person2650308258> a pico:PersonObservation ;
+    schema:familyName " Huijsman" ;
+    schema:givenName "Marie Therese " ;
+    schema:name "Marie Therese Huijsman" .
+
+<https://ex.org/Person2650308259> a pico:PersonObservation ;
+    schema:familyName " Eman" ;
+    schema:givenName "Hendrik " ;
+    schema:name "Hendrik Eman" .
+
+<https://ex.org/Person2650308260> a pico:PersonObservation ;
+    schema:familyName " Eman" ;
+    schema:givenName "Hendrik Nicolaas " ;
+    schema:name "Hendrik Nicolaas Eman" .
+
+<https://ex.org/Person2650308262> a pico:PersonObservation ;
+    schema:familyName " Meijer" ;
+    schema:givenName "Cornelia " ;
+    schema:name "Cornelia Meijer" .
+
+<https://ex.org/Person2650308263> a pico:PersonObservation ;
+    schema:familyName " Neuhäuser" ;
+    schema:givenName "Joseph " ;
+    schema:name "Joseph Neuhäuser" .
+
+<https://ex.org/Person2650308265> a pico:PersonObservation ;
+    schema:familyName " Dijkstra" ;
+    schema:givenName "Trijntje " ;
+    schema:name "Trijntje Dijkstra" .
+
+<https://ex.org/Person2650308266> a pico:PersonObservation ;
+    schema:familyName "van der Vaart" ;
+    schema:givenName "Jochem " ;
+    schema:name "Jochem van der Vaart" .
+
+<https://ex.org/Person2650308267> a pico:PersonObservation ;
+    schema:familyName "van der Vaart" ;
+    schema:givenName "Hijlkje " ;
+    schema:name "Hijlkje van der Vaart" .
+
+<https://ex.org/Person2650308268> a pico:PersonObservation ;
+    schema:familyName " Emmink" ;
+    schema:givenName "Jentje " ;
+    schema:name "Jentje Emmink" .
+
+<https://ex.org/Person2650308269> a pico:PersonObservation ;
+    schema:familyName "ten Brink" ;
+    schema:givenName "Hendrik Jan " ;
+    schema:name "Hendrik Jan ten Brink" .
+
+<https://ex.org/Person2650308270> a pico:PersonObservation ;
+    schema:familyName "ten Brink" ;
+    schema:givenName "Fredrik " ;
+    schema:name "Fredrik ten Brink" .
+
+<https://ex.org/Person2650308272> a pico:PersonObservation ;
+    schema:familyName " Muller" ;
+    schema:givenName "Geertrui " ;
+    schema:name "Geertrui Muller" .
+
+<https://ex.org/Person2650308273> a pico:PersonObservation ;
+    schema:familyName " Femer" ;
+    schema:givenName "Tiemen " ;
+    schema:name "Tiemen Femer" .
+
+<https://ex.org/Person2650308274> a pico:PersonObservation ;
+    schema:familyName " Femer" ;
+    schema:givenName "Femme " ;
+    schema:name "Femme Femer" .
+
+<https://ex.org/Person2650308275> a pico:PersonObservation ;
+    schema:familyName "van Breemen" ;
+    schema:givenName "Elizabeth Maria " ;
+    schema:name "Elizabeth Maria van Breemen" .
+
+<https://ex.org/Person2650308276> a pico:PersonObservation ;
+    schema:familyName " Hijzelendoorn" ;
+    schema:givenName "Dirk " ;
+    schema:name "Dirk Hijzelendoorn" .
+
+<https://ex.org/Person2650308277> a pico:PersonObservation ;
+    schema:familyName " Hijzelendoorn" ;
+    schema:givenName "Pieter Antonie " ;
+    schema:name "Pieter Antonie Hijzelendoorn" .
+
+<https://ex.org/Person2650308279> a pico:PersonObservation ;
+    schema:familyName "van Asselt" ;
+    schema:givenName "Aaltje " ;
+    schema:name "Aaltje van Asselt" .
+
+<https://ex.org/Person2650308280> a pico:PersonObservation ;
+    schema:familyName " Brands" ;
+    schema:givenName "Gerrit " ;
+    schema:name "Gerrit Brands" .
+
+<https://ex.org/Person2650308281> a pico:PersonObservation ;
+    schema:familyName " Brands" ;
+    schema:givenName "Maria Hendrika Alida " ;
+    schema:name "Maria Hendrika Alida Brands" .
+
+<https://ex.org/Person2650308282> a pico:PersonObservation ;
+    schema:familyName " Tossijn" ;
+    schema:givenName "Helena Wilhelmina " ;
+    schema:name "Helena Wilhelmina Tossijn" .
+
+<https://ex.org/Person2650308283> a pico:PersonObservation ;
+    schema:familyName " IJkelaar" ;
+    schema:givenName "Gerardus " ;
+    schema:name "Gerardus IJkelaar" .
+
+<https://ex.org/Person2650308284> a pico:PersonObservation ;
+    schema:familyName " IJkelaar" ;
+    schema:givenName "Henricus Franciscus Johannes " ;
+    schema:name "Henricus Franciscus Johannes IJkelaar" .
+
+<https://ex.org/Person2650308286> a pico:PersonObservation ;
+    schema:familyName " Blekking" ;
+    schema:givenName "Celena " ;
+    schema:name "Celena Blekking" .
+
+<https://ex.org/Person2650308287> a pico:PersonObservation ;
+    schema:familyName " Bluemink" ;
+    schema:givenName "Jan Willem " ;
+    schema:name "Jan Willem Bluemink" .
+
+<https://ex.org/Person2650308288> a pico:PersonObservation ;
+    schema:familyName " Bluemink" ;
+    schema:givenName "Johanna Wilhelmina " ;
+    schema:name "Johanna Wilhelmina Bluemink" .
+
+<https://ex.org/Person2650308289> a pico:PersonObservation ;
+    schema:familyName " Eman" ;
+    schema:givenName "Jacoba " ;
+    schema:name "Jacoba Eman" .
+
+<https://ex.org/Person2650308290> a pico:PersonObservation ;
+    schema:familyName " Lazeron" ;
+    schema:givenName "Hendrik " ;
+    schema:name "Hendrik Lazeron" .
+
+<https://ex.org/Person2650308291> a pico:PersonObservation ;
+    schema:familyName " Lazeron" ;
+    schema:givenName "Gerardus Franciscus " ;
+    schema:name "Gerardus Franciscus Lazeron" .
+
+<https://ex.org/Person2650308293> a pico:PersonObservation ;
+    schema:familyName "van Dusschoten" ;
+    schema:givenName "Elisabeth " ;
+    schema:name "Elisabeth van Dusschoten" .
+
+<https://ex.org/Person2650308294> a pico:PersonObservation ;
+    schema:familyName " Boelhouwer" ;
+    schema:givenName "Teunis " ;
+    schema:name "Teunis Boelhouwer" .
+
+<https://ex.org/Person2650308295> a pico:PersonObservation ;
+    schema:familyName " Boelhouwer" ;
+    schema:givenName "Lena Cornelia " ;
+    schema:name "Lena Cornelia Boelhouwer" .
+
+<https://ex.org/Person2650308296> a pico:PersonObservation ;
+    schema:familyName " Grimbergen" ;
+    schema:givenName "Jansje " ;
+    schema:name "Jansje Grimbergen" .
+
+<https://ex.org/Person2650308297> a pico:PersonObservation ;
+    schema:familyName " Roelofs" ;
+    schema:givenName "Jacobus " ;
+    schema:name "Jacobus Roelofs" .
+
+<https://ex.org/Person2650308298> a pico:PersonObservation ;
+    schema:familyName " Roelofs" ;
+    schema:givenName "Arie " ;
+    schema:name "Arie Roelofs" .
+
+<https://ex.org/Person2650308300> a pico:PersonObservation ;
+    schema:familyName " Grotendijk" ;
+    schema:givenName "Willemina Jacoba " ;
+    schema:name "Willemina Jacoba Grotendijk" .
+
+<https://ex.org/Person2650308301> a pico:PersonObservation ;
+    schema:familyName "van Schooneveld" ;
+    schema:givenName "Gerrit " ;
+    schema:name "Gerrit van Schooneveld" .
+
+<https://ex.org/Person2650308302> a pico:PersonObservation ;
+    schema:familyName "van Schooneveld" ;
+    schema:givenName "Antoinetta Wilhelmina " ;
+    schema:name "Antoinetta Wilhelmina van Schooneveld" .
+
+<https://ex.org/Person2650308303> a pico:PersonObservation ;
+    schema:familyName " Feurstein" ;
+    schema:givenName "Louise " ;
+    schema:name "Louise Feurstein" .
+
+<https://ex.org/Person2650308304> a pico:PersonObservation ;
+    schema:familyName " Meijer" ;
+    schema:givenName "Johan Casparus " ;
+    schema:name "Johan Casparus Meijer" .
+
+<https://ex.org/Person2650308305> a pico:PersonObservation ;
+    schema:familyName " Meijer" ;
+    schema:givenName "Petrus August " ;
+    schema:name "Petrus August Meijer" .
+
+<https://ex.org/Person2650308307> a pico:PersonObservation ;
+    schema:familyName " Zegen" ;
+    schema:givenName "Judik " ;
+    schema:name "Judik Zegen" .
+
+<https://ex.org/Person2650308308> a pico:PersonObservation ;
+    schema:familyName " Winnik" ;
+    schema:givenName "Jacob " ;
+    schema:name "Jacob Winnik" .
+
+<https://ex.org/Person2650308309> a pico:PersonObservation ;
+    schema:familyName " Winnik" ;
+    schema:givenName "Schoontje " ;
+    schema:name "Schoontje Winnik" .
+
+<https://ex.org/Person2650308310> a pico:PersonObservation ;
+    schema:familyName " Zegen" ;
+    schema:givenName "Reintje " ;
+    schema:name "Reintje Zegen" .
+
+<https://ex.org/Person2650308311> a pico:PersonObservation ;
+    schema:familyName " Witzenhausen" ;
+    schema:givenName "Mozes " ;
+    schema:name "Mozes Witzenhausen" .
+
+<https://ex.org/Person2650308312> a pico:PersonObservation ;
+    schema:familyName " Witzenhausen" ;
+    schema:givenName "Alexander " ;
+    schema:name "Alexander Witzenhausen" .
+
+<https://ex.org/Person2650308314> a pico:PersonObservation ;
+    schema:familyName " Ming" ;
+    schema:givenName "Johanna " ;
+    schema:name "Johanna Ming" .
+
+<https://ex.org/Person2650308315> a pico:PersonObservation ;
+    schema:familyName " Baljet" ;
+    schema:givenName "Anthonie Johannes " ;
+    schema:name "Anthonie Johannes Baljet" .
+
+<https://ex.org/Person2650308316> a pico:PersonObservation ;
+    schema:familyName " Baljet" ;
+    schema:givenName "Anthonia Helena " ;
+    schema:name "Anthonia Helena Baljet" .
+
+<https://ex.org/Person2650308317> a pico:PersonObservation ;
+    schema:familyName " Buijs" ;
+    schema:givenName "Anna Louisa " ;
+    schema:name "Anna Louisa Buijs" .
+
+<https://ex.org/Person2650308318> a pico:PersonObservation ;
+    schema:familyName " Kornman" ;
+    schema:givenName "Antonie " ;
+    schema:name "Antonie Kornman" .
+
+<https://ex.org/Person2650308319> a pico:PersonObservation ;
+    schema:familyName " Kornman" ;
+    schema:givenName "Coenraad " ;
+    schema:name "Coenraad Kornman" .
+
+<https://ex.org/Person2650308321> a pico:PersonObservation ;
+    schema:familyName " Zwaga" ;
+    schema:givenName "Antje " ;
+    schema:name "Antje Zwaga" .
+
+<https://ex.org/Person2650308322> a pico:PersonObservation ;
+    schema:familyName " Burggraaf" ;
+    schema:givenName "Jan " ;
+    schema:name "Jan Burggraaf" .
+
+<https://ex.org/Person2650308323> a pico:PersonObservation ;
+    schema:familyName " Burggraaf" ;
+    schema:givenName "Maria Elisabeth " ;
+    schema:name "Maria Elisabeth Burggraaf" .
+
+<https://ex.org/Person2650308324> a pico:PersonObservation ;
+    schema:familyName " Pier" ;
+    schema:givenName "Catharina Maria " ;
+    schema:name "Catharina Maria Pier" .
+
+<https://ex.org/Person2650308325> a pico:PersonObservation ;
+    schema:familyName " Pier" ;
+    schema:givenName "Pieter " ;
+    schema:name "Pieter Pier" .
+
+<https://ex.org/Person2650308327> a pico:PersonObservation ;
+    schema:familyName "van der Velde" ;
+    schema:givenName "Hendrica " ;
+    schema:name "Hendrica van der Velde" .
+
+<https://ex.org/Person2650308328> a pico:PersonObservation ;
+    schema:familyName " Emens" ;
+    schema:givenName "Pieter " ;
+    schema:name "Pieter Emens" .
+
+<https://ex.org/Person2650308329> a pico:PersonObservation ;
+    schema:familyName " Emens" ;
+    schema:givenName "Anna Cornelia " ;
+    schema:name "Anna Cornelia Emens" .
+
+<https://ex.org/Person2650308330> a pico:PersonObservation ;
+    schema:familyName "van der Ouw" ;
+    schema:givenName "Maria Catrina " ;
+    schema:name "Maria Catrina van der Ouw" .
+
+<https://ex.org/Person2650308331> a pico:PersonObservation ;
+    schema:familyName " Kenbeek" ;
+    schema:givenName "Johannes " ;
+    schema:name "Johannes Kenbeek" .
+
+<https://ex.org/Person2650308332> a pico:PersonObservation ;
+    schema:familyName " Kenbeek" ;
+    schema:givenName "Hendrik Johannes " ;
+    schema:name "Hendrik Johannes Kenbeek" .
+
+<https://ex.org/Person2650308334> a pico:PersonObservation ;
+    schema:familyName " Bavink" ;
+    schema:givenName "Harmina " ;
+    schema:name "Harmina Bavink" .
+
+<https://ex.org/Person2650308335> a pico:PersonObservation ;
+    schema:familyName " Hombrink" ;
+    schema:givenName "Harm " ;
+    schema:name "Harm Hombrink" .
+
+<https://ex.org/Person2650308336> a pico:PersonObservation ;
+    schema:familyName " Hombrink" ;
+    schema:givenName "Anna Gezina " ;
+    schema:name "Anna Gezina Hombrink" .
+
+<https://ex.org/Person2650308337> a pico:PersonObservation ;
+    schema:familyName "van Ettekoven" ;
+    schema:givenName "Evertje " ;
+    schema:name "Evertje van Ettekoven" .
+
+<https://ex.org/Person2650308338> a pico:PersonObservation ;
+    schema:familyName "van Ettekoven" ;
+    schema:givenName "Jan " ;
+    schema:name "Jan van Ettekoven" .
+
+<https://ex.org/Person2650308339> a pico:PersonObservation ;
+    schema:familyName "van Ettekoven" ;
+    schema:givenName "Karel " ;
+    schema:name "Karel van Ettekoven" .
+
+<https://ex.org/Person2650308341> a pico:PersonObservation ;
+    schema:familyName " Theunis" ;
+    schema:givenName "Elizabeth " ;
+    schema:name "Elizabeth Theunis" .
+
+<https://ex.org/Person2650308342> a pico:PersonObservation ;
+    schema:familyName "de Wolde" ;
+    schema:givenName "Jan " ;
+    schema:name "Jan de Wolde" .
+
+<https://ex.org/Person2650308343> a pico:PersonObservation ;
+    schema:familyName "de Wolde" ;
+    schema:givenName "Matje " ;
+    schema:name "Matje de Wolde" .
+
+<https://ex.org/Person2650308344> a pico:PersonObservation ;
+    schema:familyName " Govaars" ;
+    schema:givenName "Maria Elisabeth " ;
+    schema:name "Maria Elisabeth Govaars" .
+
+<https://ex.org/Person2650308345> a pico:PersonObservation ;
+    schema:familyName " Pieterse" ;
+    schema:givenName "Constantinus Lucas " ;
+    schema:name "Constantinus Lucas Pieterse" .
+
+<https://ex.org/Person2650308346> a pico:PersonObservation ;
+    schema:familyName " Pieterse" ;
+    schema:givenName "Hendricus Mattheus " ;
+    schema:name "Hendricus Mattheus Pieterse" .
+
+<https://ex.org/Person2650308348> a pico:PersonObservation ;
+    schema:familyName " Schoonderbeek" ;
+    schema:givenName "Marijtje " ;
+    schema:name "Marijtje Schoonderbeek" .
+
+<https://ex.org/Person2650308349> a pico:PersonObservation ;
+    schema:familyName " Schuurman" ;
+    schema:givenName "Cornelis " ;
+    schema:name "Cornelis Schuurman" .
+
+<https://ex.org/Person2650308350> a pico:PersonObservation ;
+    schema:familyName " Schuurman" ;
+    schema:givenName "Cornelia " ;
+    schema:name "Cornelia Schuurman" .
+
+<https://ex.org/Person2650308351> a pico:PersonObservation ;
+    schema:familyName " Meijer" ;
+    schema:givenName "Elisabeth " ;
+    schema:name "Elisabeth Meijer" .
+
+<https://ex.org/Person2650308352> a pico:PersonObservation ;
+    schema:familyName " Hazes" ;
+    schema:givenName "Pieter " ;
+    schema:name "Pieter Hazes" .
+
+<https://ex.org/Person2650308353> a pico:PersonObservation ;
+    schema:familyName " Hazes" ;
+    schema:givenName "Franciscus Anthonius " ;
+    schema:name "Franciscus Anthonius Hazes" .
+
+<https://ex.org/Person2650308355> a pico:PersonObservation ;
+    schema:familyName " Kniese" ;
+    schema:givenName "Anna Maria Sophia " ;
+    schema:name "Anna Maria Sophia Kniese" .
+
+<https://ex.org/Person2650308356> a pico:PersonObservation ;
+    schema:familyName " Kuhfus" ;
+    schema:givenName "Jan Otto " ;
+    schema:name "Jan Otto Kuhfus" .
+
+<https://ex.org/Person2650308357> a pico:PersonObservation ;
+    schema:familyName " Kuhfus" ;
+    schema:givenName "Wilhelmina Hendrika Louisa " ;
+    schema:name "Wilhelmina Hendrika Louisa Kuhfus" .
+
+<https://ex.org/Person2650308358> a pico:PersonObservation ;
+    schema:familyName " Jacobsdochter" ;
+    schema:givenName "Katarina Kristina " ;
+    schema:name "Katarina Kristina Jacobsdochter" .
+
+<https://ex.org/Person2650308359> a pico:PersonObservation ;
+    schema:familyName " Brandberg" ;
+    schema:givenName "Jonas " ;
+    schema:name "Jonas Brandberg" .
+
+<https://ex.org/Person2650308360> a pico:PersonObservation ;
+    schema:familyName " Brandberg" ;
+    schema:givenName "Johan " ;
+    schema:name "Johan Brandberg" .
+
+<https://ex.org/Person2650308362> a pico:PersonObservation ;
+    schema:familyName "van Kamerik" ;
+    schema:givenName "Rachel " ;
+    schema:name "Rachel van Kamerik" .
+
+<https://ex.org/Person2650308363> a pico:PersonObservation ;
+    schema:familyName " Zwaab" ;
+    schema:givenName "Hijman Machiel " ;
+    schema:name "Hijman Machiel Zwaab" .
+
+<https://ex.org/Person2650308364> a pico:PersonObservation ;
+    schema:familyName " Zwaab" ;
+    schema:givenName "Naatje " ;
+    schema:name "Naatje Zwaab" .
+
+<https://ex.org/Person2650308365> a pico:PersonObservation ;
+    schema:familyName " Wijsenbeck" ;
+    schema:givenName "Naatje " ;
+    schema:name "Naatje Wijsenbeck" .
+
+<https://ex.org/Person2650308366> a pico:PersonObservation ;
+    schema:familyName " Levijson" ;
+    schema:givenName "Levij Abram " ;
+    schema:name "Levij Abram Levijson" .
+
+<https://ex.org/Person2650308367> a pico:PersonObservation ;
+    schema:familyName " Levijson" ;
+    schema:givenName "Abraham " ;
+    schema:name "Abraham Levijson" .
+
+<https://ex.org/Person2650308369> a pico:PersonObservation ;
+    schema:familyName "de Viet" ;
+    schema:givenName "Maria " ;
+    schema:name "Maria de Viet" .
+
+<https://ex.org/Person2650308370> a pico:PersonObservation ;
+    schema:familyName " Uijleman" ;
+    schema:givenName "Hendrik Johannes " ;
+    schema:name "Hendrik Johannes Uijleman" .
+
+<https://ex.org/Person2650308371> a pico:PersonObservation ;
+    schema:familyName " Uijleman" ;
+    schema:givenName "Maria " ;
+    schema:name "Maria Uijleman" .
+
+<https://ex.org/Person2650308372> a pico:PersonObservation ;
+    schema:familyName " Vermeulen" ;
+    schema:givenName "Wilhelmina Sophia Geertruida " ;
+    schema:name "Wilhelmina Sophia Geertruida Vermeulen" .
+
+<https://ex.org/Person2650308373> a pico:PersonObservation ;
+    schema:familyName " Soudé" ;
+    schema:givenName "Fedde Sijmen " ;
+    schema:name "Fedde Sijmen Soudé" .
+
+<https://ex.org/Person2650308374> a pico:PersonObservation ;
+    schema:familyName " Soudé" ;
+    schema:givenName "Johannes Pieter " ;
+    schema:name "Johannes Pieter Soudé" .
+
+<https://ex.org/Person2650308376> a pico:PersonObservation ;
+    schema:familyName "van der Heijden" ;
+    schema:givenName "Maria Johanna Susanna " ;
+    schema:name "Maria Johanna Susanna van der Heijden" .
+
+<https://ex.org/Person2650308377> a pico:PersonObservation ;
+    schema:familyName " Munnik" ;
+    schema:givenName "Paulus Laurens " ;
+    schema:name "Paulus Laurens Munnik" .
+
+<https://ex.org/Person2650308378> a pico:PersonObservation ;
+    schema:familyName " Munnik" ;
+    schema:givenName "Cornelia Maria Elisabeth " ;
+    schema:name "Cornelia Maria Elisabeth Munnik" .
+
+<https://ex.org/Person2650308379> a pico:PersonObservation ;
+    schema:familyName " Bach" ;
+    schema:givenName "Maria Elisabeth " ;
+    schema:name "Maria Elisabeth Bach" .
+
+<https://ex.org/Person2650308380> a pico:PersonObservation ;
+    schema:familyName " Wallien" ;
+    schema:givenName "Hermanus " ;
+    schema:name "Hermanus Wallien" .
+
+<https://ex.org/Person2650308381> a pico:PersonObservation ;
+    schema:familyName " Wallien" ;
+    schema:givenName "Hendrik Frederik " ;
+    schema:name "Hendrik Frederik Wallien" .
+
+<https://ex.org/Person2650308383> a pico:PersonObservation ;
+    schema:familyName " Boxem" ;
+    schema:givenName "Annigje " ;
+    schema:name "Annigje Boxem" .
+
+<https://ex.org/Person2650308384> a pico:PersonObservation ;
+    schema:familyName " Gaijkema" ;
+    schema:givenName "Roelof " ;
+    schema:name "Roelof Gaijkema" .
+
+<https://ex.org/Person2650308385> a pico:PersonObservation ;
+    schema:familyName " Gaijkema" ;
+    schema:givenName "Jakoba Alberta Cornelia " ;
+    schema:name "Jakoba Alberta Cornelia Gaijkema" .
+
+<https://ex.org/Person2650308386> a pico:PersonObservation ;
+    schema:familyName " Hofhous" ;
+    schema:givenName "Maria " ;
+    schema:name "Maria Hofhous" .
+
+<https://ex.org/Person2650308387> a pico:PersonObservation ;
+    schema:familyName " Voigt" ;
+    schema:givenName "Dirk " ;
+    schema:name "Dirk Voigt" .
+
+<https://ex.org/Person2650308388> a pico:PersonObservation ;
+    schema:familyName " Voigt" ;
+    schema:givenName "Jan Frederik " ;
+    schema:name "Jan Frederik Voigt" .
+
+<https://ex.org/Person2650308390> a pico:PersonObservation ;
+    schema:familyName "van der Kolk" ;
+    schema:givenName "Aartje " ;
+    schema:name "Aartje van der Kolk" .
+
+<https://ex.org/Person2650308391> a pico:PersonObservation ;
+    schema:familyName "van Joolingen" ;
+    schema:givenName "Joachim " ;
+    schema:name "Joachim van Joolingen" .
+
+<https://ex.org/Person2650308392> a pico:PersonObservation ;
+    schema:familyName "van Joolingen" ;
+    schema:givenName "Aartje " ;
+    schema:name "Aartje van Joolingen" .
+
+<https://ex.org/Person2650308393> a pico:PersonObservation ;
+    schema:familyName " Hensen" ;
+    schema:givenName "Antje " ;
+    schema:name "Antje Hensen" .
+
+<https://ex.org/Person2650308394> a pico:PersonObservation ;
+    schema:familyName " Leen" ;
+    schema:givenName "Cornelis Jacobus " ;
+    schema:name "Cornelis Jacobus Leen" .
+
+<https://ex.org/Person2650308395> a pico:PersonObservation ;
+    schema:familyName " Leen" ;
+    schema:givenName "Jan Wijnand " ;
+    schema:name "Jan Wijnand Leen" .
+
+<https://ex.org/Person2650308397> a pico:PersonObservation ;
+    schema:familyName " Visjager" ;
+    schema:givenName "Engeltje " ;
+    schema:name "Engeltje Visjager" .
+
+<https://ex.org/Person2650308398> a pico:PersonObservation ;
+    schema:familyName "de Jong" ;
+    schema:givenName "Moses " ;
+    schema:name "Moses de Jong" .
+
+<https://ex.org/Person2650308399> a pico:PersonObservation ;
+    schema:familyName "de Jong" ;
+    schema:givenName "Betje " ;
+    schema:name "Betje de Jong" .
+
+<https://ex.org/Person2650308400> a pico:PersonObservation ;
+    schema:familyName "van der Poorten" ;
+    schema:givenName "Nannette " ;
+    schema:name "Nannette van der Poorten" .
+
+<https://ex.org/Person2650308401> a pico:PersonObservation ;
+    schema:familyName " Serlui" ;
+    schema:givenName "Samuel " ;
+    schema:name "Samuel Serlui" .
+
+<https://ex.org/Person2650308402> a pico:PersonObservation ;
+    schema:familyName " Serlui" ;
+    schema:givenName "Mozes " ;
+    schema:name "Mozes Serlui" .
+
+<https://ex.org/Person2650308404> a pico:PersonObservation ;
+    schema:familyName "Le Blanc" ;
+    schema:givenName "Maria Clementia " ;
+    schema:name "Maria Clementia Le Blanc" .
+
+<https://ex.org/Person2650308405> a pico:PersonObservation ;
+    schema:familyName " Matthijs" ;
+    schema:givenName "Johan Carel Godfried " ;
+    schema:name "Johan Carel Godfried Matthijs" .
+
+<https://ex.org/Person2650308406> a pico:PersonObservation ;
+    schema:familyName " Matthijs" ;
+    schema:givenName "Elisabeth " ;
+    schema:name "Elisabeth Matthijs" .
+
+<https://ex.org/Person2650308407> a pico:PersonObservation ;
+    schema:familyName " Pels" ;
+    schema:givenName "Maria Elisabeth " ;
+    schema:name "Maria Elisabeth Pels" .
+
+<https://ex.org/Person2650308408> a pico:PersonObservation ;
+    schema:familyName "van Kampen" ;
+    schema:givenName "Cornelis " ;
+    schema:name "Cornelis van Kampen" .
+
+<https://ex.org/Person2650308409> a pico:PersonObservation ;
+    schema:familyName "van Kampen" ;
+    schema:givenName "Antonie " ;
+    schema:name "Antonie van Kampen" .
+
+<https://ex.org/Person2650308411> a pico:PersonObservation ;
+    schema:familyName " Rading" ;
+    schema:givenName "Trijntje " ;
+    schema:name "Trijntje Rading" .
+
+<https://ex.org/Person2650308412> a pico:PersonObservation ;
+    schema:familyName " Hanja" ;
+    schema:givenName "Gerben " ;
+    schema:name "Gerben Hanja" .
+
+<https://ex.org/Person2650308413> a pico:PersonObservation ;
+    schema:familyName " Hanja" ;
+    schema:givenName "Grietje " ;
+    schema:name "Grietje Hanja" .
+
+<https://ex.org/Person2650308414> a pico:PersonObservation ;
+    schema:familyName " Helder" ;
+    schema:givenName "Antje " ;
+    schema:name "Antje Helder" .
+
+<https://ex.org/Person2650308415> a pico:PersonObservation ;
+    schema:familyName "van der Schaaf" ;
+    schema:givenName "Jan " ;
+    schema:name "Jan van der Schaaf" .
+
+<https://ex.org/Person2650308416> a pico:PersonObservation ;
+    schema:familyName "van der Schaaf" ;
+    schema:givenName "Jan " ;
+    schema:name "Jan van der Schaaf" .
+
+<https://ex.org/Person2650308418> a pico:PersonObservation ;
+    schema:familyName " Lewis" ;
+    schema:givenName "Hendrika " ;
+    schema:name "Hendrika Lewis" .
+
+<https://ex.org/Person2650308419> a pico:PersonObservation ;
+    schema:familyName " Hemminga" ;
+    schema:givenName "Nikolaas " ;
+    schema:name "Nikolaas Hemminga" .
+
+<https://ex.org/Person2650308420> a pico:PersonObservation ;
+    schema:familyName " Hemminga" ;
+    schema:givenName "Hendrika " ;
+    schema:name "Hendrika Hemminga" .
+
+<https://ex.org/Person2650308421> a pico:PersonObservation ;
+    schema:familyName " Visser" ;
+    schema:givenName "Geertje " ;
+    schema:name "Geertje Visser" .
+
+<https://ex.org/Person2650308422> a pico:PersonObservation ;
+    schema:familyName "van Ee" ;
+    schema:givenName "Marten " ;
+    schema:name "Marten van Ee" .
+
+<https://ex.org/Person2650308423> a pico:PersonObservation ;
+    schema:familyName "van Ee" ;
+    schema:givenName "Willem Fredrik " ;
+    schema:name "Willem Fredrik van Ee" .
+
+<https://ex.org/Person2650308425> a pico:PersonObservation ;
+    schema:familyName " Cornelisse" ;
+    schema:givenName "Cornelia " ;
+    schema:name "Cornelia Cornelisse" .
+
+<https://ex.org/Person2650308426> a pico:PersonObservation ;
+    schema:familyName " Hanse" ;
+    schema:givenName "Johannes Antonius " ;
+    schema:name "Johannes Antonius Hanse" .
+
+<https://ex.org/Person2650308427> a pico:PersonObservation ;
+    schema:familyName " Hanse" ;
+    schema:givenName "Cornelia " ;
+    schema:name "Cornelia Hanse" .
+
+<https://ex.org/Person2650308428> a pico:PersonObservation ;
+    schema:familyName "van Breemen" ;
+    schema:givenName "Elizabeth Maria " ;
+    schema:name "Elizabeth Maria van Breemen" .
+
+<https://ex.org/Person2650308429> a pico:PersonObservation ;
+    schema:familyName " Hijzelendoorn" ;
+    schema:givenName "Dirk " ;
+    schema:name "Dirk Hijzelendoorn" .
+
+<https://ex.org/Person2650308430> a pico:PersonObservation ;
+    schema:familyName " Hijzelendoorn" ;
+    schema:givenName "Jan Cornelis " ;
+    schema:name "Jan Cornelis Hijzelendoorn" .
+
+<https://ex.org/Person2650308432> a pico:PersonObservation ;
+    schema:familyName "van Ootmarsum" ;
+    schema:givenName "Geertruida Christina " ;
+    schema:name "Geertruida Christina van Ootmarsum" .
+
+<https://ex.org/Person2650308433> a pico:PersonObservation ;
+    schema:familyName " Kingma" ;
+    schema:givenName "Fokke " ;
+    schema:name "Fokke Kingma" .
+
+<https://ex.org/Person2650308434> a pico:PersonObservation ;
+    schema:familyName " Kingma" ;
+    schema:givenName "Gerbregje Geertruida " ;
+    schema:name "Gerbregje Geertruida Kingma" .
+
+<https://ex.org/Person2650308435> a pico:PersonObservation ;
+    schema:familyName " Liesching" ;
+    schema:givenName "Charlotte Gottliebe " ;
+    schema:name "Charlotte Gottliebe Liesching" .
+
+<https://ex.org/Person2650308436> a pico:PersonObservation ;
+    schema:familyName " Anthing" ;
+    schema:givenName "Johannes Philippus " ;
+    schema:name "Johannes Philippus Anthing" .
+
+<https://ex.org/Person2650308437> a pico:PersonObservation ;
+    schema:familyName " Anthing" ;
+    schema:givenName "Frederik Lodewijk " ;
+    schema:name "Frederik Lodewijk Anthing" .
+
+<https://ex.org/Person2650308439> a pico:PersonObservation ;
+    schema:familyName " Kaestner" ;
+    schema:givenName "Gerritdina " ;
+    schema:name "Gerritdina Kaestner" .
+
+<https://ex.org/Person2650308440> a pico:PersonObservation ;
+    schema:familyName "van Straalen" ;
+    schema:givenName "Jacobus Henri " ;
+    schema:name "Jacobus Henri van Straalen" .
+
+<https://ex.org/Person2650308441> a pico:PersonObservation ;
+    schema:familyName "van Straalen" ;
+    schema:givenName "Maria Jacoba " ;
+    schema:name "Maria Jacoba van Straalen" .
+
+<https://ex.org/Person2650308442> a pico:PersonObservation ;
+    schema:familyName " Smit" ;
+    schema:givenName "Swaantje " ;
+    schema:name "Swaantje Smit" .
+
+<https://ex.org/Person2650308443> a pico:PersonObservation ;
+    schema:familyName " Wolfraad" ;
+    schema:givenName "Hermanus " ;
+    schema:name "Hermanus Wolfraad" .
+
+<https://ex.org/Person2650308444> a pico:PersonObservation ;
+    schema:familyName " Wolfraad" ;
+    schema:givenName "Hermanus " ;
+    schema:name "Hermanus Wolfraad" .
+
+<https://ex.org/Person2650308446> a pico:PersonObservation ;
+    schema:familyName "van der Linden" ;
+    schema:givenName "Antje " ;
+    schema:name "Antje van der Linden" .
+
+<https://ex.org/Person2650308447> a pico:PersonObservation ;
+    schema:familyName " Koghee" ;
+    schema:givenName "Jan " ;
+    schema:name "Jan Koghee" .
+
+<https://ex.org/Person2650308448> a pico:PersonObservation ;
+    schema:familyName " Koghee" ;
+    schema:givenName "Antje " ;
+    schema:name "Antje Koghee" .
+
+<https://ex.org/Person2650308449> a pico:PersonObservation ;
+    schema:familyName " Schalkwijk" ;
+    schema:givenName "Christina Frederika " ;
+    schema:name "Christina Frederika Schalkwijk" .
+
+<https://ex.org/Person2650308450> a pico:PersonObservation ;
+    schema:familyName " Rose" ;
+    schema:givenName "Gerhard Heinrich " ;
+    schema:name "Gerhard Heinrich Rose" .
+
+<https://ex.org/Person2650308451> a pico:PersonObservation ;
+    schema:familyName " Rose" ;
+    schema:givenName "Frederik Christiaan " ;
+    schema:name "Frederik Christiaan Rose" .
+
+<https://ex.org/Person2650308453> a pico:PersonObservation ;
+    schema:familyName "van Meerten" ;
+    schema:givenName "Elisabeth Cornelia " ;
+    schema:name "Elisabeth Cornelia van Meerten" .
+
+<https://ex.org/Person2650308454> a pico:PersonObservation ;
+    schema:familyName " Pruijs" ;
+    schema:givenName "Pieter " ;
+    schema:name "Pieter Pruijs" .
+
+<https://ex.org/Person2650308455> a pico:PersonObservation ;
+    schema:familyName " Pruijs" ;
+    schema:givenName "Maria " ;
+    schema:name "Maria Pruijs" .
+
+<https://ex.org/Person2650308456> a pico:PersonObservation ;
+    schema:familyName "de Jager" ;
+    schema:givenName "Elisabeth Wilhelmina " ;
+    schema:name "Elisabeth Wilhelmina de Jager" .
+
+<https://ex.org/Person2650308457> a pico:PersonObservation ;
+    schema:familyName " Meijer" ;
+    schema:givenName "Hendrik " ;
+    schema:name "Hendrik Meijer" .
+
+<https://ex.org/Person2650308458> a pico:PersonObservation ;
+    schema:familyName " Meijer" ;
+    schema:givenName "Hendrik " ;
+    schema:name "Hendrik Meijer" .
+
+<https://ex.org/Person2650308460> a pico:PersonObservation ;
+    schema:familyName " Postima" ;
+    schema:givenName "Maria " ;
+    schema:name "Maria Postima" .
+
+<https://ex.org/Person2650308461> a pico:PersonObservation ;
+    schema:familyName " Schuling" ;
+    schema:givenName "Jan Antonie " ;
+    schema:name "Jan Antonie Schuling" .
+
+<https://ex.org/Person2650308462> a pico:PersonObservation ;
+    schema:familyName " Schuling" ;
+    schema:givenName "Francisca Maria " ;
+    schema:name "Francisca Maria Schuling" .
+
+<https://ex.org/Person2650308463> a pico:PersonObservation ;
+    schema:familyName " Lous" ;
+    schema:givenName "Helena " ;
+    schema:name "Helena Lous" .
+
+<https://ex.org/Person2650308464> a pico:PersonObservation ;
+    schema:familyName " Anthoni" ;
+    schema:givenName "Johannes " ;
+    schema:name "Johannes Anthoni" .
+
+<https://ex.org/Person2650308465> a pico:PersonObservation ;
+    schema:familyName " Anthoni" ;
+    schema:givenName "Philip Ernst " ;
+    schema:name "Philip Ernst Anthoni" .
+
+<https://ex.org/Person2650308467> a pico:PersonObservation ;
+    schema:familyName " Vierbergen" ;
+    schema:givenName "Dirkje " ;
+    schema:name "Dirkje Vierbergen" .
+
+<https://ex.org/Person2650308468> a pico:PersonObservation ;
+    schema:familyName " Smaling" ;
+    schema:givenName "Joseph " ;
+    schema:name "Joseph Smaling" .
+
+<https://ex.org/Person2650308469> a pico:PersonObservation ;
+    schema:familyName " Smaling" ;
+    schema:givenName "Maria Hendrika " ;
+    schema:name "Maria Hendrika Smaling" .
+
+<https://ex.org/Person2650308470> a pico:PersonObservation ;
+    schema:familyName " Ruurs" ;
+    schema:givenName "Maria Francina " ;
+    schema:name "Maria Francina Ruurs" .
+
+<https://ex.org/Person2650308471> a pico:PersonObservation ;
+    schema:familyName " Vermeij" ;
+    schema:givenName "Willem " ;
+    schema:name "Willem Vermeij" .
+
+<https://ex.org/Person2650308472> a pico:PersonObservation ;
+    schema:familyName " Vermeij" ;
+    schema:givenName "Arie " ;
+    schema:name "Arie Vermeij" .
 

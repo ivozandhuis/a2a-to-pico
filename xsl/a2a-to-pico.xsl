@@ -30,6 +30,9 @@
     <xsl:text>https://ex.org/</xsl:text>
 </xsl:param>
 
+<!-- ignore empty elements-->
+<!-- HOE!? -->
+
 <!-- RDF wrap -->
 <xsl:template match="a2arc:A2ACollection">
     <rdf:RDF>
