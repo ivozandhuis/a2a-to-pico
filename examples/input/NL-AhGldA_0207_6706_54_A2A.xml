@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<opendata>
+<!--opendata>
   <header><type>A2A</type>
     <rights>Public Domain Dedication</rights>
     <modified>2022-12-25</modified>
     <dataProvider>Gelders Archief</dataProvider>
     <provider>Gelders Archief</provider>
   </header>
-  <data><A2ACollection xmlns="http://Mindbus.nl/RecordCollectionA2A" xmlns:A2A="http://Mindbus.nl/A2A"><a2a:A2A xmlns:a2a="http://Mindbus.nl/A2A" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.7" xsi:schemaLocation="http://Mindbus.nl/A2A http://Mindbus.nl/A2A/A2AAllInOne_v.1.7.xsd">
+  <data--><a2arc:A2ACollection xmlns:a2arc="http://Mindbus.nl/RecordCollectionA2A" xmlns:A2A="http://Mindbus.nl/A2A"><a2a:A2A xmlns:a2a="http://Mindbus.nl/A2A" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.7" xsi:schemaLocation="http://Mindbus.nl/A2A http://Mindbus.nl/A2A/A2AAllInOne_v.1.7.xsd">
         <a2a:Person pid="Person3046089065">
           <a2a:PersonName>
             <a2a:PersonNameFirstName>Hermina</a2a:PersonNameFirstName>
@@ -31191,6 +31191,6 @@
           </a2a:SourceRemark>
         </a2a:Source>
       </a2a:A2A>
-    </A2ACollection>
-  </data>
-</opendata>
+    </a2arc:A2ACollection>
+  <!--/data>
+</opendata-->
