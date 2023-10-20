@@ -16,12 +16,6 @@
 
     exclude-result-prefixes="xsl a2a a2arc">
 
-    <xsl:template match="a2a:RelationEP"/>
-    <xsl:template match="a2a:RelationPP"/>
-    <xsl:template match="a2a:RelationPO"/>
-    <xsl:template match="a2a:RelationEO"/>
-    <xsl:template match="a2a:RelationP"/>
-    <xsl:template match="a2a:RelationOO"/>
-    <xsl:template match="a2a:RelationO"/>
+    <xsl:template match="a2a:Object"/>
 
 </xsl:stylesheet>

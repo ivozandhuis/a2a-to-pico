@@ -18,6 +18,7 @@
 
 <xsl:import href="person.xsl"/>
 <xsl:import href="event.xsl"/>
+<xsl:import href="object.xsl"/>
 <xsl:import href="source.xsl"/>
 <xsl:import href="relations.xsl"/>
 <!--xsl:import href="named-templates.xsl"/-->
