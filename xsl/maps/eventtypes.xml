@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+    <!-- TBD: first standardized relation-types, add alternative spellings-->
+    <item>
+        <name>Geboorte</name>
+        <id>birth</id>
+    </item>
+    <item>
+        <name>Geboorte</name>
+        <id>birth</id>
+    </item>
+
+</items>

@@ -6205,6 +6205,742 @@
       <schema:givenName>Cornelia</schema:givenName>
       <schema:familyName>Meijer</schema:familyName>
    </pico:PersonObservation>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307824">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307824"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307827"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307830"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307831">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307831"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307834"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307837"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307838">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307838"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307841"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307844"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307845">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307845"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307848"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307851"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307852">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307852"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307855"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307858"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307859">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307859"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307862"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307865"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308105">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308105"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308108"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308111"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308112">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308112"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308115"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308118"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308119">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308119"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308121"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308124"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308125">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308125"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308128"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308131"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308135">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308135"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308138"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308141"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308340">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308340"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308343"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308346"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308347">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308347"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308350"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308353"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308354">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308354"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308357"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308360"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308361">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308361"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308364"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308367"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308368">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308368"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308371"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308374"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308375">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308375"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308378"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308381"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307866">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307866"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307869"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307872"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307873">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307873"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307876"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307879"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307880">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307880"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307883"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307886"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307887">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307887"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307890"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307893"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307894">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307894"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307897"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307900"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307901">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307901"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307904"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307907"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307908">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307908"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307911"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307914"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307918">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307918"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307921"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307924"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307925">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307925"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-15</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307928"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307931"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307932">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307932"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307935"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307937"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307938">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307938"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307941"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307944"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308142">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308142"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308145"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308148"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308149">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308149"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308152"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308155"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308156">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308156"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308159"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308162"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308163">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308163"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308166"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308169"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308170">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308170"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308173"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308176"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308177">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308177"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308180"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308183"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308382">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308382"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308385"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308388"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308389">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308389"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308392"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308395"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308396">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308396"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308399"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308402"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308403">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308403"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308406"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308409"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308410">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308410"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308413"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308416"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308417">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308417"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308420"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308423"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307945">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307945"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307948"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307951"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307952">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307952"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307955"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307958"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307959">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307959"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307962"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307965"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307966">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307966"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307968"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307971"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307972">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307972"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307975"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307978"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307979">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307979"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307982"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307985"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308184">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308184"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308187"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308190"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308191">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308191"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308194"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308197"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308198">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308198"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308201"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308204"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308205">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308205"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308208"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308211"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308212">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308212"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308215"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308218"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308219">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308219"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-08-04</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308222"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308225"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308424">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308424"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-28</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308427"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308430"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308431">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308431"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-28</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308434"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308437"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308438">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308438"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-28</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308441"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308444"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308445">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308445"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-28</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308448"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308451"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308452">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308452"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-28</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308455"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308458"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308459">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308459"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-28</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308462"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308465"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307986">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307986"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307989"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307992"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650307993">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650307993"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650307996"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650307999"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308000">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308000"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308003"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308006"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308007">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308007"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308010"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308013"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308014">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308014"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308017"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308020"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308021">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308021"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308024"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308027"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308226">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308226"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308229"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308232"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308233">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308233"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308236"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308239"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308240">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308240"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308243"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308246"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308247">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308247"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308250"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308253"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308254">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308254"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308257"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308260"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308466">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308466"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-28</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308469"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308472"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308028">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308028"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308031"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308034"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308035">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308035"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308038"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308041"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308042">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308042"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308045"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308048"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308049">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308049"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308052"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308055"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308056">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308056"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308059"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308062"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308063">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308063"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308066"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308069"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308264">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308264"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308267"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308270"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308271">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308271"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308274"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308277"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308278">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308278"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308281"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308284"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308285">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308285"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308288"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308291"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308292">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308292"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308295"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308298"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308299">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308299"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308302"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308305"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308070">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308070"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308073"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308076"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308077">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308077"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308080"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308083"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308084">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308084"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308087"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308090"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308091">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308091"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308094"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308097"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308098">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308098"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308101"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308104"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308306">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308306"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308309"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308312"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308313">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308313"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308316"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308319"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308320">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308320"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308323"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308325"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308326">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308326"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308329"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308332"/>
+   </bio:Marriage>
+   <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
+                  rdf:about="https://ex.org/Event1-2650308333">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/2650308333"/>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
+      <bio:place>Amsterdam</bio:place>
+      <bio:partner rdf:resource="https://ex.org/Person2650308336"/>
+      <bio:partner rdf:resource="https://ex.org/Person2650308339"/>
+   </bio:Marriage>
    <schema:ArchiveComponent rdf:about="https://ex.org/2650307824">
       <schema:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 1</schema:name>
    </schema:ArchiveComponent>

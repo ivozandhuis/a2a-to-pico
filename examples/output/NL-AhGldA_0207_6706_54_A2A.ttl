@@ -2,6 +2,7 @@
 @prefix pnv: <https://w3id.org/pnv#> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <https://ex.org/Person3046089015> a pico:PersonObservation ;
     schema:children <https://ex.org/Person3046089013> ;
@@ -2394,6 +2395,8 @@
     pico:hasRole "Moeder" .
 
 <https://ex.org/Person3046089013> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Stitzinger" ;
     schema:givenName "Theodora Maria" ;
     schema:name "Theodora Maria Stitzinger" ;
@@ -2412,6 +2415,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089017> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Hilbrand" ;
     schema:givenName "Cornelia" ;
     schema:name "Cornelia Hilbrand" ;
@@ -2430,6 +2435,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089021> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Cranen" ;
     schema:givenName "Anna Maria" ;
     schema:name "Anna Maria Cranen" ;
@@ -2448,6 +2455,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089025> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Janssen" ;
     schema:givenName "Hendrica Eusebia" ;
     schema:name "Hendrica Eusebia Janssen" ;
@@ -2466,6 +2475,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089029> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Mallinckrodt" ;
     schema:givenName "Albert Frederik George" ;
     schema:name "Albert Frederik George Mallinckrodt" ;
@@ -2484,6 +2495,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089033> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Engelberts" ;
     schema:givenName "Louise Catharine" ;
     schema:name "Louise Catharine Engelberts" ;
@@ -2502,6 +2515,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089037> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Jansen" ;
     schema:givenName "Henrica Maria" ;
     schema:name "Henrica Maria Jansen" ;
@@ -2520,6 +2535,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089041> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Folman" ;
     schema:givenName "Theodora Grada" ;
     schema:name "Theodora Grada Folman" ;
@@ -2538,6 +2555,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089045> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Landsheer" ;
     schema:givenName "Franciscus" ;
     schema:name "Franciscus Landsheer" ;
@@ -2556,6 +2575,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089049> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Looman" ;
     schema:givenName "Herman" ;
     schema:name "Herman Looman" ;
@@ -2574,6 +2595,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089053> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Magendans" ;
     schema:givenName "Wilhemina" ;
     schema:name "Wilhemina Magendans" ;
@@ -2592,6 +2615,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089057> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Rogmans" ;
     schema:givenName "Maria Hendrina Jacoba" ;
     schema:name "Maria Hendrina Jacoba Rogmans" ;
@@ -2610,6 +2635,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089061> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Jezeer" ;
     schema:givenName "Gijsbertus Johannes" ;
     schema:name "Gijsbertus Johannes Jezeer" ;
@@ -2632,6 +2659,8 @@
             pnv:baseSurname "Leeuwen" ;
             pnv:literalName "Hermina van Leeuwen" ;
             pnv:surnamePrefix "van" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van Leeuwen" ;
     schema:givenName "Hermina" ;
     schema:name "Hermina van Leeuwen" ;
@@ -2654,6 +2683,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089069> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Gerritsen" ;
     schema:givenName "Hannes" ;
     schema:name "Hannes Gerritsen" ;
@@ -2672,6 +2703,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089073> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Kuster" ;
     schema:givenName "Egbert Willem" ;
     schema:name "Egbert Willem Kuster" ;
@@ -2690,6 +2723,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089077> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Righart" ;
     schema:givenName "Cornelis Theodorus" ;
     schema:name "Cornelis Theodorus Righart" ;
@@ -2708,6 +2743,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089081> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Kruijer" ;
     schema:givenName "Hendrik Louis" ;
     schema:name "Hendrik Louis Kruijer" ;
@@ -2726,6 +2763,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089085> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Baltus" ;
     schema:givenName "Hendrik" ;
     schema:name "Hendrik Baltus" ;
@@ -2744,6 +2783,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089089> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Jansen" ;
     schema:givenName "Martinus" ;
     schema:name "Martinus Jansen" ;
@@ -2766,6 +2807,8 @@
             pnv:baseSurname "Heumen" ;
             pnv:literalName "Johanna van Heumen" ;
             pnv:surnamePrefix "van" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van Heumen" ;
     schema:givenName "Johanna" ;
     schema:name "Johanna van Heumen" ;
@@ -2788,6 +2831,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089097> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Teunissen" ;
     schema:givenName "Catharina" ;
     schema:name "Catharina Teunissen" ;
@@ -2806,6 +2851,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089101> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Lenglet" ;
     schema:givenName "Constant August Joseph" ;
     schema:name "Constant August Joseph Lenglet" ;
@@ -2824,6 +2871,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089105> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Menco" ;
     schema:givenName "Abraham" ;
     schema:name "Abraham Menco" ;
@@ -2842,6 +2891,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089109> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Jansen" ;
     schema:givenName "Maria Wilhelmina" ;
     schema:name "Maria Wilhelmina Jansen" ;
@@ -2860,6 +2911,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089113> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Theunissen" ;
     schema:givenName "Johanna Elisabeth" ;
     schema:name "Johanna Elisabeth Theunissen" ;
@@ -2878,6 +2931,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089117> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Wigman" ;
     schema:givenName "Theodora" ;
     schema:name "Theodora Wigman" ;
@@ -2896,6 +2951,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089121> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Reiff" ;
     schema:givenName "Petronella Gesina" ;
     schema:name "Petronella Gesina Reiff" ;
@@ -2914,6 +2971,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089125> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Heijster" ;
     schema:givenName "Johanna Jacoba Aleida" ;
     schema:name "Johanna Jacoba Aleida Heijster" ;
@@ -2932,6 +2991,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089129> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Rietbergen" ;
     schema:givenName "Franciscus Everhardus" ;
     schema:name "Franciscus Everhardus Rietbergen" ;
@@ -2950,6 +3011,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089133> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Feith" ;
     schema:givenName "Karel Willem" ;
     schema:name "Karel Willem Feith" ;
@@ -2968,6 +3031,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089137> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Verburgt" ;
     schema:givenName "Machielis" ;
     schema:name "Machielis Verburgt" ;
@@ -2986,6 +3051,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089141> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Koentz" ;
     schema:givenName "Derkje Hendrika" ;
     schema:name "Derkje Hendrika Koentz" ;
@@ -3004,6 +3071,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089157> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Valk" ;
     schema:givenName "Alberdina Elisabeth" ;
     schema:name "Alberdina Elisabeth Valk" ;
@@ -3022,6 +3091,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089161> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Jung" ;
     schema:givenName "Antonius Louis" ;
     schema:name "Antonius Louis Jung" ;
@@ -3040,6 +3111,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089165> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Wijman" ;
     schema:givenName "Hendrik" ;
     schema:name "Hendrik Wijman" ;
@@ -3062,6 +3135,8 @@
             pnv:baseSurname "Wiel" ;
             pnv:literalName "Willem van der Wiel" ;
             pnv:surnamePrefix "van der" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van der Wiel" ;
     schema:givenName "Willem" ;
     schema:name "Willem van der Wiel" ;
@@ -3084,6 +3159,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089173> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Rijsewijk" ;
     schema:givenName "Theodora" ;
     schema:name "Theodora Rijsewijk" ;
@@ -3102,6 +3179,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089177> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Haas" ;
     schema:givenName "Bernardina Cornelia" ;
     schema:name "Bernardina Cornelia Haas" ;
@@ -3120,6 +3199,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089181> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Diepenbroek" ;
     schema:givenName "Jan Evert Hendrik" ;
     schema:name "Jan Evert Hendrik Diepenbroek" ;
@@ -3142,6 +3223,8 @@
             pnv:baseSurname "Baaren" ;
             pnv:literalName "Jan Johannes van Baaren" ;
             pnv:surnamePrefix "van" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van Baaren" ;
     schema:givenName "Jan Johannes" ;
     schema:name "Jan Johannes van Baaren" ;
@@ -3164,6 +3247,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089189> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Tardijn" ;
     schema:givenName "Geertruida" ;
     schema:name "Geertruida Tardijn" ;
@@ -3182,6 +3267,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089193> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Wielheesen" ;
     schema:givenName "Geurdina Charlotta" ;
     schema:name "Geurdina Charlotta Wielheesen" ;
@@ -3200,6 +3287,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089197> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Bouwman" ;
     schema:givenName "Johanna Catharina" ;
     schema:name "Johanna Catharina Bouwman" ;
@@ -3218,6 +3307,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089201> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Isselmann" ;
     schema:givenName "Everdina Bernardina Hendrica" ;
     schema:name "Everdina Bernardina Hendrica Isselmann" ;
@@ -3236,6 +3327,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089205> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Sluiter" ;
     schema:givenName "Hendrina Catharina" ;
     schema:name "Hendrina Catharina Sluiter" ;
@@ -3254,6 +3347,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089209> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Standaar" ;
     schema:givenName "Carolus Johannes" ;
     schema:name "Carolus Johannes Standaar" ;
@@ -3272,6 +3367,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089213> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Evers" ;
     schema:givenName "Everdina Wilhelmina" ;
     schema:name "Everdina Wilhelmina Evers" ;
@@ -3290,6 +3387,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089217> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Baerends" ;
     schema:givenName "Paulina" ;
     schema:name "Paulina Baerends" ;
@@ -3308,6 +3407,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089221> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Vos" ;
     schema:givenName "Catharina" ;
     schema:name "Catharina Vos" ;
@@ -3326,6 +3427,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089225> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Boumann" ;
     schema:givenName "Elisabeth" ;
     schema:name "Elisabeth Boumann" ;
@@ -3344,6 +3447,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089229> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Roepers" ;
     schema:givenName "Dorothea Maria" ;
     schema:name "Dorothea Maria Roepers" ;
@@ -3362,6 +3467,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089233> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Boester" ;
     schema:givenName "Johannes Hendricus" ;
     schema:name "Johannes Hendricus Boester" ;
@@ -3380,6 +3487,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089237> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Horn" ;
     schema:givenName "Leonard Carel Willem" ;
     schema:name "Leonard Carel Willem Horn" ;
@@ -3398,6 +3507,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089241> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Kessels" ;
     schema:givenName "Johannes Antonius" ;
     schema:name "Johannes Antonius Kessels" ;
@@ -3416,6 +3527,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089245> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Becker" ;
     schema:givenName "Petronella" ;
     schema:name "Petronella Becker" ;
@@ -3434,6 +3547,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089249> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Verplak" ;
     schema:givenName "Maria Catharina Helena" ;
     schema:name "Maria Catharina Helena Verplak" ;
@@ -3452,6 +3567,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089253> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Eshuijs" ;
     schema:givenName "Carolina Gerdina" ;
     schema:name "Carolina Gerdina Eshuijs" ;
@@ -3470,6 +3587,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089257> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Verburg" ;
     schema:givenName "Maria Allegonda" ;
     schema:name "Maria Allegonda Verburg" ;
@@ -3488,6 +3607,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089261> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Sigelinski" ;
     schema:givenName "Johanna Hendrika" ;
     schema:name "Johanna Hendrika Sigelinski" ;
@@ -3506,6 +3627,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089265> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Fredriks" ;
     schema:givenName "Catharina Johanna" ;
     schema:name "Catharina Johanna Fredriks" ;
@@ -3524,6 +3647,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089269> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Vissers" ;
     schema:givenName "Philippus Jacobus" ;
     schema:name "Philippus Jacobus Vissers" ;
@@ -3542,6 +3667,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089273> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Thomassen" ;
     schema:givenName "Johannes" ;
     schema:name "Johannes Thomassen" ;
@@ -3560,6 +3687,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089277> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Bredevelt" ;
     schema:givenName "Johanna" ;
     schema:name "Johanna Bredevelt" ;
@@ -3578,6 +3707,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089281> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Harmsen" ;
     schema:givenName "Susanna Antonia" ;
     schema:name "Susanna Antonia Harmsen" ;
@@ -3600,6 +3731,8 @@
             pnv:baseSurname "Vlaming" ;
             pnv:literalName "Jannetje de Vlaming" ;
             pnv:surnamePrefix "de" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "de Vlaming" ;
     schema:givenName "Jannetje" ;
     schema:name "Jannetje de Vlaming" ;
@@ -3622,6 +3755,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089289> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Nijenhuis" ;
     schema:givenName "Willem" ;
     schema:name "Willem Nijenhuis" ;
@@ -3644,6 +3779,8 @@
             pnv:baseSurname "Heek" ;
             pnv:literalName "Theresia Jacoba Theodora van Heek" ;
             pnv:surnamePrefix "van" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van Heek" ;
     schema:givenName "Theresia Jacoba Theodora" ;
     schema:name "Theresia Jacoba Theodora van Heek" ;
@@ -3666,6 +3803,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089297> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Zuuring" ;
     schema:givenName "Johannes Hendrik" ;
     schema:name "Johannes Hendrik Zuuring" ;
@@ -3684,6 +3823,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089301> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Verheul" ;
     schema:givenName "Adriana" ;
     schema:name "Adriana Verheul" ;
@@ -3706,6 +3847,8 @@
             pnv:baseSurname "Loon" ;
             pnv:literalName "Jacobus Petrus van Loon" ;
             pnv:surnamePrefix "van" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van Loon" ;
     schema:givenName "Jacobus Petrus" ;
     schema:name "Jacobus Petrus van Loon" ;
@@ -3728,6 +3871,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089309> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Thomassen" ;
     schema:givenName "Maria Johanna Gertruda" ;
     schema:name "Maria Johanna Gertruda Thomassen" ;
@@ -3746,6 +3891,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089313> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Reijers" ;
     schema:givenName "Zeger Reinier Allardus" ;
     schema:name "Zeger Reinier Allardus Reijers" ;
@@ -3764,6 +3911,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089317> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Jansen" ;
     schema:givenName "Hendrik Jan" ;
     schema:name "Hendrik Jan Jansen" ;
@@ -3782,6 +3931,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089321> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Niesman" ;
     schema:givenName "Hendrikus Gerhardus" ;
     schema:name "Hendrikus Gerhardus Niesman" ;
@@ -3804,6 +3955,8 @@
             pnv:baseSurname "Weide" ;
             pnv:literalName "Catharina van der Weide" ;
             pnv:surnamePrefix "van der" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van der Weide" ;
     schema:givenName "Catharina" ;
     schema:name "Catharina van der Weide" ;
@@ -3822,6 +3975,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089329> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Baumann" ;
     schema:givenName "Johanna Geertruida" ;
     schema:name "Johanna Geertruida Baumann" ;
@@ -3840,6 +3995,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089333> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Smits" ;
     schema:givenName "Geetruida" ;
     schema:name "Geetruida Smits" ;
@@ -3858,6 +4015,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089337> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Driessen" ;
     schema:givenName "Catharina Petronella" ;
     schema:name "Catharina Petronella Driessen" ;
@@ -3876,6 +4035,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089341> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Dinkeloo" ;
     schema:givenName "Katharina Geertruida" ;
     schema:name "Katharina Geertruida Dinkeloo" ;
@@ -3898,6 +4059,8 @@
             pnv:baseSurname "Winkel" ;
             pnv:literalName "Gerrit Jan te Winkel" ;
             pnv:surnamePrefix "te" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "te Winkel" ;
     schema:givenName "Gerrit Jan" ;
     schema:name "Gerrit Jan te Winkel" ;
@@ -3920,6 +4083,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089349> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Ubijng" ;
     schema:givenName "Antonia" ;
     schema:name "Antonia Ubijng" ;
@@ -3938,6 +4103,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089353> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Boerbooms" ;
     schema:givenName "Elisabeth Johanna Petronella" ;
     schema:name "Elisabeth Johanna Petronella Boerbooms" ;
@@ -3956,6 +4123,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089357> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Ludwig" ;
     schema:givenName "Francisca Cornelia Valentina" ;
     schema:name "Francisca Cornelia Valentina Ludwig" ;
@@ -3974,6 +4143,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089361> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Wouters" ;
     schema:givenName "Hermanus Albertus" ;
     schema:name "Hermanus Albertus Wouters" ;
@@ -3992,6 +4163,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089365> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Freriks" ;
     schema:givenName "Antonius Johannes" ;
     schema:name "Antonius Johannes Freriks" ;
@@ -4010,6 +4183,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089369> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Greven" ;
     schema:givenName "Elsje" ;
     schema:name "Elsje Greven" ;
@@ -4028,6 +4203,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089373> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Janssen Van Essen" ;
     schema:givenName "Elisabeth Wilhelmina" ;
     schema:name "Elisabeth Wilhelmina Janssen Van Essen" ;
@@ -4046,6 +4223,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089377> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Böthlingk" ;
     schema:givenName "Johannes" ;
     schema:name "Johannes Böthlingk" ;
@@ -4064,6 +4243,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089381> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Verhoeven" ;
     schema:givenName "Johannes Gerardus" ;
     schema:name "Johannes Gerardus Verhoeven" ;
@@ -4086,6 +4267,8 @@
             pnv:baseSurname "Zadelhoff" ;
             pnv:literalName "Jacob Wilhelmus van Zadelhoff" ;
             pnv:surnamePrefix "van" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van Zadelhoff" ;
     schema:givenName "Jacob Wilhelmus" ;
     schema:name "Jacob Wilhelmus van Zadelhoff" ;
@@ -4112,6 +4295,8 @@
             pnv:baseSurname "Kempenaer" ;
             pnv:literalName "Jacob Matthaeus de Kempenaer" ;
             pnv:surnamePrefix "de" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "de Kempenaer" ;
     schema:givenName "Jacob Matthaeus" ;
     schema:name "Jacob Matthaeus de Kempenaer" ;
@@ -4138,6 +4323,8 @@
             pnv:baseSurname "Leeuw" ;
             pnv:literalName "Johanna de Leeuw" ;
             pnv:surnamePrefix "de" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "de Leeuw" ;
     schema:givenName "Johanna" ;
     schema:name "Johanna de Leeuw" ;
@@ -4160,6 +4347,8 @@
             pnv:baseSurname "Heijden" ;
             pnv:literalName "Anna Poulina van der Heijden" ;
             pnv:surnamePrefix "van der" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van der Heijden" ;
     schema:givenName "Anna Poulina" ;
     schema:name "Anna Poulina van der Heijden" ;
@@ -4182,6 +4371,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089401> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Cornelissen De Beer" ;
     schema:givenName "Johannes Albartus" ;
     schema:name "Johannes Albartus Cornelissen De Beer" ;
@@ -4200,6 +4391,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089405> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Bouterse" ;
     schema:givenName "Cornelia Johanna" ;
     schema:name "Cornelia Johanna Bouterse" ;
@@ -4218,6 +4411,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089409> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Burgers" ;
     schema:givenName "Jan Batist" ;
     schema:name "Jan Batist Burgers" ;
@@ -4236,6 +4431,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089413> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Jongkees" ;
     schema:givenName "Roelof" ;
     schema:name "Roelof Jongkees" ;
@@ -4258,6 +4455,8 @@
             pnv:baseSurname "Betuw" ;
             pnv:literalName "Geertrui van Betuw" ;
             pnv:surnamePrefix "van" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van Betuw" ;
     schema:givenName "Geertrui" ;
     schema:name "Geertrui van Betuw" ;
@@ -4280,6 +4479,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089421> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Evers" ;
     schema:givenName "Theodorus" ;
     schema:name "Theodorus Evers" ;
@@ -4298,6 +4499,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089425> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Theben" ;
     schema:givenName "Johanna Christina Theodora" ;
     schema:name "Johanna Christina Theodora Theben" ;
@@ -4316,6 +4519,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089429> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Leendertz" ;
     schema:givenName "Pieter" ;
     schema:name "Pieter Leendertz" ;
@@ -4334,6 +4539,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089433> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Murkens" ;
     schema:givenName "Petrus Hendrikus" ;
     schema:name "Petrus Hendrikus Murkens" ;
@@ -4352,6 +4559,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089437> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Noverraz" ;
     schema:givenName "Henriette" ;
     schema:name "Henriette Noverraz" ;
@@ -4370,6 +4579,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089441> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Janssen" ;
     schema:givenName "Gerhardus Johannes" ;
     schema:name "Gerhardus Johannes Janssen" ;
@@ -4392,6 +4603,8 @@
             pnv:baseSurname "Vries" ;
             pnv:literalName "Jacobus de Vries" ;
             pnv:surnamePrefix "de" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "de Vries" ;
     schema:givenName "Jacobus" ;
     schema:name "Jacobus de Vries" ;
@@ -4414,6 +4627,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089449> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Houben" ;
     schema:givenName "Petrus Jacobus" ;
     schema:name "Petrus Jacobus Houben" ;
@@ -4432,6 +4647,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089453> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Zwartkruis" ;
     schema:givenName "Geertruida" ;
     schema:name "Geertruida Zwartkruis" ;
@@ -4450,6 +4667,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089457> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Burgers" ;
     schema:givenName "Wouter Constant" ;
     schema:name "Wouter Constant Burgers" ;
@@ -4468,6 +4687,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089461> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Willemsen" ;
     schema:givenName "Grada" ;
     schema:name "Grada Willemsen" ;
@@ -4486,6 +4707,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089465> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Derksen" ;
     schema:givenName "Grada Antonia" ;
     schema:name "Grada Antonia Derksen" ;
@@ -4504,6 +4727,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089469> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Gijsbers" ;
     schema:givenName "Cornelis Hendrik" ;
     schema:name "Cornelis Hendrik Gijsbers" ;
@@ -4522,6 +4747,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089473> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Laponder" ;
     schema:givenName "Piet Theodorus" ;
     schema:name "Piet Theodorus Laponder" ;
@@ -4540,6 +4767,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089477> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Beumer" ;
     schema:givenName "Willem Gerrit" ;
     schema:name "Willem Gerrit Beumer" ;
@@ -4558,6 +4787,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089481> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Kienen" ;
     schema:givenName "Sophia Johanna" ;
     schema:name "Sophia Johanna Kienen" ;
@@ -4576,6 +4807,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089485> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Jolink" ;
     schema:givenName "Johanna Berendina" ;
     schema:name "Johanna Berendina Jolink" ;
@@ -4598,6 +4831,8 @@
             pnv:baseSurname "Randwijk" ;
             pnv:literalName "Johannes van Randwijk" ;
             pnv:surnamePrefix "van" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van Randwijk" ;
     schema:givenName "Johannes" ;
     schema:name "Johannes van Randwijk" ;
@@ -4620,6 +4855,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089493> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Leenen" ;
     schema:givenName "Maria Petronella" ;
     schema:name "Maria Petronella Leenen" ;
@@ -4638,6 +4875,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089497> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Peters" ;
     schema:givenName "Willem" ;
     schema:name "Willem Peters" ;
@@ -4656,6 +4895,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089501> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Sanders" ;
     schema:givenName "Hendrikus Sebastianus Aloisius" ;
     schema:name "Hendrikus Sebastianus Aloisius Sanders" ;
@@ -4678,6 +4919,8 @@
             pnv:baseSurname "Bensel" ;
             pnv:literalName "Francisca Petronella ten Bensel" ;
             pnv:surnamePrefix "ten" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "ten Bensel" ;
     schema:givenName "Francisca Petronella" ;
     schema:name "Francisca Petronella ten Bensel" ;
@@ -4700,6 +4943,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089509> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Hummeling" ;
     schema:givenName "Derkje" ;
     schema:name "Derkje Hummeling" ;
@@ -4718,6 +4963,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089513> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Karel" ;
     schema:givenName "Teunis" ;
     schema:name "Teunis Karel" ;
@@ -4736,6 +4983,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089517> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Jacobs" ;
     schema:givenName "Jan" ;
     schema:name "Jan Jacobs" ;
@@ -4754,6 +5003,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089521> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Kolenbrander" ;
     schema:givenName "Hermanus Jan" ;
     schema:name "Hermanus Jan Kolenbrander" ;
@@ -4772,6 +5023,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089525> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Pik" ;
     schema:givenName "Bernardus Hendrikus" ;
     schema:name "Bernardus Hendrikus Pik" ;
@@ -4794,6 +5047,8 @@
             pnv:baseSurname "Toorn" ;
             pnv:literalName "Wesselius Casparus van den Toorn" ;
             pnv:surnamePrefix "van den" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van den Toorn" ;
     schema:givenName "Wesselius Casparus" ;
     schema:name "Wesselius Casparus van den Toorn" ;
@@ -4816,6 +5071,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089533> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Jansen" ;
     schema:givenName "Maria" ;
     schema:name "Maria Jansen" ;
@@ -4834,6 +5091,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089537> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Winkes" ;
     schema:givenName "Anna Maria" ;
     schema:name "Anna Maria Winkes" ;
@@ -4856,6 +5115,8 @@
             pnv:baseSurname "Meulen" ;
             pnv:literalName "Anthonius Benedictus Joannes van der Meulen" ;
             pnv:surnamePrefix "van der" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van der Meulen" ;
     schema:givenName "Anthonius Benedictus Joannes" ;
     schema:name "Anthonius Benedictus Joannes van der Meulen" ;
@@ -4878,6 +5139,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089545> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Thieme" ;
     schema:givenName "Grada Anna" ;
     schema:name "Grada Anna Thieme" ;
@@ -4896,6 +5159,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089549> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Beekhuijzen" ;
     schema:givenName "Johannes Petrus" ;
     schema:name "Johannes Petrus Beekhuijzen" ;
@@ -4918,6 +5183,8 @@
             pnv:baseSurname "Eimeren" ;
             pnv:literalName "Cornelis Antonius van Eimeren" ;
             pnv:surnamePrefix "van" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van Eimeren" ;
     schema:givenName "Cornelis Antonius" ;
     schema:name "Cornelis Antonius van Eimeren" ;
@@ -4944,6 +5211,8 @@
             pnv:baseSurname "Hart" ;
             pnv:literalName "Hendrica Johanna van der Hart" ;
             pnv:surnamePrefix "van der" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van der Hart" ;
     schema:givenName "Hendrica Johanna" ;
     schema:name "Hendrica Johanna van der Hart" ;
@@ -4970,6 +5239,8 @@
             pnv:baseSurname "Greef" ;
             pnv:literalName "Hendrikus de Greef" ;
             pnv:surnamePrefix "de" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "de Greef" ;
     schema:givenName "Hendrikus" ;
     schema:name "Hendrikus de Greef" ;
@@ -4992,6 +5263,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089565> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Gieben" ;
     schema:givenName "Johannes Theodorus" ;
     schema:name "Johannes Theodorus Gieben" ;
@@ -5010,6 +5283,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089569> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Verhoeven" ;
     schema:givenName "Peter" ;
     schema:name "Peter Verhoeven" ;
@@ -5028,6 +5303,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089573> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Rijsemus" ;
     schema:givenName "Daniel Kasper" ;
     schema:name "Daniel Kasper Rijsemus" ;
@@ -5046,6 +5323,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089577> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Gresnich" ;
     schema:givenName "Agnes Maria Celestina Regina" ;
     schema:name "Agnes Maria Celestina Regina Gresnich" ;
@@ -5064,6 +5343,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089581> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Breijer" ;
     schema:givenName "Carel Arnold" ;
     schema:name "Carel Arnold Breijer" ;
@@ -5086,6 +5367,8 @@
             pnv:baseSurname "Beugen" ;
             pnv:literalName "Theresia Maria van Beugen" ;
             pnv:surnamePrefix "van" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van Beugen" ;
     schema:givenName "Theresia Maria" ;
     schema:name "Theresia Maria van Beugen" ;
@@ -5108,6 +5391,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089589> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Jasper" ;
     schema:givenName "Johanna Wilhelmina" ;
     schema:name "Johanna Wilhelmina Jasper" ;
@@ -5126,6 +5411,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089593> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Hekkers" ;
     schema:givenName "Hendrik Willem" ;
     schema:name "Hendrik Willem Hekkers" ;
@@ -5144,6 +5431,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089597> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Baud" ;
     schema:givenName "Jean Chretien" ;
     schema:name "Jean Chretien Baud" ;
@@ -5162,6 +5451,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089601> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Kleintjes" ;
     schema:givenName "Theodorus Johannes" ;
     schema:name "Theodorus Johannes Kleintjes" ;
@@ -5180,6 +5471,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089605> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Frequin" ;
     schema:givenName "Bartje" ;
     schema:name "Bartje Frequin" ;
@@ -5198,6 +5491,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089609> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Pitlo" ;
     schema:givenName "Jacobus" ;
     schema:name "Jacobus Pitlo" ;
@@ -5216,6 +5511,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089613> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Vlaanderen" ;
     schema:givenName "Anna Petronella" ;
     schema:name "Anna Petronella Vlaanderen" ;
@@ -5238,6 +5535,8 @@
             pnv:baseSurname "Koppenhagen" ;
             pnv:literalName "Frederik van Koppenhagen" ;
             pnv:surnamePrefix "van" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van Koppenhagen" ;
     schema:givenName "Frederik" ;
     schema:name "Frederik van Koppenhagen" ;
@@ -5260,6 +5559,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089621> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Willemsen" ;
     schema:givenName "Abraham" ;
     schema:name "Abraham Willemsen" ;
@@ -5278,6 +5579,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089625> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Guldenaar" ;
     schema:givenName "Grada Margaretha" ;
     schema:name "Grada Margaretha Guldenaar" ;
@@ -5296,6 +5599,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089629> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Berger" ;
     schema:givenName "Elisabeth Frederika" ;
     schema:name "Elisabeth Frederika Berger" ;
@@ -5314,6 +5619,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089633> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Brouwer" ;
     schema:givenName "Hannes" ;
     schema:name "Hannes Brouwer" ;
@@ -5332,6 +5639,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089637> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Peters" ;
     schema:givenName "Gradus" ;
     schema:name "Gradus Peters" ;
@@ -5350,6 +5659,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089641> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Goedvrind" ;
     schema:givenName "Maria" ;
     schema:name "Maria Goedvrind" ;
@@ -5368,6 +5679,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089645> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Wegman" ;
     schema:givenName "Johanna Maria Geertruida" ;
     schema:name "Johanna Maria Geertruida Wegman" ;
@@ -5386,6 +5699,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089649> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Smit" ;
     schema:givenName "Johanna Helena" ;
     schema:name "Johanna Helena Smit" ;
@@ -5404,6 +5719,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089653> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Biezen" ;
     schema:givenName "Johanna" ;
     schema:name "Johanna Biezen" ;
@@ -5426,6 +5743,8 @@
             pnv:baseSurname "Reeken" ;
             pnv:literalName "Ludovikus Jacobus van Reeken" ;
             pnv:surnamePrefix "van" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van Reeken" ;
     schema:givenName "Ludovikus Jacobus" ;
     schema:name "Ludovikus Jacobus van Reeken" ;
@@ -5448,6 +5767,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089661> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Lorentz" ;
     schema:givenName "Hendrik Antoon" ;
     schema:name "Hendrik Antoon Lorentz" ;
@@ -5466,6 +5787,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089665> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Kapel" ;
     schema:givenName "Zwaantje" ;
     schema:name "Zwaantje Kapel" ;
@@ -5488,6 +5811,8 @@
             pnv:baseSurname "Braak" ;
             pnv:literalName "Catharina Clasina Maria van den Braak" ;
             pnv:surnamePrefix "van den" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van den Braak" ;
     schema:givenName "Catharina Clasina Maria" ;
     schema:name "Catharina Clasina Maria van den Braak" ;
@@ -5510,6 +5835,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089673> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Hendriks" ;
     schema:givenName "Grada Hendrika" ;
     schema:name "Grada Hendrika Hendriks" ;
@@ -5528,6 +5855,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089677> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Verheij" ;
     schema:givenName "Johanna Elisabeth" ;
     schema:name "Johanna Elisabeth Verheij" ;
@@ -5550,6 +5879,8 @@
             pnv:baseSurname "Eck" ;
             pnv:literalName "Gerard van Eck" ;
             pnv:surnamePrefix "van" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van Eck" ;
     schema:givenName "Gerard" ;
     schema:name "Gerard van Eck" ;
@@ -5572,6 +5903,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089685> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Giebing" ;
     schema:givenName "Johanna Theresia Sophia Matilda" ;
     schema:name "Johanna Theresia Sophia Matilda Giebing" ;
@@ -5594,6 +5927,8 @@
             pnv:baseSurname "Gorkum" ;
             pnv:literalName "Albert Peter van Gorkum" ;
             pnv:surnamePrefix "van" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van Gorkum" ;
     schema:givenName "Albert Peter" ;
     schema:name "Albert Peter van Gorkum" ;
@@ -5616,6 +5951,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089693> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Beeks" ;
     schema:givenName "Margaretha Johanna" ;
     schema:name "Margaretha Johanna Beeks" ;
@@ -5634,6 +5971,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089697> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Meijer" ;
     schema:givenName "Abraham" ;
     schema:name "Abraham Meijer" ;
@@ -5656,6 +5995,8 @@
             pnv:baseSurname "Beer" ;
             pnv:literalName "Theodorus Loardus de Beer" ;
             pnv:surnamePrefix "de" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "de Beer" ;
     schema:givenName "Theodorus Loardus" ;
     schema:name "Theodorus Loardus de Beer" ;
@@ -5678,6 +6019,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089705> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Aalbers" ;
     schema:givenName "Hendrika Anthonia" ;
     schema:name "Hendrika Anthonia Aalbers" ;
@@ -5700,6 +6043,8 @@
             pnv:baseSurname "Herpen" ;
             pnv:literalName "Gerardiena Theodora van Herpen" ;
             pnv:surnamePrefix "van" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van Herpen" ;
     schema:givenName "Gerardiena Theodora" ;
     schema:name "Gerardiena Theodora van Herpen" ;
@@ -5722,6 +6067,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089713> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Hormel" ;
     schema:givenName "Henrietta" ;
     schema:name "Henrietta Hormel" ;
@@ -5740,6 +6087,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089717> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Freriks" ;
     schema:givenName "Hermanus" ;
     schema:name "Hermanus Freriks" ;
@@ -5758,6 +6107,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089721> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Thomas" ;
     schema:givenName "Maria Johanna Pantolina" ;
     schema:name "Maria Johanna Pantolina Thomas" ;
@@ -5776,6 +6127,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089725> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Teunissen" ;
     schema:givenName "Leonora" ;
     schema:name "Leonora Teunissen" ;
@@ -5794,6 +6147,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089729> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Hulsman" ;
     schema:givenName "Willem Jan" ;
     schema:name "Willem Jan Hulsman" ;
@@ -5812,6 +6167,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089733> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Esvelt" ;
     schema:givenName "Wilhelmina" ;
     schema:name "Wilhelmina Esvelt" ;
@@ -5830,6 +6187,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089737> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Dronsberg" ;
     schema:givenName "Petronella Hendrika" ;
     schema:name "Petronella Hendrika Dronsberg" ;
@@ -5852,6 +6211,8 @@
             pnv:baseSurname "Poll" ;
             pnv:literalName "Hendrik Gradus Gabriel van der Poll" ;
             pnv:surnamePrefix "van der" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van der Poll" ;
     schema:givenName "Hendrik Gradus Gabriel" ;
     schema:name "Hendrik Gradus Gabriel van der Poll" ;
@@ -5874,6 +6235,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089745> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Kuipers" ;
     schema:givenName "Helena Wilhelmina" ;
     schema:name "Helena Wilhelmina Kuipers" ;
@@ -5892,6 +6255,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089749> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Magendans" ;
     schema:givenName "Maria" ;
     schema:name "Maria Magendans" ;
@@ -5910,6 +6275,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089753> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Isselmann" ;
     schema:givenName "Catharina Elisabetha Wilhelmina" ;
     schema:name "Catharina Elisabetha Wilhelmina Isselmann" ;
@@ -5928,6 +6295,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089757> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Becks" ;
     schema:givenName "Gardus Jacobus Theodorus Joahnnes" ;
     schema:name "Gardus Jacobus Theodorus Joahnnes Becks" ;
@@ -5946,6 +6315,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089761> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Janssen" ;
     schema:givenName "Lukas Johannes" ;
     schema:name "Lukas Johannes Janssen" ;
@@ -5964,6 +6335,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089765> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Schouw Santfoort" ;
     schema:givenName "Maria Hitta Sara" ;
     schema:name "Maria Hitta Sara Schouw Santfoort" ;
@@ -5986,6 +6359,8 @@
             pnv:baseSurname "Leiden" ;
             pnv:literalName "Marinus van Leiden" ;
             pnv:surnamePrefix "van" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van Leiden" ;
     schema:givenName "Marinus" ;
     schema:name "Marinus van Leiden" ;
@@ -6008,6 +6383,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089773> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Hölzel" ;
     schema:givenName "Lucretia Geertruida Margaretha" ;
     schema:name "Lucretia Geertruida Margaretha Hölzel" ;
@@ -6026,6 +6403,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089777> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Jansen" ;
     schema:givenName "Gerrit Hendrik" ;
     schema:name "Gerrit Hendrik Jansen" ;
@@ -6044,6 +6423,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089781> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Joling" ;
     schema:givenName "Bernardus Everhardus" ;
     schema:name "Bernardus Everhardus Joling" ;
@@ -6062,6 +6443,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089785> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Pegman" ;
     schema:givenName "Wijnandina Susanna" ;
     schema:name "Wijnandina Susanna Pegman" ;
@@ -6080,6 +6463,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089789> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Wigman" ;
     schema:givenName "Johannes Lodewikus" ;
     schema:name "Johannes Lodewikus Wigman" ;
@@ -6098,6 +6483,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089793> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Jansen" ;
     schema:givenName "Christiaan" ;
     schema:name "Christiaan Jansen" ;
@@ -6116,6 +6503,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089797> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Markhorst" ;
     schema:givenName "Hendrikus" ;
     schema:name "Hendrikus Markhorst" ;
@@ -6138,6 +6527,8 @@
             pnv:baseSurname "Heuven" ;
             pnv:literalName "Derk van Heuven" ;
             pnv:surnamePrefix "van" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van Heuven" ;
     schema:givenName "Derk" ;
     schema:name "Derk van Heuven" ;
@@ -6160,6 +6551,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089805> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Lindeman" ;
     schema:givenName "Johannes Hendrikus Everhardus" ;
     schema:name "Johannes Hendrikus Everhardus Lindeman" ;
@@ -6178,6 +6571,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089809> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Groh" ;
     schema:givenName "Anthon Frederik" ;
     schema:name "Anthon Frederik Groh" ;
@@ -6196,6 +6591,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089813> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Kingma" ;
     schema:givenName "Johanna" ;
     schema:name "Johanna Kingma" ;
@@ -6214,6 +6611,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089817> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Schill" ;
     schema:givenName "Bernardus" ;
     schema:name "Bernardus Schill" ;
@@ -6236,6 +6635,8 @@
             pnv:baseSurname "Kuijk" ;
             pnv:literalName "Jantje Maria Anna Gardina van Kuijk" ;
             pnv:surnamePrefix "van" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "van Kuijk" ;
     schema:givenName "Jantje Maria Anna Gardina" ;
     schema:name "Jantje Maria Anna Gardina van Kuijk" ;
@@ -6254,6 +6655,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089825> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Kinkelaar" ;
     schema:givenName "Hendrikus Johannes" ;
     schema:name "Hendrikus Johannes Kinkelaar" ;
@@ -6272,6 +6675,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089829> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Mulder" ;
     schema:givenName "Christina Johanna" ;
     schema:name "Christina Johanna Mulder" ;
@@ -6290,6 +6695,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089833> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Teunissen" ;
     schema:givenName "Hermina" ;
     schema:name "Hermina Teunissen" ;
@@ -6308,6 +6715,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089837> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Cleeve" ;
     schema:givenName "Wilhelmina Christina" ;
     schema:name "Wilhelmina Christina Cleeve" ;
@@ -6326,6 +6735,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089841> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Blom" ;
     schema:givenName "Hendrik Jan" ;
     schema:name "Hendrik Jan Blom" ;
@@ -6344,6 +6755,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089849> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Bolman" ;
     schema:givenName "Johannes Petrus" ;
     schema:name "Johannes Petrus Bolman" ;
@@ -6362,6 +6775,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089853> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Adriaans" ;
     schema:givenName "Willem" ;
     schema:name "Willem Adriaans" ;
@@ -6380,6 +6795,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089857> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Maandag" ;
     schema:givenName "Johanna Berendina" ;
     schema:name "Johanna Berendina Maandag" ;
@@ -6398,6 +6815,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089861> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Voslamber" ;
     schema:givenName "Gijsbert" ;
     schema:name "Gijsbert Voslamber" ;
@@ -6416,6 +6835,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089865> a pico:PersonObservation ;
+    schema:birthDate "1829-07-01"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Brans" ;
     schema:givenName "Willemina" ;
     schema:name "Willemina Brans" ;
@@ -6434,6 +6855,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089869> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Muller" ;
     schema:givenName "Jacobus Hermanus" ;
     schema:name "Jacobus Hermanus Muller" ;
@@ -6452,6 +6875,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089873> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Willems" ;
     schema:givenName "Petrus Rudolph" ;
     schema:name "Petrus Rudolph Willems" ;
@@ -6470,6 +6895,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089877> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Daams" ;
     schema:givenName "Reinira" ;
     schema:name "Reinira Daams" ;
@@ -6488,6 +6915,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089881> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Knelissen" ;
     schema:givenName "Jan Willem" ;
     schema:name "Jan Willem Knelissen" ;
@@ -6506,6 +6935,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089885> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Galle" ;
     schema:givenName "Tomas Hubertus" ;
     schema:name "Tomas Hubertus Galle" ;
@@ -6524,6 +6955,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089889> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Jansen" ;
     schema:givenName "Gerrit" ;
     schema:name "Gerrit Jansen" ;
@@ -6542,6 +6975,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089893> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Brink" ;
     schema:givenName "Everdina Hendrina Maria" ;
     schema:name "Everdina Hendrina Maria Brink" ;
@@ -6560,6 +6995,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089897> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Willems" ;
     schema:givenName "Cornelia Christina" ;
     schema:name "Cornelia Christina Willems" ;
@@ -6578,6 +7015,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089901> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Schneider" ;
     schema:givenName "Elisabeth" ;
     schema:name "Elisabeth Schneider" ;
@@ -6596,6 +7035,8 @@
     pico:hasRole "Vader" .
 
 <https://ex.org/Person3046089905> a pico:PersonObservation ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "Otterlo" ;
     schema:givenName "Franciskus Godefridus" ;
     schema:name "Franciskus Godefridus Otterlo" ;
@@ -6618,6 +7059,8 @@
             pnv:baseSurname "Cate" ;
             pnv:literalName "Thonia ten Cate" ;
             pnv:surnamePrefix "ten" ] ;
+    schema:birthDate "1853-07-04"^^xsd:date ;
+    schema:birthPlace "Arnhem" ;
     schema:familyName "ten Cate" ;
     schema:givenName "Thonia" ;
     schema:name "Thonia ten Cate" ;

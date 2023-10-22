@@ -36,7 +36,7 @@
 <xsl:template match="a2arc:A2ACollection">
     <rdf:RDF>
         <xsl:apply-templates select="a2a:A2A/a2a:Person"/>
-        <xsl:apply-templates select="a2a:A2A/a2a:Event"/>
+        <xsl:apply-templates select="a2a:A2A/a2a:Event[a2a:EventType='Huwelijk']"/>
         <xsl:apply-templates select="a2a:A2A/a2a:Source"/>
     </rdf:RDF>
 </xsl:template>

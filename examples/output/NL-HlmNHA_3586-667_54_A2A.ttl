@@ -1,7 +1,653 @@
+@prefix bio: <http://purl.org/vocab/bio/0.1/> .
 @prefix pico: <https://data.cbg.nl/pico#> .
 @prefix pnv: <https://w3id.org/pnv#> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://ex.org/Event1-2650307824> a bio:Marriage ;
+    bio:date "1881-07-14"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307827>,
+        <https://ex.org/Person2650307830> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307824> .
+
+<https://ex.org/Event1-2650307831> a bio:Marriage ;
+    bio:date "1881-07-14"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307834>,
+        <https://ex.org/Person2650307837> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307831> .
+
+<https://ex.org/Event1-2650307838> a bio:Marriage ;
+    bio:date "1881-07-14"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307841>,
+        <https://ex.org/Person2650307844> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307838> .
+
+<https://ex.org/Event1-2650307845> a bio:Marriage ;
+    bio:date "1881-07-14"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307848>,
+        <https://ex.org/Person2650307851> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307845> .
+
+<https://ex.org/Event1-2650307852> a bio:Marriage ;
+    bio:date "1881-07-14"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307855>,
+        <https://ex.org/Person2650307858> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307852> .
+
+<https://ex.org/Event1-2650307859> a bio:Marriage ;
+    bio:date "1881-07-14"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307862>,
+        <https://ex.org/Person2650307865> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307859> .
+
+<https://ex.org/Event1-2650307866> a bio:Marriage ;
+    bio:date "1881-07-14"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307869>,
+        <https://ex.org/Person2650307872> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307866> .
+
+<https://ex.org/Event1-2650307873> a bio:Marriage ;
+    bio:date "1881-07-14"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307876>,
+        <https://ex.org/Person2650307879> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307873> .
+
+<https://ex.org/Event1-2650307880> a bio:Marriage ;
+    bio:date "1881-07-14"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307883>,
+        <https://ex.org/Person2650307886> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307880> .
+
+<https://ex.org/Event1-2650307887> a bio:Marriage ;
+    bio:date "1881-07-14"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307890>,
+        <https://ex.org/Person2650307893> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307887> .
+
+<https://ex.org/Event1-2650307894> a bio:Marriage ;
+    bio:date "1881-07-14"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307897>,
+        <https://ex.org/Person2650307900> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307894> .
+
+<https://ex.org/Event1-2650307901> a bio:Marriage ;
+    bio:date "1881-07-14"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307904>,
+        <https://ex.org/Person2650307907> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307901> .
+
+<https://ex.org/Event1-2650307908> a bio:Marriage ;
+    bio:date "1881-07-14"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307911>,
+        <https://ex.org/Person2650307914> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307908> .
+
+<https://ex.org/Event1-2650307918> a bio:Marriage ;
+    bio:date "1881-07-14"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307921>,
+        <https://ex.org/Person2650307924> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307918> .
+
+<https://ex.org/Event1-2650307925> a bio:Marriage ;
+    bio:date "1881-07-15"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307928>,
+        <https://ex.org/Person2650307931> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307925> .
+
+<https://ex.org/Event1-2650307932> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307935>,
+        <https://ex.org/Person2650307937> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307932> .
+
+<https://ex.org/Event1-2650307938> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307941>,
+        <https://ex.org/Person2650307944> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307938> .
+
+<https://ex.org/Event1-2650307945> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307948>,
+        <https://ex.org/Person2650307951> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307945> .
+
+<https://ex.org/Event1-2650307952> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307955>,
+        <https://ex.org/Person2650307958> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307952> .
+
+<https://ex.org/Event1-2650307959> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307962>,
+        <https://ex.org/Person2650307965> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307959> .
+
+<https://ex.org/Event1-2650307966> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307968>,
+        <https://ex.org/Person2650307971> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307966> .
+
+<https://ex.org/Event1-2650307972> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307975>,
+        <https://ex.org/Person2650307978> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307972> .
+
+<https://ex.org/Event1-2650307979> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307982>,
+        <https://ex.org/Person2650307985> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307979> .
+
+<https://ex.org/Event1-2650307986> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307989>,
+        <https://ex.org/Person2650307992> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307986> .
+
+<https://ex.org/Event1-2650307993> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650307996>,
+        <https://ex.org/Person2650307999> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650307993> .
+
+<https://ex.org/Event1-2650308000> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308003>,
+        <https://ex.org/Person2650308006> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308000> .
+
+<https://ex.org/Event1-2650308007> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308010>,
+        <https://ex.org/Person2650308013> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308007> .
+
+<https://ex.org/Event1-2650308014> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308017>,
+        <https://ex.org/Person2650308020> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308014> .
+
+<https://ex.org/Event1-2650308021> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308024>,
+        <https://ex.org/Person2650308027> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308021> .
+
+<https://ex.org/Event1-2650308028> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308031>,
+        <https://ex.org/Person2650308034> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308028> .
+
+<https://ex.org/Event1-2650308035> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308038>,
+        <https://ex.org/Person2650308041> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308035> .
+
+<https://ex.org/Event1-2650308042> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308045>,
+        <https://ex.org/Person2650308048> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308042> .
+
+<https://ex.org/Event1-2650308049> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308052>,
+        <https://ex.org/Person2650308055> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308049> .
+
+<https://ex.org/Event1-2650308056> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308059>,
+        <https://ex.org/Person2650308062> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308056> .
+
+<https://ex.org/Event1-2650308063> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308066>,
+        <https://ex.org/Person2650308069> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308063> .
+
+<https://ex.org/Event1-2650308070> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308073>,
+        <https://ex.org/Person2650308076> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308070> .
+
+<https://ex.org/Event1-2650308077> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308080>,
+        <https://ex.org/Person2650308083> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308077> .
+
+<https://ex.org/Event1-2650308084> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308087>,
+        <https://ex.org/Person2650308090> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308084> .
+
+<https://ex.org/Event1-2650308091> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308094>,
+        <https://ex.org/Person2650308097> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308091> .
+
+<https://ex.org/Event1-2650308098> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308101>,
+        <https://ex.org/Person2650308104> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308098> .
+
+<https://ex.org/Event1-2650308105> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308108>,
+        <https://ex.org/Person2650308111> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308105> .
+
+<https://ex.org/Event1-2650308112> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308115>,
+        <https://ex.org/Person2650308118> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308112> .
+
+<https://ex.org/Event1-2650308119> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308121>,
+        <https://ex.org/Person2650308124> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308119> .
+
+<https://ex.org/Event1-2650308125> a bio:Marriage ;
+    bio:date "1881-07-20"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308128>,
+        <https://ex.org/Person2650308131> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308125> .
+
+<https://ex.org/Event1-2650308135> a bio:Marriage ;
+    bio:date "1881-07-21"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308138>,
+        <https://ex.org/Person2650308141> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308135> .
+
+<https://ex.org/Event1-2650308142> a bio:Marriage ;
+    bio:date "1881-07-21"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308145>,
+        <https://ex.org/Person2650308148> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308142> .
+
+<https://ex.org/Event1-2650308149> a bio:Marriage ;
+    bio:date "1881-07-21"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308152>,
+        <https://ex.org/Person2650308155> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308149> .
+
+<https://ex.org/Event1-2650308156> a bio:Marriage ;
+    bio:date "1881-07-21"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308159>,
+        <https://ex.org/Person2650308162> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308156> .
+
+<https://ex.org/Event1-2650308163> a bio:Marriage ;
+    bio:date "1881-07-21"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308166>,
+        <https://ex.org/Person2650308169> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308163> .
+
+<https://ex.org/Event1-2650308170> a bio:Marriage ;
+    bio:date "1881-07-21"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308173>,
+        <https://ex.org/Person2650308176> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308170> .
+
+<https://ex.org/Event1-2650308177> a bio:Marriage ;
+    bio:date "1881-07-21"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308180>,
+        <https://ex.org/Person2650308183> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308177> .
+
+<https://ex.org/Event1-2650308184> a bio:Marriage ;
+    bio:date "1881-07-21"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308187>,
+        <https://ex.org/Person2650308190> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308184> .
+
+<https://ex.org/Event1-2650308191> a bio:Marriage ;
+    bio:date "1881-07-21"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308194>,
+        <https://ex.org/Person2650308197> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308191> .
+
+<https://ex.org/Event1-2650308198> a bio:Marriage ;
+    bio:date "1881-07-21"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308201>,
+        <https://ex.org/Person2650308204> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308198> .
+
+<https://ex.org/Event1-2650308205> a bio:Marriage ;
+    bio:date "1881-07-21"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308208>,
+        <https://ex.org/Person2650308211> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308205> .
+
+<https://ex.org/Event1-2650308212> a bio:Marriage ;
+    bio:date "1881-07-21"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308215>,
+        <https://ex.org/Person2650308218> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308212> .
+
+<https://ex.org/Event1-2650308219> a bio:Marriage ;
+    bio:date "1881-08-04"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308222>,
+        <https://ex.org/Person2650308225> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308219> .
+
+<https://ex.org/Event1-2650308226> a bio:Marriage ;
+    bio:date "1881-07-21"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308229>,
+        <https://ex.org/Person2650308232> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308226> .
+
+<https://ex.org/Event1-2650308233> a bio:Marriage ;
+    bio:date "1881-07-21"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308236>,
+        <https://ex.org/Person2650308239> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308233> .
+
+<https://ex.org/Event1-2650308240> a bio:Marriage ;
+    bio:date "1881-07-21"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308243>,
+        <https://ex.org/Person2650308246> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308240> .
+
+<https://ex.org/Event1-2650308247> a bio:Marriage ;
+    bio:date "1881-07-21"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308250>,
+        <https://ex.org/Person2650308253> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308247> .
+
+<https://ex.org/Event1-2650308254> a bio:Marriage ;
+    bio:date "1881-07-21"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308257>,
+        <https://ex.org/Person2650308260> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308254> .
+
+<https://ex.org/Event1-2650308264> a bio:Marriage ;
+    bio:date "1881-07-21"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308267>,
+        <https://ex.org/Person2650308270> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308264> .
+
+<https://ex.org/Event1-2650308271> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308274>,
+        <https://ex.org/Person2650308277> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308271> .
+
+<https://ex.org/Event1-2650308278> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308281>,
+        <https://ex.org/Person2650308284> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308278> .
+
+<https://ex.org/Event1-2650308285> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308288>,
+        <https://ex.org/Person2650308291> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308285> .
+
+<https://ex.org/Event1-2650308292> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308295>,
+        <https://ex.org/Person2650308298> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308292> .
+
+<https://ex.org/Event1-2650308299> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308302>,
+        <https://ex.org/Person2650308305> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308299> .
+
+<https://ex.org/Event1-2650308306> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308309>,
+        <https://ex.org/Person2650308312> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308306> .
+
+<https://ex.org/Event1-2650308313> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308316>,
+        <https://ex.org/Person2650308319> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308313> .
+
+<https://ex.org/Event1-2650308320> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308323>,
+        <https://ex.org/Person2650308325> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308320> .
+
+<https://ex.org/Event1-2650308326> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308329>,
+        <https://ex.org/Person2650308332> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308326> .
+
+<https://ex.org/Event1-2650308333> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308336>,
+        <https://ex.org/Person2650308339> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308333> .
+
+<https://ex.org/Event1-2650308340> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308343>,
+        <https://ex.org/Person2650308346> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308340> .
+
+<https://ex.org/Event1-2650308347> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308350>,
+        <https://ex.org/Person2650308353> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308347> .
+
+<https://ex.org/Event1-2650308354> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308357>,
+        <https://ex.org/Person2650308360> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308354> .
+
+<https://ex.org/Event1-2650308361> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308364>,
+        <https://ex.org/Person2650308367> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308361> .
+
+<https://ex.org/Event1-2650308368> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308371>,
+        <https://ex.org/Person2650308374> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308368> .
+
+<https://ex.org/Event1-2650308375> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308378>,
+        <https://ex.org/Person2650308381> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308375> .
+
+<https://ex.org/Event1-2650308382> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308385>,
+        <https://ex.org/Person2650308388> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308382> .
+
+<https://ex.org/Event1-2650308389> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308392>,
+        <https://ex.org/Person2650308395> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308389> .
+
+<https://ex.org/Event1-2650308396> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308399>,
+        <https://ex.org/Person2650308402> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308396> .
+
+<https://ex.org/Event1-2650308403> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308406>,
+        <https://ex.org/Person2650308409> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308403> .
+
+<https://ex.org/Event1-2650308410> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308413>,
+        <https://ex.org/Person2650308416> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308410> .
+
+<https://ex.org/Event1-2650308417> a bio:Marriage ;
+    bio:date "1881-07-27"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308420>,
+        <https://ex.org/Person2650308423> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308417> .
+
+<https://ex.org/Event1-2650308424> a bio:Marriage ;
+    bio:date "1881-07-28"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308427>,
+        <https://ex.org/Person2650308430> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308424> .
+
+<https://ex.org/Event1-2650308431> a bio:Marriage ;
+    bio:date "1881-07-28"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308434>,
+        <https://ex.org/Person2650308437> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308431> .
+
+<https://ex.org/Event1-2650308438> a bio:Marriage ;
+    bio:date "1881-07-28"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308441>,
+        <https://ex.org/Person2650308444> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308438> .
+
+<https://ex.org/Event1-2650308445> a bio:Marriage ;
+    bio:date "1881-07-28"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308448>,
+        <https://ex.org/Person2650308451> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308445> .
+
+<https://ex.org/Event1-2650308452> a bio:Marriage ;
+    bio:date "1881-07-28"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308455>,
+        <https://ex.org/Person2650308458> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308452> .
+
+<https://ex.org/Event1-2650308459> a bio:Marriage ;
+    bio:date "1881-07-28"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308462>,
+        <https://ex.org/Person2650308465> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308459> .
+
+<https://ex.org/Event1-2650308466> a bio:Marriage ;
+    bio:date "1881-07-28"^^xsd:date ;
+    bio:partner <https://ex.org/Person2650308469>,
+        <https://ex.org/Person2650308472> ;
+    bio:place "Amsterdam" ;
+    prov:hadPrimarySource <https://ex.org/2650308466> .
 
 <https://ex.org/Person2650307825> a pico:PersonObservation ;
     schema:children <https://ex.org/Person2650307827> ;
@@ -2406,16 +3052,6 @@
     prov:hadPrimarySource <https://ex.org/2650307932> ;
     pico:hasRole "Vader van de bruid" .
 
-<https://ex.org/Person2650307937> a pico:PersonObservation ;
-    schema:familyName "Sprengers" ;
-    schema:gender schema:Male ;
-    schema:givenName "Johannes" ;
-    schema:name "Johannes Sprengers" ;
-    schema:parent <https://ex.org/Person2650307936> ;
-    schema:spouse <https://ex.org/Person2650307935> ;
-    prov:hadPrimarySource <https://ex.org/2650307932> ;
-    pico:hasRole "Bruidegom" .
-
 <https://ex.org/Person2650307940> a pico:PersonObservation ;
     schema:children <https://ex.org/Person2650307941> ;
     schema:familyName "Beth" ;
@@ -2495,16 +3131,6 @@
     schema:spouse <https://ex.org/Person2650307963> ;
     prov:hadPrimarySource <https://ex.org/2650307959> ;
     pico:hasRole "Vader van de bruidegom" .
-
-<https://ex.org/Person2650307968> a pico:PersonObservation ;
-    schema:familyName "Cremer" ;
-    schema:gender schema:Female ;
-    schema:givenName "Annechina" ;
-    schema:name "Annechina Cremer" ;
-    schema:parent <https://ex.org/Person2650307967> ;
-    schema:spouse <https://ex.org/Person2650307971> ;
-    prov:hadPrimarySource <https://ex.org/2650307966> ;
-    pico:hasRole "Bruid" .
 
 <https://ex.org/Person2650307970> a pico:PersonObservation ;
     schema:children <https://ex.org/Person2650307971> ;
@@ -2947,16 +3573,6 @@
     schema:spouse <https://ex.org/Person2650308116> ;
     prov:hadPrimarySource <https://ex.org/2650308112> ;
     pico:hasRole "Vader van de bruidegom" .
-
-<https://ex.org/Person2650308121> a pico:PersonObservation ;
-    schema:familyName "Roelofsen" ;
-    schema:gender schema:Female ;
-    schema:givenName "Lubberta Berendina" ;
-    schema:name "Lubberta Berendina Roelofsen" ;
-    schema:parent <https://ex.org/Person2650308120> ;
-    schema:spouse <https://ex.org/Person2650308124> ;
-    prov:hadPrimarySource <https://ex.org/2650308119> ;
-    pico:hasRole "Bruid" .
 
 <https://ex.org/Person2650308123> a pico:PersonObservation ;
     schema:children <https://ex.org/Person2650308124> ;
@@ -3558,16 +4174,6 @@
     prov:hadPrimarySource <https://ex.org/2650308320> ;
     pico:hasRole "Vader van de bruid" .
 
-<https://ex.org/Person2650308325> a pico:PersonObservation ;
-    schema:familyName "Pier" ;
-    schema:gender schema:Male ;
-    schema:givenName "Pieter" ;
-    schema:name "Pieter Pier" ;
-    schema:parent <https://ex.org/Person2650308324> ;
-    schema:spouse <https://ex.org/Person2650308323> ;
-    prov:hadPrimarySource <https://ex.org/2650308320> ;
-    pico:hasRole "Bruidegom" .
-
 <https://ex.org/Person2650308328> a pico:PersonObservation ;
     schema:children <https://ex.org/Person2650308329> ;
     schema:familyName "Emens" ;
@@ -4019,6 +4625,46 @@
     schema:spouse <https://ex.org/Person2650308470> ;
     prov:hadPrimarySource <https://ex.org/2650308466> ;
     pico:hasRole "Vader van de bruidegom" .
+
+<https://ex.org/Person2650307937> a pico:PersonObservation ;
+    schema:familyName "Sprengers" ;
+    schema:gender schema:Male ;
+    schema:givenName "Johannes" ;
+    schema:name "Johannes Sprengers" ;
+    schema:parent <https://ex.org/Person2650307936> ;
+    schema:spouse <https://ex.org/Person2650307935> ;
+    prov:hadPrimarySource <https://ex.org/2650307932> ;
+    pico:hasRole "Bruidegom" .
+
+<https://ex.org/Person2650307968> a pico:PersonObservation ;
+    schema:familyName "Cremer" ;
+    schema:gender schema:Female ;
+    schema:givenName "Annechina" ;
+    schema:name "Annechina Cremer" ;
+    schema:parent <https://ex.org/Person2650307967> ;
+    schema:spouse <https://ex.org/Person2650307971> ;
+    prov:hadPrimarySource <https://ex.org/2650307966> ;
+    pico:hasRole "Bruid" .
+
+<https://ex.org/Person2650308121> a pico:PersonObservation ;
+    schema:familyName "Roelofsen" ;
+    schema:gender schema:Female ;
+    schema:givenName "Lubberta Berendina" ;
+    schema:name "Lubberta Berendina Roelofsen" ;
+    schema:parent <https://ex.org/Person2650308120> ;
+    schema:spouse <https://ex.org/Person2650308124> ;
+    prov:hadPrimarySource <https://ex.org/2650308119> ;
+    pico:hasRole "Bruid" .
+
+<https://ex.org/Person2650308325> a pico:PersonObservation ;
+    schema:familyName "Pier" ;
+    schema:gender schema:Male ;
+    schema:givenName "Pieter" ;
+    schema:name "Pieter Pier" ;
+    schema:parent <https://ex.org/Person2650308324> ;
+    schema:spouse <https://ex.org/Person2650308323> ;
+    prov:hadPrimarySource <https://ex.org/2650308320> ;
+    pico:hasRole "Bruidegom" .
 
 <https://ex.org/Person2650307827> a pico:PersonObservation ;
     schema:additionalName [ a pnv:PersonName ;

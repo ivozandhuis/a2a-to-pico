@@ -11,6 +11,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089064"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089066"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hermina van Leeuwen</schema:name>
       <schema:givenName>Hermina</schema:givenName>
       <schema:familyName>van Leeuwen</schema:familyName>
@@ -53,6 +55,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089068"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089070"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hannes Gerritsen</schema:name>
       <schema:givenName>Hannes</schema:givenName>
       <schema:familyName>Gerritsen</schema:familyName>
@@ -81,6 +85,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089072"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089074"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Egbert Willem Kuster</schema:name>
       <schema:givenName>Egbert Willem</schema:givenName>
       <schema:familyName>Kuster</schema:familyName>
@@ -109,6 +115,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089076"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089078"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Cornelis Theodorus Righart</schema:name>
       <schema:givenName>Cornelis Theodorus</schema:givenName>
       <schema:familyName>Righart</schema:familyName>
@@ -137,6 +145,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089080"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089082"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hendrik Louis Kruijer</schema:name>
       <schema:givenName>Hendrik Louis</schema:givenName>
       <schema:familyName>Kruijer</schema:familyName>
@@ -165,6 +175,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089084"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089086"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hendrik Baltus</schema:name>
       <schema:givenName>Hendrik</schema:givenName>
       <schema:familyName>Baltus</schema:familyName>
@@ -193,6 +205,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089088"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089090"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Martinus Jansen</schema:name>
       <schema:givenName>Martinus</schema:givenName>
       <schema:familyName>Jansen</schema:familyName>
@@ -221,6 +235,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089092"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089094"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johanna van Heumen</schema:name>
       <schema:givenName>Johanna</schema:givenName>
       <schema:familyName>van Heumen</schema:familyName>
@@ -263,6 +279,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089096"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089098"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Catharina Teunissen</schema:name>
       <schema:givenName>Catharina</schema:givenName>
       <schema:familyName>Teunissen</schema:familyName>
@@ -291,6 +309,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089100"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089102"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Constant August Joseph Lenglet</schema:name>
       <schema:givenName>Constant August Joseph</schema:givenName>
       <schema:familyName>Lenglet</schema:familyName>
@@ -319,6 +339,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089104"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089106"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Abraham Menco</schema:name>
       <schema:givenName>Abraham</schema:givenName>
       <schema:familyName>Menco</schema:familyName>
@@ -354,6 +376,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089716"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089718"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hermanus Freriks</schema:name>
       <schema:givenName>Hermanus</schema:givenName>
       <schema:familyName>Freriks</schema:familyName>
@@ -382,6 +406,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089720"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089722"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Maria Johanna Pantolina Thomas</schema:name>
       <schema:givenName>Maria Johanna Pantolina</schema:givenName>
       <schema:familyName>Thomas</schema:familyName>
@@ -410,6 +436,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089724"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089726"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Leonora Teunissen</schema:name>
       <schema:givenName>Leonora</schema:givenName>
       <schema:familyName>Teunissen</schema:familyName>
@@ -438,6 +466,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089728"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089730"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Willem Jan Hulsman</schema:name>
       <schema:givenName>Willem Jan</schema:givenName>
       <schema:familyName>Hulsman</schema:familyName>
@@ -466,6 +496,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089732"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089734"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Wilhelmina Esvelt</schema:name>
       <schema:givenName>Wilhelmina</schema:givenName>
       <schema:familyName>Esvelt</schema:familyName>
@@ -501,6 +533,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089736"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089738"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Petronella Hendrika Dronsberg</schema:name>
       <schema:givenName>Petronella Hendrika</schema:givenName>
       <schema:familyName>Dronsberg</schema:familyName>
@@ -536,6 +570,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089740"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089742"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hendrik Gradus Gabriel van der Poll</schema:name>
       <schema:givenName>Hendrik Gradus Gabriel</schema:givenName>
       <schema:familyName>van der Poll</schema:familyName>
@@ -578,6 +614,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089744"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089746"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Helena Wilhelmina Kuipers</schema:name>
       <schema:givenName>Helena Wilhelmina</schema:givenName>
       <schema:familyName>Kuipers</schema:familyName>
@@ -613,6 +651,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089748"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089750"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Maria Magendans</schema:name>
       <schema:givenName>Maria</schema:givenName>
       <schema:familyName>Magendans</schema:familyName>
@@ -648,6 +688,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089752"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089754"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Catharina Elisabetha Wilhelmina Isselmann</schema:name>
       <schema:givenName>Catharina Elisabetha Wilhelmina</schema:givenName>
       <schema:familyName>Isselmann</schema:familyName>
@@ -676,6 +718,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089108"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089110"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Maria Wilhelmina Jansen</schema:name>
       <schema:givenName>Maria Wilhelmina</schema:givenName>
       <schema:familyName>Jansen</schema:familyName>
@@ -704,6 +748,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089112"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089114"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johanna Elisabeth Theunissen</schema:name>
       <schema:givenName>Johanna Elisabeth</schema:givenName>
       <schema:familyName>Theunissen</schema:familyName>
@@ -732,6 +778,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089116"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089118"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Theodora Wigman</schema:name>
       <schema:givenName>Theodora</schema:givenName>
       <schema:familyName>Wigman</schema:familyName>
@@ -760,6 +808,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089120"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089122"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Petronella Gesina Reiff</schema:name>
       <schema:givenName>Petronella Gesina</schema:givenName>
       <schema:familyName>Reiff</schema:familyName>
@@ -795,6 +845,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089124"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089126"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johanna Jacoba Aleida Heijster</schema:name>
       <schema:givenName>Johanna Jacoba Aleida</schema:givenName>
       <schema:familyName>Heijster</schema:familyName>
@@ -830,6 +882,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089128"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089130"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Franciscus Everhardus Rietbergen</schema:name>
       <schema:givenName>Franciscus Everhardus</schema:givenName>
       <schema:familyName>Rietbergen</schema:familyName>
@@ -858,6 +912,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089132"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089134"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Karel Willem Feith</schema:name>
       <schema:givenName>Karel Willem</schema:givenName>
       <schema:familyName>Feith</schema:familyName>
@@ -886,6 +942,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089136"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089138"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Machielis Verburgt</schema:name>
       <schema:givenName>Machielis</schema:givenName>
       <schema:familyName>Verburgt</schema:familyName>
@@ -914,6 +972,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089140"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089142"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Derkje Hendrika Koentz</schema:name>
       <schema:givenName>Derkje Hendrika</schema:givenName>
       <schema:familyName>Koentz</schema:familyName>
@@ -949,6 +1009,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089756"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089758"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Gardus Jacobus Theodorus Joahnnes Becks</schema:name>
       <schema:givenName>Gardus Jacobus Theodorus Joahnnes</schema:givenName>
       <schema:familyName>Becks</schema:familyName>
@@ -977,6 +1039,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089760"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089762"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Lukas Johannes Janssen</schema:name>
       <schema:givenName>Lukas Johannes</schema:givenName>
       <schema:familyName>Janssen</schema:familyName>
@@ -1005,6 +1069,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089764"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089766"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Maria Hitta Sara Schouw Santfoort</schema:name>
       <schema:givenName>Maria Hitta Sara</schema:givenName>
       <schema:familyName>Schouw Santfoort</schema:familyName>
@@ -1033,6 +1099,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089768"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089770"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Marinus van Leiden</schema:name>
       <schema:givenName>Marinus</schema:givenName>
       <schema:familyName>van Leiden</schema:familyName>
@@ -1075,6 +1143,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089772"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089774"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Lucretia Geertruida Margaretha Hölzel</schema:name>
       <schema:givenName>Lucretia Geertruida Margaretha</schema:givenName>
       <schema:familyName>Hölzel</schema:familyName>
@@ -1103,6 +1173,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089776"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089778"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Gerrit Hendrik Jansen</schema:name>
       <schema:givenName>Gerrit Hendrik</schema:givenName>
       <schema:familyName>Jansen</schema:familyName>
@@ -1131,6 +1203,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089780"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089782"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Bernardus Everhardus Joling</schema:name>
       <schema:givenName>Bernardus Everhardus</schema:givenName>
       <schema:familyName>Joling</schema:familyName>
@@ -1159,6 +1233,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089784"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089786"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Wijnandina Susanna Pegman</schema:name>
       <schema:givenName>Wijnandina Susanna</schema:givenName>
       <schema:familyName>Pegman</schema:familyName>
@@ -1187,6 +1263,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089788"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089790"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johannes Lodewikus Wigman</schema:name>
       <schema:givenName>Johannes Lodewikus</schema:givenName>
       <schema:familyName>Wigman</schema:familyName>
@@ -1215,6 +1293,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089792"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089794"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Christiaan Jansen</schema:name>
       <schema:givenName>Christiaan</schema:givenName>
       <schema:familyName>Jansen</schema:familyName>
@@ -1250,6 +1330,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089156"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089158"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Alberdina Elisabeth Valk</schema:name>
       <schema:givenName>Alberdina Elisabeth</schema:givenName>
       <schema:familyName>Valk</schema:familyName>
@@ -1278,6 +1360,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089160"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089162"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Antonius Louis Jung</schema:name>
       <schema:givenName>Antonius Louis</schema:givenName>
       <schema:familyName>Jung</schema:familyName>
@@ -1306,6 +1390,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089164"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089166"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hendrik Wijman</schema:name>
       <schema:givenName>Hendrik</schema:givenName>
       <schema:familyName>Wijman</schema:familyName>
@@ -1334,6 +1420,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089168"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089170"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Willem van der Wiel</schema:name>
       <schema:givenName>Willem</schema:givenName>
       <schema:familyName>van der Wiel</schema:familyName>
@@ -1376,6 +1464,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089172"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089174"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Theodora Rijsewijk</schema:name>
       <schema:givenName>Theodora</schema:givenName>
       <schema:familyName>Rijsewijk</schema:familyName>
@@ -1404,6 +1494,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089176"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089178"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Bernardina Cornelia Haas</schema:name>
       <schema:givenName>Bernardina Cornelia</schema:givenName>
       <schema:familyName>Haas</schema:familyName>
@@ -1439,6 +1531,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089180"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089182"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Jan Evert Hendrik Diepenbroek</schema:name>
       <schema:givenName>Jan Evert Hendrik</schema:givenName>
       <schema:familyName>Diepenbroek</schema:familyName>
@@ -1467,6 +1561,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089184"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089186"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Jan Johannes van Baaren</schema:name>
       <schema:givenName>Jan Johannes</schema:givenName>
       <schema:familyName>van Baaren</schema:familyName>
@@ -1509,6 +1605,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089796"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089798"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hendrikus Markhorst</schema:name>
       <schema:givenName>Hendrikus</schema:givenName>
       <schema:familyName>Markhorst</schema:familyName>
@@ -1537,6 +1635,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089800"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089802"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Derk van Heuven</schema:name>
       <schema:givenName>Derk</schema:givenName>
       <schema:familyName>van Heuven</schema:familyName>
@@ -1586,6 +1686,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089804"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089806"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johannes Hendrikus Everhardus Lindeman</schema:name>
       <schema:givenName>Johannes Hendrikus Everhardus</schema:givenName>
       <schema:familyName>Lindeman</schema:familyName>
@@ -1614,6 +1716,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089808"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089810"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Anthon Frederik Groh</schema:name>
       <schema:givenName>Anthon Frederik</schema:givenName>
       <schema:familyName>Groh</schema:familyName>
@@ -1642,6 +1746,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089812"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089814"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johanna Kingma</schema:name>
       <schema:givenName>Johanna</schema:givenName>
       <schema:familyName>Kingma</schema:familyName>
@@ -1670,6 +1776,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089816"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089818"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Bernardus Schill</schema:name>
       <schema:givenName>Bernardus</schema:givenName>
       <schema:familyName>Schill</schema:familyName>
@@ -1698,6 +1806,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089820"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089822"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Jantje Maria Anna Gardina van Kuijk</schema:name>
       <schema:givenName>Jantje Maria Anna Gardina</schema:givenName>
       <schema:familyName>van Kuijk</schema:familyName>
@@ -1733,6 +1843,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089824"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089826"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hendrikus Johannes Kinkelaar</schema:name>
       <schema:givenName>Hendrikus Johannes</schema:givenName>
       <schema:familyName>Kinkelaar</schema:familyName>
@@ -1761,6 +1873,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089828"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089830"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Christina Johanna Mulder</schema:name>
       <schema:givenName>Christina Johanna</schema:givenName>
       <schema:familyName>Mulder</schema:familyName>
@@ -1796,6 +1910,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089832"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089834"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hermina Teunissen</schema:name>
       <schema:givenName>Hermina</schema:givenName>
       <schema:familyName>Teunissen</schema:familyName>
@@ -1824,6 +1940,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089188"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089190"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Geertruida Tardijn</schema:name>
       <schema:givenName>Geertruida</schema:givenName>
       <schema:familyName>Tardijn</schema:familyName>
@@ -1852,6 +1970,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089192"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089194"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Geurdina Charlotta Wielheesen</schema:name>
       <schema:givenName>Geurdina Charlotta</schema:givenName>
       <schema:familyName>Wielheesen</schema:familyName>
@@ -1880,6 +2000,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089196"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089198"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johanna Catharina Bouwman</schema:name>
       <schema:givenName>Johanna Catharina</schema:givenName>
       <schema:familyName>Bouwman</schema:familyName>
@@ -1908,6 +2030,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089200"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089202"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Everdina Bernardina Hendrica Isselmann</schema:name>
       <schema:givenName>Everdina Bernardina Hendrica</schema:givenName>
       <schema:familyName>Isselmann</schema:familyName>
@@ -1943,6 +2067,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089204"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089206"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hendrina Catharina Sluiter</schema:name>
       <schema:givenName>Hendrina Catharina</schema:givenName>
       <schema:familyName>Sluiter</schema:familyName>
@@ -1971,6 +2097,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089208"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089210"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Carolus Johannes Standaar</schema:name>
       <schema:givenName>Carolus Johannes</schema:givenName>
       <schema:familyName>Standaar</schema:familyName>
@@ -2006,6 +2134,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089212"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089214"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Everdina Wilhelmina Evers</schema:name>
       <schema:givenName>Everdina Wilhelmina</schema:givenName>
       <schema:familyName>Evers</schema:familyName>
@@ -2041,6 +2171,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089216"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089218"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Paulina Baerends</schema:name>
       <schema:givenName>Paulina</schema:givenName>
       <schema:familyName>Baerends</schema:familyName>
@@ -2069,6 +2201,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089220"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089222"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Catharina Vos</schema:name>
       <schema:givenName>Catharina</schema:givenName>
       <schema:familyName>Vos</schema:familyName>
@@ -2097,6 +2231,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089224"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089226"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Elisabeth Boumann</schema:name>
       <schema:givenName>Elisabeth</schema:givenName>
       <schema:familyName>Boumann</schema:familyName>
@@ -2125,6 +2261,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089836"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089838"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Wilhelmina Christina Cleeve</schema:name>
       <schema:givenName>Wilhelmina Christina</schema:givenName>
       <schema:familyName>Cleeve</schema:familyName>
@@ -2160,6 +2298,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089840"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089842"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hendrik Jan Blom</schema:name>
       <schema:givenName>Hendrik Jan</schema:givenName>
       <schema:familyName>Blom</schema:familyName>
@@ -2188,6 +2328,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089848"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089850"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johannes Petrus Bolman</schema:name>
       <schema:givenName>Johannes Petrus</schema:givenName>
       <schema:familyName>Bolman</schema:familyName>
@@ -2216,6 +2358,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089852"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089854"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Willem Adriaans</schema:name>
       <schema:givenName>Willem</schema:givenName>
       <schema:familyName>Adriaans</schema:familyName>
@@ -2244,6 +2388,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089856"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089858"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johanna Berendina Maandag</schema:name>
       <schema:givenName>Johanna Berendina</schema:givenName>
       <schema:familyName>Maandag</schema:familyName>
@@ -2272,6 +2418,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089860"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089862"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Gijsbert Voslamber</schema:name>
       <schema:givenName>Gijsbert</schema:givenName>
       <schema:familyName>Voslamber</schema:familyName>
@@ -2300,6 +2448,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089868"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089870"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Jacobus Hermanus Muller</schema:name>
       <schema:givenName>Jacobus Hermanus</schema:givenName>
       <schema:familyName>Muller</schema:familyName>
@@ -2335,6 +2485,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089872"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089874"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Petrus Rudolph Willems</schema:name>
       <schema:givenName>Petrus Rudolph</schema:givenName>
       <schema:familyName>Willems</schema:familyName>
@@ -2363,6 +2515,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089228"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089230"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Dorothea Maria Roepers</schema:name>
       <schema:givenName>Dorothea Maria</schema:givenName>
       <schema:familyName>Roepers</schema:familyName>
@@ -2391,6 +2545,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089232"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089234"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johannes Hendricus Boester</schema:name>
       <schema:givenName>Johannes Hendricus</schema:givenName>
       <schema:familyName>Boester</schema:familyName>
@@ -2419,6 +2575,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089236"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089238"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Leonard Carel Willem Horn</schema:name>
       <schema:givenName>Leonard Carel Willem</schema:givenName>
       <schema:familyName>Horn</schema:familyName>
@@ -2447,6 +2605,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089240"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089242"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johannes Antonius Kessels</schema:name>
       <schema:givenName>Johannes Antonius</schema:givenName>
       <schema:familyName>Kessels</schema:familyName>
@@ -2475,6 +2635,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089244"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089246"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Petronella Becker</schema:name>
       <schema:givenName>Petronella</schema:givenName>
       <schema:familyName>Becker</schema:familyName>
@@ -2503,6 +2665,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089248"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089250"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Maria Catharina Helena Verplak</schema:name>
       <schema:givenName>Maria Catharina Helena</schema:givenName>
       <schema:familyName>Verplak</schema:familyName>
@@ -2531,6 +2695,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089252"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089254"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Carolina Gerdina Eshuijs</schema:name>
       <schema:givenName>Carolina Gerdina</schema:givenName>
       <schema:familyName>Eshuijs</schema:familyName>
@@ -2566,6 +2732,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089256"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089258"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Maria Allegonda Verburg</schema:name>
       <schema:givenName>Maria Allegonda</schema:givenName>
       <schema:familyName>Verburg</schema:familyName>
@@ -2594,6 +2762,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089260"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089262"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johanna Hendrika Sigelinski</schema:name>
       <schema:givenName>Johanna Hendrika</schema:givenName>
       <schema:familyName>Sigelinski</schema:familyName>
@@ -2622,6 +2792,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089264"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089266"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Catharina Johanna Fredriks</schema:name>
       <schema:givenName>Catharina Johanna</schema:givenName>
       <schema:familyName>Fredriks</schema:familyName>
@@ -2650,6 +2822,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089876"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089878"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Reinira Daams</schema:name>
       <schema:givenName>Reinira</schema:givenName>
       <schema:familyName>Daams</schema:familyName>
@@ -2678,6 +2852,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089880"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089882"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Jan Willem Knelissen</schema:name>
       <schema:givenName>Jan Willem</schema:givenName>
       <schema:familyName>Knelissen</schema:familyName>
@@ -2706,6 +2882,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089884"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089886"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Tomas Hubertus Galle</schema:name>
       <schema:givenName>Tomas Hubertus</schema:givenName>
       <schema:familyName>Galle</schema:familyName>
@@ -2734,6 +2912,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089888"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089890"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Gerrit Jansen</schema:name>
       <schema:givenName>Gerrit</schema:givenName>
       <schema:familyName>Jansen</schema:familyName>
@@ -2762,6 +2942,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089892"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089894"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Everdina Hendrina Maria Brink</schema:name>
       <schema:givenName>Everdina Hendrina Maria</schema:givenName>
       <schema:familyName>Brink</schema:familyName>
@@ -2790,6 +2972,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089896"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089898"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Cornelia Christina Willems</schema:name>
       <schema:givenName>Cornelia Christina</schema:givenName>
       <schema:familyName>Willems</schema:familyName>
@@ -2818,6 +3002,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089900"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089902"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Elisabeth Schneider</schema:name>
       <schema:givenName>Elisabeth</schema:givenName>
       <schema:familyName>Schneider</schema:familyName>
@@ -2846,6 +3032,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089904"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089906"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Franciskus Godefridus Otterlo</schema:name>
       <schema:givenName>Franciskus Godefridus</schema:givenName>
       <schema:familyName>Otterlo</schema:familyName>
@@ -2874,6 +3062,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089908"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089910"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Thonia ten Cate</schema:name>
       <schema:givenName>Thonia</schema:givenName>
       <schema:familyName>ten Cate</schema:familyName>
@@ -2923,6 +3113,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089268"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089270"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Philippus Jacobus Vissers</schema:name>
       <schema:givenName>Philippus Jacobus</schema:givenName>
       <schema:familyName>Vissers</schema:familyName>
@@ -2951,6 +3143,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089272"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089274"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johannes Thomassen</schema:name>
       <schema:givenName>Johannes</schema:givenName>
       <schema:familyName>Thomassen</schema:familyName>
@@ -2979,6 +3173,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089276"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089278"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johanna Bredevelt</schema:name>
       <schema:givenName>Johanna</schema:givenName>
       <schema:familyName>Bredevelt</schema:familyName>
@@ -3007,6 +3203,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089280"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089282"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Susanna Antonia Harmsen</schema:name>
       <schema:givenName>Susanna Antonia</schema:givenName>
       <schema:familyName>Harmsen</schema:familyName>
@@ -3035,6 +3233,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089284"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089286"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Jannetje de Vlaming</schema:name>
       <schema:givenName>Jannetje</schema:givenName>
       <schema:familyName>de Vlaming</schema:familyName>
@@ -3077,6 +3277,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089288"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089290"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Willem Nijenhuis</schema:name>
       <schema:givenName>Willem</schema:givenName>
       <schema:familyName>Nijenhuis</schema:familyName>
@@ -3112,6 +3314,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089292"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089294"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Theresia Jacoba Theodora van Heek</schema:name>
       <schema:givenName>Theresia Jacoba Theodora</schema:givenName>
       <schema:familyName>van Heek</schema:familyName>
@@ -3154,6 +3358,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089296"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089298"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johannes Hendrik Zuuring</schema:name>
       <schema:givenName>Johannes Hendrik</schema:givenName>
       <schema:familyName>Zuuring</schema:familyName>
@@ -3189,6 +3395,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089300"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089302"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Adriana Verheul</schema:name>
       <schema:givenName>Adriana</schema:givenName>
       <schema:familyName>Verheul</schema:familyName>
@@ -3217,6 +3425,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089304"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089306"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Jacobus Petrus van Loon</schema:name>
       <schema:givenName>Jacobus Petrus</schema:givenName>
       <schema:familyName>van Loon</schema:familyName>
@@ -3259,6 +3469,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089308"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089310"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Maria Johanna Gertruda Thomassen</schema:name>
       <schema:givenName>Maria Johanna Gertruda</schema:givenName>
       <schema:familyName>Thomassen</schema:familyName>
@@ -3287,6 +3499,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089312"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089314"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Zeger Reinier Allardus Reijers</schema:name>
       <schema:givenName>Zeger Reinier Allardus</schema:givenName>
       <schema:familyName>Reijers</schema:familyName>
@@ -3315,6 +3529,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089316"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089318"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hendrik Jan Jansen</schema:name>
       <schema:givenName>Hendrik Jan</schema:givenName>
       <schema:familyName>Jansen</schema:familyName>
@@ -3350,6 +3566,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089320"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089322"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hendrikus Gerhardus Niesman</schema:name>
       <schema:givenName>Hendrikus Gerhardus</schema:givenName>
       <schema:familyName>Niesman</schema:familyName>
@@ -3378,6 +3596,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089324"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089326"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Catharina van der Weide</schema:name>
       <schema:givenName>Catharina</schema:givenName>
       <schema:familyName>van der Weide</schema:familyName>
@@ -3420,6 +3640,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089328"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089330"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johanna Geertruida Baumann</schema:name>
       <schema:givenName>Johanna Geertruida</schema:givenName>
       <schema:familyName>Baumann</schema:familyName>
@@ -3448,6 +3670,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089332"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089334"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Geetruida Smits</schema:name>
       <schema:givenName>Geetruida</schema:givenName>
       <schema:familyName>Smits</schema:familyName>
@@ -3476,6 +3700,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089336"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089338"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Catharina Petronella Driessen</schema:name>
       <schema:givenName>Catharina Petronella</schema:givenName>
       <schema:familyName>Driessen</schema:familyName>
@@ -3504,6 +3730,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089340"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089342"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Katharina Geertruida Dinkeloo</schema:name>
       <schema:givenName>Katharina Geertruida</schema:givenName>
       <schema:familyName>Dinkeloo</schema:familyName>
@@ -3539,6 +3767,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089344"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089346"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Gerrit Jan te Winkel</schema:name>
       <schema:givenName>Gerrit Jan</schema:givenName>
       <schema:familyName>te Winkel</schema:familyName>
@@ -3581,6 +3811,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089348"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089350"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Antonia Ubijng</schema:name>
       <schema:givenName>Antonia</schema:givenName>
       <schema:familyName>Ubijng</schema:familyName>
@@ -3609,6 +3841,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089352"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089354"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Elisabeth Johanna Petronella Boerbooms</schema:name>
       <schema:givenName>Elisabeth Johanna Petronella</schema:givenName>
       <schema:familyName>Boerbooms</schema:familyName>
@@ -3644,6 +3878,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089356"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089358"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Francisca Cornelia Valentina Ludwig</schema:name>
       <schema:givenName>Francisca Cornelia Valentina</schema:givenName>
       <schema:familyName>Ludwig</schema:familyName>
@@ -3672,6 +3908,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089360"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089362"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hermanus Albertus Wouters</schema:name>
       <schema:givenName>Hermanus Albertus</schema:givenName>
       <schema:familyName>Wouters</schema:familyName>
@@ -3700,6 +3938,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089364"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089366"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Antonius Johannes Freriks</schema:name>
       <schema:givenName>Antonius Johannes</schema:givenName>
       <schema:familyName>Freriks</schema:familyName>
@@ -3728,6 +3968,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089368"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089370"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Elsje Greven</schema:name>
       <schema:givenName>Elsje</schema:givenName>
       <schema:familyName>Greven</schema:familyName>
@@ -3756,6 +3998,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089372"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089374"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Elisabeth Wilhelmina Janssen Van Essen</schema:name>
       <schema:givenName>Elisabeth Wilhelmina</schema:givenName>
       <schema:familyName>Janssen Van Essen</schema:familyName>
@@ -3784,6 +4028,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089376"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089378"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johannes Böthlingk</schema:name>
       <schema:givenName>Johannes</schema:givenName>
       <schema:familyName>Böthlingk</schema:familyName>
@@ -3819,6 +4065,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089380"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089382"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johannes Gerardus Verhoeven</schema:name>
       <schema:givenName>Johannes Gerardus</schema:givenName>
       <schema:familyName>Verhoeven</schema:familyName>
@@ -3847,6 +4095,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089384"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089386"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Jacob Wilhelmus van Zadelhoff</schema:name>
       <schema:givenName>Jacob Wilhelmus</schema:givenName>
       <schema:familyName>van Zadelhoff</schema:familyName>
@@ -3889,6 +4139,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089388"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089390"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Jacob Matthaeus de Kempenaer</schema:name>
       <schema:givenName>Jacob Matthaeus</schema:givenName>
       <schema:familyName>de Kempenaer</schema:familyName>
@@ -3931,6 +4183,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089392"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089394"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johanna de Leeuw</schema:name>
       <schema:givenName>Johanna</schema:givenName>
       <schema:familyName>de Leeuw</schema:familyName>
@@ -3973,6 +4227,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089396"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089398"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Anna Poulina van der Heijden</schema:name>
       <schema:givenName>Anna Poulina</schema:givenName>
       <schema:familyName>van der Heijden</schema:familyName>
@@ -4015,6 +4271,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089400"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089402"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johannes Albartus Cornelissen De Beer</schema:name>
       <schema:givenName>Johannes Albartus</schema:givenName>
       <schema:familyName>Cornelissen De Beer</schema:familyName>
@@ -4043,6 +4301,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089404"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089406"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Cornelia Johanna Bouterse</schema:name>
       <schema:givenName>Cornelia Johanna</schema:givenName>
       <schema:familyName>Bouterse</schema:familyName>
@@ -4071,6 +4331,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089408"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089410"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Jan Batist Burgers</schema:name>
       <schema:givenName>Jan Batist</schema:givenName>
       <schema:familyName>Burgers</schema:familyName>
@@ -4099,6 +4361,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089412"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089414"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Roelof Jongkees</schema:name>
       <schema:givenName>Roelof</schema:givenName>
       <schema:familyName>Jongkees</schema:familyName>
@@ -4134,6 +4398,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089416"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089418"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Geertrui van Betuw</schema:name>
       <schema:givenName>Geertrui</schema:givenName>
       <schema:familyName>van Betuw</schema:familyName>
@@ -4176,6 +4442,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089420"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089422"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Theodorus Evers</schema:name>
       <schema:givenName>Theodorus</schema:givenName>
       <schema:familyName>Evers</schema:familyName>
@@ -4211,6 +4479,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089424"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089426"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johanna Christina Theodora Theben</schema:name>
       <schema:givenName>Johanna Christina Theodora</schema:givenName>
       <schema:familyName>Theben</schema:familyName>
@@ -4239,6 +4509,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089428"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089430"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Pieter Leendertz</schema:name>
       <schema:givenName>Pieter</schema:givenName>
       <schema:familyName>Leendertz</schema:familyName>
@@ -4274,6 +4546,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089432"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089434"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Petrus Hendrikus Murkens</schema:name>
       <schema:givenName>Petrus Hendrikus</schema:givenName>
       <schema:familyName>Murkens</schema:familyName>
@@ -4302,6 +4576,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089436"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089438"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Henriette Noverraz</schema:name>
       <schema:givenName>Henriette</schema:givenName>
       <schema:familyName>Noverraz</schema:familyName>
@@ -4330,6 +4606,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089440"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089442"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Gerhardus Johannes Janssen</schema:name>
       <schema:givenName>Gerhardus Johannes</schema:givenName>
       <schema:familyName>Janssen</schema:familyName>
@@ -4358,6 +4636,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089444"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089446"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Jacobus de Vries</schema:name>
       <schema:givenName>Jacobus</schema:givenName>
       <schema:familyName>de Vries</schema:familyName>
@@ -4407,6 +4687,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089448"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089450"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Petrus Jacobus Houben</schema:name>
       <schema:givenName>Petrus Jacobus</schema:givenName>
       <schema:familyName>Houben</schema:familyName>
@@ -4435,6 +4717,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089452"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089454"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Geertruida Zwartkruis</schema:name>
       <schema:givenName>Geertruida</schema:givenName>
       <schema:familyName>Zwartkruis</schema:familyName>
@@ -4463,6 +4747,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089456"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089458"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Wouter Constant Burgers</schema:name>
       <schema:givenName>Wouter Constant</schema:givenName>
       <schema:familyName>Burgers</schema:familyName>
@@ -4491,6 +4777,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089460"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089462"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Grada Willemsen</schema:name>
       <schema:givenName>Grada</schema:givenName>
       <schema:familyName>Willemsen</schema:familyName>
@@ -4519,6 +4807,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089464"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089466"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Grada Antonia Derksen</schema:name>
       <schema:givenName>Grada Antonia</schema:givenName>
       <schema:familyName>Derksen</schema:familyName>
@@ -4547,6 +4837,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089468"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089470"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Cornelis Hendrik Gijsbers</schema:name>
       <schema:givenName>Cornelis Hendrik</schema:givenName>
       <schema:familyName>Gijsbers</schema:familyName>
@@ -4582,6 +4874,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089472"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089474"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Piet Theodorus Laponder</schema:name>
       <schema:givenName>Piet Theodorus</schema:givenName>
       <schema:familyName>Laponder</schema:familyName>
@@ -4610,6 +4904,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089476"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089478"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Willem Gerrit Beumer</schema:name>
       <schema:givenName>Willem Gerrit</schema:givenName>
       <schema:familyName>Beumer</schema:familyName>
@@ -4638,6 +4934,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089480"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089482"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Sophia Johanna Kienen</schema:name>
       <schema:givenName>Sophia Johanna</schema:givenName>
       <schema:familyName>Kienen</schema:familyName>
@@ -4666,6 +4964,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089484"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089486"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johanna Berendina Jolink</schema:name>
       <schema:givenName>Johanna Berendina</schema:givenName>
       <schema:familyName>Jolink</schema:familyName>
@@ -4701,6 +5001,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089488"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089490"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johannes van Randwijk</schema:name>
       <schema:givenName>Johannes</schema:givenName>
       <schema:familyName>van Randwijk</schema:familyName>
@@ -4743,6 +5045,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089492"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089494"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Maria Petronella Leenen</schema:name>
       <schema:givenName>Maria Petronella</schema:givenName>
       <schema:familyName>Leenen</schema:familyName>
@@ -4771,6 +5075,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089496"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089498"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Willem Peters</schema:name>
       <schema:givenName>Willem</schema:givenName>
       <schema:familyName>Peters</schema:familyName>
@@ -4799,6 +5105,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089500"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089502"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hendrikus Sebastianus Aloisius Sanders</schema:name>
       <schema:givenName>Hendrikus Sebastianus Aloisius</schema:givenName>
       <schema:familyName>Sanders</schema:familyName>
@@ -4827,6 +5135,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089504"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089506"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Francisca Petronella ten Bensel</schema:name>
       <schema:givenName>Francisca Petronella</schema:givenName>
       <schema:familyName>ten Bensel</schema:familyName>
@@ -4869,6 +5179,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089508"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089510"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Derkje Hummeling</schema:name>
       <schema:givenName>Derkje</schema:givenName>
       <schema:familyName>Hummeling</schema:familyName>
@@ -4897,6 +5209,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089512"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089514"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Teunis Karel</schema:name>
       <schema:givenName>Teunis</schema:givenName>
       <schema:familyName>Karel</schema:familyName>
@@ -4925,6 +5239,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089516"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089518"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Jan Jacobs</schema:name>
       <schema:givenName>Jan</schema:givenName>
       <schema:familyName>Jacobs</schema:familyName>
@@ -4960,6 +5276,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089520"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089522"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hermanus Jan Kolenbrander</schema:name>
       <schema:givenName>Hermanus Jan</schema:givenName>
       <schema:familyName>Kolenbrander</schema:familyName>
@@ -4988,6 +5306,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089524"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089526"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Bernardus Hendrikus Pik</schema:name>
       <schema:givenName>Bernardus Hendrikus</schema:givenName>
       <schema:familyName>Pik</schema:familyName>
@@ -5016,6 +5336,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089528"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089530"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Wesselius Casparus van den Toorn</schema:name>
       <schema:givenName>Wesselius Casparus</schema:givenName>
       <schema:familyName>van den Toorn</schema:familyName>
@@ -5058,6 +5380,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089532"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089534"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Maria Jansen</schema:name>
       <schema:givenName>Maria</schema:givenName>
       <schema:familyName>Jansen</schema:familyName>
@@ -5086,6 +5410,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089536"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089538"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Anna Maria Winkes</schema:name>
       <schema:givenName>Anna Maria</schema:givenName>
       <schema:familyName>Winkes</schema:familyName>
@@ -5114,6 +5440,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089540"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089542"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Anthonius Benedictus Joannes van der Meulen</schema:name>
       <schema:givenName>Anthonius Benedictus Joannes</schema:givenName>
       <schema:familyName>van der Meulen</schema:familyName>
@@ -5163,6 +5491,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089544"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089546"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Grada Anna Thieme</schema:name>
       <schema:givenName>Grada Anna</schema:givenName>
       <schema:familyName>Thieme</schema:familyName>
@@ -5198,6 +5528,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089548"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089550"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johannes Petrus Beekhuijzen</schema:name>
       <schema:givenName>Johannes Petrus</schema:givenName>
       <schema:familyName>Beekhuijzen</schema:familyName>
@@ -5226,6 +5558,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089552"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089554"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Cornelis Antonius van Eimeren</schema:name>
       <schema:givenName>Cornelis Antonius</schema:givenName>
       <schema:familyName>van Eimeren</schema:familyName>
@@ -5268,6 +5602,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089556"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089558"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hendrica Johanna van der Hart</schema:name>
       <schema:givenName>Hendrica Johanna</schema:givenName>
       <schema:familyName>van der Hart</schema:familyName>
@@ -5317,6 +5653,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089560"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089562"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hendrikus de Greef</schema:name>
       <schema:givenName>Hendrikus</schema:givenName>
       <schema:familyName>de Greef</schema:familyName>
@@ -5359,6 +5697,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089564"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089566"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johannes Theodorus Gieben</schema:name>
       <schema:givenName>Johannes Theodorus</schema:givenName>
       <schema:familyName>Gieben</schema:familyName>
@@ -5387,6 +5727,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089568"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089570"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Peter Verhoeven</schema:name>
       <schema:givenName>Peter</schema:givenName>
       <schema:familyName>Verhoeven</schema:familyName>
@@ -5415,6 +5757,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089572"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089574"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Daniel Kasper Rijsemus</schema:name>
       <schema:givenName>Daniel Kasper</schema:givenName>
       <schema:familyName>Rijsemus</schema:familyName>
@@ -5443,6 +5787,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089576"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089578"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Agnes Maria Celestina Regina Gresnich</schema:name>
       <schema:givenName>Agnes Maria Celestina Regina</schema:givenName>
       <schema:familyName>Gresnich</schema:familyName>
@@ -5471,6 +5817,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089580"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089582"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Carel Arnold Breijer</schema:name>
       <schema:givenName>Carel Arnold</schema:givenName>
       <schema:familyName>Breijer</schema:familyName>
@@ -5499,6 +5847,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089584"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089586"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Theresia Maria van Beugen</schema:name>
       <schema:givenName>Theresia Maria</schema:givenName>
       <schema:familyName>van Beugen</schema:familyName>
@@ -5541,6 +5891,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089588"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089590"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johanna Wilhelmina Jasper</schema:name>
       <schema:givenName>Johanna Wilhelmina</schema:givenName>
       <schema:familyName>Jasper</schema:familyName>
@@ -5569,6 +5921,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089592"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089594"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hendrik Willem Hekkers</schema:name>
       <schema:givenName>Hendrik Willem</schema:givenName>
       <schema:familyName>Hekkers</schema:familyName>
@@ -5597,6 +5951,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089596"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089598"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Jean Chretien Baud</schema:name>
       <schema:givenName>Jean Chretien</schema:givenName>
       <schema:familyName>Baud</schema:familyName>
@@ -5632,6 +5988,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089600"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089602"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Theodorus Johannes Kleintjes</schema:name>
       <schema:givenName>Theodorus Johannes</schema:givenName>
       <schema:familyName>Kleintjes</schema:familyName>
@@ -5660,6 +6018,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089604"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089606"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Bartje Frequin</schema:name>
       <schema:givenName>Bartje</schema:givenName>
       <schema:familyName>Frequin</schema:familyName>
@@ -5688,6 +6048,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089608"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089610"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Jacobus Pitlo</schema:name>
       <schema:givenName>Jacobus</schema:givenName>
       <schema:familyName>Pitlo</schema:familyName>
@@ -5716,6 +6078,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089612"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089614"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Anna Petronella Vlaanderen</schema:name>
       <schema:givenName>Anna Petronella</schema:givenName>
       <schema:familyName>Vlaanderen</schema:familyName>
@@ -5751,6 +6115,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089616"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089618"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Frederik van Koppenhagen</schema:name>
       <schema:givenName>Frederik</schema:givenName>
       <schema:familyName>van Koppenhagen</schema:familyName>
@@ -5800,6 +6166,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089620"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089622"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Abraham Willemsen</schema:name>
       <schema:givenName>Abraham</schema:givenName>
       <schema:familyName>Willemsen</schema:familyName>
@@ -5828,6 +6196,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089624"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089626"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Grada Margaretha Guldenaar</schema:name>
       <schema:givenName>Grada Margaretha</schema:givenName>
       <schema:familyName>Guldenaar</schema:familyName>
@@ -5856,6 +6226,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089628"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089630"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Elisabeth Frederika Berger</schema:name>
       <schema:givenName>Elisabeth Frederika</schema:givenName>
       <schema:familyName>Berger</schema:familyName>
@@ -5884,6 +6256,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089632"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089634"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hannes Brouwer</schema:name>
       <schema:givenName>Hannes</schema:givenName>
       <schema:familyName>Brouwer</schema:familyName>
@@ -5919,6 +6293,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089012"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089014"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Theodora Maria Stitzinger</schema:name>
       <schema:givenName>Theodora Maria</schema:givenName>
       <schema:familyName>Stitzinger</schema:familyName>
@@ -5947,6 +6323,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089016"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089018"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Cornelia Hilbrand</schema:name>
       <schema:givenName>Cornelia</schema:givenName>
       <schema:familyName>Hilbrand</schema:familyName>
@@ -5975,6 +6353,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089020"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089022"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Anna Maria Cranen</schema:name>
       <schema:givenName>Anna Maria</schema:givenName>
       <schema:familyName>Cranen</schema:familyName>
@@ -6003,6 +6383,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089636"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089638"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Gradus Peters</schema:name>
       <schema:givenName>Gradus</schema:givenName>
       <schema:familyName>Peters</schema:familyName>
@@ -6031,6 +6413,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089640"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089642"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Maria Goedvrind</schema:name>
       <schema:givenName>Maria</schema:givenName>
       <schema:familyName>Goedvrind</schema:familyName>
@@ -6059,6 +6443,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089644"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089646"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johanna Maria Geertruida Wegman</schema:name>
       <schema:givenName>Johanna Maria Geertruida</schema:givenName>
       <schema:familyName>Wegman</schema:familyName>
@@ -6087,6 +6473,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089648"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089650"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johanna Helena Smit</schema:name>
       <schema:givenName>Johanna Helena</schema:givenName>
       <schema:familyName>Smit</schema:familyName>
@@ -6115,6 +6503,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089652"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089654"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johanna Biezen</schema:name>
       <schema:givenName>Johanna</schema:givenName>
       <schema:familyName>Biezen</schema:familyName>
@@ -6143,6 +6533,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089656"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089658"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Ludovikus Jacobus van Reeken</schema:name>
       <schema:givenName>Ludovikus Jacobus</schema:givenName>
       <schema:familyName>van Reeken</schema:familyName>
@@ -6185,6 +6577,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089660"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089662"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hendrik Antoon Lorentz</schema:name>
       <schema:givenName>Hendrik Antoon</schema:givenName>
       <schema:familyName>Lorentz</schema:familyName>
@@ -6220,6 +6614,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089664"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089666"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Zwaantje Kapel</schema:name>
       <schema:givenName>Zwaantje</schema:givenName>
       <schema:familyName>Kapel</schema:familyName>
@@ -6255,6 +6651,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089668"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089670"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Catharina Clasina Maria van den Braak</schema:name>
       <schema:givenName>Catharina Clasina Maria</schema:givenName>
       <schema:familyName>van den Braak</schema:familyName>
@@ -6297,6 +6695,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089672"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089674"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Grada Hendrika Hendriks</schema:name>
       <schema:givenName>Grada Hendrika</schema:givenName>
       <schema:familyName>Hendriks</schema:familyName>
@@ -6325,6 +6725,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089024"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089026"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hendrica Eusebia Janssen</schema:name>
       <schema:givenName>Hendrica Eusebia</schema:givenName>
       <schema:familyName>Janssen</schema:familyName>
@@ -6353,6 +6755,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089028"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089030"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Albert Frederik George Mallinckrodt</schema:name>
       <schema:givenName>Albert Frederik George</schema:givenName>
       <schema:familyName>Mallinckrodt</schema:familyName>
@@ -6381,6 +6785,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089032"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089034"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Louise Catharine Engelberts</schema:name>
       <schema:givenName>Louise Catharine</schema:givenName>
       <schema:familyName>Engelberts</schema:familyName>
@@ -6409,6 +6815,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089036"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089038"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Henrica Maria Jansen</schema:name>
       <schema:givenName>Henrica Maria</schema:givenName>
       <schema:familyName>Jansen</schema:familyName>
@@ -6437,6 +6845,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089040"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089042"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Theodora Grada Folman</schema:name>
       <schema:givenName>Theodora Grada</schema:givenName>
       <schema:familyName>Folman</schema:familyName>
@@ -6465,6 +6875,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089044"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089046"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Franciscus Landsheer</schema:name>
       <schema:givenName>Franciscus</schema:givenName>
       <schema:familyName>Landsheer</schema:familyName>
@@ -6493,6 +6905,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089048"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089050"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Herman Looman</schema:name>
       <schema:givenName>Herman</schema:givenName>
       <schema:familyName>Looman</schema:familyName>
@@ -6521,6 +6935,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089052"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089054"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Wilhemina Magendans</schema:name>
       <schema:givenName>Wilhemina</schema:givenName>
       <schema:familyName>Magendans</schema:familyName>
@@ -6549,6 +6965,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089056"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089058"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Maria Hendrina Jacoba Rogmans</schema:name>
       <schema:givenName>Maria Hendrina Jacoba</schema:givenName>
       <schema:familyName>Rogmans</schema:familyName>
@@ -6577,6 +6995,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089060"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089062"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Gijsbertus Johannes Jezeer</schema:name>
       <schema:givenName>Gijsbertus Johannes</schema:givenName>
       <schema:familyName>Jezeer</schema:familyName>
@@ -6605,6 +7025,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089676"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089678"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johanna Elisabeth Verheij</schema:name>
       <schema:givenName>Johanna Elisabeth</schema:givenName>
       <schema:familyName>Verheij</schema:familyName>
@@ -6633,6 +7055,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089680"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089682"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Gerard van Eck</schema:name>
       <schema:givenName>Gerard</schema:givenName>
       <schema:familyName>van Eck</schema:familyName>
@@ -6682,6 +7106,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089684"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089686"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Johanna Theresia Sophia Matilda Giebing</schema:name>
       <schema:givenName>Johanna Theresia Sophia Matilda</schema:givenName>
       <schema:familyName>Giebing</schema:familyName>
@@ -6717,6 +7143,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089688"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089690"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Albert Peter van Gorkum</schema:name>
       <schema:givenName>Albert Peter</schema:givenName>
       <schema:familyName>van Gorkum</schema:familyName>
@@ -6759,6 +7187,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089692"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089694"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Margaretha Johanna Beeks</schema:name>
       <schema:givenName>Margaretha Johanna</schema:givenName>
       <schema:familyName>Beeks</schema:familyName>
@@ -6787,6 +7217,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089696"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089698"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Abraham Meijer</schema:name>
       <schema:givenName>Abraham</schema:givenName>
       <schema:familyName>Meijer</schema:familyName>
@@ -6815,6 +7247,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089700"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089702"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Theodorus Loardus de Beer</schema:name>
       <schema:givenName>Theodorus Loardus</schema:givenName>
       <schema:familyName>de Beer</schema:familyName>
@@ -6857,6 +7291,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089704"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089706"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Hendrika Anthonia Aalbers</schema:name>
       <schema:givenName>Hendrika Anthonia</schema:givenName>
       <schema:familyName>Aalbers</schema:familyName>
@@ -6885,6 +7321,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089708"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089710"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Gerardiena Theodora van Herpen</schema:name>
       <schema:givenName>Gerardiena Theodora</schema:givenName>
       <schema:familyName>van Herpen</schema:familyName>
@@ -6927,6 +7365,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089712"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089714"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-1853-1853</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Henrietta Hormel</schema:name>
       <schema:givenName>Henrietta</schema:givenName>
       <schema:familyName>Hormel</schema:familyName>
@@ -6955,6 +7395,8 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/3046089864"/>
       <pico:hasRole>Kind</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person3046089866"/>
+      <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1829-1829-1829</schema:birthDate>
+      <schema:birthPlace>Arnhem</schema:birthPlace>
       <schema:name>Willemina Brans</schema:name>
       <schema:givenName>Willemina</schema:givenName>
       <schema:familyName>Brans</schema:familyName>

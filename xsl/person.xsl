@@ -29,7 +29,7 @@
                     <xsl:value-of select="../a2a:Source/a2a:RecordIdentifier"/>
                 </xsl:attribute>    
             </prov:hadPrimarySource>
-            <xsl:apply-templates select="../a2a:RelationEP[a2a:PersonKeyRef = $pid]"/>           
+            <xsl:apply-templates select="../a2a:RelationEP[a2a:PersonKeyRef = $pid]"/>
             <xsl:apply-templates select="a2a:PersonName"/>
         </pico:PersonObservation>
     </xsl:template>

@@ -26,6 +26,9 @@
         <xsl:call-template name="determine-gender">
             <xsl:with-param name="rel-type" select="a2a:RelationType"/>
         </xsl:call-template>
+        <xsl:call-template name="determine-event">
+            <xsl:with-param name="rel-type" select="a2a:RelationType"/>
+        </xsl:call-template>
     </xsl:template>
 
     <xsl:template match="a2a:RelationPP"/>
@@ -83,5 +86,38 @@
             </schema:gender>
         </xsl:if>
     </xsl:template>
+
+
+    <xsl:template name="determine-event">
+        <xsl:param name="rel-type"/>
+        <xsl:choose>
+            <xsl:when test="$rel-type = 'Kind'">
+                <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">
+                <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Year"/>
+                <xsl:text>-</xsl:text>
+                <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Year"/>
+                <xsl:text>-</xsl:text>
+                <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Year"/>                      
+            </schema:birthDate>
+                <schema:birthPlace>
+                    <xsl:value-of select="../a2a:Event/a2a:EventPlace/a2a:Place"/>
+                </schema:birthPlace>
+            </xsl:when>
+            <xsl:when test="$rel-type = 'Overledene'">
+                <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">
+                    <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Year"/>
+                    <xsl:text>-</xsl:text>
+                    <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Year"/>
+                    <xsl:text>-</xsl:text>
+                    <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Year"/>                      
+                </schema:deathDate>
+                <schema:deathPlace>
+                    <xsl:value-of select="../a2a:Event/a2a:EventPlace/a2a:Place"/>
+                </schema:deathPlace>
+            </xsl:when>
+        </xsl:choose>
+    </xsl:template>
+
+
 
 </xsl:stylesheet>
