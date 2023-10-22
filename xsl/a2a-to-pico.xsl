@@ -21,7 +21,6 @@
 <xsl:import href="object.xsl"/>
 <xsl:import href="source.xsl"/>
 <xsl:import href="relations.xsl"/>
-<!--xsl:import href="named-templates.xsl"/-->
 
 <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
 <xsl:strip-space elements="*"/>

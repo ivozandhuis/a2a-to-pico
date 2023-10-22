@@ -29,6 +29,10 @@
         <name>Bruidegom</name>
         <gender>http://schema.org/Male</gender>
         <relation>
+            <property>spouse</property>
+            <related>Bruid</related>
+        </relation>
+        <relation>
             <property>parent</property>
             <related>Vader van de bruidegom</related>
         </relation>
@@ -64,6 +68,10 @@
     <item>
         <name>Bruid</name>
         <gender>http://schema.org/Female</gender>
+        <relation>
+            <property>spouse</property>
+            <related>Bruidegom</related>
+        </relation>
         <relation>
             <property>parent</property>
             <related>Vader van de bruid</related>

@@ -40,10 +40,10 @@
     <xsl:template name="determine-relation-property">
     <!-- TBD: multiple parent-relations-->
     <xsl:param name="rel-type"/>
-        <xsl:variable name="RelationMap">relation-map.xml</xsl:variable>
-        <xsl:variable name="children-related" select="document($RelationMap)/items/item[name=$rel-type]/relation[property='children']/related"/>
-        <xsl:variable name="parent-related" select="document($RelationMap)/items/item[name=$rel-type]/relation[property='parent']/related"/>
-        <xsl:variable name="spouse-related" select="document($RelationMap)/items/item[name=$rel-type]/relation[property='spouse']/related"/>
+        <xsl:variable name="RelationTypeMap">maps/relationtypes.xml</xsl:variable>
+        <xsl:variable name="children-related" select="document($RelationTypeMap)/items/item[name=$rel-type]/relation[property='children']/related"/>
+        <xsl:variable name="parent-related" select="document($RelationTypeMap)/items/item[name=$rel-type]/relation[property='parent']/related"/>
+        <xsl:variable name="spouse-related" select="document($RelationTypeMap)/items/item[name=$rel-type]/relation[property='spouse']/related"/>
         <xsl:if test="$children-related">
             <schema:children>
                 <xsl:attribute name="rdf:resource">
@@ -73,8 +73,8 @@
 
     <xsl:template name="determine-gender">
         <xsl:param name="rel-type"/>
-        <xsl:variable name="RelationMap">relation-map.xml</xsl:variable>
-        <xsl:variable name="gender" select="document($RelationMap)/items/item[name=$rel-type]/gender"/>
+        <xsl:variable name="RelationTypeMap">maps/relationtypes.xml</xsl:variable>
+        <xsl:variable name="gender" select="document($RelationTypeMap)/items/item[name=$rel-type]/gender"/>
         <xsl:if test="$gender">
             <schema:gender>
                 <xsl:attribute name="rdf:resource">

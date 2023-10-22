@@ -11,6 +11,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307824"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307829"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307827"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>George Johannes Grootkop</schema:name>
       <schema:givenName>George Johannes</schema:givenName>
@@ -40,6 +41,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307824"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307826"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307830"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Hendrina Everarda van Driel</schema:name>
       <schema:givenName>Hendrina Everarda</schema:givenName>
@@ -83,6 +85,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307831"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307836"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307834"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Menzo Lasthuis</schema:name>
       <schema:givenName>Menzo</schema:givenName>
@@ -112,6 +115,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307831"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307833"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307837"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Josephina Wilhelmina Heshof</schema:name>
       <schema:givenName>Josephina Wilhelmina</schema:givenName>
@@ -141,6 +145,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307838"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307843"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307841"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Enrico Giovanni Battista Giussani</schema:name>
       <schema:givenName>Enrico Giovanni Battista</schema:givenName>
@@ -170,6 +175,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307838"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307840"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307844"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Julia Adeles Philomena Cossa</schema:name>
       <schema:givenName>Julia Adeles Philomena</schema:givenName>
@@ -199,6 +205,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307845"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307850"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307848"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Johannes Dorfmeijer</schema:name>
       <schema:givenName>Johannes</schema:givenName>
@@ -228,6 +235,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307845"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307847"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307851"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Maria Willemina Wildeboer</schema:name>
       <schema:givenName>Maria Willemina</schema:givenName>
@@ -264,6 +272,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307852"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307857"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307855"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Wilhelm Albertus Hes</schema:name>
       <schema:givenName>Wilhelm Albertus</schema:givenName>
@@ -293,6 +302,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307852"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307854"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307858"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Johanna Hillegonda Antoinetta van Gelder</schema:name>
       <schema:givenName>Johanna Hillegonda Antoinetta</schema:givenName>
@@ -336,6 +346,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307859"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307864"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307862"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Willem Jacobus Cornelis van Slingerlandt</schema:name>
       <schema:givenName>Willem Jacobus Cornelis</schema:givenName>
@@ -379,6 +390,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307859"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307861"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307865"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Geertruida Hoogendijk</schema:name>
       <schema:givenName>Geertruida</schema:givenName>
@@ -408,6 +420,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308105"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308110"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308108"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Marcus Diamant</schema:name>
       <schema:givenName>Marcus</schema:givenName>
@@ -437,6 +450,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308105"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308107"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308111"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Margaretha Wessel</schema:name>
       <schema:givenName>Margaretha</schema:givenName>
@@ -466,6 +480,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308112"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308117"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308115"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Willem Adriaan Hottinga</schema:name>
       <schema:givenName>Willem Adriaan</schema:givenName>
@@ -495,6 +510,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308112"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308114"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308118"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Sophia Maria Nicolaas</schema:name>
       <schema:givenName>Sophia Maria</schema:givenName>
@@ -524,6 +540,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308119"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308123"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308121"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Goukel Groen</schema:name>
       <schema:givenName>Goukel</schema:givenName>
@@ -553,6 +570,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308119"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308120"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308124"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Lubberta Berendina Roelofsen</schema:name>
       <schema:givenName>Lubberta Berendina</schema:givenName>
@@ -572,6 +590,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308125"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308130"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308128"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Mattheus den Hartog</schema:name>
       <schema:givenName>Mattheus</schema:givenName>
@@ -615,6 +634,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308125"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308127"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308131"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Maria Petronella Elisabeth Ruijsenberg</schema:name>
       <schema:givenName>Maria Petronella Elisabeth</schema:givenName>
@@ -644,6 +664,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308135"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308140"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308138"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Dirk Schippers</schema:name>
       <schema:givenName>Dirk</schema:givenName>
@@ -673,6 +694,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308135"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308137"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308141"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Hendrika Maria Alings</schema:name>
       <schema:givenName>Hendrika Maria</schema:givenName>
@@ -702,6 +724,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308340"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308345"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308343"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Hendricus Mattheus Pieterse</schema:name>
       <schema:givenName>Hendricus Mattheus</schema:givenName>
@@ -731,6 +754,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308340"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308342"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308346"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Matje de Wolde</schema:name>
       <schema:givenName>Matje</schema:givenName>
@@ -774,6 +798,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308347"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308352"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308350"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Franciscus Anthonius Hazes</schema:name>
       <schema:givenName>Franciscus Anthonius</schema:givenName>
@@ -803,6 +828,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308347"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308349"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308353"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Cornelia Schuurman</schema:name>
       <schema:givenName>Cornelia</schema:givenName>
@@ -832,6 +858,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308354"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308359"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308357"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Johan Brandberg</schema:name>
       <schema:givenName>Johan</schema:givenName>
@@ -861,6 +888,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308354"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308356"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308360"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Wilhelmina Hendrika Louisa Kuhfus</schema:name>
       <schema:givenName>Wilhelmina Hendrika Louisa</schema:givenName>
@@ -890,6 +918,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308361"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308366"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308364"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Abraham Levijson</schema:name>
       <schema:givenName>Abraham</schema:givenName>
@@ -919,6 +948,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308361"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308363"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308367"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Naatje Zwaab</schema:name>
       <schema:givenName>Naatje</schema:givenName>
@@ -955,6 +985,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308368"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308373"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308371"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Johannes Pieter Soudé</schema:name>
       <schema:givenName>Johannes Pieter</schema:givenName>
@@ -984,6 +1015,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308368"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308370"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308374"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Maria Uijleman</schema:name>
       <schema:givenName>Maria</schema:givenName>
@@ -1020,6 +1052,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308375"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308380"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308378"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Hendrik Frederik Wallien</schema:name>
       <schema:givenName>Hendrik Frederik</schema:givenName>
@@ -1049,6 +1082,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308375"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308377"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308381"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Cornelia Maria Elisabeth Munnik</schema:name>
       <schema:givenName>Cornelia Maria Elisabeth</schema:givenName>
@@ -1085,6 +1119,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307866"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307871"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307869"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Pieter Barendsen</schema:name>
       <schema:givenName>Pieter</schema:givenName>
@@ -1114,6 +1149,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307866"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307868"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307872"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Margaretha Gesina van Waalwijk</schema:name>
       <schema:givenName>Margaretha Gesina</schema:givenName>
@@ -1164,6 +1200,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307873"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307878"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307876"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Jan Hijko van Heteren</schema:name>
       <schema:givenName>Jan Hijko</schema:givenName>
@@ -1214,6 +1251,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307873"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307875"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307879"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Hillegonda Jacoba Smit</schema:name>
       <schema:givenName>Hillegonda Jacoba</schema:givenName>
@@ -1243,6 +1281,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307880"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307885"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307883"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Herman Berkhoff</schema:name>
       <schema:givenName>Herman</schema:givenName>
@@ -1272,6 +1311,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307880"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307882"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307886"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Johanna Maria Hugues</schema:name>
       <schema:givenName>Johanna Maria</schema:givenName>
@@ -1301,6 +1341,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307887"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307892"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307890"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Reinhold Meltzer</schema:name>
       <schema:givenName>Reinhold</schema:givenName>
@@ -1330,6 +1371,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307887"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307889"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307893"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Elisabeth Carolina von der Möhlen</schema:name>
       <schema:givenName>Elisabeth Carolina</schema:givenName>
@@ -1373,6 +1415,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307894"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307899"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307897"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Louis Pierre Rijke</schema:name>
       <schema:givenName>Louis Pierre</schema:givenName>
@@ -1402,6 +1445,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307894"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307896"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307900"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Geertruida Elizabeth Vogelzang</schema:name>
       <schema:givenName>Geertruida Elizabeth</schema:givenName>
@@ -1438,6 +1482,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307901"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307906"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307904"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Andreas Christian Hansen</schema:name>
       <schema:givenName>Andreas Christian</schema:givenName>
@@ -1467,6 +1512,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307901"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307903"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307907"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Elisabeth Maria Arents</schema:name>
       <schema:givenName>Elisabeth Maria</schema:givenName>
@@ -1496,6 +1542,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307908"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307913"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307911"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Michel Nijgard</schema:name>
       <schema:givenName>Michel</schema:givenName>
@@ -1525,6 +1572,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307908"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307910"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307914"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Sippora Salomon</schema:name>
       <schema:givenName>Sippora</schema:givenName>
@@ -1554,6 +1602,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307918"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307923"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307921"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Harme Baggelaar</schema:name>
       <schema:givenName>Harme</schema:givenName>
@@ -1590,6 +1639,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307918"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307920"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307924"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Cornelia Henrietta Swen</schema:name>
       <schema:givenName>Cornelia Henrietta</schema:givenName>
@@ -1626,6 +1676,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307925"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307930"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307928"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Hendrik Antoon Lorentz</schema:name>
       <schema:givenName>Hendrik Antoon</schema:givenName>
@@ -1662,6 +1713,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307925"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307927"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307931"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Aletta Catharina Kaiser</schema:name>
       <schema:givenName>Aletta Catharina</schema:givenName>
@@ -1691,6 +1743,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307932"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307936"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307935"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Johannes Sprengers</schema:name>
       <schema:givenName>Johannes</schema:givenName>
@@ -1710,6 +1763,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307932"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307934"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307937"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Catharina Maria Leurs</schema:name>
       <schema:givenName>Catharina Maria</schema:givenName>
@@ -1746,6 +1800,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307938"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307943"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307941"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Eliazer Harpman</schema:name>
       <schema:givenName>Eliazer</schema:givenName>
@@ -1782,6 +1837,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307938"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307940"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307944"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Rachel Beth</schema:name>
       <schema:givenName>Rachel</schema:givenName>
@@ -1811,6 +1867,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308142"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308147"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308145"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Jan Eliam</schema:name>
       <schema:givenName>Jan</schema:givenName>
@@ -1840,6 +1897,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308142"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308144"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308148"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Beertje van de Ridder</schema:name>
       <schema:givenName>Beertje</schema:givenName>
@@ -1890,6 +1948,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308149"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308154"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308152"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Jan van Doesen</schema:name>
       <schema:givenName>Jan</schema:givenName>
@@ -1933,6 +1992,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308149"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308151"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308155"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Maria Carolina Jordaan</schema:name>
       <schema:givenName>Maria Carolina</schema:givenName>
@@ -1962,6 +2022,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308156"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308161"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308159"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Martinus Johannes Franciscus Put</schema:name>
       <schema:givenName>Martinus Johannes Franciscus</schema:givenName>
@@ -1991,6 +2052,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308156"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308158"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308162"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Hendrika Adriana Wilhelmus</schema:name>
       <schema:givenName>Hendrika Adriana</schema:givenName>
@@ -2027,6 +2089,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308163"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308168"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308166"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Christianus Thijssen</schema:name>
       <schema:givenName>Christianus</schema:givenName>
@@ -2056,6 +2119,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308163"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308165"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308169"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Barbara Joanna Maria Gielen</schema:name>
       <schema:givenName>Barbara Joanna Maria</schema:givenName>
@@ -2092,6 +2156,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308170"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308175"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308173"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Christiaan van Senden</schema:name>
       <schema:givenName>Christiaan</schema:givenName>
@@ -2142,6 +2207,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308170"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308172"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308176"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Johanna Adriana Vonck</schema:name>
       <schema:givenName>Johanna Adriana</schema:givenName>
@@ -2171,6 +2237,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308177"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308182"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308180"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Cornelis Willem Spronk</schema:name>
       <schema:givenName>Cornelis Willem</schema:givenName>
@@ -2200,6 +2267,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308177"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308179"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308183"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Anna Gezina Smelt</schema:name>
       <schema:givenName>Anna Gezina</schema:givenName>
@@ -2229,6 +2297,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308382"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308387"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308385"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Jan Frederik Voigt</schema:name>
       <schema:givenName>Jan Frederik</schema:givenName>
@@ -2258,6 +2327,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308382"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308384"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308388"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Jakoba Alberta Cornelia Gaijkema</schema:name>
       <schema:givenName>Jakoba Alberta Cornelia</schema:givenName>
@@ -2287,6 +2357,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308389"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308394"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308392"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Jan Wijnand Leen</schema:name>
       <schema:givenName>Jan Wijnand</schema:givenName>
@@ -2316,6 +2387,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308389"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308391"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308395"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Aartje van Joolingen</schema:name>
       <schema:givenName>Aartje</schema:givenName>
@@ -2366,6 +2438,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308396"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308401"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308399"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Mozes Serlui</schema:name>
       <schema:givenName>Mozes</schema:givenName>
@@ -2402,6 +2475,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308396"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308398"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308402"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Betje de Jong</schema:name>
       <schema:givenName>Betje</schema:givenName>
@@ -2445,6 +2519,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308403"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308408"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308406"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Antonie van Kampen</schema:name>
       <schema:givenName>Antonie</schema:givenName>
@@ -2488,6 +2563,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308403"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308405"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308409"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Elisabeth Matthijs</schema:name>
       <schema:givenName>Elisabeth</schema:givenName>
@@ -2524,6 +2600,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308410"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308415"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308413"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Jan van der Schaaf</schema:name>
       <schema:givenName>Jan</schema:givenName>
@@ -2567,6 +2644,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308410"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308412"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308416"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Grietje Hanja</schema:name>
       <schema:givenName>Grietje</schema:givenName>
@@ -2596,6 +2674,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308417"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308422"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308420"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Willem Fredrik van Ee</schema:name>
       <schema:givenName>Willem Fredrik</schema:givenName>
@@ -2639,6 +2718,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308417"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308419"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308423"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Hendrika Hemminga</schema:name>
       <schema:givenName>Hendrika</schema:givenName>
@@ -2668,6 +2748,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307945"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307950"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307948"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Mozes Halberstadt</schema:name>
       <schema:givenName>Mozes</schema:givenName>
@@ -2697,6 +2778,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307945"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307947"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307951"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Klaartje Halverstad</schema:name>
       <schema:givenName>Klaartje</schema:givenName>
@@ -2726,6 +2808,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307952"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307957"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307955"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Jacobus Joannes Veerman</schema:name>
       <schema:givenName>Jacobus Joannes</schema:givenName>
@@ -2755,6 +2838,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307952"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307954"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307958"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Alida Mulder</schema:name>
       <schema:givenName>Alida</schema:givenName>
@@ -2784,6 +2868,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307959"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307964"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307962"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Arnoldus Antonius Kersbergen</schema:name>
       <schema:givenName>Arnoldus Antonius</schema:givenName>
@@ -2813,6 +2898,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307959"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307961"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307965"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Janneke Glastra</schema:name>
       <schema:givenName>Janneke</schema:givenName>
@@ -2842,6 +2928,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307966"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307970"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307968"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Pieter Huig</schema:name>
       <schema:givenName>Pieter</schema:givenName>
@@ -2871,6 +2958,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307966"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307967"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307971"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Annechina Cremer</schema:name>
       <schema:givenName>Annechina</schema:givenName>
@@ -2890,6 +2978,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307972"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307977"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307975"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Franciscus Hendricus Steelink</schema:name>
       <schema:givenName>Franciscus Hendricus</schema:givenName>
@@ -2919,6 +3008,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307972"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307974"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307978"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Johanna Maria Wilhelmina Gnade</schema:name>
       <schema:givenName>Johanna Maria Wilhelmina</schema:givenName>
@@ -2948,6 +3038,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307979"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307984"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307982"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Adrianus Negenborn</schema:name>
       <schema:givenName>Adrianus</schema:givenName>
@@ -2977,6 +3068,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307979"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307981"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307985"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Maria Johanna Lochtenberg</schema:name>
       <schema:givenName>Maria Johanna</schema:givenName>
@@ -3006,6 +3098,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308184"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308189"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308187"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Adrianus Bade</schema:name>
       <schema:givenName>Adrianus</schema:givenName>
@@ -3035,6 +3128,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308184"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308186"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308190"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Cornelia Dorethea Collard</schema:name>
       <schema:givenName>Cornelia Dorethea</schema:givenName>
@@ -3064,6 +3158,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308191"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308196"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308194"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Gerardus Joannes Sarlemijn</schema:name>
       <schema:givenName>Gerardus Joannes</schema:givenName>
@@ -3093,6 +3188,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308191"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308193"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308197"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Maria Johanna van der Lee</schema:name>
       <schema:givenName>Maria Johanna</schema:givenName>
@@ -3136,6 +3232,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308198"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308203"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308201"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Evert Boereboom</schema:name>
       <schema:givenName>Evert</schema:givenName>
@@ -3165,6 +3262,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308198"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308200"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308204"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Hendrika Ferdinandina Willemina Mulder</schema:name>
       <schema:givenName>Hendrika Ferdinandina Willemina</schema:givenName>
@@ -3201,6 +3299,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308205"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308210"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308208"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Reinier Groenevelt</schema:name>
       <schema:givenName>Reinier</schema:givenName>
@@ -3230,6 +3329,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308205"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308207"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308211"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Barendina Jacoba Buijsingh</schema:name>
       <schema:givenName>Barendina Jacoba</schema:givenName>
@@ -3259,6 +3359,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308212"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308217"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308215"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Kornelis van Wieringen</schema:name>
       <schema:givenName>Kornelis</schema:givenName>
@@ -3309,6 +3410,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308212"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308214"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308218"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Mietje Boelhouwer</schema:name>
       <schema:givenName>Mietje</schema:givenName>
@@ -3338,6 +3440,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308219"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308224"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308222"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Henricus Arnoldus Rottgering</schema:name>
       <schema:givenName>Henricus Arnoldus</schema:givenName>
@@ -3367,6 +3470,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308219"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308221"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308225"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Hendrika Maria Sierhuis</schema:name>
       <schema:givenName>Hendrika Maria</schema:givenName>
@@ -3396,6 +3500,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308424"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308429"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308427"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Jan Cornelis Hijzelendoorn</schema:name>
       <schema:givenName>Jan Cornelis</schema:givenName>
@@ -3432,6 +3537,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308424"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308426"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308430"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Cornelia Hanse</schema:name>
       <schema:givenName>Cornelia</schema:givenName>
@@ -3461,6 +3567,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308431"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308436"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308434"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Frederik Lodewijk Anthing</schema:name>
       <schema:givenName>Frederik Lodewijk</schema:givenName>
@@ -3490,6 +3597,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308431"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308433"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308437"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Gerbregje Geertruida Kingma</schema:name>
       <schema:givenName>Gerbregje Geertruida</schema:givenName>
@@ -3526,6 +3634,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308438"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308443"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308441"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Hermanus Wolfraad</schema:name>
       <schema:givenName>Hermanus</schema:givenName>
@@ -3555,6 +3664,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308438"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308440"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308444"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Maria Jacoba van Straalen</schema:name>
       <schema:givenName>Maria Jacoba</schema:givenName>
@@ -3598,6 +3708,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308445"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308450"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308448"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Frederik Christiaan Rose</schema:name>
       <schema:givenName>Frederik Christiaan</schema:givenName>
@@ -3627,6 +3738,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308445"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308447"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308451"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Antje Koghee</schema:name>
       <schema:givenName>Antje</schema:givenName>
@@ -3663,6 +3775,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308452"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308457"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308455"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Hendrik Meijer</schema:name>
       <schema:givenName>Hendrik</schema:givenName>
@@ -3699,6 +3812,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308452"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308454"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308458"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Maria Pruijs</schema:name>
       <schema:givenName>Maria</schema:givenName>
@@ -3735,6 +3849,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308459"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308464"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308462"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Philip Ernst Anthoni</schema:name>
       <schema:givenName>Philip Ernst</schema:givenName>
@@ -3764,6 +3879,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308459"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308461"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308465"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Francisca Maria Schuling</schema:name>
       <schema:givenName>Francisca Maria</schema:givenName>
@@ -3793,6 +3909,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307986"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307991"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307989"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Johan Frederik Toorenburgh</schema:name>
       <schema:givenName>Johan Frederik</schema:givenName>
@@ -3822,6 +3939,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307986"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307988"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307992"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Johanna Catharina Plecke</schema:name>
       <schema:givenName>Johanna Catharina</schema:givenName>
@@ -3851,6 +3969,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307993"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307998"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307996"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Lambert Lacroix</schema:name>
       <schema:givenName>Lambert</schema:givenName>
@@ -3880,6 +3999,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307993"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650307995"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307999"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Anna Maria Stricker</schema:name>
       <schema:givenName>Anna Maria</schema:givenName>
@@ -3909,6 +4029,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308000"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308005"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308003"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Jan Harmsen</schema:name>
       <schema:givenName>Jan</schema:givenName>
@@ -3938,6 +4059,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308000"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308002"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308006"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Maria Steenkamp</schema:name>
       <schema:givenName>Maria</schema:givenName>
@@ -3967,6 +4089,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308007"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308012"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308010"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Daniel Nicolaas van der Meer</schema:name>
       <schema:givenName>Daniel Nicolaas</schema:givenName>
@@ -4010,6 +4133,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308007"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308009"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308013"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Antonia Kroesnel</schema:name>
       <schema:givenName>Antonia</schema:givenName>
@@ -4039,6 +4163,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308014"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308019"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308017"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Johannes Boer</schema:name>
       <schema:givenName>Johannes</schema:givenName>
@@ -4068,6 +4193,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308014"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308016"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308020"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Maria Carolina Swagerman</schema:name>
       <schema:givenName>Maria Carolina</schema:givenName>
@@ -4097,6 +4223,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308021"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308026"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308024"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Johannes Nuuwolt</schema:name>
       <schema:givenName>Johannes</schema:givenName>
@@ -4133,6 +4260,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308021"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308023"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308027"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Grietje Beijers</schema:name>
       <schema:givenName>Grietje</schema:givenName>
@@ -4169,6 +4297,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308226"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308231"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308229"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Jacobus Martens</schema:name>
       <schema:givenName>Jacobus</schema:givenName>
@@ -4198,6 +4327,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308226"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308228"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308232"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Wilhelmina Hillegonda Scheffer</schema:name>
       <schema:givenName>Wilhelmina Hillegonda</schema:givenName>
@@ -4227,6 +4357,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308233"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308238"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308236"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Hendrik Klinkert</schema:name>
       <schema:givenName>Hendrik</schema:givenName>
@@ -4256,6 +4387,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308233"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308235"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308239"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Christina Carolina Schluter</schema:name>
       <schema:givenName>Christina Carolina</schema:givenName>
@@ -4292,6 +4424,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308240"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308245"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308243"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Martinus van Lier</schema:name>
       <schema:givenName>Martinus</schema:givenName>
@@ -4335,6 +4468,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308240"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308242"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308246"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Sophie Frank</schema:name>
       <schema:givenName>Sophie</schema:givenName>
@@ -4364,6 +4498,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308247"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308252"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308250"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Johannes Korthals</schema:name>
       <schema:givenName>Johannes</schema:givenName>
@@ -4393,6 +4528,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308247"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308249"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308253"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Marretje Hauer</schema:name>
       <schema:givenName>Marretje</schema:givenName>
@@ -4422,6 +4558,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308254"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308259"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308257"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Hendrik Nicolaas Eman</schema:name>
       <schema:givenName>Hendrik Nicolaas</schema:givenName>
@@ -4451,6 +4588,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308254"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308256"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308260"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Maria Ursula Helena Goossens</schema:name>
       <schema:givenName>Maria Ursula Helena</schema:givenName>
@@ -4487,6 +4625,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308466"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308471"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308469"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Arie Vermeij</schema:name>
       <schema:givenName>Arie</schema:givenName>
@@ -4516,6 +4655,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308466"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308468"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308472"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Maria Hendrika Smaling</schema:name>
       <schema:givenName>Maria Hendrika</schema:givenName>
@@ -4545,6 +4685,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308028"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308033"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308031"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Johannes Weber</schema:name>
       <schema:givenName>Johannes</schema:givenName>
@@ -4574,6 +4715,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308028"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308030"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308034"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Elisabeth Maria Samman</schema:name>
       <schema:givenName>Elisabeth Maria</schema:givenName>
@@ -4603,6 +4745,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308035"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308040"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308038"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>August Julius Meijer</schema:name>
       <schema:givenName>August Julius</schema:givenName>
@@ -4632,6 +4775,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308035"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308037"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308041"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Dorothea Alberts</schema:name>
       <schema:givenName>Dorothea</schema:givenName>
@@ -4661,6 +4805,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308042"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308047"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308045"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Henderik Blömers</schema:name>
       <schema:givenName>Henderik</schema:givenName>
@@ -4690,6 +4835,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308042"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308044"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308048"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Hendrikje Ples</schema:name>
       <schema:givenName>Hendrikje</schema:givenName>
@@ -4719,6 +4865,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308049"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308054"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308052"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Leendert Johannes Boshuisen</schema:name>
       <schema:givenName>Leendert Johannes</schema:givenName>
@@ -4748,6 +4895,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308049"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308051"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308055"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Catharina Louisa Beker</schema:name>
       <schema:givenName>Catharina Louisa</schema:givenName>
@@ -4784,6 +4932,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308056"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308061"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308059"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Emanuel van Praag</schema:name>
       <schema:givenName>Emanuel</schema:givenName>
@@ -4827,6 +4976,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308056"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308058"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308062"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Esther Appelboom</schema:name>
       <schema:givenName>Esther</schema:givenName>
@@ -4856,6 +5006,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308063"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308068"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308066"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Hendrik Everts</schema:name>
       <schema:givenName>Hendrik</schema:givenName>
@@ -4885,6 +5036,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308063"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308065"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308069"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Anna Catharina Windman</schema:name>
       <schema:givenName>Anna Catharina</schema:givenName>
@@ -4914,6 +5066,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308264"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308269"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308267"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Fredrik ten Brink</schema:name>
       <schema:givenName>Fredrik</schema:givenName>
@@ -4957,6 +5110,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308264"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308266"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308270"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Hijlkje van der Vaart</schema:name>
       <schema:givenName>Hijlkje</schema:givenName>
@@ -5000,6 +5154,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308271"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308276"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308274"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Pieter Antonie Hijzelendoorn</schema:name>
       <schema:givenName>Pieter Antonie</schema:givenName>
@@ -5036,6 +5191,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308271"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308273"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308277"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Femme Femer</schema:name>
       <schema:givenName>Femme</schema:givenName>
@@ -5065,6 +5221,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308278"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308283"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308281"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Henricus Franciscus Johannes IJkelaar</schema:name>
       <schema:givenName>Henricus Franciscus Johannes</schema:givenName>
@@ -5094,6 +5251,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308278"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308280"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308284"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Maria Hendrika Alida Brands</schema:name>
       <schema:givenName>Maria Hendrika Alida</schema:givenName>
@@ -5130,6 +5288,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308285"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308290"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308288"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Gerardus Franciscus Lazeron</schema:name>
       <schema:givenName>Gerardus Franciscus</schema:givenName>
@@ -5159,6 +5318,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308285"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308287"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308291"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Johanna Wilhelmina Bluemink</schema:name>
       <schema:givenName>Johanna Wilhelmina</schema:givenName>
@@ -5188,6 +5348,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308292"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308297"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308295"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Arie Roelofs</schema:name>
       <schema:givenName>Arie</schema:givenName>
@@ -5217,6 +5378,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308292"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308294"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308298"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Lena Cornelia Boelhouwer</schema:name>
       <schema:givenName>Lena Cornelia</schema:givenName>
@@ -5253,6 +5415,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308299"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308304"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308302"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Petrus August Meijer</schema:name>
       <schema:givenName>Petrus August</schema:givenName>
@@ -5282,6 +5445,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308299"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308301"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308305"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Antoinetta Wilhelmina van Schooneveld</schema:name>
       <schema:givenName>Antoinetta Wilhelmina</schema:givenName>
@@ -5325,6 +5489,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308070"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308075"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308073"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Antonie Daniel Grijzenhout</schema:name>
       <schema:givenName>Antonie Daniel</schema:givenName>
@@ -5354,6 +5519,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308070"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308072"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308076"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Johanna Maria Seitner</schema:name>
       <schema:givenName>Johanna Maria</schema:givenName>
@@ -5390,6 +5556,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308077"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308082"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308080"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Hendrik Jacob Mostert</schema:name>
       <schema:givenName>Hendrik Jacob</schema:givenName>
@@ -5426,6 +5593,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308077"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308079"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308083"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Johanna Elisabeth Steenkamp</schema:name>
       <schema:givenName>Johanna Elisabeth</schema:givenName>
@@ -5455,6 +5623,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308084"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308089"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308087"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Dirk Jillis Engelbracht</schema:name>
       <schema:givenName>Dirk Jillis</schema:givenName>
@@ -5484,6 +5653,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308084"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308086"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308090"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Elisabeth Maria Catharina Weeterings</schema:name>
       <schema:givenName>Elisabeth Maria Catharina</schema:givenName>
@@ -5520,6 +5690,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308091"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308096"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308094"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Willem Uriot</schema:name>
       <schema:givenName>Willem</schema:givenName>
@@ -5549,6 +5720,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308091"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308093"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308097"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Clara Catharina Elisabeth van Beek</schema:name>
       <schema:givenName>Clara Catharina Elisabeth</schema:givenName>
@@ -5592,6 +5764,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308098"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308103"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308101"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Gerrit Klun</schema:name>
       <schema:givenName>Gerrit</schema:givenName>
@@ -5621,6 +5794,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308098"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308100"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308104"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Maria Blauw</schema:name>
       <schema:givenName>Maria</schema:givenName>
@@ -5650,6 +5824,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308306"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308311"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308309"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Alexander Witzenhausen</schema:name>
       <schema:givenName>Alexander</schema:givenName>
@@ -5679,6 +5854,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308306"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308308"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308312"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Schoontje Winnik</schema:name>
       <schema:givenName>Schoontje</schema:givenName>
@@ -5708,6 +5884,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308313"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308318"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308316"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Coenraad Kornman</schema:name>
       <schema:givenName>Coenraad</schema:givenName>
@@ -5737,6 +5914,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308313"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308315"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308319"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Anthonia Helena Baljet</schema:name>
       <schema:givenName>Anthonia Helena</schema:givenName>
@@ -5766,6 +5944,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308320"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308324"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308323"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Pieter Pier</schema:name>
       <schema:givenName>Pieter</schema:givenName>
@@ -5785,6 +5964,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308320"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308322"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308325"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Maria Elisabeth Burggraaf</schema:name>
       <schema:givenName>Maria Elisabeth</schema:givenName>
@@ -5814,6 +5994,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308326"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308331"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308329"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Hendrik Johannes Kenbeek</schema:name>
       <schema:givenName>Hendrik Johannes</schema:givenName>
@@ -5850,6 +6031,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308326"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308328"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308332"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Anna Cornelia Emens</schema:name>
       <schema:givenName>Anna Cornelia</schema:givenName>
@@ -5886,6 +6068,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308333"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308338"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308336"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Karel van Ettekoven</schema:name>
       <schema:givenName>Karel</schema:givenName>
@@ -5936,6 +6119,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308333"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/Person2650308335"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308339"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Anna Gezina Hombrink</schema:name>
       <schema:givenName>Anna Gezina</schema:givenName>
@@ -5965,6 +6149,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308132"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308133"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>William Jean Danten</schema:name>
       <schema:givenName>William Jean</schema:givenName>
@@ -5974,6 +6159,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308132"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308134"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Françoise Duprez</schema:name>
       <schema:givenName>Françoise</schema:givenName>
@@ -5983,6 +6169,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307915"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307916"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Dingeman Lucas</schema:name>
       <schema:givenName>Dingeman</schema:givenName>
@@ -5992,6 +6179,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307915"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650307917"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Elisabeth Hoffmann</schema:name>
       <schema:givenName>Elisabeth</schema:givenName>
@@ -6001,6 +6189,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308261"/>
       <pico:hasRole>Bruidegom</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308262"/>
       <schema:gender rdf:resource="http://schema.org/Male"/>
       <schema:name>Joseph Neuhäuser</schema:name>
       <schema:givenName>Joseph</schema:givenName>
@@ -6010,6 +6199,7 @@
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308261"/>
       <pico:hasRole>Bruid</pico:hasRole>
       <schema:parent rdf:resource="https://ex.org/"/>
+      <schema:spouse rdf:resource="https://ex.org/Person2650308263"/>
       <schema:gender rdf:resource="http://schema.org/Female"/>
       <schema:name>Cornelia Meijer</schema:name>
       <schema:givenName>Cornelia</schema:givenName>
