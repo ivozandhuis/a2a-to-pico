@@ -39,7 +39,6 @@
         <xsl:apply-templates select="a2a:A2A/a2a:Person"/>
         <xsl:apply-templates select="a2a:A2A/a2a:Event"/>
         <xsl:apply-templates select="a2a:A2A/a2a:Source"/>
-        <xsl:apply-templates select="a2a:A2A/a2a:RelationEP"/>
     </rdf:RDF>
 </xsl:template>
 

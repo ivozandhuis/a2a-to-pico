@@ -17,10 +17,11 @@
     exclude-result-prefixes="xsl a2a a2arc">
 
     <xsl:template match="a2a:Person">
+        <xsl:param name="pid" select="@pid"/>
         <pico:PersonObservation>
             <xsl:attribute name="rdf:about">
                 <xsl:value-of select="$baseUri"/>
-                <xsl:value-of select="@pid"/>
+                <xsl:value-of select="$pid"/>
             </xsl:attribute>
             <prov:hadPrimarySource>
                 <xsl:attribute name="rdf:resource">
@@ -28,6 +29,7 @@
                     <xsl:value-of select="../a2a:Source/a2a:RecordIdentifier"/>
                 </xsl:attribute>    
             </prov:hadPrimarySource>
+            <xsl:apply-templates select="../a2a:RelationEP[a2a:PersonKeyRef = $pid]"/>           
             <xsl:apply-templates select="a2a:PersonName"/>
         </pico:PersonObservation>
     </xsl:template>

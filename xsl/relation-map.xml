@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+    <!-- TBD: first standardized relation-types, add alternative spellings-->
+    <item>
+        <name>Vader van de bruidegom</name>
+        <gender>http://schema.org/Male</gender>
+        <relation>
+            <property>spouse</property>
+            <related>Moeder van de bruidegom</related>
+        </relation>
+        <relation>
+            <property>children</property>
+            <related>Bruidegom</related>
+        </relation>
+    </item>
+    <item>
+        <name>Moeder van de bruidegom</name>
+        <gender>http://schema.org/Female</gender>
+        <relation>
+            <property>spouse</property>
+            <related>Vader van de bruidegom</related>
+        </relation>
+        <relation>
+            <property>children</property>
+            <related>Bruidegom</related>
+        </relation>
+    </item>
+    <item>
+        <name>Bruidegom</name>
+        <gender>http://schema.org/Male</gender>
+        <relation>
+            <property>parent</property>
+            <related>Vader van de bruidegom</related>
+        </relation>
+        <relation>
+            <property>parent</property>
+            <related>Moeder van de bruidegom</related>
+        </relation>
+    </item>
+    <item>
+        <name>Vader van de bruid</name>
+        <gender>http://schema.org/Male</gender>
+        <relation>
+            <property>spouse</property>
+            <related>Moeder van de bruid</related>
+        </relation>
+        <relation>
+            <property>children</property>
+            <related>Bruid</related>
+        </relation>
+    </item>
+    <item>
+        <name>Moeder van de bruid</name>
+        <gender>http://schema.org/Female</gender>
+        <relation>
+            <property>spouse</property>
+            <related>Vader van de bruid</related>
+        </relation>
+        <relation>
+            <property>children</property>
+            <related>Bruid</related>
+        </relation>
+    </item>
+    <item>
+        <name>Bruid</name>
+        <gender>http://schema.org/Female</gender>
+        <relation>
+            <property>parent</property>
+            <related>Vader van de bruid</related>
+        </relation>
+        <relation>
+            <property>parent</property>
+            <related>Moeder van de bruid</related>
+        </relation>
+    </item>
+    <item>
+        <name>Vader</name>
+        <gender>http://schema.org/Male</gender>
+        <relation>
+            <property>spouse</property>
+            <related>Moeder</related>
+        </relation>
+        <relation>
+            <property>children</property>
+            <related>Kind</related>
+        </relation>
+    </item>
+    <item>
+        <name>Moeder</name>
+        <gender>http://schema.org/Female</gender>
+        <relation>
+            <property>spouse</property>
+            <related>Vader</related>
+        </relation>
+        <relation>
+            <property>children</property>
+            <related>Kind</related>
+        </relation>
+    </item>
+    <item>
+        <name>Kind</name>
+        <relation>
+            <property>parent</property>
+            <related>Vader</related>
+        </relation>
+        <relation>
+            <property>parent</property>
+            <related>Moeder</related>
+        </relation>
+    </item>
+
+</items>
