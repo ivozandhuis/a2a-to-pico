@@ -67,12 +67,15 @@
                         <xsl:apply-templates select="a2a:PersonNamePrefixLastName" mode="schema-name"/>
                         <xsl:apply-templates select="a2a:PersonNameLastName"/>    
                     </pnv:literalName>
-                    <pnv:baseSurname>
-                        <xsl:apply-templates select="a2a:PersonNameLastName" />    
-                    </pnv:baseSurname>
+                    <pnv:givenName>
+                        <xsl:apply-templates select="a2a:PersonNameFirstName" />    
+                    </pnv:givenName>					
                     <pnv:surnamePrefix>
                         <xsl:apply-templates select="a2a:PersonNamePrefixLastName" />
                     </pnv:surnamePrefix>
+                    <pnv:baseSurname>
+                        <xsl:apply-templates select="a2a:PersonNameLastName" />    
+                    </pnv:baseSurname>
                 </pnv:PersonName>
             </schema:additionalName>
         </xsl:if>
