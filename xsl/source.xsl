@@ -23,14 +23,34 @@
                 <xsl:value-of select="a2a:RecordIdentifier"/>
             </xsl:attribute>
             <xsl:apply-templates select="a2a:SourceReference"/>
+			<xsl:apply-templates select="a2a:SourceDate"/>
+			<xsl:apply-templates select="a2a:SourcePlace"/>
+			<xsl:apply-templates select="a2a:SourceAvailableScans"/>
+			<xsl:apply-templates select="a2a:SourceDigitalOriginal"/>		
+			<xsl:apply-templates select="a2a:SourceLastChangeDate"/>
         </schema:ArchiveComponent>
     </xsl:template>
 
 
 <!-- level 1: subelements of a2a:Source -->
-    <xsl:template match="a2a:SourcePlace"/>
+    <xsl:template match="a2a:SourcePlace">
+		<schema:locationCreated>
+			<xsl:value-of select="./a2a:Place"/>
+		</schema:locationCreated>
+	</xsl:template>	
+	
     <xsl:template match="a2a:SourceIndexDate"/>
-    <xsl:template match="a2a:SourceDate"/> 
+
+    <xsl:template match="a2a:SourceDate">
+		<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">
+			<xsl:value-of select="./a2a:Year"/>
+			<xsl:text>-</xsl:text>
+			<xsl:value-of select="./a2a:Month"/>
+			<xsl:text>-</xsl:text>
+			<xsl:value-of select="./a2a:Day"/>
+        </schema:dateCreated>
+	</xsl:template>
+	
     <xsl:template match="a2a:SourceType"/>
     <xsl:template match="a2a:EAD"/>
     <xsl:template match="a2a:EAC"/>
@@ -49,10 +69,59 @@
         </schema:name>
     </xsl:template>
 
-    <xsl:template match="a2a:SourceAvailableScans"/>
+    <xsl:template match="a2a:SourceAvailableScans">
+		<schema:associatedMedia>		
+			<xsl:apply-templates select="a2a:Scan"/>
+		</schema:associatedMedia>		
+	</xsl:template>
+	
+	<xsl:template match="a2a:Scan">
+		<schema:ImageObject>
+			<xsl:apply-templates select="a2a:OrderSequenceNumber" /> 
+			<xsl:apply-templates select="a2a:Uri" /> 
+			<xsl:apply-templates select="a2a:UriViewer" /> 
+			<xsl:apply-templates select="a2a:UriPreview" /> 
+		</schema:ImageObject>
+	</xsl:template>	
+
+	<xsl:template match="a2a:Uri">
+		<schema:url>
+			<xsl:value-of select="."/>
+		</schema:url>
+    </xsl:template>
+	
+	<xsl:template match="a2a:OrderSequenceNumber">
+		<schema:position>
+			<xsl:value-of select="."/>
+		</schema:position>
+    </xsl:template>
+
+	<xsl:template match="a2a:UriViewer">
+		<schema:embedUrl>
+			<xsl:value-of select="."/>
+		</schema:embedUrl>
+    </xsl:template>
+	
+	<xsl:template match="a2a:UriPreview">
+		<schema:thumbnail>
+			<xsl:value-of select="."/>
+		</schema:thumbnail>
+    </xsl:template>
+	
     <xsl:template match="a2a:SourceDigitalizationDate"/>
-    <xsl:template match="a2a:SourceLastChangeDate"/>
-    <xsl:template match="a2a:SourceDigitalOriginal"/>
+
+    <xsl:template match="a2a:SourceLastChangeDate">
+		<schema:dateModified>
+			<xsl:value-of select="."/>
+		</schema:dateModified>
+	</xsl:template>
+
+	<xsl:template match="a2a:SourceDigitalOriginal">
+		<schema:url>
+			<xsl:value-of select="."/>
+		</schema:url> 
+    </xsl:template>
+	
     <xsl:template match="a2a:RecordIdentifier"/>
     <xsl:template match="a2a:RecordGUID"/>
     <xsl:template match="a2a:SourceRemark"/>
