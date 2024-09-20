@@ -9,10 +9,10 @@
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:pnv="https://w3id.org/pnv#"
     xmlns:prov="http://www.w3.org/ns/prov#"
-    xmlns:schema="http://schema.org/"
+    xmlns:sdo="https://schema.org/"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-    xmlns:pico="https://data.cbg.nl/pico#"
-    xmlns:picot="https://data.cbg.nl/pico-terms#"
+    xmlns:pico="https://personsincontext.org/model/"
+    xmlns:picot="https://terms.personsincontext.org/"
 
     exclude-result-prefixes="xsl a2a a2arc">
 
@@ -48,28 +48,28 @@
         <xsl:variable name="parent-related" select="document($RelationTypeMap)/items/item[name=$rel-type]/relation[property='parent']/related"/>
         <xsl:variable name="spouse-related" select="document($RelationTypeMap)/items/item[name=$rel-type]/relation[property='spouse']/related"/>
         <xsl:if test="$children-related">
-            <schema:children>
+            <sdo:children>
                 <xsl:attribute name="rdf:resource">
                     <xsl:value-of select="$baseUri"/>
                     <xsl:value-of select="../a2a:RelationEP[a2a:RelationType = $children-related]/a2a:PersonKeyRef"/>
                 </xsl:attribute>
-            </schema:children>
+            </sdo:children>
         </xsl:if>
         <xsl:if test="$parent-related">
-            <schema:parent>
+            <sdo:parent>
                 <xsl:attribute name="rdf:resource">
                     <xsl:value-of select="$baseUri"/>
                     <xsl:value-of select="../a2a:RelationEP[a2a:RelationType = $parent-related]/a2a:PersonKeyRef"/>
                 </xsl:attribute>
-            </schema:parent>
+            </sdo:parent>
         </xsl:if>
         <xsl:if test="$spouse-related">
-            <schema:spouse>
+            <sdo:spouse>
                 <xsl:attribute name="rdf:resource">
                     <xsl:value-of select="$baseUri"/>
                     <xsl:value-of select="../a2a:RelationEP[a2a:RelationType = $spouse-related]/a2a:PersonKeyRef"/>
                 </xsl:attribute>
-            </schema:spouse>
+            </sdo:spouse>
         </xsl:if>
     </xsl:template>
 
@@ -79,11 +79,11 @@
         <xsl:variable name="RelationTypeMap">maps/relationtypes.xml</xsl:variable>
         <xsl:variable name="gender" select="document($RelationTypeMap)/items/item[name=$rel-type]/gender"/>
         <xsl:if test="$gender">
-            <schema:gender>
+            <sdo:gender>
                 <xsl:attribute name="rdf:resource">
                     <xsl:value-of select="$gender"/>
                 </xsl:attribute>
-            </schema:gender>
+            </sdo:gender>
         </xsl:if>
     </xsl:template>
 
@@ -92,28 +92,28 @@
         <xsl:param name="rel-type"/>
         <xsl:choose>
             <xsl:when test="$rel-type = 'Kind'">
-                <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">
+                <sdo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">
                 <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Year"/>
                 <xsl:text>-</xsl:text>
                 <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Year"/>
                 <xsl:text>-</xsl:text>
                 <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Year"/>                      
-            </schema:birthDate>
-                <schema:birthPlace>
+            </sdo:birthDate>
+                <sdo:birthPlace>
                     <xsl:value-of select="../a2a:Event/a2a:EventPlace/a2a:Place"/>
-                </schema:birthPlace>
+                </sdo:birthPlace>
             </xsl:when>
             <xsl:when test="$rel-type = 'Overledene'">
-                <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">
+                <sdo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">
                     <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Year"/>
                     <xsl:text>-</xsl:text>
                     <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Month"/>
                     <xsl:text>-</xsl:text>
                     <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Day"/>                      
-                </schema:deathDate>
-                <schema:deathPlace>
+                </sdo:deathDate>
+                <sdo:deathPlace>
                     <xsl:value-of select="../a2a:Event/a2a:EventPlace/a2a:Place"/>
-                </schema:deathPlace>
+                </sdo:deathPlace>
             </xsl:when>
         </xsl:choose>
     </xsl:template>

@@ -9,10 +9,10 @@
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:pnv="https://w3id.org/pnv#"
     xmlns:prov="http://www.w3.org/ns/prov#"
-    xmlns:schema="http://schema.org/"
+    xmlns:sdo="https://schema.org/"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-    xmlns:pico="https://data.cbg.nl/pico#"
-    xmlns:picot="https://data.cbg.nl/pico-terms#"
+    xmlns:pico="https://personsincontext.org/model/"
+    xmlns:picot="https://terms.personsincontext.org/"
 
     exclude-result-prefixes="xsl a2a a2arc">
 
@@ -47,20 +47,20 @@
     <xsl:template match="a2a:PersonRemark"/>
 
     <xsl:template match="a2a:PersonName">
-        <schema:name>
+        <sdo:name>
             <xsl:apply-templates select="a2a:PersonNameFirstName" mode="schema-name"/>
             <xsl:apply-templates select="a2a:PersonNamePrefixLastName" mode="schema-name"/>
             <xsl:apply-templates select="a2a:PersonNameLastName"/>
-        </schema:name>
-        <schema:givenName>
+        </sdo:name>
+        <sdo:givenName>
             <xsl:apply-templates select="a2a:PersonNameFirstName"/>
-        </schema:givenName>
-        <schema:familyName>
+        </sdo:givenName>
+        <sdo:familyName>
             <xsl:apply-templates select="a2a:PersonNamePrefixLastName" mode="schema-name"/>
             <xsl:apply-templates select="a2a:PersonNameLastName"/>
-        </schema:familyName>
+        </sdo:familyName>
         <xsl:if test="a2a:PersonNamePrefixLastName/text()">
-            <schema:additionalName>
+            <sdo:additionalName>
                 <pnv:PersonName>
                     <pnv:literalName>
                         <xsl:apply-templates select="a2a:PersonNameFirstName" mode="schema-name"/>
@@ -77,7 +77,7 @@
                         <xsl:apply-templates select="a2a:PersonNameLastName" />    
                     </pnv:baseSurname>
                 </pnv:PersonName>
-            </schema:additionalName>
+            </sdo:additionalName>
         </xsl:if>
     </xsl:template>
 

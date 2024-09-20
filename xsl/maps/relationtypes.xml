@@ -3,7 +3,7 @@
     <!-- TBD: first standardized relation-types, add alternative spellings-->
     <item>
         <name>Vader van de bruidegom</name>
-        <gender>http://schema.org/Male</gender>
+        <gender>https://schema.org/Male</gender>
         <relation>
             <property>spouse</property>
             <related>Moeder van de bruidegom</related>
@@ -15,7 +15,7 @@
     </item>
     <item>
         <name>Moeder van de bruidegom</name>
-        <gender>http://schema.org/Female</gender>
+        <gender>https://schema.org/Female</gender>
         <relation>
             <property>spouse</property>
             <related>Vader van de bruidegom</related>
@@ -27,7 +27,7 @@
     </item>
     <item>
         <name>Bruidegom</name>
-        <gender>http://schema.org/Male</gender>
+        <gender>https://schema.org/Male</gender>
         <relation>
             <property>spouse</property>
             <related>Bruid</related>
@@ -43,7 +43,7 @@
     </item>
     <item>
         <name>Vader van de bruid</name>
-        <gender>http://schema.org/Male</gender>
+        <gender>https://schema.org/Male</gender>
         <relation>
             <property>spouse</property>
             <related>Moeder van de bruid</related>
@@ -55,7 +55,7 @@
     </item>
     <item>
         <name>Moeder van de bruid</name>
-        <gender>http://schema.org/Female</gender>
+        <gender>https://schema.org/Female</gender>
         <relation>
             <property>spouse</property>
             <related>Vader van de bruid</related>
@@ -67,7 +67,7 @@
     </item>
     <item>
         <name>Bruid</name>
-        <gender>http://schema.org/Female</gender>
+        <gender>https://schema.org/Female</gender>
         <relation>
             <property>spouse</property>
             <related>Bruidegom</related>
@@ -83,7 +83,7 @@
     </item>
     <item>
         <name>Vader</name>
-        <gender>http://schema.org/Male</gender>
+        <gender>https://schema.org/Male</gender>
         <relation>
             <property>spouse</property>
             <related>Moeder</related>
@@ -95,7 +95,7 @@
     </item>
     <item>
         <name>Moeder</name>
-        <gender>http://schema.org/Female</gender>
+        <gender>https://schema.org/Female</gender>
         <relation>
             <property>spouse</property>
             <related>Vader</related>
