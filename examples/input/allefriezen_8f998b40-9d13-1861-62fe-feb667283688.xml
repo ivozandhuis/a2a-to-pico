@@ -1,0 +1,117 @@
+<a2a:A2A xmlns:a2a="http://Mindbus.nl/A2A" Version="1.7">
+    <a2a:Person pid="Person:8961efcb-31b8-d5d0-8708-ef476627dd6b">
+        <a2a:PersonName>
+            <a2a:PersonNameFirstName>Pieter</a2a:PersonNameFirstName>
+            <a2a:PersonNamePatronym>Joukes</a2a:PersonNamePatronym>
+            <a2a:PersonNamePrefixLastName>van der</a2a:PersonNamePrefixLastName>
+            <a2a:PersonNameLastName>Werf</a2a:PersonNameLastName>
+        </a2a:PersonName>
+        <a2a:Gender>Man</a2a:Gender>
+        <a2a:Age>
+            <a2a:PersonAgeLiteral>84 jaar</a2a:PersonAgeLiteral>
+        </a2a:Age>
+        <a2a:Profession>arbeider</a2a:Profession>
+        <a2a:PersonRemark Key="diversen">
+            <a2a:Value>gehuwd</a2a:Value>
+        </a2a:PersonRemark>
+    </a2a:Person>
+    <a2a:Person pid="Person:3f28fb01-c4cb-40b7-aa23-b8e2c4af03c2">
+        <a2a:PersonName>
+            <a2a:PersonNameFirstName>Jouke</a2a:PersonNameFirstName>
+            <a2a:PersonNamePatronym>Pieters</a2a:PersonNamePatronym>
+            <a2a:PersonNamePrefixLastName>van der</a2a:PersonNamePrefixLastName>
+            <a2a:PersonNameLastName>Werf</a2a:PersonNameLastName>
+        </a2a:PersonName>
+        <a2a:Gender>Man</a2a:Gender>
+    </a2a:Person>
+    <a2a:Person pid="Person:c02b299d-6e3e-41b4-90a7-98e642f714ef">
+        <a2a:PersonName>
+            <a2a:PersonNameFirstName>Geeske</a2a:PersonNameFirstName>
+            <a2a:PersonNamePatronym>Pieters</a2a:PersonNamePatronym>
+        </a2a:PersonName>
+        <a2a:Gender>Vrouw</a2a:Gender>
+    </a2a:Person>
+    <a2a:Person pid="Person:16683087-de16-40a1-8890-10e4aa561bab">
+        <a2a:PersonName>
+            <a2a:PersonNameFirstName>Oetske</a2a:PersonNameFirstName>
+            <a2a:PersonNamePatronym>Lammerts</a2a:PersonNamePatronym>
+            <a2a:PersonNameLastName>Blaauw</a2a:PersonNameLastName>
+        </a2a:PersonName>
+        <a2a:Gender>Vrouw</a2a:Gender>
+        <a2a:Profession>arbeidster</a2a:Profession>
+    </a2a:Person>
+    <a2a:Event eid="Event1">
+        <a2a:EventType>Overlijden</a2a:EventType>
+        <a2a:EventDate>
+            <a2a:Year>1864</a2a:Year>
+            <a2a:Month>2</a2a:Month>
+            <a2a:Day>28</a2a:Day>
+        </a2a:EventDate>
+        <a2a:EventPlace>
+            <a2a:Place>Gorredijk</a2a:Place>
+        </a2a:EventPlace>
+    </a2a:Event>
+    <a2a:RelationEP>
+        <a2a:PersonKeyRef>Person:8961efcb-31b8-d5d0-8708-ef476627dd6b</a2a:PersonKeyRef>
+        <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+        <a2a:RelationType>Overledene</a2a:RelationType>
+    </a2a:RelationEP>
+    <a2a:RelationEP>
+        <a2a:PersonKeyRef>Person:3f28fb01-c4cb-40b7-aa23-b8e2c4af03c2</a2a:PersonKeyRef>
+        <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+        <a2a:RelationType>Vader</a2a:RelationType>
+    </a2a:RelationEP>
+    <a2a:RelationEP>
+        <a2a:PersonKeyRef>Person:c02b299d-6e3e-41b4-90a7-98e642f714ef</a2a:PersonKeyRef>
+        <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+        <a2a:RelationType>Moeder</a2a:RelationType>
+    </a2a:RelationEP>
+    <a2a:RelationPP>
+        <a2a:PersonKeyRef>Person:8961efcb-31b8-d5d0-8708-ef476627dd6b</a2a:PersonKeyRef>
+        <a2a:PersonKeyRef>Person:16683087-de16-40a1-8890-10e4aa561bab</a2a:PersonKeyRef>
+        <a2a:RelationType>Relatie</a2a:RelationType>
+    </a2a:RelationPP>
+    <a2a:Source>
+        <a2a:SourcePlace>
+            <a2a:Place>Opsterland</a2a:Place>
+        </a2a:SourcePlace>
+        <a2a:SourceIndexDate>
+            <a2a:From>1864-02-29</a2a:From>
+            <a2a:To>1864-02-29</a2a:To>
+        </a2a:SourceIndexDate>
+        <a2a:SourceDate>
+            <a2a:Year>1864</a2a:Year>
+            <a2a:Month>2</a2a:Month>
+            <a2a:Day>29</a2a:Day>
+        </a2a:SourceDate>
+        <a2a:SourceType>BS Overlijden</a2a:SourceType>
+        <a2a:SourceReference>
+            <a2a:Place>Leeuwarden</a2a:Place>
+            <a2a:InstitutionName>AlleFriezen</a2a:InstitutionName>
+            <a2a:Archive>30-28</a2a:Archive>
+            <a2a:Collection>Archiefnaam: Burgerlijke Stand Opsterland - Tresoar, Bron: boek, Deel:
+                3020, Periode: 1864</a2a:Collection>
+            <a2a:Book>Overlijdensregister 1864</a2a:Book>
+            <a2a:RegistryNumber>3020</a2a:RegistryNumber>
+            <a2a:DocumentNumber>0044</a2a:DocumentNumber>
+        </a2a:SourceReference>
+        <a2a:SourceAvailableScans>
+            <a2a:Scan>
+                <a2a:OrderSequenceNumber>1</a2a:OrderSequenceNumber>
+                <a2a:Uri>
+                    https://tresoar-images.memorix.nl/frl/thumb/640x480/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg</a2a:Uri>
+                <a2a:UriViewer>
+                    http://allefriezen.nl/zoeken/deeds/8f998b40-9d13-1861-62fe-feb667283688</a2a:UriViewer>
+                <a2a:UriPreview>
+                    https://tresoar-images.memorix.nl/frl/thumb/250x250/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg</a2a:UriPreview>
+            </a2a:Scan>
+        </a2a:SourceAvailableScans>
+        <a2a:SourceLastChangeDate>2019-08-29</a2a:SourceLastChangeDate>
+        <a2a:SourceDigitalOriginal>
+            http://allefriezen.nl/zoeken/deeds/8f998b40-9d13-1861-62fe-feb667283688</a2a:SourceDigitalOriginal>
+        <a2a:RecordGUID>{8f998b40-9d13-1861-62fe-feb667283688}</a2a:RecordGUID>
+        <a2a:SourceRemark Key="Provenance">
+            <a2a:Value>A2Acollection oai-pmh_20240413_5195_00005195.xml van FRL</a2a:Value>
+        </a2a:SourceRemark>
+    </a2a:Source>
+</a2a:A2A>

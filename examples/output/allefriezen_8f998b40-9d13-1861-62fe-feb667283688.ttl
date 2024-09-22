@@ -1,0 +1,79 @@
+@prefix pico: <https://personsincontext.org/model/> .
+@prefix pnv: <https://w3id.org/pnv#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix sdo: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://ex.org/Person:16683087-de16-40a1-8890-10e4aa561bab> a pico:PersonObservation ;
+    prov:hadPrimarySource <https://ex.org/> ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Blaauw" ;
+            pnv:givenName "Oetske" ;
+            pnv:literalName "Oetske Lammerts Blaauw" ;
+            pnv:patronym "Lammerts" ] ;
+    sdo:familyName "Blaauw" ;
+    sdo:givenName "Oetske" ;
+    sdo:name "Oetske Lammerts Blaauw" .
+
+<https://ex.org/Person:8961efcb-31b8-d5d0-8708-ef476627dd6b> a pico:PersonObservation ;
+    prov:hadPrimarySource <https://ex.org/> ;
+    pico:hasRole "Overledene" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Werf" ;
+            pnv:givenName "Pieter" ;
+            pnv:literalName "Pieter Joukes van der Werf" ;
+            pnv:patronym "Joukes" ;
+            pnv:surnamePrefix "van der" ] ;
+    sdo:deathDate "1864-01-01"^^xsd:date ;
+    sdo:deathPlace "Gorredijk" ;
+    sdo:familyName "van der Werf" ;
+    sdo:givenName "Pieter" ;
+    sdo:name "Pieter Joukes van der Werf" .
+
+<https://ex.org/Person:3f28fb01-c4cb-40b7-aa23-b8e2c4af03c2> a pico:PersonObservation ;
+    prov:hadPrimarySource <https://ex.org/> ;
+    pico:hasRole "Vader" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Werf" ;
+            pnv:givenName "Jouke" ;
+            pnv:literalName "Jouke Pieters van der Werf" ;
+            pnv:patronym "Pieters" ;
+            pnv:surnamePrefix "van der" ] ;
+    sdo:children <https://ex.org/> ;
+    sdo:familyName "van der Werf" ;
+    sdo:gender sdo:Male ;
+    sdo:givenName "Jouke" ;
+    sdo:name "Jouke Pieters van der Werf" ;
+    sdo:spouse <https://ex.org/Person:c02b299d-6e3e-41b4-90a7-98e642f714ef> .
+
+<https://ex.org/Person:c02b299d-6e3e-41b4-90a7-98e642f714ef> a pico:PersonObservation ;
+    prov:hadPrimarySource <https://ex.org/> ;
+    pico:hasRole "Moeder" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:givenName "Geeske" ;
+            pnv:literalName "Geeske Pieters" ;
+            pnv:patronym "Pieters" ] ;
+    sdo:children <https://ex.org/> ;
+    sdo:familyName "" ;
+    sdo:gender sdo:Female ;
+    sdo:givenName "Geeske" ;
+    sdo:name "Geeske Pieters" ;
+    sdo:spouse <https://ex.org/Person:3f28fb01-c4cb-40b7-aa23-b8e2c4af03c2> .
+
+<https://ex.org/> a sdo:ArchiveComponent ;
+    sdo:associatedMedia [ a sdo:ImageObject ;
+            sdo:embedUrl """
+                    http://allefriezen.nl/zoeken/deeds/8f998b40-9d13-1861-62fe-feb667283688""" ;
+            sdo:position "1" ;
+            sdo:thumbnail """
+                    https://tresoar-images.memorix.nl/frl/thumb/250x250/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg""" ;
+            sdo:url """
+                    https://tresoar-images.memorix.nl/frl/thumb/640x480/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg""" ] ;
+    sdo:dateCreated "1864-01-01"^^xsd:date ;
+    sdo:dateModified "2019-08-29" ;
+    sdo:locationCreated "Opsterland" ;
+    sdo:name """AlleFriezen (Leeuwarden), Archiefnaam: Burgerlijke Stand Opsterland - Tresoar, Bron: boek, Deel:
+                3020, Periode: 1864, (toegangsnr. 30-28), inv.nr. 3020, Overlijdensregister 1864, 0044"""@nl ;
+    sdo:url """
+            http://allefriezen.nl/zoeken/deeds/8f998b40-9d13-1861-62fe-feb667283688""" .
+

@@ -48,34 +48,23 @@
 
     <xsl:template match="a2a:PersonName">
         <sdo:name>
-            <xsl:apply-templates select="a2a:PersonNameFirstName" mode="schema-name"/>
-            <xsl:apply-templates select="a2a:PersonNamePrefixLastName" mode="schema-name"/>
-            <xsl:apply-templates select="a2a:PersonNameLastName"/>
+            <xsl:call-template name="concat-full-name"/>
         </sdo:name>
-        <sdo:givenName>
-            <xsl:apply-templates select="a2a:PersonNameFirstName"/>
-        </sdo:givenName>
         <sdo:familyName>
-            <xsl:apply-templates select="a2a:PersonNamePrefixLastName" mode="schema-name"/>
-            <xsl:apply-templates select="a2a:PersonNameLastName"/>
+            <xsl:apply-templates select="a2a:PersonNamePrefixLastName" mode="concat"/>
+            <xsl:apply-templates select="a2a:PersonNameLastName" mode="concat"/>
         </sdo:familyName>
-        <xsl:if test="a2a:PersonNamePrefixLastName/text()">
+        <xsl:apply-templates select="a2a:PersonNameFirstName" mode="sdo"/>
+        <xsl:if test="a2a:PersonNamePrefixLastName/text() | a2a:PersonNamePatronym/text()">
             <sdo:additionalName>
                 <pnv:PersonName>
                     <pnv:literalName>
-                        <xsl:apply-templates select="a2a:PersonNameFirstName" mode="schema-name"/>
-                        <xsl:apply-templates select="a2a:PersonNamePrefixLastName" mode="schema-name"/>
-                        <xsl:apply-templates select="a2a:PersonNameLastName"/>    
+                        <xsl:call-template name="concat-full-name"/>
                     </pnv:literalName>
-                    <pnv:givenName>
-                        <xsl:apply-templates select="a2a:PersonNameFirstName" />    
-                    </pnv:givenName>					
-                    <pnv:surnamePrefix>
-                        <xsl:apply-templates select="a2a:PersonNamePrefixLastName" />
-                    </pnv:surnamePrefix>
-                    <pnv:baseSurname>
-                        <xsl:apply-templates select="a2a:PersonNameLastName" />    
-                    </pnv:baseSurname>
+                    <xsl:apply-templates select="a2a:PersonNameFirstName" mode="pnv"/>    
+                    <xsl:apply-templates select="a2a:PersonNamePatronym" mode="pnv" />
+                    <xsl:apply-templates select="a2a:PersonNamePrefixLastName" mode="pnv" />
+                    <xsl:apply-templates select="a2a:PersonNameLastName" mode="pnv"/>    
                 </pnv:PersonName>
             </sdo:additionalName>
         </xsl:if>
@@ -87,35 +76,41 @@
     <xsl:template match="a2a:PersonNameTitle"/>
     <xsl:template match="a2a:PersonNameTitleOfNobility"/>
 
-    <xsl:template match="a2a:PersonNameFirstName/text()" mode="schema-name">
-        <xsl:value-of select="."/>
-        <xsl:text> </xsl:text>
+
+    <xsl:template match="a2a:PersonNameFirstName/text()" mode="sdo">
+        <sdo:givenName>
+            <xsl:value-of select="."/>
+        </sdo:givenName>
     </xsl:template>
-    <xsl:template match="a2a:PersonNameFirstName/text()">
-        <xsl:value-of select="."/>
+    <xsl:template match="a2a:PersonNameFirstName/text()" mode="pnv">
+        <pnv:givenName>
+            <xsl:value-of select="."/>
+        </pnv:givenName>
     </xsl:template>
 
 
     <xsl:template match="a2a:PersonNameNickName"/>
     <xsl:template match="a2a:PersonNameAlias"/>
-    <xsl:template match="a2a:PersonNamePatronym"/>
 
 
-    <xsl:template match="a2a:PersonNamePrefixLastName/text()" mode="schema-name">
-        <xsl:value-of select="."/>
-        <xsl:text> </xsl:text>
-    </xsl:template>
-    <xsl:template match="a2a:PersonNamePrefixLastName/text()">
-        <xsl:value-of select="."/>
+    <xsl:template match="a2a:PersonNamePatronym/text()" mode="pnv">
+        <pnv:patronym>
+            <xsl:value-of select="."/>
+        </pnv:patronym>
     </xsl:template>
 
 
-    <xsl:template match="a2a:PersonNameLastName/text()" mode="schema-name">
-        <xsl:value-of select="."/>
-        <xsl:text> </xsl:text>    
+    <xsl:template match="a2a:PersonNamePrefixLastName/text()" mode="pnv">
+        <pnv:surnamePrefix>
+            <xsl:value-of select="."/>
+        </pnv:surnamePrefix>
     </xsl:template>
-    <xsl:template match="a2a:PersonNameLastName/text()">
-        <xsl:value-of select="."/>
+
+
+    <xsl:template match="a2a:PersonNameLastName/text()" mode="pnv">
+        <pnv:baseSurname>
+            <xsl:value-of select="."/>
+        </pnv:baseSurname>
     </xsl:template>
 
 
@@ -124,5 +119,16 @@
     <xsl:template match="a2a:PersonNameRemark"/>
 
 <!-- level 2: END subelements of PersonName-->
+
+    <xsl:template name="concat-full-name">
+        <!-- Parameters for the strings -->
+        <xsl:variable name="str1" select="a2a:PersonNameFirstName" />
+        <xsl:variable name="str2" select="a2a:PersonNamePatronym" />
+        <xsl:variable name="str3" select="a2a:PersonNamePrefixLastName" />
+        <xsl:variable name="str4" select="a2a:PersonNameLastName" />
+    
+        <!-- Concatenate strings with spaces and normalize to avoid trailing spaces -->
+        <xsl:value-of select="normalize-space(concat($str1, ' ', $str2, ' ', $str3, ' ', $str4))" />
+    </xsl:template>
 
 </xsl:stylesheet>

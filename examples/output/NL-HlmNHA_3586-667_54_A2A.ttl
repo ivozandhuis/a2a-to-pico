@@ -912,11 +912,16 @@
 <https://ex.org/Person2650307909> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650307908> ;
     pico:hasRole "Moeder van de bruid" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Polak" ;
+            pnv:givenName "Saartje" ;
+            pnv:literalName "Saartje Machiel Polak" ;
+            pnv:patronym "Machiel" ] ;
     sdo:children <https://ex.org/Person2650307911> ;
     sdo:familyName "Polak" ;
     sdo:gender sdo:Female ;
     sdo:givenName "Saartje" ;
-    sdo:name "Saartje Polak" ;
+    sdo:name "Saartje Machiel Polak" ;
     sdo:spouse <https://ex.org/Person2650307910> .
 
 <https://ex.org/Person2650307912> a pico:PersonObservation ;
@@ -1032,11 +1037,16 @@
 <https://ex.org/Person2650307939> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650307938> ;
     pico:hasRole "Moeder van de bruid" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Lammerson" ;
+            pnv:givenName "Roosje" ;
+            pnv:literalName "Roosje Abraham Lammerson" ;
+            pnv:patronym "Abraham" ] ;
     sdo:children <https://ex.org/Person2650307941> ;
     sdo:familyName "Lammerson" ;
     sdo:gender sdo:Female ;
     sdo:givenName "Roosje" ;
-    sdo:name "Roosje Lammerson" ;
+    sdo:name "Roosje Abraham Lammerson" ;
     sdo:spouse <https://ex.org/Person2650307940> .
 
 <https://ex.org/Person2650307942> a pico:PersonObservation ;
@@ -1057,11 +1067,16 @@
 <https://ex.org/Person2650307946> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650307945> ;
     pico:hasRole "Moeder van de bruid" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Drukker" ;
+            pnv:givenName "Rachel" ;
+            pnv:literalName "Rachel Soesman Drukker" ;
+            pnv:patronym "Soesman" ] ;
     sdo:children <https://ex.org/Person2650307948> ;
     sdo:familyName "Drukker" ;
     sdo:gender sdo:Female ;
     sdo:givenName "Rachel" ;
-    sdo:name "Rachel Drukker" ;
+    sdo:name "Rachel Soesman Drukker" ;
     sdo:spouse <https://ex.org/Person2650307947> .
 
 <https://ex.org/Person2650307949> a pico:PersonObservation ;
@@ -1097,11 +1112,16 @@
 <https://ex.org/Person2650307960> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650307959> ;
     pico:hasRole "Moeder van de bruid" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Bergsma" ;
+            pnv:givenName "Aaltje" ;
+            pnv:literalName "Aaltje Idzes Bergsma" ;
+            pnv:patronym "Idzes" ] ;
     sdo:children <https://ex.org/Person2650307962> ;
     sdo:familyName "Bergsma" ;
     sdo:gender sdo:Female ;
     sdo:givenName "Aaltje" ;
-    sdo:name "Aaltje Bergsma" ;
+    sdo:name "Aaltje Idzes Bergsma" ;
     sdo:spouse <https://ex.org/Person2650307961> .
 
 <https://ex.org/Person2650307963> a pico:PersonObservation ;
@@ -1392,11 +1412,16 @@
 <https://ex.org/Person2650308057> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650308056> ;
     pico:hasRole "Moeder van de bruid" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Dingsdag" ;
+            pnv:givenName "Sipora" ;
+            pnv:literalName "Sipora Salomon Dingsdag" ;
+            pnv:patronym "Salomon" ] ;
     sdo:children <https://ex.org/Person2650308059> ;
     sdo:familyName "Dingsdag" ;
     sdo:gender sdo:Female ;
     sdo:givenName "Sipora" ;
-    sdo:name "Sipora Dingsdag" ;
+    sdo:name "Sipora Salomon Dingsdag" ;
     sdo:spouse <https://ex.org/Person2650308058> .
 
 <https://ex.org/Person2650308060> a pico:PersonObservation ;
@@ -1547,21 +1572,31 @@
 <https://ex.org/Person2650308106> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650308105> ;
     pico:hasRole "Moeder van de bruid" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Smit" ;
+            pnv:givenName "Vogel" ;
+            pnv:literalName "Vogel Levie Smit" ;
+            pnv:patronym "Levie" ] ;
     sdo:children <https://ex.org/Person2650308108> ;
     sdo:familyName "Smit" ;
     sdo:gender sdo:Female ;
     sdo:givenName "Vogel" ;
-    sdo:name "Vogel Smit" ;
+    sdo:name "Vogel Levie Smit" ;
     sdo:spouse <https://ex.org/Person2650308107> .
 
 <https://ex.org/Person2650308109> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650308105> ;
     pico:hasRole "Moeder van de bruidegom" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Koekoek" ;
+            pnv:givenName "Schoontje" ;
+            pnv:literalName "Schoontje Alexander Koekoek" ;
+            pnv:patronym "Alexander" ] ;
     sdo:children <https://ex.org/Person2650308111> ;
     sdo:familyName "Koekoek" ;
     sdo:gender sdo:Female ;
     sdo:givenName "Schoontje" ;
-    sdo:name "Schoontje Koekoek" ;
+    sdo:name "Schoontje Alexander Koekoek" ;
     sdo:spouse <https://ex.org/Person2650308110> .
 
 <https://ex.org/Person2650308113> a pico:PersonObservation ;
@@ -1597,11 +1632,16 @@
 <https://ex.org/Person2650308122> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650308119> ;
     pico:hasRole "Moeder van de bruidegom" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Markes" ;
+            pnv:givenName "Bontje" ;
+            pnv:literalName "Bontje Cornelis Markes" ;
+            pnv:patronym "Cornelis" ] ;
     sdo:children <https://ex.org/Person2650308124> ;
     sdo:familyName "Markes" ;
     sdo:gender sdo:Female ;
     sdo:givenName "Bontje" ;
-    sdo:name "Bontje Markes" ;
+    sdo:name "Bontje Cornelis Markes" ;
     sdo:spouse <https://ex.org/Person2650308123> .
 
 <https://ex.org/Person2650308126> a pico:PersonObservation ;
@@ -1627,10 +1667,15 @@
 <https://ex.org/Person2650308133> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650308132> ;
     pico:hasRole "Bruid" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Duprez" ;
+            pnv:givenName "Françoise" ;
+            pnv:literalName "Françoise Joseph Duprez" ;
+            pnv:patronym "Joseph" ] ;
     sdo:familyName "Duprez" ;
     sdo:gender sdo:Female ;
     sdo:givenName "Françoise" ;
-    sdo:name "Françoise Duprez" ;
+    sdo:name "Françoise Joseph Duprez" ;
     sdo:parent <https://ex.org/> ;
     sdo:spouse <https://ex.org/Person2650308134> .
 
@@ -2202,21 +2247,31 @@
 <https://ex.org/Person2650308307> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650308306> ;
     pico:hasRole "Moeder van de bruid" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Zegen" ;
+            pnv:givenName "Judik" ;
+            pnv:literalName "Judik Alexander Zegen" ;
+            pnv:patronym "Alexander" ] ;
     sdo:children <https://ex.org/Person2650308309> ;
     sdo:familyName "Zegen" ;
     sdo:gender sdo:Female ;
     sdo:givenName "Judik" ;
-    sdo:name "Judik Zegen" ;
+    sdo:name "Judik Alexander Zegen" ;
     sdo:spouse <https://ex.org/Person2650308308> .
 
 <https://ex.org/Person2650308310> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650308306> ;
     pico:hasRole "Moeder van de bruidegom" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Zegen" ;
+            pnv:givenName "Reintje" ;
+            pnv:literalName "Reintje Alexander Zegen" ;
+            pnv:patronym "Alexander" ] ;
     sdo:children <https://ex.org/Person2650308312> ;
     sdo:familyName "Zegen" ;
     sdo:gender sdo:Female ;
     sdo:givenName "Reintje" ;
-    sdo:name "Reintje Zegen" ;
+    sdo:name "Reintje Alexander Zegen" ;
     sdo:spouse <https://ex.org/Person2650308311> .
 
 <https://ex.org/Person2650308314> a pico:PersonObservation ;
@@ -2380,13 +2435,14 @@
     sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Kamerik" ;
             pnv:givenName "Rachel" ;
-            pnv:literalName "Rachel van Kamerik" ;
+            pnv:literalName "Rachel Mozes van Kamerik" ;
+            pnv:patronym "Mozes" ;
             pnv:surnamePrefix "van" ] ;
     sdo:children <https://ex.org/Person2650308364> ;
     sdo:familyName "van Kamerik" ;
     sdo:gender sdo:Female ;
     sdo:givenName "Rachel" ;
-    sdo:name "Rachel van Kamerik" ;
+    sdo:name "Rachel Mozes van Kamerik" ;
     sdo:spouse <https://ex.org/Person2650308363> .
 
 <https://ex.org/Person2650308365> a pico:PersonObservation ;
@@ -2497,11 +2553,16 @@
 <https://ex.org/Person2650308397> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650308396> ;
     pico:hasRole "Moeder van de bruid" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Visjager" ;
+            pnv:givenName "Engeltje" ;
+            pnv:literalName "Engeltje Levij Visjager" ;
+            pnv:patronym "Levij" ] ;
     sdo:children <https://ex.org/Person2650308399> ;
     sdo:familyName "Visjager" ;
     sdo:gender sdo:Female ;
     sdo:givenName "Engeltje" ;
-    sdo:name "Engeltje Visjager" ;
+    sdo:name "Engeltje Levij Visjager" ;
     sdo:spouse <https://ex.org/Person2650308398> .
 
 <https://ex.org/Person2650308400> a pico:PersonObservation ;
@@ -2547,21 +2608,31 @@
 <https://ex.org/Person2650308411> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650308410> ;
     pico:hasRole "Moeder van de bruid" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Rading" ;
+            pnv:givenName "Trijntje" ;
+            pnv:literalName "Trijntje Fokkes Rading" ;
+            pnv:patronym "Fokkes" ] ;
     sdo:children <https://ex.org/Person2650308413> ;
     sdo:familyName "Rading" ;
     sdo:gender sdo:Female ;
     sdo:givenName "Trijntje" ;
-    sdo:name "Trijntje Rading" ;
+    sdo:name "Trijntje Fokkes Rading" ;
     sdo:spouse <https://ex.org/Person2650308412> .
 
 <https://ex.org/Person2650308414> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650308410> ;
     pico:hasRole "Moeder van de bruidegom" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Helder" ;
+            pnv:givenName "Antje" ;
+            pnv:literalName "Antje Hanzes Helder" ;
+            pnv:patronym "Hanzes" ] ;
     sdo:children <https://ex.org/Person2650308416> ;
     sdo:familyName "Helder" ;
     sdo:gender sdo:Female ;
     sdo:givenName "Antje" ;
-    sdo:name "Antje Helder" ;
+    sdo:name "Antje Hanzes Helder" ;
     sdo:spouse <https://ex.org/Person2650308415> .
 
 <https://ex.org/Person2650308418> a pico:PersonObservation ;
@@ -3018,11 +3089,16 @@
 <https://ex.org/Person2650307896> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650307894> ;
     pico:hasRole "Vader van de bruid" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Vogelzang" ;
+            pnv:givenName "Pieter" ;
+            pnv:literalName "Pieter Pieterszoon Vogelzang" ;
+            pnv:patronym "Pieterszoon" ] ;
     sdo:children <https://ex.org/Person2650307897> ;
     sdo:familyName "Vogelzang" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Pieter" ;
-    sdo:name "Pieter Vogelzang" ;
+    sdo:name "Pieter Pieterszoon Vogelzang" ;
     sdo:spouse <https://ex.org/Person2650307895> .
 
 <https://ex.org/Person2650307899> a pico:PersonObservation ;
@@ -3128,41 +3204,61 @@
 <https://ex.org/Person2650307940> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650307938> ;
     pico:hasRole "Vader van de bruid" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Beth" ;
+            pnv:givenName "Eliazer" ;
+            pnv:literalName "Eliazer Jonas Beth" ;
+            pnv:patronym "Jonas" ] ;
     sdo:children <https://ex.org/Person2650307941> ;
     sdo:familyName "Beth" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Eliazer" ;
-    sdo:name "Eliazer Beth" ;
+    sdo:name "Eliazer Jonas Beth" ;
     sdo:spouse <https://ex.org/Person2650307939> .
 
 <https://ex.org/Person2650307943> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650307938> ;
     pico:hasRole "Vader van de bruidegom" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Harpman" ;
+            pnv:givenName "Abraham" ;
+            pnv:literalName "Abraham Hartog Harpman" ;
+            pnv:patronym "Hartog" ] ;
     sdo:children <https://ex.org/Person2650307944> ;
     sdo:familyName "Harpman" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Abraham" ;
-    sdo:name "Abraham Harpman" ;
+    sdo:name "Abraham Hartog Harpman" ;
     sdo:spouse <https://ex.org/Person2650307942> .
 
 <https://ex.org/Person2650307947> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650307945> ;
     pico:hasRole "Vader van de bruid" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Halverstad" ;
+            pnv:givenName "Elias" ;
+            pnv:literalName "Elias Levie Halverstad" ;
+            pnv:patronym "Levie" ] ;
     sdo:children <https://ex.org/Person2650307948> ;
     sdo:familyName "Halverstad" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Elias" ;
-    sdo:name "Elias Halverstad" ;
+    sdo:name "Elias Levie Halverstad" ;
     sdo:spouse <https://ex.org/Person2650307946> .
 
 <https://ex.org/Person2650307950> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650307945> ;
     pico:hasRole "Vader van de bruidegom" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Halberstadt" ;
+            pnv:givenName "Levie" ;
+            pnv:literalName "Levie Fetje Halberstadt" ;
+            pnv:patronym "Fetje" ] ;
     sdo:children <https://ex.org/Person2650307951> ;
     sdo:familyName "Halberstadt" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Levie" ;
-    sdo:name "Levie Halberstadt" ;
+    sdo:name "Levie Fetje Halberstadt" ;
     sdo:spouse <https://ex.org/Person2650307949> .
 
 <https://ex.org/Person2650307954> a pico:PersonObservation ;
@@ -3188,11 +3284,16 @@
 <https://ex.org/Person2650307961> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650307959> ;
     pico:hasRole "Vader van de bruid" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Glastra" ;
+            pnv:givenName "Siebe" ;
+            pnv:literalName "Siebe Duijes Glastra" ;
+            pnv:patronym "Duijes" ] ;
     sdo:children <https://ex.org/Person2650307962> ;
     sdo:familyName "Glastra" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Siebe" ;
-    sdo:name "Siebe Glastra" ;
+    sdo:name "Siebe Duijes Glastra" ;
     sdo:spouse <https://ex.org/Person2650307960> .
 
 <https://ex.org/Person2650307964> a pico:PersonObservation ;
@@ -3463,11 +3564,16 @@
 <https://ex.org/Person2650308058> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650308056> ;
     pico:hasRole "Vader van de bruid" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Appelboom" ;
+            pnv:givenName "Samuel" ;
+            pnv:literalName "Samuel Gerrit Appelboom" ;
+            pnv:patronym "Gerrit" ] ;
     sdo:children <https://ex.org/Person2650308059> ;
     sdo:familyName "Appelboom" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Samuel" ;
-    sdo:name "Samuel Appelboom" ;
+    sdo:name "Samuel Gerrit Appelboom" ;
     sdo:spouse <https://ex.org/Person2650308057> .
 
 <https://ex.org/Person2650308061> a pico:PersonObservation ;
@@ -3476,13 +3582,14 @@
     sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Praag" ;
             pnv:givenName "Mozes" ;
-            pnv:literalName "Mozes van Praag" ;
+            pnv:literalName "Mozes Jacob van Praag" ;
+            pnv:patronym "Jacob" ;
             pnv:surnamePrefix "van" ] ;
     sdo:children <https://ex.org/Person2650308062> ;
     sdo:familyName "van Praag" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Mozes" ;
-    sdo:name "Mozes van Praag" ;
+    sdo:name "Mozes Jacob van Praag" ;
     sdo:spouse <https://ex.org/Person2650308060> .
 
 <https://ex.org/Person2650308065> a pico:PersonObservation ;
@@ -3613,21 +3720,31 @@
 <https://ex.org/Person2650308107> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650308105> ;
     pico:hasRole "Vader van de bruid" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Wessel" ;
+            pnv:givenName "Mozes" ;
+            pnv:literalName "Mozes Izaak Wessel" ;
+            pnv:patronym "Izaak" ] ;
     sdo:children <https://ex.org/Person2650308108> ;
     sdo:familyName "Wessel" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Mozes" ;
-    sdo:name "Mozes Wessel" ;
+    sdo:name "Mozes Izaak Wessel" ;
     sdo:spouse <https://ex.org/Person2650308106> .
 
 <https://ex.org/Person2650308110> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650308105> ;
     pico:hasRole "Vader van de bruidegom" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Diamant" ;
+            pnv:givenName "Levie" ;
+            pnv:literalName "Levie Liepman Diamant" ;
+            pnv:patronym "Liepman" ] ;
     sdo:children <https://ex.org/Person2650308111> ;
     sdo:familyName "Diamant" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Levie" ;
-    sdo:name "Levie Diamant" ;
+    sdo:name "Levie Liepman Diamant" ;
     sdo:spouse <https://ex.org/Person2650308109> .
 
 <https://ex.org/Person2650308114> a pico:PersonObservation ;
@@ -4081,13 +4198,14 @@
     sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Vaart" ;
             pnv:givenName "Jochem" ;
-            pnv:literalName "Jochem van der Vaart" ;
+            pnv:literalName "Jochem Willems van der Vaart" ;
+            pnv:patronym "Willems" ;
             pnv:surnamePrefix "van der" ] ;
     sdo:children <https://ex.org/Person2650308267> ;
     sdo:familyName "van der Vaart" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Jochem" ;
-    sdo:name "Jochem van der Vaart" ;
+    sdo:name "Jochem Willems van der Vaart" ;
     sdo:spouse <https://ex.org/Person2650308265> .
 
 <https://ex.org/Person2650308269> a pico:PersonObservation ;
@@ -4213,21 +4331,31 @@
 <https://ex.org/Person2650308308> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650308306> ;
     pico:hasRole "Vader van de bruid" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Winnik" ;
+            pnv:givenName "Jacob" ;
+            pnv:literalName "Jacob Samson Winnik" ;
+            pnv:patronym "Samson" ] ;
     sdo:children <https://ex.org/Person2650308309> ;
     sdo:familyName "Winnik" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Jacob" ;
-    sdo:name "Jacob Winnik" ;
+    sdo:name "Jacob Samson Winnik" ;
     sdo:spouse <https://ex.org/Person2650308307> .
 
 <https://ex.org/Person2650308311> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650308306> ;
     pico:hasRole "Vader van de bruidegom" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Witzenhausen" ;
+            pnv:givenName "Mozes" ;
+            pnv:literalName "Mozes Isaac Witzenhausen" ;
+            pnv:patronym "Isaac" ] ;
     sdo:children <https://ex.org/Person2650308312> ;
     sdo:familyName "Witzenhausen" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Mozes" ;
-    sdo:name "Mozes Witzenhausen" ;
+    sdo:name "Mozes Isaac Witzenhausen" ;
     sdo:spouse <https://ex.org/Person2650308310> .
 
 <https://ex.org/Person2650308315> a pico:PersonObservation ;
@@ -4311,13 +4439,14 @@
     sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Wolde" ;
             pnv:givenName "Jan" ;
-            pnv:literalName "Jan de Wolde" ;
+            pnv:literalName "Jan Jans de Wolde" ;
+            pnv:patronym "Jans" ;
             pnv:surnamePrefix "de" ] ;
     sdo:children <https://ex.org/Person2650308343> ;
     sdo:familyName "de Wolde" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Jan" ;
-    sdo:name "Jan de Wolde" ;
+    sdo:name "Jan Jans de Wolde" ;
     sdo:spouse <https://ex.org/Person2650308341> .
 
 <https://ex.org/Person2650308345> a pico:PersonObservation ;
@@ -4481,23 +4610,29 @@
     sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Jong" ;
             pnv:givenName "Moses" ;
-            pnv:literalName "Moses de Jong" ;
+            pnv:literalName "Moses Philip de Jong" ;
+            pnv:patronym "Philip" ;
             pnv:surnamePrefix "de" ] ;
     sdo:children <https://ex.org/Person2650308399> ;
     sdo:familyName "de Jong" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Moses" ;
-    sdo:name "Moses de Jong" ;
+    sdo:name "Moses Philip de Jong" ;
     sdo:spouse <https://ex.org/Person2650308397> .
 
 <https://ex.org/Person2650308401> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650308396> ;
     pico:hasRole "Vader van de bruidegom" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Serlui" ;
+            pnv:givenName "Samuel" ;
+            pnv:literalName "Samuel Moses Serlui" ;
+            pnv:patronym "Moses" ] ;
     sdo:children <https://ex.org/Person2650308402> ;
     sdo:familyName "Serlui" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Samuel" ;
-    sdo:name "Samuel Serlui" ;
+    sdo:name "Samuel Moses Serlui" ;
     sdo:spouse <https://ex.org/Person2650308400> .
 
 <https://ex.org/Person2650308405> a pico:PersonObservation ;
@@ -4528,11 +4663,16 @@
 <https://ex.org/Person2650308412> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650308410> ;
     pico:hasRole "Vader van de bruid" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Hanja" ;
+            pnv:givenName "Gerben" ;
+            pnv:literalName "Gerben Pieters Hanja" ;
+            pnv:patronym "Pieters" ] ;
     sdo:children <https://ex.org/Person2650308413> ;
     sdo:familyName "Hanja" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Gerben" ;
-    sdo:name "Gerben Hanja" ;
+    sdo:name "Gerben Pieters Hanja" ;
     sdo:spouse <https://ex.org/Person2650308411> .
 
 <https://ex.org/Person2650308415> a pico:PersonObservation ;
@@ -4541,13 +4681,14 @@
     sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Schaaf" ;
             pnv:givenName "Jan" ;
-            pnv:literalName "Jan van der Schaaf" ;
+            pnv:literalName "Jan Alderts van der Schaaf" ;
+            pnv:patronym "Alderts" ;
             pnv:surnamePrefix "van der" ] ;
     sdo:children <https://ex.org/Person2650308416> ;
     sdo:familyName "van der Schaaf" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Jan" ;
-    sdo:name "Jan van der Schaaf" ;
+    sdo:name "Jan Alderts van der Schaaf" ;
     sdo:spouse <https://ex.org/Person2650308414> .
 
 <https://ex.org/Person2650308419> a pico:PersonObservation ;
@@ -4598,11 +4739,16 @@
 <https://ex.org/Person2650308433> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650308431> ;
     pico:hasRole "Vader van de bruid" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Kingma" ;
+            pnv:givenName "Fokke" ;
+            pnv:literalName "Fokke IJntes Kingma" ;
+            pnv:patronym "IJntes" ] ;
     sdo:children <https://ex.org/Person2650308434> ;
     sdo:familyName "Kingma" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Fokke" ;
-    sdo:name "Fokke Kingma" ;
+    sdo:name "Fokke IJntes Kingma" ;
     sdo:spouse <https://ex.org/Person2650308432> .
 
 <https://ex.org/Person2650308436> a pico:PersonObservation ;
@@ -4663,11 +4809,16 @@
 <https://ex.org/Person2650308454> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/2650308452> ;
     pico:hasRole "Vader van de bruid" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Pruijs" ;
+            pnv:givenName "Pieter" ;
+            pnv:literalName "Pieter Pieterze Pruijs" ;
+            pnv:patronym "Pieterze" ] ;
     sdo:children <https://ex.org/Person2650308455> ;
     sdo:familyName "Pruijs" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Pieter" ;
-    sdo:name "Pieter Pruijs" ;
+    sdo:name "Pieter Pieterze Pruijs" ;
     sdo:spouse <https://ex.org/Person2650308453> .
 
 <https://ex.org/Person2650308457> a pico:PersonObservation ;

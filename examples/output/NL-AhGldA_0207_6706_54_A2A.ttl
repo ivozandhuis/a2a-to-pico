@@ -4345,13 +4345,14 @@
     sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Zadelhoff" ;
             pnv:givenName "Willems" ;
-            pnv:literalName "Willems van Zadelhoff" ;
+            pnv:literalName "Willems Stevens van Zadelhoff" ;
+            pnv:patronym "Stevens" ;
             pnv:surnamePrefix "van" ] ;
     sdo:children <https://ex.org/Person3046089385> ;
     sdo:familyName "van Zadelhoff" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Willems" ;
-    sdo:name "Willems van Zadelhoff" ;
+    sdo:name "Willems Stevens van Zadelhoff" ;
     sdo:spouse <https://ex.org/Person3046089387> .
 
 <https://ex.org/Person3046089389> a pico:PersonObservation ;
@@ -4602,11 +4603,16 @@
 <https://ex.org/Person3046089430> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/3046089428> ;
     pico:hasRole "Vader" ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Leendertz" ;
+            pnv:givenName "Pieter" ;
+            pnv:literalName "Pieter Cornelis Zoon Leendertz" ;
+            pnv:patronym "Cornelis Zoon" ] ;
     sdo:children <https://ex.org/Person3046089429> ;
     sdo:familyName "Leendertz" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Pieter" ;
-    sdo:name "Pieter Leendertz" ;
+    sdo:name "Pieter Cornelis Zoon Leendertz" ;
     sdo:spouse <https://ex.org/Person3046089431> .
 
 <https://ex.org/Person3046089433> a pico:PersonObservation ;
