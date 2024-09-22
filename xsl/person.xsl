@@ -71,8 +71,7 @@
             <xsl:call-template name="concat-full-name"/>
         </sdo:name>
         <sdo:familyName>
-            <xsl:apply-templates select="a2a:PersonNamePrefixLastName" mode="concat"/>
-            <xsl:apply-templates select="a2a:PersonNameLastName" mode="concat"/>
+		    <xsl:call-template name="concat-familyname"/>
         </sdo:familyName>
         <xsl:apply-templates select="a2a:PersonNameFirstName" mode="sdo"/>
         <xsl:if test="a2a:PersonNamePrefixLastName/text() | a2a:PersonNamePatronym/text()">
@@ -149,6 +148,15 @@
     
         <!-- Concatenate strings with spaces and normalize to avoid trailing spaces -->
         <xsl:value-of select="normalize-space(concat($str1, ' ', $str2, ' ', $str3, ' ', $str4))" />
+    </xsl:template>
+
+    <xsl:template name="concat-familyname">
+        <!-- Parameters for the strings -->
+        <xsl:variable name="str1" select="a2a:PersonNamePrefixLastName" />
+        <xsl:variable name="str2" select="a2a:PersonNameLastName" />
+    
+        <!-- Concatenate strings with spaces and normalize to avoid trailing spaces -->
+        <xsl:value-of select="normalize-space(concat($str1, ' ', $str2))" />
     </xsl:template>
 
 </xsl:stylesheet>
