@@ -95,20 +95,40 @@
                 <sdo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">
                 <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Year"/>
                 <xsl:text>-</xsl:text>
+				<xsl:choose>
+                     <xsl:when test="../a2a:Event/a2a:EventDate/a2a:Month &lt; 10">
+                         <xsl:text>0</xsl:text>
+                     </xsl:when>
+                </xsl:choose>
                 <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Month"/>
                 <xsl:text>-</xsl:text>
+				<xsl:choose>
+                     <xsl:when test="../a2a:Event/a2a:EventDate/a2a:Day &lt; 10">
+                         <xsl:text>0</xsl:text>
+                     </xsl:when>
+                </xsl:choose>				
                 <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Day"/>                      
             </sdo:birthDate>
-                <sdo:birthPlace>
-                    <xsl:value-of select="../a2a:Event/a2a:EventPlace/a2a:Place"/>
-                </sdo:birthPlace>
+			<sdo:birthPlace>
+				<xsl:value-of select="../a2a:Event/a2a:EventPlace/a2a:Place"/>
+			</sdo:birthPlace>
             </xsl:when>
             <xsl:when test="$rel-type = 'Overledene'">
                 <sdo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">
                     <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Year"/>
                     <xsl:text>-</xsl:text>
+				    <xsl:choose>
+                         <xsl:when test="../a2a:Event/a2a:EventDate/a2a:Month &lt; 10">
+                             <xsl:text>0</xsl:text>
+                         </xsl:when>
+                    </xsl:choose>					
                     <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Month"/>
                     <xsl:text>-</xsl:text>
+				    <xsl:choose>
+                         <xsl:when test="../a2a:Event/a2a:EventDate/a2a:Day &lt; 10">
+                             <xsl:text>0</xsl:text>
+                         </xsl:when>
+                    </xsl:choose>					
                     <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Day"/>                      
                 </sdo:deathDate>
                 <sdo:deathPlace>
