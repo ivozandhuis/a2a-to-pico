@@ -31,6 +31,7 @@
             </prov:hadPrimarySource>
             <xsl:apply-templates select="../a2a:RelationEP[a2a:PersonKeyRef = $pid]"/>
             <xsl:apply-templates select="a2a:PersonName"/>
+			<xsl:apply-templates select="a2a:BirthPlace"/>			
         </pico:PersonObservation>
     </xsl:template>
 
@@ -41,7 +42,11 @@
     <xsl:template match="a2a:Origin"/>
     <xsl:template match="a2a:Age"/>
     <xsl:template match="a2a:BirthDate"/>
-    <xsl:template match="a2a:BirthPlace"/>
+	<xsl:template match="a2a:BirthPlace">
+		<sdo:birthPlace>
+			<xsl:value-of select="./a2a:Place"/>
+		</sdo:birthPlace>
+	</xsl:template>
     <xsl:template match="a2a:Profession"/>
     <xsl:template match="a2a:MaritalStatus"/>
     <xsl:template match="a2a:PersonRemark"/>
