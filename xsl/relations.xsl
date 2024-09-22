@@ -95,9 +95,9 @@
                 <sdo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">
                 <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Year"/>
                 <xsl:text>-</xsl:text>
-                <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Year"/>
+                <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Month"/>
                 <xsl:text>-</xsl:text>
-                <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Year"/>                      
+                <xsl:value-of select="../a2a:Event/a2a:EventDate/a2a:Day"/>                      
             </sdo:birthDate>
                 <sdo:birthPlace>
                     <xsl:value-of select="../a2a:Event/a2a:EventPlace/a2a:Place"/>
