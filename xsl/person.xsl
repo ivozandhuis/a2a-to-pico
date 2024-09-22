@@ -32,12 +32,22 @@
             <xsl:apply-templates select="../a2a:RelationEP[a2a:PersonKeyRef = $pid]"/>
             <xsl:apply-templates select="a2a:PersonName"/>
 			<xsl:apply-templates select="a2a:BirthPlace"/>	
-			<xsl:apply-templates select="a2a:Age"/>			
+			<xsl:apply-templates select="a2a:Age"/>	
+			<xsl:apply-templates select="a2a:Gender"/>
         </pico:PersonObservation>
     </xsl:template>
 
 <!-- level 1: subelements of Person -->
-    <xsl:template match="a2a:Gender"/>
+	<xsl:template match="a2a:Gender">
+		<xsl:choose>
+			<xsl:when test="text() = 'Man'">
+				<sdo:gender rdf:resource="sdo:Male"/>
+			</xsl:when>
+			<xsl:when test="text() = 'Vrouw'">
+				<sdo:gender rdf:resource="sdo:Female"/>
+			</xsl:when>
+		</xsl:choose>
+	</xsl:template>
     <xsl:template match="a2a:Residence"/>
     <xsl:template match="a2a:Religion"/>
     <xsl:template match="a2a:Origin"/>
