@@ -67,13 +67,18 @@
         <xsl:variable name="SourceTypeMap">maps/sourcetypes.xml</xsl:variable>
         <xsl:variable name="source-type" select="text()"/>
         <xsl:variable name="source-type-id" select="document($SourceTypeMap)/items/item[name=$source-type]/id"/>
-        <xsl:if test="$source-type-id != ''">
-            <sdo:additionalType>
-                <xsl:attribute name="rdf:resource">
-                    <xsl:value-of select="$source-type-id"></xsl:value-of>
-                </xsl:attribute>
-            </sdo:additionalType>
-        </xsl:if>
+        <sdo:additionalType>
+            <xsl:choose>
+                <xsl:when test="$source-type-id != ''">
+                    <xsl:attribute name="rdf:resource">
+                        <xsl:value-of select="$source-type-id"></xsl:value-of>
+                    </xsl:attribute>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="$source-type"></xsl:value-of>
+                </xsl:otherwise>
+            </xsl:choose> 
+        </sdo:additionalType>
     </xsl:template>
 
 
