@@ -35,8 +35,18 @@
             <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">
                 <xsl:value-of select="a2a:EventDate/a2a:Year"/>
                 <xsl:text>-</xsl:text>
+				<xsl:choose>
+					 <xsl:when test="a2a:EventDate/a2a:Month &lt; 10">
+						 <xsl:text>0</xsl:text>
+					 </xsl:when>
+				</xsl:choose>		
                 <xsl:value-of select="a2a:EventDate/a2a:Month"/>
                 <xsl:text>-</xsl:text>
+				<xsl:choose>
+					 <xsl:when test="a2a:EventDate/a2a:Day &lt; 10">
+						 <xsl:text>0</xsl:text>
+					 </xsl:when>
+				</xsl:choose>		
                 <xsl:value-of select="a2a:EventDate/a2a:Day"/>
             </bio:date>
             <bio:place>

@@ -31,17 +31,37 @@
             </prov:hadPrimarySource>
             <xsl:apply-templates select="../a2a:RelationEP[a2a:PersonKeyRef = $pid]"/>
             <xsl:apply-templates select="a2a:PersonName"/>
+			<xsl:apply-templates select="a2a:BirthPlace"/>	
+			<xsl:apply-templates select="a2a:Age"/>	
+			<xsl:apply-templates select="a2a:Gender"/>
         </pico:PersonObservation>
     </xsl:template>
 
 <!-- level 1: subelements of Person -->
-    <xsl:template match="a2a:Gender"/>
+	<xsl:template match="a2a:Gender">
+		<xsl:choose>
+			<xsl:when test="text() = 'Man'">
+				<sdo:gender rdf:resource="sdo:Male"/>
+			</xsl:when>
+			<xsl:when test="text() = 'Vrouw'">
+				<sdo:gender rdf:resource="sdo:Female"/>
+			</xsl:when>
+		</xsl:choose>
+	</xsl:template>
     <xsl:template match="a2a:Residence"/>
     <xsl:template match="a2a:Religion"/>
     <xsl:template match="a2a:Origin"/>
-    <xsl:template match="a2a:Age"/>
+	<xsl:template match="a2a:Age">
+		<pico:hasAge>
+			<xsl:value-of select="a2a:PersonAgeLiteral"/>
+		</pico:hasAge>
+	</xsl:template>
     <xsl:template match="a2a:BirthDate"/>
-    <xsl:template match="a2a:BirthPlace"/>
+	<xsl:template match="a2a:BirthPlace">
+		<sdo:birthPlace>
+			<xsl:value-of select="./a2a:Place"/>
+		</sdo:birthPlace>
+	</xsl:template>
     <xsl:template match="a2a:Profession"/>
     <xsl:template match="a2a:MaritalStatus"/>
     <xsl:template match="a2a:PersonRemark"/>
@@ -51,8 +71,7 @@
             <xsl:call-template name="concat-full-name"/>
         </sdo:name>
         <sdo:familyName>
-            <xsl:apply-templates select="a2a:PersonNamePrefixLastName" mode="concat"/>
-            <xsl:apply-templates select="a2a:PersonNameLastName" mode="concat"/>
+		    <xsl:call-template name="concat-familyname"/>
         </sdo:familyName>
         <xsl:apply-templates select="a2a:PersonNameFirstName" mode="sdo"/>
         <xsl:if test="a2a:PersonNamePrefixLastName/text() | a2a:PersonNamePatronym/text()">
@@ -129,6 +148,15 @@
     
         <!-- Concatenate strings with spaces and normalize to avoid trailing spaces -->
         <xsl:value-of select="normalize-space(concat($str1, ' ', $str2, ' ', $str3, ' ', $str4))" />
+    </xsl:template>
+
+    <xsl:template name="concat-familyname">
+        <!-- Parameters for the strings -->
+        <xsl:variable name="str1" select="a2a:PersonNamePrefixLastName" />
+        <xsl:variable name="str2" select="a2a:PersonNameLastName" />
+    
+        <!-- Concatenate strings with spaces and normalize to avoid trailing spaces -->
+        <xsl:value-of select="normalize-space(concat($str1, ' ', $str2))" />
     </xsl:template>
 
 </xsl:stylesheet>
