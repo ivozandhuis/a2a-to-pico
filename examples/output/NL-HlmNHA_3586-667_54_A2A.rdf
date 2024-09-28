@@ -52,14 +52,14 @@
       <sdo:name>Hendrina Everarda van Driel</sdo:name>
       <sdo:familyName>van Driel</sdo:familyName>
       <sdo:givenName>Hendrina Everarda</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Driel</pnv:literalName>
             <pnv:givenName>Hendrina Everarda</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Driel</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Amsterdam</sdo:birthPlace>
       <pico:hasAge>20</pico:hasAge>
    </pico:PersonObservation>
@@ -72,14 +72,14 @@
       <sdo:name>Johannes Albertus van Driel</sdo:name>
       <sdo:familyName>van Driel</sdo:familyName>
       <sdo:givenName>Johannes Albertus</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Driel</pnv:literalName>
             <pnv:givenName>Johannes Albertus</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Driel</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -308,14 +308,14 @@
       <sdo:name>Willemina van der Velden</sdo:name>
       <sdo:familyName>van der Velden</sdo:familyName>
       <sdo:givenName>Willemina</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Velden</pnv:literalName>
             <pnv:givenName>Willemina</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Velden</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -364,14 +364,14 @@
       <sdo:name>Johanna Hillegonda Antoinetta van Gelder</sdo:name>
       <sdo:familyName>van Gelder</sdo:familyName>
       <sdo:givenName>Johanna Hillegonda Antoinetta</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Gelder</pnv:literalName>
             <pnv:givenName>Johanna Hillegonda Antoinetta</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Gelder</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Amsterdam</sdo:birthPlace>
       <pico:hasAge>24</pico:hasAge>
    </pico:PersonObservation>
@@ -384,14 +384,14 @@
       <sdo:name>Willem van Gelder</sdo:name>
       <sdo:familyName>van Gelder</sdo:familyName>
       <sdo:givenName>Willem</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Gelder</pnv:literalName>
             <pnv:givenName>Willem</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Gelder</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -416,14 +416,14 @@
       <sdo:name>Willem Jacobus Cornelis van Slingerlandt</sdo:name>
       <sdo:familyName>van Slingerlandt</sdo:familyName>
       <sdo:givenName>Willem Jacobus Cornelis</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Slingerlandt</pnv:literalName>
             <pnv:givenName>Willem Jacobus Cornelis</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Slingerlandt</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Amsterdam</sdo:birthPlace>
       <pico:hasAge>25</pico:hasAge>
    </pico:PersonObservation>
@@ -436,14 +436,14 @@
       <sdo:name>Willem Constantijn van Slingerlandt</sdo:name>
       <sdo:familyName>van Slingerlandt</sdo:familyName>
       <sdo:givenName>Willem Constantijn</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Slingerlandt</pnv:literalName>
             <pnv:givenName>Willem Constantijn</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Slingerlandt</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -516,14 +516,14 @@
       <sdo:name>Levie Liepman Diamant</sdo:name>
       <sdo:familyName>Diamant</sdo:familyName>
       <sdo:givenName>Levie</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Diamant</pnv:literalName>
             <pnv:givenName>Levie</pnv:givenName>
             <pnv:patronym>Liepman</pnv:patronym>
             <pnv:baseSurname>Diamant</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -536,14 +536,14 @@
       <sdo:name>Schoontje Alexander Koekoek</sdo:name>
       <sdo:familyName>Koekoek</sdo:familyName>
       <sdo:givenName>Schoontje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Koekoek</pnv:literalName>
             <pnv:givenName>Schoontje</pnv:givenName>
             <pnv:patronym>Alexander</pnv:patronym>
             <pnv:baseSurname>Koekoek</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -568,14 +568,14 @@
       <sdo:name>Mozes Izaak Wessel</sdo:name>
       <sdo:familyName>Wessel</sdo:familyName>
       <sdo:givenName>Mozes</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Wessel</pnv:literalName>
             <pnv:givenName>Mozes</pnv:givenName>
             <pnv:patronym>Izaak</pnv:patronym>
             <pnv:baseSurname>Wessel</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -588,14 +588,14 @@
       <sdo:name>Vogel Levie Smit</sdo:name>
       <sdo:familyName>Smit</sdo:familyName>
       <sdo:givenName>Vogel</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Smit</pnv:literalName>
             <pnv:givenName>Vogel</pnv:givenName>
             <pnv:patronym>Levie</pnv:patronym>
             <pnv:baseSurname>Smit</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -704,14 +704,14 @@
       <sdo:name>Bontje Cornelis Markes</sdo:name>
       <sdo:familyName>Markes</sdo:familyName>
       <sdo:givenName>Bontje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Markes</pnv:literalName>
             <pnv:givenName>Bontje</pnv:givenName>
             <pnv:patronym>Cornelis</pnv:patronym>
             <pnv:baseSurname>Markes</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -748,14 +748,14 @@
       <sdo:name>Mattheus den Hartog</sdo:name>
       <sdo:familyName>den Hartog</sdo:familyName>
       <sdo:givenName>Mattheus</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>den Hartog</pnv:literalName>
             <pnv:givenName>Mattheus</pnv:givenName>
             <pnv:surnamePrefix>den</pnv:surnamePrefix>
             <pnv:baseSurname>Hartog</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Rotterdam</sdo:birthPlace>
       <pico:hasAge>19</pico:hasAge>
    </pico:PersonObservation>
@@ -768,14 +768,14 @@
       <sdo:name>Mattheus den Hartog</sdo:name>
       <sdo:familyName>den Hartog</sdo:familyName>
       <sdo:givenName>Mattheus</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>den Hartog</pnv:literalName>
             <pnv:givenName>Mattheus</pnv:givenName>
             <pnv:surnamePrefix>den</pnv:surnamePrefix>
             <pnv:baseSurname>Hartog</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -944,14 +944,14 @@
       <sdo:name>Matje de Wolde</sdo:name>
       <sdo:familyName>de Wolde</sdo:familyName>
       <sdo:givenName>Matje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>de Wolde</pnv:literalName>
             <pnv:givenName>Matje</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Wolde</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Amsterdam</sdo:birthPlace>
       <pico:hasAge>19</pico:hasAge>
    </pico:PersonObservation>
@@ -964,7 +964,7 @@
       <sdo:name>Jan Jans de Wolde</sdo:name>
       <sdo:familyName>de Wolde</sdo:familyName>
       <sdo:givenName>Jan</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>de Wolde</pnv:literalName>
             <pnv:givenName>Jan</pnv:givenName>
@@ -972,7 +972,7 @@
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Wolde</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -1201,7 +1201,7 @@
       <sdo:name>Rachel Mozes van Kamerik</sdo:name>
       <sdo:familyName>van Kamerik</sdo:familyName>
       <sdo:givenName>Rachel</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Kamerik</pnv:literalName>
             <pnv:givenName>Rachel</pnv:givenName>
@@ -1209,7 +1209,7 @@
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Kamerik</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -1282,14 +1282,14 @@
       <sdo:name>Maria de Viet</sdo:name>
       <sdo:familyName>de Viet</sdo:familyName>
       <sdo:givenName>Maria</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>de Viet</pnv:literalName>
             <pnv:givenName>Maria</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Viet</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -1362,14 +1362,14 @@
       <sdo:name>Maria Johanna Susanna van der Heijden</sdo:name>
       <sdo:familyName>van der Heijden</sdo:familyName>
       <sdo:givenName>Maria Johanna Susanna</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Heijden</pnv:literalName>
             <pnv:givenName>Maria Johanna Susanna</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Heijden</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -1418,14 +1418,14 @@
       <sdo:name>Margaretha Gesina van Waalwijk</sdo:name>
       <sdo:familyName>van Waalwijk</sdo:familyName>
       <sdo:givenName>Margaretha Gesina</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Waalwijk</pnv:literalName>
             <pnv:givenName>Margaretha Gesina</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Waalwijk</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Amsterdam</sdo:birthPlace>
       <pico:hasAge>22</pico:hasAge>
    </pico:PersonObservation>
@@ -1438,14 +1438,14 @@
       <sdo:name>Adrianus van Waalwijk</sdo:name>
       <sdo:familyName>van Waalwijk</sdo:familyName>
       <sdo:givenName>Adrianus</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Waalwijk</pnv:literalName>
             <pnv:givenName>Adrianus</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Waalwijk</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -1458,14 +1458,14 @@
       <sdo:name>Alida van der Wiel</sdo:name>
       <sdo:familyName>van der Wiel</sdo:familyName>
       <sdo:givenName>Alida</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Wiel</pnv:literalName>
             <pnv:givenName>Alida</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Wiel</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -1478,14 +1478,14 @@
       <sdo:name>Jan Hijko van Heteren</sdo:name>
       <sdo:familyName>van Heteren</sdo:familyName>
       <sdo:givenName>Jan Hijko</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Heteren</pnv:literalName>
             <pnv:givenName>Jan Hijko</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Heteren</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Amsterdam</sdo:birthPlace>
       <pico:hasAge>28</pico:hasAge>
    </pico:PersonObservation>
@@ -1498,14 +1498,14 @@
       <sdo:name>Gerrit van Heteren</sdo:name>
       <sdo:familyName>van Heteren</sdo:familyName>
       <sdo:givenName>Gerrit</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Heteren</pnv:literalName>
             <pnv:givenName>Gerrit</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Heteren</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -1518,14 +1518,14 @@
       <sdo:name>Elisabeth van Sittert</sdo:name>
       <sdo:familyName>van Sittert</sdo:familyName>
       <sdo:givenName>Elisabeth</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Sittert</pnv:literalName>
             <pnv:givenName>Elisabeth</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Sittert</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -1682,14 +1682,14 @@
       <sdo:name>Elisabeth Carolina von der Möhlen</sdo:name>
       <sdo:familyName>von der Möhlen</sdo:familyName>
       <sdo:givenName>Elisabeth Carolina</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>von der Möhlen</pnv:literalName>
             <pnv:givenName>Elisabeth Carolina</pnv:givenName>
             <pnv:surnamePrefix>von der</pnv:surnamePrefix>
             <pnv:baseSurname>Möhlen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Amsterdam</sdo:birthPlace>
       <pico:hasAge>30</pico:hasAge>
    </pico:PersonObservation>
@@ -1702,14 +1702,14 @@
       <sdo:name>Ignatius Josephus von der Möhlen</sdo:name>
       <sdo:familyName>von der Möhlen</sdo:familyName>
       <sdo:givenName>Ignatius Josephus</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>von der Möhlen</pnv:literalName>
             <pnv:givenName>Ignatius Josephus</pnv:givenName>
             <pnv:surnamePrefix>von der</pnv:surnamePrefix>
             <pnv:baseSurname>Möhlen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -1782,14 +1782,14 @@
       <sdo:name>Pieter Pieterszoon Vogelzang</sdo:name>
       <sdo:familyName>Vogelzang</sdo:familyName>
       <sdo:givenName>Pieter</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Vogelzang</pnv:literalName>
             <pnv:givenName>Pieter</pnv:givenName>
             <pnv:patronym>Pieterszoon</pnv:patronym>
             <pnv:baseSurname>Vogelzang</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -1802,14 +1802,14 @@
       <sdo:name>Wilhelmina van der Bilt</sdo:name>
       <sdo:familyName>van der Bilt</sdo:familyName>
       <sdo:givenName>Wilhelmina</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Bilt</pnv:literalName>
             <pnv:givenName>Wilhelmina</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Bilt</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -1954,14 +1954,14 @@
       <sdo:name>Saartje Machiel Polak</sdo:name>
       <sdo:familyName>Polak</sdo:familyName>
       <sdo:givenName>Saartje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Polak</pnv:literalName>
             <pnv:givenName>Saartje</pnv:givenName>
             <pnv:patronym>Machiel</pnv:patronym>
             <pnv:baseSurname>Polak</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -1998,14 +1998,14 @@
       <sdo:name>Hendrikie van Muijen</sdo:name>
       <sdo:familyName>van Muijen</sdo:familyName>
       <sdo:givenName>Hendrikie</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Muijen</pnv:literalName>
             <pnv:givenName>Hendrikie</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Muijen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -2042,14 +2042,14 @@
       <sdo:name>Alida Maria Elisabeth van Blijdestijn</sdo:name>
       <sdo:familyName>van Blijdestijn</sdo:familyName>
       <sdo:givenName>Alida Maria Elisabeth</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Blijdestijn</pnv:literalName>
             <pnv:givenName>Alida Maria Elisabeth</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Blijdestijn</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -2086,14 +2086,14 @@
       <sdo:name>Geertruida van Ginkel</sdo:name>
       <sdo:familyName>van Ginkel</sdo:familyName>
       <sdo:givenName>Geertruida</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Ginkel</pnv:literalName>
             <pnv:givenName>Geertruida</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Ginkel</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -2190,14 +2190,14 @@
       <sdo:name>Johanna van Wieringen</sdo:name>
       <sdo:familyName>van Wieringen</sdo:familyName>
       <sdo:givenName>Johanna</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Wieringen</pnv:literalName>
             <pnv:givenName>Johanna</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Wieringen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -2222,14 +2222,14 @@
       <sdo:name>Abraham Hartog Harpman</sdo:name>
       <sdo:familyName>Harpman</sdo:familyName>
       <sdo:givenName>Abraham</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Harpman</pnv:literalName>
             <pnv:givenName>Abraham</pnv:givenName>
             <pnv:patronym>Hartog</pnv:patronym>
             <pnv:baseSurname>Harpman</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -2242,14 +2242,14 @@
       <sdo:name>Heintje van Dort</sdo:name>
       <sdo:familyName>van Dort</sdo:familyName>
       <sdo:givenName>Heintje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Dort</pnv:literalName>
             <pnv:givenName>Heintje</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Dort</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -2274,14 +2274,14 @@
       <sdo:name>Eliazer Jonas Beth</sdo:name>
       <sdo:familyName>Beth</sdo:familyName>
       <sdo:givenName>Eliazer</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Beth</pnv:literalName>
             <pnv:givenName>Eliazer</pnv:givenName>
             <pnv:patronym>Jonas</pnv:patronym>
             <pnv:baseSurname>Beth</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -2294,14 +2294,14 @@
       <sdo:name>Roosje Abraham Lammerson</sdo:name>
       <sdo:familyName>Lammerson</sdo:familyName>
       <sdo:givenName>Roosje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Lammerson</pnv:literalName>
             <pnv:givenName>Roosje</pnv:givenName>
             <pnv:patronym>Abraham</pnv:patronym>
             <pnv:baseSurname>Lammerson</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -2350,14 +2350,14 @@
       <sdo:name>Beertje van de Ridder</sdo:name>
       <sdo:familyName>van de Ridder</sdo:familyName>
       <sdo:givenName>Beertje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van de Ridder</pnv:literalName>
             <pnv:givenName>Beertje</pnv:givenName>
             <pnv:surnamePrefix>van de</pnv:surnamePrefix>
             <pnv:baseSurname>Ridder</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Nijkerk</sdo:birthPlace>
       <pico:hasAge>31</pico:hasAge>
    </pico:PersonObservation>
@@ -2370,14 +2370,14 @@
       <sdo:name>Ot van de Ridder</sdo:name>
       <sdo:familyName>van de Ridder</sdo:familyName>
       <sdo:givenName>Ot</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van de Ridder</pnv:literalName>
             <pnv:givenName>Ot</pnv:givenName>
             <pnv:surnamePrefix>van de</pnv:surnamePrefix>
             <pnv:baseSurname>Ridder</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -2390,14 +2390,14 @@
       <sdo:name>Aaltje van Koot</sdo:name>
       <sdo:familyName>van Koot</sdo:familyName>
       <sdo:givenName>Aaltje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Koot</pnv:literalName>
             <pnv:givenName>Aaltje</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Koot</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -2410,14 +2410,14 @@
       <sdo:name>Jan van Doesen</sdo:name>
       <sdo:familyName>van Doesen</sdo:familyName>
       <sdo:givenName>Jan</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Doesen</pnv:literalName>
             <pnv:givenName>Jan</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Doesen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Bolsward</sdo:birthPlace>
       <pico:hasAge>27</pico:hasAge>
    </pico:PersonObservation>
@@ -2430,14 +2430,14 @@
       <sdo:name>Lammert van Doesen</sdo:name>
       <sdo:familyName>van Doesen</sdo:familyName>
       <sdo:givenName>Lammert</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Doesen</pnv:literalName>
             <pnv:givenName>Lammert</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Doesen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -2558,14 +2558,14 @@
       <sdo:name>Adriana van Vugt</sdo:name>
       <sdo:familyName>van Vugt</sdo:familyName>
       <sdo:givenName>Adriana</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Vugt</pnv:literalName>
             <pnv:givenName>Adriana</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Vugt</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -2638,14 +2638,14 @@
       <sdo:name>Helena van der Moolen</sdo:name>
       <sdo:familyName>van der Moolen</sdo:familyName>
       <sdo:givenName>Helena</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Moolen</pnv:literalName>
             <pnv:givenName>Helena</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Moolen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -2658,14 +2658,14 @@
       <sdo:name>Christiaan van Senden</sdo:name>
       <sdo:familyName>van Senden</sdo:familyName>
       <sdo:givenName>Christiaan</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Senden</pnv:literalName>
             <pnv:givenName>Christiaan</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Senden</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Amsterdam</sdo:birthPlace>
       <pico:hasAge>27</pico:hasAge>
    </pico:PersonObservation>
@@ -2678,14 +2678,14 @@
       <sdo:name>Gerhard van Senden</sdo:name>
       <sdo:familyName>van Senden</sdo:familyName>
       <sdo:givenName>Gerhard</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Senden</pnv:literalName>
             <pnv:givenName>Gerhard</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Senden</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -2698,14 +2698,14 @@
       <sdo:name>Geertruida Cornelia van Klaveren</sdo:name>
       <sdo:familyName>van Klaveren</sdo:familyName>
       <sdo:givenName>Geertruida Cornelia</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Klaveren</pnv:literalName>
             <pnv:givenName>Geertruida Cornelia</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Klaveren</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -2934,14 +2934,14 @@
       <sdo:name>Aartje van Joolingen</sdo:name>
       <sdo:familyName>van Joolingen</sdo:familyName>
       <sdo:givenName>Aartje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Joolingen</pnv:literalName>
             <pnv:givenName>Aartje</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Joolingen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Amsterdam</sdo:birthPlace>
       <pico:hasAge>23</pico:hasAge>
    </pico:PersonObservation>
@@ -2954,14 +2954,14 @@
       <sdo:name>Joachim van Joolingen</sdo:name>
       <sdo:familyName>van Joolingen</sdo:familyName>
       <sdo:givenName>Joachim</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Joolingen</pnv:literalName>
             <pnv:givenName>Joachim</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Joolingen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -2974,14 +2974,14 @@
       <sdo:name>Aartje van der Kolk</sdo:name>
       <sdo:familyName>van der Kolk</sdo:familyName>
       <sdo:givenName>Aartje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Kolk</pnv:literalName>
             <pnv:givenName>Aartje</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Kolk</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -3006,14 +3006,14 @@
       <sdo:name>Samuel Moses Serlui</sdo:name>
       <sdo:familyName>Serlui</sdo:familyName>
       <sdo:givenName>Samuel</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Serlui</pnv:literalName>
             <pnv:givenName>Samuel</pnv:givenName>
             <pnv:patronym>Moses</pnv:patronym>
             <pnv:baseSurname>Serlui</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -3026,14 +3026,14 @@
       <sdo:name>Nannette van der Poorten</sdo:name>
       <sdo:familyName>van der Poorten</sdo:familyName>
       <sdo:givenName>Nannette</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Poorten</pnv:literalName>
             <pnv:givenName>Nannette</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Poorten</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -3046,14 +3046,14 @@
       <sdo:name>Betje de Jong</sdo:name>
       <sdo:familyName>de Jong</sdo:familyName>
       <sdo:givenName>Betje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>de Jong</pnv:literalName>
             <pnv:givenName>Betje</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Jong</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Amsterdam</sdo:birthPlace>
       <pico:hasAge>28</pico:hasAge>
    </pico:PersonObservation>
@@ -3066,7 +3066,7 @@
       <sdo:name>Moses Philip de Jong</sdo:name>
       <sdo:familyName>de Jong</sdo:familyName>
       <sdo:givenName>Moses</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>de Jong</pnv:literalName>
             <pnv:givenName>Moses</pnv:givenName>
@@ -3074,7 +3074,7 @@
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Jong</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -3087,14 +3087,14 @@
       <sdo:name>Engeltje Levij Visjager</sdo:name>
       <sdo:familyName>Visjager</sdo:familyName>
       <sdo:givenName>Engeltje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Visjager</pnv:literalName>
             <pnv:givenName>Engeltje</pnv:givenName>
             <pnv:patronym>Levij</pnv:patronym>
             <pnv:baseSurname>Visjager</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -3107,14 +3107,14 @@
       <sdo:name>Antonie van Kampen</sdo:name>
       <sdo:familyName>van Kampen</sdo:familyName>
       <sdo:givenName>Antonie</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Kampen</pnv:literalName>
             <pnv:givenName>Antonie</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Kampen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Amsterdam</sdo:birthPlace>
       <pico:hasAge>21</pico:hasAge>
    </pico:PersonObservation>
@@ -3127,14 +3127,14 @@
       <sdo:name>Cornelis van Kampen</sdo:name>
       <sdo:familyName>van Kampen</sdo:familyName>
       <sdo:givenName>Cornelis</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Kampen</pnv:literalName>
             <pnv:givenName>Cornelis</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Kampen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -3183,14 +3183,14 @@
       <sdo:name>Maria Clementia Le Blanc</sdo:name>
       <sdo:familyName>Le Blanc</sdo:familyName>
       <sdo:givenName>Maria Clementia</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Le Blanc</pnv:literalName>
             <pnv:givenName>Maria Clementia</pnv:givenName>
             <pnv:surnamePrefix>Le</pnv:surnamePrefix>
             <pnv:baseSurname>Blanc</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -3203,14 +3203,14 @@
       <sdo:name>Jan van der Schaaf</sdo:name>
       <sdo:familyName>van der Schaaf</sdo:familyName>
       <sdo:givenName>Jan</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Schaaf</pnv:literalName>
             <pnv:givenName>Jan</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Schaaf</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Leeuwarden</sdo:birthPlace>
       <pico:hasAge>30</pico:hasAge>
    </pico:PersonObservation>
@@ -3223,7 +3223,7 @@
       <sdo:name>Jan Alderts van der Schaaf</sdo:name>
       <sdo:familyName>van der Schaaf</sdo:familyName>
       <sdo:givenName>Jan</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Schaaf</pnv:literalName>
             <pnv:givenName>Jan</pnv:givenName>
@@ -3231,7 +3231,7 @@
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Schaaf</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -3244,14 +3244,14 @@
       <sdo:name>Antje Hanzes Helder</sdo:name>
       <sdo:familyName>Helder</sdo:familyName>
       <sdo:givenName>Antje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Helder</pnv:literalName>
             <pnv:givenName>Antje</pnv:givenName>
             <pnv:patronym>Hanzes</pnv:patronym>
             <pnv:baseSurname>Helder</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -3276,14 +3276,14 @@
       <sdo:name>Gerben Pieters Hanja</sdo:name>
       <sdo:familyName>Hanja</sdo:familyName>
       <sdo:givenName>Gerben</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Hanja</pnv:literalName>
             <pnv:givenName>Gerben</pnv:givenName>
             <pnv:patronym>Pieters</pnv:patronym>
             <pnv:baseSurname>Hanja</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -3296,14 +3296,14 @@
       <sdo:name>Trijntje Fokkes Rading</sdo:name>
       <sdo:familyName>Rading</sdo:familyName>
       <sdo:givenName>Trijntje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Rading</pnv:literalName>
             <pnv:givenName>Trijntje</pnv:givenName>
             <pnv:patronym>Fokkes</pnv:patronym>
             <pnv:baseSurname>Rading</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -3316,14 +3316,14 @@
       <sdo:name>Willem Fredrik van Ee</sdo:name>
       <sdo:familyName>van Ee</sdo:familyName>
       <sdo:givenName>Willem Fredrik</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Ee</pnv:literalName>
             <pnv:givenName>Willem Fredrik</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Ee</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Loosdrecht</sdo:birthPlace>
       <pico:hasAge>25</pico:hasAge>
    </pico:PersonObservation>
@@ -3336,14 +3336,14 @@
       <sdo:name>Marten van Ee</sdo:name>
       <sdo:familyName>van Ee</sdo:familyName>
       <sdo:givenName>Marten</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Ee</pnv:literalName>
             <pnv:givenName>Marten</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Ee</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -3416,14 +3416,14 @@
       <sdo:name>Levie Fetje Halberstadt</sdo:name>
       <sdo:familyName>Halberstadt</sdo:familyName>
       <sdo:givenName>Levie</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Halberstadt</pnv:literalName>
             <pnv:givenName>Levie</pnv:givenName>
             <pnv:patronym>Fetje</pnv:patronym>
             <pnv:baseSurname>Halberstadt</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -3460,14 +3460,14 @@
       <sdo:name>Elias Levie Halverstad</sdo:name>
       <sdo:familyName>Halverstad</sdo:familyName>
       <sdo:givenName>Elias</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Halverstad</pnv:literalName>
             <pnv:givenName>Elias</pnv:givenName>
             <pnv:patronym>Levie</pnv:patronym>
             <pnv:baseSurname>Halverstad</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -3480,14 +3480,14 @@
       <sdo:name>Rachel Soesman Drukker</sdo:name>
       <sdo:familyName>Drukker</sdo:familyName>
       <sdo:givenName>Rachel</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Drukker</pnv:literalName>
             <pnv:givenName>Rachel</pnv:givenName>
             <pnv:patronym>Soesman</pnv:patronym>
             <pnv:baseSurname>Drukker</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -3620,14 +3620,14 @@
       <sdo:name>Siebe Duijes Glastra</sdo:name>
       <sdo:familyName>Glastra</sdo:familyName>
       <sdo:givenName>Siebe</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Glastra</pnv:literalName>
             <pnv:givenName>Siebe</pnv:givenName>
             <pnv:patronym>Duijes</pnv:patronym>
             <pnv:baseSurname>Glastra</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -3640,14 +3640,14 @@
       <sdo:name>Aaltje Idzes Bergsma</sdo:name>
       <sdo:familyName>Bergsma</sdo:familyName>
       <sdo:givenName>Aaltje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Bergsma</pnv:literalName>
             <pnv:givenName>Aaltje</pnv:givenName>
             <pnv:patronym>Idzes</pnv:patronym>
             <pnv:baseSurname>Bergsma</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -3972,14 +3972,14 @@
       <sdo:name>Maria Johanna van der Lee</sdo:name>
       <sdo:familyName>van der Lee</sdo:familyName>
       <sdo:givenName>Maria Johanna</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Lee</pnv:literalName>
             <pnv:givenName>Maria Johanna</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Lee</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Amsterdam</sdo:birthPlace>
       <pico:hasAge>29</pico:hasAge>
    </pico:PersonObservation>
@@ -3992,14 +3992,14 @@
       <sdo:name>Cornelis van der Lee</sdo:name>
       <sdo:familyName>van der Lee</sdo:familyName>
       <sdo:givenName>Cornelis</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Lee</pnv:literalName>
             <pnv:givenName>Cornelis</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Lee</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -4084,14 +4084,14 @@
       <sdo:name>Hendrica Willemina van Nieuwcasteel</sdo:name>
       <sdo:familyName>van Nieuwcasteel</sdo:familyName>
       <sdo:givenName>Hendrica Willemina</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Nieuwcasteel</pnv:literalName>
             <pnv:givenName>Hendrica Willemina</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Nieuwcasteel</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -4176,14 +4176,14 @@
       <sdo:name>Kornelis van Wieringen</sdo:name>
       <sdo:familyName>van Wieringen</sdo:familyName>
       <sdo:givenName>Kornelis</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Wieringen</pnv:literalName>
             <pnv:givenName>Kornelis</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Wieringen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Nieuwkoop en Noorden</sdo:birthPlace>
       <pico:hasAge>60</pico:hasAge>
    </pico:PersonObservation>
@@ -4196,14 +4196,14 @@
       <sdo:name>Willem van Wieringen</sdo:name>
       <sdo:familyName>van Wieringen</sdo:familyName>
       <sdo:givenName>Willem</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Wieringen</pnv:literalName>
             <pnv:givenName>Willem</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Wieringen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -4216,14 +4216,14 @@
       <sdo:name>Klaasje van Dam</sdo:name>
       <sdo:familyName>van Dam</sdo:familyName>
       <sdo:givenName>Klaasje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Dam</pnv:literalName>
             <pnv:givenName>Klaasje</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Dam</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -4368,14 +4368,14 @@
       <sdo:name>Elizabeth Maria van Breemen</sdo:name>
       <sdo:familyName>van Breemen</sdo:familyName>
       <sdo:givenName>Elizabeth Maria</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Breemen</pnv:literalName>
             <pnv:givenName>Elizabeth Maria</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Breemen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -4472,14 +4472,14 @@
       <sdo:name>Fokke IJntes Kingma</sdo:name>
       <sdo:familyName>Kingma</sdo:familyName>
       <sdo:givenName>Fokke</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Kingma</pnv:literalName>
             <pnv:givenName>Fokke</pnv:givenName>
             <pnv:patronym>IJntes</pnv:patronym>
             <pnv:baseSurname>Kingma</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -4492,14 +4492,14 @@
       <sdo:name>Geertruida Christina van Ootmarsum</sdo:name>
       <sdo:familyName>van Ootmarsum</sdo:familyName>
       <sdo:givenName>Geertruida Christina</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Ootmarsum</pnv:literalName>
             <pnv:givenName>Geertruida Christina</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Ootmarsum</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -4548,14 +4548,14 @@
       <sdo:name>Maria Jacoba van Straalen</sdo:name>
       <sdo:familyName>van Straalen</sdo:familyName>
       <sdo:givenName>Maria Jacoba</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Straalen</pnv:literalName>
             <pnv:givenName>Maria Jacoba</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Straalen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Lekkerkerk</sdo:birthPlace>
       <pico:hasAge>23</pico:hasAge>
    </pico:PersonObservation>
@@ -4568,14 +4568,14 @@
       <sdo:name>Jacobus Henri van Straalen</sdo:name>
       <sdo:familyName>van Straalen</sdo:familyName>
       <sdo:givenName>Jacobus Henri</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Straalen</pnv:literalName>
             <pnv:givenName>Jacobus Henri</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Straalen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -4660,14 +4660,14 @@
       <sdo:name>Antje van der Linden</sdo:name>
       <sdo:familyName>van der Linden</sdo:familyName>
       <sdo:givenName>Antje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Linden</pnv:literalName>
             <pnv:givenName>Antje</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Linden</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -4704,14 +4704,14 @@
       <sdo:name>Elisabeth Wilhelmina de Jager</sdo:name>
       <sdo:familyName>de Jager</sdo:familyName>
       <sdo:givenName>Elisabeth Wilhelmina</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>de Jager</pnv:literalName>
             <pnv:givenName>Elisabeth Wilhelmina</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Jager</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -4736,14 +4736,14 @@
       <sdo:name>Pieter Pieterze Pruijs</sdo:name>
       <sdo:familyName>Pruijs</sdo:familyName>
       <sdo:givenName>Pieter</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Pruijs</pnv:literalName>
             <pnv:givenName>Pieter</pnv:givenName>
             <pnv:patronym>Pieterze</pnv:patronym>
             <pnv:baseSurname>Pruijs</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -4756,14 +4756,14 @@
       <sdo:name>Elisabeth Cornelia van Meerten</sdo:name>
       <sdo:familyName>van Meerten</sdo:familyName>
       <sdo:givenName>Elisabeth Cornelia</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Meerten</pnv:literalName>
             <pnv:givenName>Elisabeth Cornelia</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Meerten</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -5064,14 +5064,14 @@
       <sdo:name>Daniel Nicolaas van der Meer</sdo:name>
       <sdo:familyName>van der Meer</sdo:familyName>
       <sdo:givenName>Daniel Nicolaas</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Meer</pnv:literalName>
             <pnv:givenName>Daniel Nicolaas</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Meer</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Amsterdam</sdo:birthPlace>
       <pico:hasAge>36</pico:hasAge>
    </pico:PersonObservation>
@@ -5084,14 +5084,14 @@
       <sdo:name>Daniel van der Meer</sdo:name>
       <sdo:familyName>van der Meer</sdo:familyName>
       <sdo:givenName>Daniel</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Meer</pnv:literalName>
             <pnv:givenName>Daniel</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Meer</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -5248,14 +5248,14 @@
       <sdo:name>Dirkje de Milde</sdo:name>
       <sdo:familyName>de Milde</sdo:familyName>
       <sdo:givenName>Dirkje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>de Milde</pnv:literalName>
             <pnv:givenName>Dirkje</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Milde</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -5292,14 +5292,14 @@
       <sdo:name>Aaltje van See</sdo:name>
       <sdo:familyName>van See</sdo:familyName>
       <sdo:givenName>Aaltje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van See</pnv:literalName>
             <pnv:givenName>Aaltje</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>See</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -5444,14 +5444,14 @@
       <sdo:name>Maria Elisabeth van der Bogt</sdo:name>
       <sdo:familyName>van der Bogt</sdo:familyName>
       <sdo:givenName>Maria Elisabeth</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Bogt</pnv:literalName>
             <pnv:givenName>Maria Elisabeth</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Bogt</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -5464,14 +5464,14 @@
       <sdo:name>Martinus van Lier</sdo:name>
       <sdo:familyName>van Lier</sdo:familyName>
       <sdo:givenName>Martinus</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Lier</pnv:literalName>
             <pnv:givenName>Martinus</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Lier</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Utrecht</sdo:birthPlace>
       <pico:hasAge>59</pico:hasAge>
    </pico:PersonObservation>
@@ -5484,14 +5484,14 @@
       <sdo:name>David van Lier</sdo:name>
       <sdo:familyName>van Lier</sdo:familyName>
       <sdo:givenName>David</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Lier</pnv:literalName>
             <pnv:givenName>David</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Lier</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -5684,14 +5684,14 @@
       <sdo:name>Cornelia van de Wiele</sdo:name>
       <sdo:familyName>van de Wiele</sdo:familyName>
       <sdo:givenName>Cornelia</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van de Wiele</pnv:literalName>
             <pnv:givenName>Cornelia</pnv:givenName>
             <pnv:surnamePrefix>van de</pnv:surnamePrefix>
             <pnv:baseSurname>Wiele</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -6052,14 +6052,14 @@
       <sdo:name>Neeltje de Man</sdo:name>
       <sdo:familyName>de Man</sdo:familyName>
       <sdo:givenName>Neeltje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>de Man</pnv:literalName>
             <pnv:givenName>Neeltje</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Man</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -6072,14 +6072,14 @@
       <sdo:name>Emanuel van Praag</sdo:name>
       <sdo:familyName>van Praag</sdo:familyName>
       <sdo:givenName>Emanuel</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Praag</pnv:literalName>
             <pnv:givenName>Emanuel</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Praag</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Amsterdam</sdo:birthPlace>
       <pico:hasAge>20</pico:hasAge>
    </pico:PersonObservation>
@@ -6092,7 +6092,7 @@
       <sdo:name>Mozes Jacob van Praag</sdo:name>
       <sdo:familyName>van Praag</sdo:familyName>
       <sdo:givenName>Mozes</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Praag</pnv:literalName>
             <pnv:givenName>Mozes</pnv:givenName>
@@ -6100,7 +6100,7 @@
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Praag</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -6137,14 +6137,14 @@
       <sdo:name>Samuel Gerrit Appelboom</sdo:name>
       <sdo:familyName>Appelboom</sdo:familyName>
       <sdo:givenName>Samuel</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Appelboom</pnv:literalName>
             <pnv:givenName>Samuel</pnv:givenName>
             <pnv:patronym>Gerrit</pnv:patronym>
             <pnv:baseSurname>Appelboom</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -6157,14 +6157,14 @@
       <sdo:name>Sipora Salomon Dingsdag</sdo:name>
       <sdo:familyName>Dingsdag</sdo:familyName>
       <sdo:givenName>Sipora</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Dingsdag</pnv:literalName>
             <pnv:givenName>Sipora</pnv:givenName>
             <pnv:patronym>Salomon</pnv:patronym>
             <pnv:baseSurname>Dingsdag</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -6249,14 +6249,14 @@
       <sdo:name>Fredrik ten Brink</sdo:name>
       <sdo:familyName>ten Brink</sdo:familyName>
       <sdo:givenName>Fredrik</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>ten Brink</pnv:literalName>
             <pnv:givenName>Fredrik</pnv:givenName>
             <pnv:surnamePrefix>ten</pnv:surnamePrefix>
             <pnv:baseSurname>Brink</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Meppel</sdo:birthPlace>
       <pico:hasAge>24</pico:hasAge>
    </pico:PersonObservation>
@@ -6269,14 +6269,14 @@
       <sdo:name>Hendrik Jan ten Brink</sdo:name>
       <sdo:familyName>ten Brink</sdo:familyName>
       <sdo:givenName>Hendrik Jan</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>ten Brink</pnv:literalName>
             <pnv:givenName>Hendrik Jan</pnv:givenName>
             <pnv:surnamePrefix>ten</pnv:surnamePrefix>
             <pnv:baseSurname>Brink</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -6301,14 +6301,14 @@
       <sdo:name>Hijlkje van der Vaart</sdo:name>
       <sdo:familyName>van der Vaart</sdo:familyName>
       <sdo:givenName>Hijlkje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Vaart</pnv:literalName>
             <pnv:givenName>Hijlkje</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Vaart</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Leeuwarden</sdo:birthPlace>
       <pico:hasAge>18</pico:hasAge>
    </pico:PersonObservation>
@@ -6321,7 +6321,7 @@
       <sdo:name>Jochem Willems van der Vaart</sdo:name>
       <sdo:familyName>van der Vaart</sdo:familyName>
       <sdo:givenName>Jochem</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Vaart</pnv:literalName>
             <pnv:givenName>Jochem</pnv:givenName>
@@ -6329,7 +6329,7 @@
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Vaart</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -6378,14 +6378,14 @@
       <sdo:name>Elizabeth Maria van Breemen</sdo:name>
       <sdo:familyName>van Breemen</sdo:familyName>
       <sdo:givenName>Elizabeth Maria</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Breemen</pnv:literalName>
             <pnv:givenName>Elizabeth Maria</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Breemen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -6494,14 +6494,14 @@
       <sdo:name>Aaltje van Asselt</sdo:name>
       <sdo:familyName>van Asselt</sdo:familyName>
       <sdo:givenName>Aaltje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Asselt</pnv:literalName>
             <pnv:givenName>Aaltje</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Asselt</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -6646,14 +6646,14 @@
       <sdo:name>Elisabeth van Dusschoten</sdo:name>
       <sdo:familyName>van Dusschoten</sdo:familyName>
       <sdo:givenName>Elisabeth</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Dusschoten</pnv:literalName>
             <pnv:givenName>Elisabeth</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Dusschoten</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -6702,14 +6702,14 @@
       <sdo:name>Antoinetta Wilhelmina van Schooneveld</sdo:name>
       <sdo:familyName>van Schooneveld</sdo:familyName>
       <sdo:givenName>Antoinetta Wilhelmina</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Schooneveld</pnv:literalName>
             <pnv:givenName>Antoinetta Wilhelmina</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Schooneveld</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Amsterdam</sdo:birthPlace>
       <pico:hasAge>24</pico:hasAge>
    </pico:PersonObservation>
@@ -6722,14 +6722,14 @@
       <sdo:name>Gerrit van Schooneveld</sdo:name>
       <sdo:familyName>van Schooneveld</sdo:familyName>
       <sdo:givenName>Gerrit</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Schooneveld</pnv:literalName>
             <pnv:givenName>Gerrit</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Schooneveld</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -6814,14 +6814,14 @@
       <sdo:name>Cornelia ten Rouwelaar</sdo:name>
       <sdo:familyName>ten Rouwelaar</sdo:familyName>
       <sdo:givenName>Cornelia</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>ten Rouwelaar</pnv:literalName>
             <pnv:givenName>Cornelia</pnv:givenName>
             <pnv:surnamePrefix>ten</pnv:surnamePrefix>
             <pnv:baseSurname>Rouwelaar</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -6858,14 +6858,14 @@
       <sdo:name>Willemina van der Tuin</sdo:name>
       <sdo:familyName>van der Tuin</sdo:familyName>
       <sdo:givenName>Willemina</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Tuin</pnv:literalName>
             <pnv:givenName>Willemina</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Tuin</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -6974,14 +6974,14 @@
       <sdo:name>Joanna Christina van Straten</sdo:name>
       <sdo:familyName>van Straten</sdo:familyName>
       <sdo:givenName>Joanna Christina</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Straten</pnv:literalName>
             <pnv:givenName>Joanna Christina</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Straten</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -7030,14 +7030,14 @@
       <sdo:name>Clara Catharina Elisabeth van Beek</sdo:name>
       <sdo:familyName>van Beek</sdo:familyName>
       <sdo:givenName>Clara Catharina Elisabeth</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Beek</pnv:literalName>
             <pnv:givenName>Clara Catharina Elisabeth</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Beek</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>Amsterdam</sdo:birthPlace>
       <pico:hasAge>25</pico:hasAge>
    </pico:PersonObservation>
@@ -7050,14 +7050,14 @@
       <sdo:name>Jacob van Beek</sdo:name>
       <sdo:familyName>van Beek</sdo:familyName>
       <sdo:givenName>Jacob</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Beek</pnv:literalName>
             <pnv:givenName>Jacob</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Beek</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -7166,14 +7166,14 @@
       <sdo:name>Mozes Isaac Witzenhausen</sdo:name>
       <sdo:familyName>Witzenhausen</sdo:familyName>
       <sdo:givenName>Mozes</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Witzenhausen</pnv:literalName>
             <pnv:givenName>Mozes</pnv:givenName>
             <pnv:patronym>Isaac</pnv:patronym>
             <pnv:baseSurname>Witzenhausen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -7186,14 +7186,14 @@
       <sdo:name>Reintje Alexander Zegen</sdo:name>
       <sdo:familyName>Zegen</sdo:familyName>
       <sdo:givenName>Reintje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Zegen</pnv:literalName>
             <pnv:givenName>Reintje</pnv:givenName>
             <pnv:patronym>Alexander</pnv:patronym>
             <pnv:baseSurname>Zegen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -7218,14 +7218,14 @@
       <sdo:name>Jacob Samson Winnik</sdo:name>
       <sdo:familyName>Winnik</sdo:familyName>
       <sdo:givenName>Jacob</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Winnik</pnv:literalName>
             <pnv:givenName>Jacob</pnv:givenName>
             <pnv:patronym>Samson</pnv:patronym>
             <pnv:baseSurname>Winnik</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -7238,14 +7238,14 @@
       <sdo:name>Judik Alexander Zegen</sdo:name>
       <sdo:familyName>Zegen</sdo:familyName>
       <sdo:givenName>Judik</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Zegen</pnv:literalName>
             <pnv:givenName>Judik</pnv:givenName>
             <pnv:patronym>Alexander</pnv:patronym>
             <pnv:baseSurname>Zegen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -7414,14 +7414,14 @@
       <sdo:name>Maria Catrina van der Ouw</sdo:name>
       <sdo:familyName>van der Ouw</sdo:familyName>
       <sdo:givenName>Maria Catrina</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Ouw</pnv:literalName>
             <pnv:givenName>Maria Catrina</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Ouw</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -7458,14 +7458,14 @@
       <sdo:name>Hendrica van der Velde</sdo:name>
       <sdo:familyName>van der Velde</sdo:familyName>
       <sdo:givenName>Hendrica</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Velde</pnv:literalName>
             <pnv:givenName>Hendrica</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Velde</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -7478,14 +7478,14 @@
       <sdo:name>Karel van Ettekoven</sdo:name>
       <sdo:familyName>van Ettekoven</sdo:familyName>
       <sdo:givenName>Karel</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Ettekoven</pnv:literalName>
             <pnv:givenName>Karel</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Ettekoven</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace>De Bilt</sdo:birthPlace>
       <pico:hasAge>34</pico:hasAge>
    </pico:PersonObservation>
@@ -7498,14 +7498,14 @@
       <sdo:name>Jan van Ettekoven</sdo:name>
       <sdo:familyName>van Ettekoven</sdo:familyName>
       <sdo:givenName>Jan</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Ettekoven</pnv:literalName>
             <pnv:givenName>Jan</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Ettekoven</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -7518,14 +7518,14 @@
       <sdo:name>Evertje van Ettekoven</sdo:name>
       <sdo:familyName>van Ettekoven</sdo:familyName>
       <sdo:givenName>Evertje</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van Ettekoven</pnv:literalName>
             <pnv:givenName>Evertje</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Ettekoven</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -7586,14 +7586,14 @@
       <sdo:name>Françoise Joseph Duprez</sdo:name>
       <sdo:familyName>Duprez</sdo:familyName>
       <sdo:givenName>Françoise</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Duprez</pnv:literalName>
             <pnv:givenName>Françoise</pnv:givenName>
             <pnv:patronym>Joseph</pnv:patronym>
             <pnv:baseSurname>Duprez</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -8382,6 +8382,7 @@
       <bio:partner rdf:resource="https://ex.org/Person2650308339"/>
    </bio:Marriage>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307824">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 1</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8397,6 +8398,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307831">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 1v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8412,6 +8414,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307838">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 2</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8427,6 +8430,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307845">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 2v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8442,6 +8446,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307852">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 3</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8457,6 +8462,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307859">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 4</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8472,6 +8478,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308105">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 22</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8487,6 +8494,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308112">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 22v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8502,6 +8510,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308119">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 23</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8517,6 +8526,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308125">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 23v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8532,6 +8542,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308135">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 24v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8547,6 +8558,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308340">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 41</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8562,6 +8574,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308347">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 41v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8577,6 +8590,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308354">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 42</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8592,6 +8606,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308361">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 42v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8607,6 +8622,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308368">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 43</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8622,6 +8638,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308375">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 43v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8637,6 +8654,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307866">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 4v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8652,6 +8670,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307873">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 5</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8667,6 +8686,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307880">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 5v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8682,6 +8702,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307887">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 6</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8697,6 +8718,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307894">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 6v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8712,6 +8734,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307901">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 7</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8727,6 +8750,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307908">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 7v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8742,6 +8766,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307918">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 8v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8757,6 +8782,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307925">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 9</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-15</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8772,6 +8798,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307932">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 9v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8787,6 +8814,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307938">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 10</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8802,6 +8830,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308142">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 25</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8817,6 +8846,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308149">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 25v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8832,6 +8862,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308156">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 26</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8847,6 +8878,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308163">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 26v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8862,6 +8894,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308170">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 27</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8877,6 +8910,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308177">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 27v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8892,6 +8926,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308382">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 44</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8907,6 +8942,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308389">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 44v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8922,6 +8958,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308396">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 45</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8937,6 +8974,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308403">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 45v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8952,6 +8990,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308410">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 46</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8967,6 +9006,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308417">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 46v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8982,6 +9022,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307945">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 10v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -8997,6 +9038,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307952">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 11</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9012,6 +9054,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307959">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 11v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9027,6 +9070,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307966">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 12</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9042,6 +9086,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307972">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 12v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9057,6 +9102,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307979">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 13</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9072,6 +9118,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308184">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 28</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9087,6 +9134,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308191">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 28v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9102,6 +9150,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308198">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 29</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9117,6 +9166,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308205">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 29v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9132,6 +9182,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308212">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 30</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9147,6 +9198,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308219">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 30v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-008-04</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9162,6 +9214,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308424">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 47v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-28</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9177,6 +9230,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308431">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 48</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-28</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9192,6 +9246,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308438">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 48v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-28</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9207,6 +9262,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308445">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 49</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-28</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9222,6 +9278,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308452">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 49v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-28</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9237,6 +9294,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308459">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 50</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-28</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9252,6 +9310,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307986">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 13v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9267,6 +9326,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307993">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 14</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9282,6 +9342,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308000">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 14v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9297,6 +9358,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308007">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 15</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9312,6 +9374,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308014">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 15v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9327,6 +9390,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308021">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 16</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9342,6 +9406,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308226">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 30v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9357,6 +9422,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308233">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 31</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9372,6 +9438,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308240">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 31v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9387,6 +9454,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308247">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 32</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9402,6 +9470,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308254">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 32v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9417,6 +9486,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308466">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 50v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-28</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9432,6 +9502,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308028">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 16v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9447,6 +9518,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308035">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 17</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9462,6 +9534,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308042">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 17v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9477,6 +9550,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308049">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 18</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9492,6 +9566,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308056">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 18v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9507,6 +9582,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308063">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 19</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9522,6 +9598,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308264">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 33v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9537,6 +9614,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308271">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 36</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9552,6 +9630,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308278">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 36v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9567,6 +9646,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308285">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 37</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9582,6 +9662,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308292">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 37v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9597,6 +9678,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308299">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 38</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9612,6 +9694,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308070">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 19v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9627,6 +9710,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308077">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 20</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9642,6 +9726,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308084">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 20v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9657,6 +9742,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308091">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 21</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9672,6 +9758,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308098">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 21v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9687,6 +9774,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308306">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 38v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9702,6 +9790,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308313">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 39</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9717,6 +9806,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308320">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 39v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9732,6 +9822,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308326">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 40</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9747,6 +9838,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308333">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 40v</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9762,6 +9854,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308132">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 24</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9777,6 +9870,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307915">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 8</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
@@ -9792,6 +9886,7 @@
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308261">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 33</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>

@@ -6,7 +6,7 @@
 
 <https://ex.org/Person:16683087-de16-40a1-8890-10e4aa561bab> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/> ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Blaauw" ;
             pnv:givenName "Oetske" ;
             pnv:literalName "Blaauw" ;
@@ -20,7 +20,7 @@
     prov:hadPrimarySource <https://ex.org/> ;
     pico:hasAge "84 jaar" ;
     pico:hasRole "Overledene" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Werf" ;
             pnv:givenName "Pieter" ;
             pnv:literalName "van der Werf" ;
@@ -36,7 +36,7 @@
 <https://ex.org/Person:3f28fb01-c4cb-40b7-aa23-b8e2c4af03c2> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/> ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Werf" ;
             pnv:givenName "Jouke" ;
             pnv:literalName "van der Werf" ;
@@ -52,7 +52,7 @@
 <https://ex.org/Person:c02b299d-6e3e-41b4-90a7-98e642f714ef> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/> ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:givenName "Geeske" ;
             pnv:patronym "Pieters" ] ;
     sdo:children <https://ex.org/> ;
@@ -62,6 +62,7 @@
     sdo:spouse <https://ex.org/Person:3f28fb01-c4cb-40b7-aa23-b8e2c4af03c2> .
 
 <https://ex.org/> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/553> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl """
                     http://allefriezen.nl/zoeken/deeds/8f998b40-9d13-1861-62fe-feb667283688""" ;

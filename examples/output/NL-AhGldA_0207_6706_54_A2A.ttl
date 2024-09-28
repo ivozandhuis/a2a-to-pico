@@ -284,7 +284,7 @@
     prov:hadPrimarySource <https://ex.org/3046089104> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Bruin" ;
             pnv:givenName "Schoontje" ;
             pnv:literalName "de Bruin" ;
@@ -337,7 +337,7 @@
     prov:hadPrimarySource <https://ex.org/3046089120> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Gent" ;
             pnv:givenName "Gesina" ;
             pnv:literalName "van Gent" ;
@@ -354,7 +354,7 @@
     prov:hadPrimarySource <https://ex.org/3046089124> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Gils" ;
             pnv:givenName "Josina Louisa" ;
             pnv:literalName "van Gils" ;
@@ -407,7 +407,7 @@
     prov:hadPrimarySource <https://ex.org/3046089140> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Tuijl" ;
             pnv:givenName "Aaltje" ;
             pnv:literalName "van Tuijl" ;
@@ -484,7 +484,7 @@
     prov:hadPrimarySource <https://ex.org/3046089176> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Rossum" ;
             pnv:givenName "Wilhelmina Francisca Jacoba" ;
             pnv:literalName "van Rossum" ;
@@ -561,7 +561,7 @@
     prov:hadPrimarySource <https://ex.org/3046089200> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Beem" ;
             pnv:givenName "Elske" ;
             pnv:literalName "van Beem" ;
@@ -590,7 +590,7 @@
     prov:hadPrimarySource <https://ex.org/3046089208> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Spreeken" ;
             pnv:givenName "Antonette" ;
             pnv:literalName "van Spreeken" ;
@@ -607,7 +607,7 @@
     prov:hadPrimarySource <https://ex.org/3046089212> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Kamp" ;
             pnv:givenName "Willemina" ;
             pnv:literalName "van der Kamp" ;
@@ -732,7 +732,7 @@
     prov:hadPrimarySource <https://ex.org/3046089252> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Heer" ;
             pnv:givenName "Johanna Jacomina" ;
             pnv:literalName "de Heer" ;
@@ -845,7 +845,7 @@
     prov:hadPrimarySource <https://ex.org/3046089288> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Kade" ;
             pnv:givenName "Margaretha Catharina" ;
             pnv:literalName "van der Kade" ;
@@ -874,7 +874,7 @@
     prov:hadPrimarySource <https://ex.org/3046089296> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Eck" ;
             pnv:givenName "Johanna" ;
             pnv:literalName "van Eck" ;
@@ -939,7 +939,7 @@
     prov:hadPrimarySource <https://ex.org/3046089316> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Hoed" ;
             pnv:givenName "Margaretha" ;
             pnv:literalName "ten Hoed" ;
@@ -968,7 +968,7 @@
     prov:hadPrimarySource <https://ex.org/3046089324> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Weide" ;
             pnv:givenName "Catharina" ;
             pnv:literalName "van der Weide" ;
@@ -1021,7 +1021,7 @@
     prov:hadPrimarySource <https://ex.org/3046089340> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Leijden" ;
             pnv:givenName "Catharina Geertruida" ;
             pnv:literalName "van Leijden" ;
@@ -1062,7 +1062,7 @@
     prov:hadPrimarySource <https://ex.org/3046089352> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Water" ;
             pnv:givenName "Hendrika" ;
             pnv:literalName "van de Water" ;
@@ -1139,7 +1139,7 @@
     prov:hadPrimarySource <https://ex.org/3046089376> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Braam" ;
             pnv:givenName "Petronella Wilhelmina" ;
             pnv:literalName "van Braam" ;
@@ -1192,7 +1192,7 @@
     prov:hadPrimarySource <https://ex.org/3046089392> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Leeuw" ;
             pnv:givenName "Geesje Barta" ;
             pnv:literalName "de Leeuw" ;
@@ -1257,7 +1257,7 @@
     prov:hadPrimarySource <https://ex.org/3046089412> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Tongeren" ;
             pnv:givenName "Grietje" ;
             pnv:literalName "van Tongeren" ;
@@ -1286,7 +1286,7 @@
     prov:hadPrimarySource <https://ex.org/3046089420> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Kempen" ;
             pnv:givenName "Hendrina" ;
             pnv:literalName "van Kempen" ;
@@ -1315,7 +1315,7 @@
     prov:hadPrimarySource <https://ex.org/3046089428> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Jong" ;
             pnv:givenName "Anna" ;
             pnv:literalName "de Jong" ;
@@ -1368,7 +1368,7 @@
     prov:hadPrimarySource <https://ex.org/3046089444> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Boxtel" ;
             pnv:givenName "Francijn" ;
             pnv:literalName "van Boxtel" ;
@@ -1445,7 +1445,7 @@
     prov:hadPrimarySource <https://ex.org/3046089468> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Rantwijk" ;
             pnv:givenName "Pieternella" ;
             pnv:literalName "van Rantwijk" ;
@@ -1498,7 +1498,7 @@
     prov:hadPrimarySource <https://ex.org/3046089484> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Maat" ;
             pnv:givenName "Hendrika Berendina" ;
             pnv:literalName "ter Maat" ;
@@ -1599,7 +1599,7 @@
     prov:hadPrimarySource <https://ex.org/3046089516> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Wijk" ;
             pnv:givenName "Willemina" ;
             pnv:literalName "van Wijk" ;
@@ -1676,7 +1676,7 @@
     prov:hadPrimarySource <https://ex.org/3046089540> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Son" ;
             pnv:givenName "Johanna" ;
             pnv:literalName "van Son" ;
@@ -1693,7 +1693,7 @@
     prov:hadPrimarySource <https://ex.org/3046089544> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Bergh" ;
             pnv:givenName "Grada Johanna Hendrica" ;
             pnv:literalName "van den Bergh" ;
@@ -1734,7 +1734,7 @@
     prov:hadPrimarySource <https://ex.org/3046089556> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Ommeren" ;
             pnv:givenName "Hendrica Johanna" ;
             pnv:literalName "van Ommeren" ;
@@ -1859,7 +1859,7 @@
     prov:hadPrimarySource <https://ex.org/3046089596> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Ranzow" ;
             pnv:givenName "Johanna Charlotte Christine" ;
             pnv:literalName "van Ranzow" ;
@@ -1912,7 +1912,7 @@
     prov:hadPrimarySource <https://ex.org/3046089612> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Burik" ;
             pnv:givenName "Johanna Jacoba" ;
             pnv:literalName "van Burik" ;
@@ -1929,7 +1929,7 @@
     prov:hadPrimarySource <https://ex.org/3046089616> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Harlem" ;
             pnv:givenName "Johanna" ;
             pnv:literalName "van Harlem" ;
@@ -1982,7 +1982,7 @@
     prov:hadPrimarySource <https://ex.org/3046089632> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Kap" ;
             pnv:givenName "Heintje" ;
             pnv:literalName "van de Kap" ;
@@ -2071,7 +2071,7 @@
     prov:hadPrimarySource <https://ex.org/3046089660> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Ginkel" ;
             pnv:givenName "Geertruida" ;
             pnv:literalName "van Ginkel" ;
@@ -2088,7 +2088,7 @@
     prov:hadPrimarySource <https://ex.org/3046089664> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Goeij" ;
             pnv:givenName "Dirkje" ;
             pnv:literalName "de Goeij" ;
@@ -2141,7 +2141,7 @@
     prov:hadPrimarySource <https://ex.org/3046089680> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Bruijn" ;
             pnv:givenName "Gerrarda Cornelia" ;
             pnv:literalName "de Bruijn" ;
@@ -2158,7 +2158,7 @@
     prov:hadPrimarySource <https://ex.org/3046089684> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Bock" ;
             pnv:givenName "Maria" ;
             pnv:literalName "den Bock" ;
@@ -2307,7 +2307,7 @@
     prov:hadPrimarySource <https://ex.org/3046089732> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Egmond" ;
             pnv:givenName "Aleida" ;
             pnv:literalName "van Egmond" ;
@@ -2324,7 +2324,7 @@
     prov:hadPrimarySource <https://ex.org/3046089736> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Rees" ;
             pnv:givenName "Johanna Elisabeth Maria" ;
             pnv:literalName "van Rees" ;
@@ -2353,7 +2353,7 @@
     prov:hadPrimarySource <https://ex.org/3046089744> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Til" ;
             pnv:givenName "Johanna" ;
             pnv:literalName "van Til" ;
@@ -2370,7 +2370,7 @@
     prov:hadPrimarySource <https://ex.org/3046089748> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Heerewaarden" ;
             pnv:givenName "Allegonda Petronella Jacoba" ;
             pnv:literalName "van Heerewaarden" ;
@@ -2507,7 +2507,7 @@
     prov:hadPrimarySource <https://ex.org/3046089792> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Meurs" ;
             pnv:givenName "Adriana" ;
             pnv:literalName "van Meurs" ;
@@ -2536,7 +2536,7 @@
     prov:hadPrimarySource <https://ex.org/3046089800> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Linden" ;
             pnv:givenName "Derkje Aleida" ;
             pnv:literalName "van der Linden" ;
@@ -2625,7 +2625,7 @@
     prov:hadPrimarySource <https://ex.org/3046089828> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Boekhorst" ;
             pnv:givenName "Gerarda Johanna" ;
             pnv:literalName "te Boekhorst" ;
@@ -2654,7 +2654,7 @@
     prov:hadPrimarySource <https://ex.org/3046089836> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Berg" ;
             pnv:givenName "Teuntje" ;
             pnv:literalName "van den Berg" ;
@@ -2743,7 +2743,7 @@
     prov:hadPrimarySource <https://ex.org/3046089868> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Essen" ;
             pnv:givenName "Everdina" ;
             pnv:literalName "van Essen" ;
@@ -2868,7 +2868,7 @@
     prov:hadPrimarySource <https://ex.org/3046089908> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Zadelhoff" ;
             pnv:givenName "Thonia" ;
             pnv:literalName "van Zadelhoff" ;
@@ -3210,7 +3210,7 @@
     prov:hadPrimarySource <https://ex.org/3046089064> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Leeuwen" ;
             pnv:givenName "Hermina" ;
             pnv:literalName "van Leeuwen" ;
@@ -3228,7 +3228,7 @@
     prov:hadPrimarySource <https://ex.org/3046089064> ;
     pico:hasAge "36" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Leeuwen" ;
             pnv:givenName "Pieter Zijdeman" ;
             pnv:literalName "van Leeuwen" ;
@@ -3395,7 +3395,7 @@
     prov:hadPrimarySource <https://ex.org/3046089092> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Heumen" ;
             pnv:givenName "Johanna" ;
             pnv:literalName "van Heumen" ;
@@ -3413,7 +3413,7 @@
     prov:hadPrimarySource <https://ex.org/3046089092> ;
     pico:hasAge "37" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Heumen" ;
             pnv:givenName "Derk" ;
             pnv:literalName "van Heumen" ;
@@ -3805,7 +3805,7 @@
     prov:hadPrimarySource <https://ex.org/3046089168> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Wiel" ;
             pnv:givenName "Willem" ;
             pnv:literalName "van der Wiel" ;
@@ -3823,7 +3823,7 @@
     prov:hadPrimarySource <https://ex.org/3046089168> ;
     pico:hasAge "31" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Wiel" ;
             pnv:givenName "Willem" ;
             pnv:literalName "van der Wiel" ;
@@ -3915,7 +3915,7 @@
     prov:hadPrimarySource <https://ex.org/3046089184> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Baaren" ;
             pnv:givenName "Jan Johannes" ;
             pnv:literalName "van Baaren" ;
@@ -3933,7 +3933,7 @@
     prov:hadPrimarySource <https://ex.org/3046089184> ;
     pico:hasAge "32" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Baaren" ;
             pnv:givenName "Adrianus" ;
             pnv:literalName "van Baaren" ;
@@ -4550,7 +4550,7 @@
     prov:hadPrimarySource <https://ex.org/3046089284> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Vlaming" ;
             pnv:givenName "Jannetje" ;
             pnv:literalName "de Vlaming" ;
@@ -4568,7 +4568,7 @@
     prov:hadPrimarySource <https://ex.org/3046089284> ;
     pico:hasAge "33" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Vlaming" ;
             pnv:givenName "Jacob" ;
             pnv:literalName "de Vlaming" ;
@@ -4610,7 +4610,7 @@
     prov:hadPrimarySource <https://ex.org/3046089292> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Heek" ;
             pnv:givenName "Theresia Jacoba Theodora" ;
             pnv:literalName "van Heek" ;
@@ -4628,7 +4628,7 @@
     prov:hadPrimarySource <https://ex.org/3046089292> ;
     pico:hasAge "40" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Heek" ;
             pnv:givenName "Bernard Jacob" ;
             pnv:literalName "van Heek" ;
@@ -4695,7 +4695,7 @@
     prov:hadPrimarySource <https://ex.org/3046089304> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Loon" ;
             pnv:givenName "Jacobus Petrus" ;
             pnv:literalName "van Loon" ;
@@ -4713,7 +4713,7 @@
     prov:hadPrimarySource <https://ex.org/3046089304> ;
     pico:hasAge "24" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Loon" ;
             pnv:givenName "Hendrik" ;
             pnv:literalName "van Loon" ;
@@ -4830,7 +4830,7 @@
     prov:hadPrimarySource <https://ex.org/3046089324> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Weide" ;
             pnv:givenName "Catharina" ;
             pnv:literalName "van der Weide" ;
@@ -4960,7 +4960,7 @@
     prov:hadPrimarySource <https://ex.org/3046089344> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Winkel" ;
             pnv:givenName "Gerrit Jan" ;
             pnv:literalName "te Winkel" ;
@@ -4978,7 +4978,7 @@
     prov:hadPrimarySource <https://ex.org/3046089344> ;
     pico:hasAge "29" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Winkel" ;
             pnv:givenName "Karel" ;
             pnv:literalName "te Winkel" ;
@@ -5220,7 +5220,7 @@
     prov:hadPrimarySource <https://ex.org/3046089384> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Zadelhoff" ;
             pnv:givenName "Jacob Wilhelmus" ;
             pnv:literalName "van Zadelhoff" ;
@@ -5238,7 +5238,7 @@
     prov:hadPrimarySource <https://ex.org/3046089384> ;
     pico:hasAge "42" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Zadelhoff" ;
             pnv:givenName "Willems" ;
             pnv:literalName "van Zadelhoff" ;
@@ -5256,7 +5256,7 @@
     prov:hadPrimarySource <https://ex.org/3046089388> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Kempenaer" ;
             pnv:givenName "Jacob Matthaeus" ;
             pnv:literalName "de Kempenaer" ;
@@ -5274,7 +5274,7 @@
     prov:hadPrimarySource <https://ex.org/3046089388> ;
     pico:hasAge "32" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Kempenaer" ;
             pnv:givenName "Jacob Ursel" ;
             pnv:literalName "de Kempenaer" ;
@@ -5291,7 +5291,7 @@
     prov:hadPrimarySource <https://ex.org/3046089392> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Leeuw" ;
             pnv:givenName "Johanna" ;
             pnv:literalName "de Leeuw" ;
@@ -5321,7 +5321,7 @@
     prov:hadPrimarySource <https://ex.org/3046089396> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Heijden" ;
             pnv:givenName "Anna Poulina" ;
             pnv:literalName "van der Heijden" ;
@@ -5339,7 +5339,7 @@
     prov:hadPrimarySource <https://ex.org/3046089396> ;
     pico:hasAge "32" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Heijden" ;
             pnv:givenName "Cornelis" ;
             pnv:literalName "van der Heijden" ;
@@ -5456,7 +5456,7 @@
     prov:hadPrimarySource <https://ex.org/3046089416> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Betuw" ;
             pnv:givenName "Geertrui" ;
             pnv:literalName "van Betuw" ;
@@ -5474,7 +5474,7 @@
     prov:hadPrimarySource <https://ex.org/3046089416> ;
     pico:hasAge "67" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Betuw" ;
             pnv:givenName "Christianus Henricus" ;
             pnv:literalName "van Betuw" ;
@@ -5554,7 +5554,7 @@
     prov:hadPrimarySource <https://ex.org/3046089428> ;
     pico:hasAge "36" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Leendertz" ;
             pnv:givenName "Pieter" ;
             pnv:literalName "Leendertz" ;
@@ -5646,7 +5646,7 @@
     prov:hadPrimarySource <https://ex.org/3046089444> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Vries" ;
             pnv:givenName "Jacobus" ;
             pnv:literalName "de Vries" ;
@@ -5664,7 +5664,7 @@
     prov:hadPrimarySource <https://ex.org/3046089444> ;
     pico:hasAge "33" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Vries" ;
             pnv:givenName "Joannes" ;
             pnv:literalName "de Vries" ;
@@ -5931,7 +5931,7 @@
     prov:hadPrimarySource <https://ex.org/3046089488> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Randwijk" ;
             pnv:givenName "Johannes" ;
             pnv:literalName "van Randwijk" ;
@@ -5949,7 +5949,7 @@
     prov:hadPrimarySource <https://ex.org/3046089488> ;
     pico:hasAge "30" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Randwijk" ;
             pnv:givenName "Huibert" ;
             pnv:literalName "van Randwijk" ;
@@ -6041,7 +6041,7 @@
     prov:hadPrimarySource <https://ex.org/3046089504> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Bensel" ;
             pnv:givenName "Francisca Petronella" ;
             pnv:literalName "ten Bensel" ;
@@ -6059,7 +6059,7 @@
     prov:hadPrimarySource <https://ex.org/3046089504> ;
     pico:hasAge "53" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Bensel" ;
             pnv:givenName "Johannes Jacobus" ;
             pnv:literalName "ten Bensel" ;
@@ -6201,7 +6201,7 @@
     prov:hadPrimarySource <https://ex.org/3046089528> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Toorn" ;
             pnv:givenName "Wesselius Casparus" ;
             pnv:literalName "van den Toorn" ;
@@ -6219,7 +6219,7 @@
     prov:hadPrimarySource <https://ex.org/3046089528> ;
     pico:hasAge "34" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Toorn" ;
             pnv:givenName "Adrianus" ;
             pnv:literalName "van den Toorn" ;
@@ -6286,7 +6286,7 @@
     prov:hadPrimarySource <https://ex.org/3046089540> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Meulen" ;
             pnv:givenName "Anthonius Benedictus Joannes" ;
             pnv:literalName "van der Meulen" ;
@@ -6304,7 +6304,7 @@
     prov:hadPrimarySource <https://ex.org/3046089540> ;
     pico:hasAge "33" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Meulen" ;
             pnv:givenName "Joannes Franciscus Hubertus" ;
             pnv:literalName "van der Meulen" ;
@@ -6371,7 +6371,7 @@
     prov:hadPrimarySource <https://ex.org/3046089552> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Eimeren" ;
             pnv:givenName "Cornelis Antonius" ;
             pnv:literalName "van Eimeren" ;
@@ -6389,7 +6389,7 @@
     prov:hadPrimarySource <https://ex.org/3046089552> ;
     pico:hasAge "41" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Eimeren" ;
             pnv:givenName "Rein" ;
             pnv:literalName "van Eimeren" ;
@@ -6406,7 +6406,7 @@
     prov:hadPrimarySource <https://ex.org/3046089556> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Hart" ;
             pnv:givenName "Hendrica Johanna" ;
             pnv:literalName "van der Hart" ;
@@ -6424,7 +6424,7 @@
     prov:hadPrimarySource <https://ex.org/3046089556> ;
     pico:hasAge "45" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Hart" ;
             pnv:givenName "Evert" ;
             pnv:literalName "van der Hart" ;
@@ -6441,7 +6441,7 @@
     prov:hadPrimarySource <https://ex.org/3046089560> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Greef" ;
             pnv:givenName "Hendrikus" ;
             pnv:literalName "de Greef" ;
@@ -6459,7 +6459,7 @@
     prov:hadPrimarySource <https://ex.org/3046089560> ;
     pico:hasAge "42" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Greef" ;
             pnv:givenName "Franciskus" ;
             pnv:literalName "de Greef" ;
@@ -6601,7 +6601,7 @@
     prov:hadPrimarySource <https://ex.org/3046089584> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Beugen" ;
             pnv:givenName "Theresia Maria" ;
             pnv:literalName "van Beugen" ;
@@ -6619,7 +6619,7 @@
     prov:hadPrimarySource <https://ex.org/3046089584> ;
     pico:hasAge "30" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Beugen" ;
             pnv:givenName "Johannes Machiel" ;
             pnv:literalName "van Beugen" ;
@@ -6811,7 +6811,7 @@
     prov:hadPrimarySource <https://ex.org/3046089616> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Koppenhagen" ;
             pnv:givenName "Frederik" ;
             pnv:literalName "van Koppenhagen" ;
@@ -6829,7 +6829,7 @@
     prov:hadPrimarySource <https://ex.org/3046089616> ;
     pico:hasAge "38" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Koppenhagen" ;
             pnv:givenName "Herbert" ;
             pnv:literalName "van Koppenhagen" ;
@@ -7071,7 +7071,7 @@
     prov:hadPrimarySource <https://ex.org/3046089656> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Reeken" ;
             pnv:givenName "Ludovikus Jacobus" ;
             pnv:literalName "van Reeken" ;
@@ -7089,7 +7089,7 @@
     prov:hadPrimarySource <https://ex.org/3046089656> ;
     pico:hasAge "32" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Reeken" ;
             pnv:givenName "Peter" ;
             pnv:literalName "van Reeken" ;
@@ -7156,7 +7156,7 @@
     prov:hadPrimarySource <https://ex.org/3046089668> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Braak" ;
             pnv:givenName "Catharina Clasina Maria" ;
             pnv:literalName "van den Braak" ;
@@ -7174,7 +7174,7 @@
     prov:hadPrimarySource <https://ex.org/3046089668> ;
     pico:hasAge "29" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Braak" ;
             pnv:givenName "Leonardus Raphael" ;
             pnv:literalName "van den Braak" ;
@@ -7241,7 +7241,7 @@
     prov:hadPrimarySource <https://ex.org/3046089680> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Eck" ;
             pnv:givenName "Gerard" ;
             pnv:literalName "van Eck" ;
@@ -7259,7 +7259,7 @@
     prov:hadPrimarySource <https://ex.org/3046089680> ;
     pico:hasAge "28" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Eck" ;
             pnv:givenName "François Willem Lambert" ;
             pnv:literalName "van Eck" ;
@@ -7301,7 +7301,7 @@
     prov:hadPrimarySource <https://ex.org/3046089688> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Gorkum" ;
             pnv:givenName "Albert Peter" ;
             pnv:literalName "van Gorkum" ;
@@ -7319,7 +7319,7 @@
     prov:hadPrimarySource <https://ex.org/3046089688> ;
     pico:hasAge "" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Gorkum" ;
             pnv:givenName "François" ;
             pnv:literalName "van Gorkum" ;
@@ -7386,7 +7386,7 @@
     prov:hadPrimarySource <https://ex.org/3046089700> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Beer" ;
             pnv:givenName "Theodorus Loardus" ;
             pnv:literalName "de Beer" ;
@@ -7404,7 +7404,7 @@
     prov:hadPrimarySource <https://ex.org/3046089700> ;
     pico:hasAge "43" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Beer" ;
             pnv:givenName "Heiko" ;
             pnv:literalName "de Beer" ;
@@ -7446,7 +7446,7 @@
     prov:hadPrimarySource <https://ex.org/3046089708> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Herpen" ;
             pnv:givenName "Gerardiena Theodora" ;
             pnv:literalName "van Herpen" ;
@@ -7464,7 +7464,7 @@
     prov:hadPrimarySource <https://ex.org/3046089708> ;
     pico:hasAge "43" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Herpen" ;
             pnv:givenName "Rudolf" ;
             pnv:literalName "van Herpen" ;
@@ -7656,7 +7656,7 @@
     prov:hadPrimarySource <https://ex.org/3046089740> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Poll" ;
             pnv:givenName "Hendrik Gradus Gabriel" ;
             pnv:literalName "van der Poll" ;
@@ -7674,7 +7674,7 @@
     prov:hadPrimarySource <https://ex.org/3046089740> ;
     pico:hasAge "28" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Poll" ;
             pnv:givenName "Hendrik Gradus Gabriel" ;
             pnv:literalName "van der Poll" ;
@@ -7841,7 +7841,7 @@
     prov:hadPrimarySource <https://ex.org/3046089768> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Leiden" ;
             pnv:givenName "Marinus" ;
             pnv:literalName "van Leiden" ;
@@ -7859,7 +7859,7 @@
     prov:hadPrimarySource <https://ex.org/3046089768> ;
     pico:hasAge "38" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Leiden" ;
             pnv:givenName "Gerrit" ;
             pnv:literalName "van Leiden" ;
@@ -8051,7 +8051,7 @@
     prov:hadPrimarySource <https://ex.org/3046089800> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Heuven" ;
             pnv:givenName "Derk" ;
             pnv:literalName "van Heuven" ;
@@ -8069,7 +8069,7 @@
     prov:hadPrimarySource <https://ex.org/3046089800> ;
     pico:hasAge "35" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Heuven" ;
             pnv:givenName "Johan Karel" ;
             pnv:literalName "van Heuven" ;
@@ -8186,7 +8186,7 @@
     prov:hadPrimarySource <https://ex.org/3046089820> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Kuijk" ;
             pnv:givenName "Jantje Maria Anna Gardina" ;
             pnv:literalName "van Kuijk" ;
@@ -8716,7 +8716,7 @@
     prov:hadPrimarySource <https://ex.org/3046089908> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Cate" ;
             pnv:givenName "Thonia" ;
             pnv:literalName "ten Cate" ;
@@ -8734,7 +8734,7 @@
     prov:hadPrimarySource <https://ex.org/3046089908> ;
     pico:hasAge "49" ;
     pico:hasRole "Vader" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Cate" ;
             pnv:givenName "Roelof" ;
             pnv:literalName "ten Cate" ;
@@ -8748,6 +8748,7 @@
     sdo:spouse <https://ex.org/Person3046089911> .
 
 <https://ex.org/3046089012> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-04"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8755,6 +8756,7 @@
     sdo:url "https://permalink.geldersarchief.nl/C1354FDD29A74E008915EBCF3C11F820" .
 
 <https://ex.org/3046089016> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-04"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8762,6 +8764,7 @@
     sdo:url "https://permalink.geldersarchief.nl/B791D0EC35F9476D81E31A11DF9A3AF7" .
 
 <https://ex.org/3046089020> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-04"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8769,6 +8772,7 @@
     sdo:url "https://permalink.geldersarchief.nl/65BFFE6445774547BC320FE29CB2718A" .
 
 <https://ex.org/3046089024> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-04"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8776,6 +8780,7 @@
     sdo:url "https://permalink.geldersarchief.nl/D09B7500BBEF425EABB3F8DC2909BC35" .
 
 <https://ex.org/3046089028> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-04"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8783,6 +8788,7 @@
     sdo:url "https://permalink.geldersarchief.nl/CDA152314AE940B8AFEE423F15C374C2" .
 
 <https://ex.org/3046089032> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-04"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8790,6 +8796,7 @@
     sdo:url "https://permalink.geldersarchief.nl/AF1F7970BFFF4FB8AC85E1BE3245BA36" .
 
 <https://ex.org/3046089036> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-04"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8797,6 +8804,7 @@
     sdo:url "https://permalink.geldersarchief.nl/9DB31C0A51EB4F45BD8C9534E5877589" .
 
 <https://ex.org/3046089040> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-04"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8804,6 +8812,7 @@
     sdo:url "https://permalink.geldersarchief.nl/25514FBA980641F594B7CB07150833A9" .
 
 <https://ex.org/3046089044> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-04"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8811,6 +8820,7 @@
     sdo:url "https://permalink.geldersarchief.nl/12553B34DF4D4CE897009E3A823C26DA" .
 
 <https://ex.org/3046089048> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-04"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8818,6 +8828,7 @@
     sdo:url "https://permalink.geldersarchief.nl/7546A741F6A143E3822D6A0C0C5DC4B7" .
 
 <https://ex.org/3046089052> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-04"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8825,6 +8836,7 @@
     sdo:url "https://permalink.geldersarchief.nl/9A64C48E837D447B813F580B17F43D1E" .
 
 <https://ex.org/3046089056> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-04"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8832,6 +8844,7 @@
     sdo:url "https://permalink.geldersarchief.nl/6C18C6748120454A943148C3389C9CE6" .
 
 <https://ex.org/3046089060> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-04"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8839,6 +8852,7 @@
     sdo:url "https://permalink.geldersarchief.nl/A5D3478F00534963B0E23D5B786ED6B5" .
 
 <https://ex.org/3046089064> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8846,6 +8860,7 @@
     sdo:url "https://permalink.geldersarchief.nl/642FEAE6C81B4C83A3F4B7D33632EA2C" .
 
 <https://ex.org/3046089068> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8853,6 +8868,7 @@
     sdo:url "https://permalink.geldersarchief.nl/5EF69191B20A4D99B5B72FBFE7C2B694" .
 
 <https://ex.org/3046089072> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8860,6 +8876,7 @@
     sdo:url "https://permalink.geldersarchief.nl/ADCA55D009C94F308EBB4360834C0ACE" .
 
 <https://ex.org/3046089076> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8867,6 +8884,7 @@
     sdo:url "https://permalink.geldersarchief.nl/821C2461980B4ECEAAA574CB7E34FB10" .
 
 <https://ex.org/3046089080> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8874,6 +8892,7 @@
     sdo:url "https://permalink.geldersarchief.nl/90B0E2036AE3446B9193C0D368F9B051" .
 
 <https://ex.org/3046089084> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8881,6 +8900,7 @@
     sdo:url "https://permalink.geldersarchief.nl/CEA07318E1A74E15BADBDE0B26910DF3" .
 
 <https://ex.org/3046089088> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8888,6 +8908,7 @@
     sdo:url "https://permalink.geldersarchief.nl/18EF40306D6D4631ADE7A1DC852A2A7C" .
 
 <https://ex.org/3046089092> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8895,6 +8916,7 @@
     sdo:url "https://permalink.geldersarchief.nl/CE644EF6CC114131BD053CE072A3FBB1" .
 
 <https://ex.org/3046089096> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8902,6 +8924,7 @@
     sdo:url "https://permalink.geldersarchief.nl/9637EDBB2C1B46D68A0302B22A54F747" .
 
 <https://ex.org/3046089100> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8909,6 +8932,7 @@
     sdo:url "https://permalink.geldersarchief.nl/4FC6505DFA974B09B58B5FDA5913EDF6" .
 
 <https://ex.org/3046089104> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8916,6 +8940,7 @@
     sdo:url "https://permalink.geldersarchief.nl/FA3FB34FA3DD40C6A29A112E20F01D79" .
 
 <https://ex.org/3046089108> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8923,6 +8948,7 @@
     sdo:url "https://permalink.geldersarchief.nl/9DF68D1D2F7E46C680C8EA05179ACFC4" .
 
 <https://ex.org/3046089112> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8930,6 +8956,7 @@
     sdo:url "https://permalink.geldersarchief.nl/FFE6C48880914F458FCA0B3963B0226E" .
 
 <https://ex.org/3046089116> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8937,6 +8964,7 @@
     sdo:url "https://permalink.geldersarchief.nl/98021E670F004D78B72152A98AD33327" .
 
 <https://ex.org/3046089120> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8944,6 +8972,7 @@
     sdo:url "https://permalink.geldersarchief.nl/2313C1011DC546C2BF3211111A167131" .
 
 <https://ex.org/3046089124> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8951,6 +8980,7 @@
     sdo:url "https://permalink.geldersarchief.nl/5B71ADD6415646049FBBDCB21DBB63FD" .
 
 <https://ex.org/3046089128> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8958,6 +8988,7 @@
     sdo:url "https://permalink.geldersarchief.nl/3BBA45CAD95E4883B9DF14F6F73E30E5" .
 
 <https://ex.org/3046089132> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8965,6 +8996,7 @@
     sdo:url "https://permalink.geldersarchief.nl/9F1C6EB87F4048C499AA2C23F19825C1" .
 
 <https://ex.org/3046089136> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8972,6 +9004,7 @@
     sdo:url "https://permalink.geldersarchief.nl/5F46ACC9A022489BA2D4D1D079E926D2" .
 
 <https://ex.org/3046089140> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8979,6 +9012,7 @@
     sdo:url "https://permalink.geldersarchief.nl/B98DF7E4FDE24E6D8CE7EC583940BF97" .
 
 <https://ex.org/3046089156> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8986,6 +9020,7 @@
     sdo:url "https://permalink.geldersarchief.nl/090B3B4A38414028BD677EE2E88C1AD1" .
 
 <https://ex.org/3046089160> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -8993,6 +9028,7 @@
     sdo:url "https://permalink.geldersarchief.nl/B5857A16FA7C41BDB74347DED8C652FB" .
 
 <https://ex.org/3046089164> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9000,6 +9036,7 @@
     sdo:url "https://permalink.geldersarchief.nl/81DB10E8EDDA4E57B532B337F1B3F682" .
 
 <https://ex.org/3046089168> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9007,6 +9044,7 @@
     sdo:url "https://permalink.geldersarchief.nl/69006EAB9454479796E52373475AFB7B" .
 
 <https://ex.org/3046089172> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9014,6 +9052,7 @@
     sdo:url "https://permalink.geldersarchief.nl/495613EF694544A09AD93858BAAC2EA2" .
 
 <https://ex.org/3046089176> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9021,6 +9060,7 @@
     sdo:url "https://permalink.geldersarchief.nl/98876D4F208E49139F9A2234A10CBE20" .
 
 <https://ex.org/3046089180> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9028,6 +9068,7 @@
     sdo:url "https://permalink.geldersarchief.nl/C216F5CC513A4444B544762DAACB3428" .
 
 <https://ex.org/3046089184> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9035,6 +9076,7 @@
     sdo:url "https://permalink.geldersarchief.nl/DE90BDE2FEC34AD495C0A523AA7D7775" .
 
 <https://ex.org/3046089188> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9042,6 +9084,7 @@
     sdo:url "https://permalink.geldersarchief.nl/00DA5D880B1F4798BB9DD06906A525FD" .
 
 <https://ex.org/3046089192> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9049,6 +9092,7 @@
     sdo:url "https://permalink.geldersarchief.nl/B66C8F3FCBF8463DA0CAC0155EE55C45" .
 
 <https://ex.org/3046089196> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9056,6 +9100,7 @@
     sdo:url "https://permalink.geldersarchief.nl/22CD671665AE4712ACC6F4A1178C19A5" .
 
 <https://ex.org/3046089200> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9063,6 +9108,7 @@
     sdo:url "https://permalink.geldersarchief.nl/38E701F9A71C4AE6BBCEC028474D604D" .
 
 <https://ex.org/3046089204> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9070,6 +9116,7 @@
     sdo:url "https://permalink.geldersarchief.nl/E012A263485F411AB2CF53130C664E9F" .
 
 <https://ex.org/3046089208> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9077,6 +9124,7 @@
     sdo:url "https://permalink.geldersarchief.nl/A46FB0C50BAC4105A5667B0A26B348FA" .
 
 <https://ex.org/3046089212> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9084,6 +9132,7 @@
     sdo:url "https://permalink.geldersarchief.nl/9BC2B16E0B554C5AA032958BA3DFCAF9" .
 
 <https://ex.org/3046089216> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9091,6 +9140,7 @@
     sdo:url "https://permalink.geldersarchief.nl/62DB4C10BABC4552800AD8BA9E3757AA" .
 
 <https://ex.org/3046089220> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9098,6 +9148,7 @@
     sdo:url "https://permalink.geldersarchief.nl/48214E5DBFDF4C42AF13F5BFC13476C3" .
 
 <https://ex.org/3046089224> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9105,6 +9156,7 @@
     sdo:url "https://permalink.geldersarchief.nl/4F008CD3A3724466A88DE251D685FAC2" .
 
 <https://ex.org/3046089228> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9112,6 +9164,7 @@
     sdo:url "https://permalink.geldersarchief.nl/BE33F9AEA79B4B2FBE80829724C9E898" .
 
 <https://ex.org/3046089232> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9119,6 +9172,7 @@
     sdo:url "https://permalink.geldersarchief.nl/1BCCF68B41264ADD8427FA78C2E64557" .
 
 <https://ex.org/3046089236> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9126,6 +9180,7 @@
     sdo:url "https://permalink.geldersarchief.nl/D7F130E0A6924EF592BF1685DED69DDD" .
 
 <https://ex.org/3046089240> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9133,6 +9188,7 @@
     sdo:url "https://permalink.geldersarchief.nl/0375BF10EF42424E923729C8366937E8" .
 
 <https://ex.org/3046089244> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9140,6 +9196,7 @@
     sdo:url "https://permalink.geldersarchief.nl/D0C52115E6204FFB8A68A768015151C1" .
 
 <https://ex.org/3046089248> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9147,6 +9204,7 @@
     sdo:url "https://permalink.geldersarchief.nl/57DACEEB80614B35BB59D7A8499FA8CA" .
 
 <https://ex.org/3046089252> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9154,6 +9212,7 @@
     sdo:url "https://permalink.geldersarchief.nl/8D7235F9EE074389A98D7D66446D8D0A" .
 
 <https://ex.org/3046089256> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9161,6 +9220,7 @@
     sdo:url "https://permalink.geldersarchief.nl/70B70D18960B40EBBC4DD0C1DE2CC8D1" .
 
 <https://ex.org/3046089260> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9168,6 +9228,7 @@
     sdo:url "https://permalink.geldersarchief.nl/6D63D794A1064199BCB53356F4C89421" .
 
 <https://ex.org/3046089264> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9175,6 +9236,7 @@
     sdo:url "https://permalink.geldersarchief.nl/04D506F2C6FE4B4EB71646A5F07CBEFD" .
 
 <https://ex.org/3046089268> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9182,6 +9244,7 @@
     sdo:url "https://permalink.geldersarchief.nl/6824EE3CC32D4ED6B2B8C036E92CAEB0" .
 
 <https://ex.org/3046089272> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9189,6 +9252,7 @@
     sdo:url "https://permalink.geldersarchief.nl/3A9FB6BFB69B46FBA6999F1312DE973B" .
 
 <https://ex.org/3046089276> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9196,6 +9260,7 @@
     sdo:url "https://permalink.geldersarchief.nl/9796999B3DE34DFDB939A25FBB67DFCE" .
 
 <https://ex.org/3046089280> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9203,6 +9268,7 @@
     sdo:url "https://permalink.geldersarchief.nl/0EF7F334357B4796A3A4B1284570D4C5" .
 
 <https://ex.org/3046089284> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9210,6 +9276,7 @@
     sdo:url "https://permalink.geldersarchief.nl/3DF7C7F43BAA4BB382802E4A8E047BD2" .
 
 <https://ex.org/3046089288> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9217,6 +9284,7 @@
     sdo:url "https://permalink.geldersarchief.nl/C51E5C3E8B24462880565FDE5267CDFB" .
 
 <https://ex.org/3046089292> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9224,6 +9292,7 @@
     sdo:url "https://permalink.geldersarchief.nl/A691043772FA45DC8A6A2ACA1BD1A517" .
 
 <https://ex.org/3046089296> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9231,6 +9300,7 @@
     sdo:url "https://permalink.geldersarchief.nl/4FED4DA35AB94252AFF4967FAD7866E3" .
 
 <https://ex.org/3046089300> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9238,6 +9308,7 @@
     sdo:url "https://permalink.geldersarchief.nl/A1319CC4072B4A2DB20B82D2025AE0E4" .
 
 <https://ex.org/3046089304> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9245,6 +9316,7 @@
     sdo:url "https://permalink.geldersarchief.nl/1E0C18FCB0E84436BE9558F7616F51F9" .
 
 <https://ex.org/3046089308> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9252,6 +9324,7 @@
     sdo:url "https://permalink.geldersarchief.nl/09FA41711A9D4FB4B3F1A505BADE379F" .
 
 <https://ex.org/3046089312> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9259,6 +9332,7 @@
     sdo:url "https://permalink.geldersarchief.nl/9DFB23F67F6548B18B83EC32727A9C89" .
 
 <https://ex.org/3046089316> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9266,6 +9340,7 @@
     sdo:url "https://permalink.geldersarchief.nl/4C692E06AF994EA2ADB17E3231232046" .
 
 <https://ex.org/3046089320> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9273,6 +9348,7 @@
     sdo:url "https://permalink.geldersarchief.nl/D9182542E13A463A8490386BD6FBA030" .
 
 <https://ex.org/3046089324> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9280,6 +9356,7 @@
     sdo:url "https://permalink.geldersarchief.nl/FCFB4E9F0C0C4023B08AE503B67B02A4" .
 
 <https://ex.org/3046089328> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9287,6 +9364,7 @@
     sdo:url "https://permalink.geldersarchief.nl/CC482F8AD9CA4C3D867B3A86E9070F78" .
 
 <https://ex.org/3046089332> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9294,6 +9372,7 @@
     sdo:url "https://permalink.geldersarchief.nl/7F6276CBE1094F88A823455CC219EDB9" .
 
 <https://ex.org/3046089336> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9301,6 +9380,7 @@
     sdo:url "https://permalink.geldersarchief.nl/ED0581948C834404ADC1363D1E751D84" .
 
 <https://ex.org/3046089340> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9308,6 +9388,7 @@
     sdo:url "https://permalink.geldersarchief.nl/0F2EA7A6352741FD88B826FCCFD0ED21" .
 
 <https://ex.org/3046089344> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9315,6 +9396,7 @@
     sdo:url "https://permalink.geldersarchief.nl/04FF908A0D9B495881D1E68F88F0C11D" .
 
 <https://ex.org/3046089348> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9322,6 +9404,7 @@
     sdo:url "https://permalink.geldersarchief.nl/8D0550C1C00D463FA4F851F409442FA7" .
 
 <https://ex.org/3046089352> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9329,6 +9412,7 @@
     sdo:url "https://permalink.geldersarchief.nl/BA61BB65B30A4F8CB3B90F31B9DE59FD" .
 
 <https://ex.org/3046089356> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-05"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9336,6 +9420,7 @@
     sdo:url "https://permalink.geldersarchief.nl/CA997C8BB28A4C7D87FAC4D3CC862866" .
 
 <https://ex.org/3046089360> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9343,6 +9428,7 @@
     sdo:url "https://permalink.geldersarchief.nl/274551881C1540F8A72698D1A3042088" .
 
 <https://ex.org/3046089364> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9350,6 +9436,7 @@
     sdo:url "https://permalink.geldersarchief.nl/EC4E63754E564FA98AEF51574F382FC8" .
 
 <https://ex.org/3046089368> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9357,6 +9444,7 @@
     sdo:url "https://permalink.geldersarchief.nl/C79A0A71FDA946BB9EA865FEAC17518E" .
 
 <https://ex.org/3046089372> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9364,6 +9452,7 @@
     sdo:url "https://permalink.geldersarchief.nl/2EA70C89D9BC4EDF8BC731F668C48095" .
 
 <https://ex.org/3046089376> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9371,6 +9460,7 @@
     sdo:url "https://permalink.geldersarchief.nl/02A0EF0959B04FD786411F3B99F8A7CB" .
 
 <https://ex.org/3046089380> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9378,6 +9468,7 @@
     sdo:url "https://permalink.geldersarchief.nl/42F6C8F8AC8C4C938350BA2240D23EAA" .
 
 <https://ex.org/3046089384> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9385,6 +9476,7 @@
     sdo:url "https://permalink.geldersarchief.nl/EE699BACF8DD4D818804991C24DADEE7" .
 
 <https://ex.org/3046089388> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9392,6 +9484,7 @@
     sdo:url "https://permalink.geldersarchief.nl/4C57E4F524424A82B52DAEA5C08EE751" .
 
 <https://ex.org/3046089392> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9399,6 +9492,7 @@
     sdo:url "https://permalink.geldersarchief.nl/5E2598B4B4C9468F98E60F84F3745FB7" .
 
 <https://ex.org/3046089396> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9406,6 +9500,7 @@
     sdo:url "https://permalink.geldersarchief.nl/C287AF3C384D4C94B02364F5E0D8CD8F" .
 
 <https://ex.org/3046089400> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9413,6 +9508,7 @@
     sdo:url "https://permalink.geldersarchief.nl/00C9FF70D6B64A0DBB171DF542A73AEF" .
 
 <https://ex.org/3046089404> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9420,6 +9516,7 @@
     sdo:url "https://permalink.geldersarchief.nl/60511210025C4CC5B48E423BD2367DE8" .
 
 <https://ex.org/3046089408> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9427,6 +9524,7 @@
     sdo:url "https://permalink.geldersarchief.nl/EF48094F12C44791A844F3A95FF7837E" .
 
 <https://ex.org/3046089412> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9434,6 +9532,7 @@
     sdo:url "https://permalink.geldersarchief.nl/1D4C968A2D3444018D1629DB3F0BF19F" .
 
 <https://ex.org/3046089416> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9441,6 +9540,7 @@
     sdo:url "https://permalink.geldersarchief.nl/228A92656E23400686652448CFEA125D" .
 
 <https://ex.org/3046089420> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9448,6 +9548,7 @@
     sdo:url "https://permalink.geldersarchief.nl/027306DCB16846C8B9512E46EA1CF1C5" .
 
 <https://ex.org/3046089424> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9455,6 +9556,7 @@
     sdo:url "https://permalink.geldersarchief.nl/A3CA026A335E4AE9B4D81B6EA6E5C630" .
 
 <https://ex.org/3046089428> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9462,6 +9564,7 @@
     sdo:url "https://permalink.geldersarchief.nl/B5FDA7FC1A6E4033A4BA062105F9E180" .
 
 <https://ex.org/3046089432> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9469,6 +9572,7 @@
     sdo:url "https://permalink.geldersarchief.nl/706562980DDA4BAEB73F43A8EBE5DC6E" .
 
 <https://ex.org/3046089436> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9476,6 +9580,7 @@
     sdo:url "https://permalink.geldersarchief.nl/4CE53959150C45AC9280BA5F62D3390A" .
 
 <https://ex.org/3046089440> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9483,6 +9588,7 @@
     sdo:url "https://permalink.geldersarchief.nl/E74DA34A44B44D31BB1B78444232B0CF" .
 
 <https://ex.org/3046089444> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9490,6 +9596,7 @@
     sdo:url "https://permalink.geldersarchief.nl/0544634DDE91436B8DB16C2E23142894" .
 
 <https://ex.org/3046089448> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9497,6 +9604,7 @@
     sdo:url "https://permalink.geldersarchief.nl/66AE82B9CDBC4C7E8A9B34F087A8C3CD" .
 
 <https://ex.org/3046089452> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9504,6 +9612,7 @@
     sdo:url "https://permalink.geldersarchief.nl/0B081CFBD8E24F5FA559AC22DE202F58" .
 
 <https://ex.org/3046089456> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9511,6 +9620,7 @@
     sdo:url "https://permalink.geldersarchief.nl/0471C403800745CE992EE123A37BC76E" .
 
 <https://ex.org/3046089460> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9518,6 +9628,7 @@
     sdo:url "https://permalink.geldersarchief.nl/18373B33E7464B10A97539C312C964AF" .
 
 <https://ex.org/3046089464> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9525,6 +9636,7 @@
     sdo:url "https://permalink.geldersarchief.nl/8771A4A9B981421AB5626DF4C81D70A1" .
 
 <https://ex.org/3046089468> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9532,6 +9644,7 @@
     sdo:url "https://permalink.geldersarchief.nl/43EE0CDC96124F95A81404702A81BCA4" .
 
 <https://ex.org/3046089472> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9539,6 +9652,7 @@
     sdo:url "https://permalink.geldersarchief.nl/E9794C7EAFE74725903E9515A108A091" .
 
 <https://ex.org/3046089476> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9546,6 +9660,7 @@
     sdo:url "https://permalink.geldersarchief.nl/221217663B6D4F3D83119F85377C2A5D" .
 
 <https://ex.org/3046089480> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9553,6 +9668,7 @@
     sdo:url "https://permalink.geldersarchief.nl/4B6748344BF7441B90A817202844323E" .
 
 <https://ex.org/3046089484> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9560,6 +9676,7 @@
     sdo:url "https://permalink.geldersarchief.nl/41B7DFEA62F74A51A7B776242B643EAC" .
 
 <https://ex.org/3046089488> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9567,6 +9684,7 @@
     sdo:url "https://permalink.geldersarchief.nl/97F13FB8D2574EC49B5B38A4D19D2EE1" .
 
 <https://ex.org/3046089492> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9574,6 +9692,7 @@
     sdo:url "https://permalink.geldersarchief.nl/970878657805489185422F6E14E5FB44" .
 
 <https://ex.org/3046089496> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9581,6 +9700,7 @@
     sdo:url "https://permalink.geldersarchief.nl/DDBC2D779F074BB89BC556436A081A7A" .
 
 <https://ex.org/3046089500> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9588,6 +9708,7 @@
     sdo:url "https://permalink.geldersarchief.nl/0E465F0CE10943219C4537CF340D0BAF" .
 
 <https://ex.org/3046089504> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9595,6 +9716,7 @@
     sdo:url "https://permalink.geldersarchief.nl/852BAF8264A74344AC365505418A9A7F" .
 
 <https://ex.org/3046089508> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9602,6 +9724,7 @@
     sdo:url "https://permalink.geldersarchief.nl/F39A2FC209F549A78593B310C5DC46A2" .
 
 <https://ex.org/3046089512> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9609,6 +9732,7 @@
     sdo:url "https://permalink.geldersarchief.nl/F307E7369EC645DEB383E393BB279A47" .
 
 <https://ex.org/3046089516> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9616,6 +9740,7 @@
     sdo:url "https://permalink.geldersarchief.nl/5C8BFC07829D4D3CA187F3DD29DF8CFB" .
 
 <https://ex.org/3046089520> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9623,6 +9748,7 @@
     sdo:url "https://permalink.geldersarchief.nl/EED1F4969A2041D3A5FB8351B103E9C9" .
 
 <https://ex.org/3046089524> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9630,6 +9756,7 @@
     sdo:url "https://permalink.geldersarchief.nl/1AF0CE8D5E8F4A969B0367392292DE4D" .
 
 <https://ex.org/3046089528> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9637,6 +9764,7 @@
     sdo:url "https://permalink.geldersarchief.nl/6516DE375670492E982FFBA666B06E7E" .
 
 <https://ex.org/3046089532> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9644,6 +9772,7 @@
     sdo:url "https://permalink.geldersarchief.nl/A9E663CA9328412F9FADD0686DFF673C" .
 
 <https://ex.org/3046089536> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9651,6 +9780,7 @@
     sdo:url "https://permalink.geldersarchief.nl/987F90BF7B9E43008E301771A08C0403" .
 
 <https://ex.org/3046089540> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9658,6 +9788,7 @@
     sdo:url "https://permalink.geldersarchief.nl/92CB40FDFE884BB5941CE4D7BE9D7320" .
 
 <https://ex.org/3046089544> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9665,6 +9796,7 @@
     sdo:url "https://permalink.geldersarchief.nl/5CDCAFDC8E45479D99855CA2AC75CAAF" .
 
 <https://ex.org/3046089548> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9672,6 +9804,7 @@
     sdo:url "https://permalink.geldersarchief.nl/E173FB1A16834BD89510BAE9F3BBFDD9" .
 
 <https://ex.org/3046089552> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9679,6 +9812,7 @@
     sdo:url "https://permalink.geldersarchief.nl/89AE8A9E39DD432E9E74B76FAC6DF6AC" .
 
 <https://ex.org/3046089556> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-06"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9686,6 +9820,7 @@
     sdo:url "https://permalink.geldersarchief.nl/97B858593B1D4F3BBE917ADB43CE0C55" .
 
 <https://ex.org/3046089560> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9693,6 +9828,7 @@
     sdo:url "https://permalink.geldersarchief.nl/BB613C6D6A054FF188AD8AB91EFB73B4" .
 
 <https://ex.org/3046089564> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9700,6 +9836,7 @@
     sdo:url "https://permalink.geldersarchief.nl/399155AE37744320B9AE34F66D7551DA" .
 
 <https://ex.org/3046089568> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9707,6 +9844,7 @@
     sdo:url "https://permalink.geldersarchief.nl/F6C40CAE4E16481AAFB87C64A348558B" .
 
 <https://ex.org/3046089572> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9714,6 +9852,7 @@
     sdo:url "https://permalink.geldersarchief.nl/406A8DBBCFD84DA683A7C31209348A53" .
 
 <https://ex.org/3046089576> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9721,6 +9860,7 @@
     sdo:url "https://permalink.geldersarchief.nl/339016268F7C49129FEDFA970C572FEC" .
 
 <https://ex.org/3046089580> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9728,6 +9868,7 @@
     sdo:url "https://permalink.geldersarchief.nl/3181961F77CB4E3AA912329C0EAE6EB7" .
 
 <https://ex.org/3046089584> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9735,6 +9876,7 @@
     sdo:url "https://permalink.geldersarchief.nl/5F6695D1D699477E80F3DA4F893E85F0" .
 
 <https://ex.org/3046089588> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9742,6 +9884,7 @@
     sdo:url "https://permalink.geldersarchief.nl/C26C79F1EAB5449B979C8EB9FF27D415" .
 
 <https://ex.org/3046089592> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9749,6 +9892,7 @@
     sdo:url "https://permalink.geldersarchief.nl/A14444A9CF794B9A83D65AEBF96D48E6" .
 
 <https://ex.org/3046089596> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9756,6 +9900,7 @@
     sdo:url "https://permalink.geldersarchief.nl/85DCDD22DB974C14B0715F6CA72B6799" .
 
 <https://ex.org/3046089600> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9763,6 +9908,7 @@
     sdo:url "https://permalink.geldersarchief.nl/FE02AF1DC78B4703BDE15DC2FE4B31A9" .
 
 <https://ex.org/3046089604> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9770,6 +9916,7 @@
     sdo:url "https://permalink.geldersarchief.nl/704518C7099640F99EA697D08469AC9C" .
 
 <https://ex.org/3046089608> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9777,6 +9924,7 @@
     sdo:url "https://permalink.geldersarchief.nl/5C6B035F310444B087B0A3A23E8F159B" .
 
 <https://ex.org/3046089612> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9784,6 +9932,7 @@
     sdo:url "https://permalink.geldersarchief.nl/60CECBCCE1324E468625108A4C2C7B3D" .
 
 <https://ex.org/3046089616> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9791,6 +9940,7 @@
     sdo:url "https://permalink.geldersarchief.nl/81AD896E61F04D9892C584AEA7E85D01" .
 
 <https://ex.org/3046089620> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9798,6 +9948,7 @@
     sdo:url "https://permalink.geldersarchief.nl/D17EA265CF8C4F2F9461E3DD02195BDC" .
 
 <https://ex.org/3046089624> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9805,6 +9956,7 @@
     sdo:url "https://permalink.geldersarchief.nl/BC1F41B5B01C459D9FCE5FC407D58610" .
 
 <https://ex.org/3046089628> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9812,6 +9964,7 @@
     sdo:url "https://permalink.geldersarchief.nl/5655F485DAD9432A8109C256E4253A41" .
 
 <https://ex.org/3046089632> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9819,6 +9972,7 @@
     sdo:url "https://permalink.geldersarchief.nl/A2875922C72E40F6B5660C609AA3761E" .
 
 <https://ex.org/3046089636> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9826,6 +9980,7 @@
     sdo:url "https://permalink.geldersarchief.nl/D26FE8DB7BD54B4AA385BA6EA1A4632B" .
 
 <https://ex.org/3046089640> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9833,6 +9988,7 @@
     sdo:url "https://permalink.geldersarchief.nl/779DCD3CB005498E933C63014C0A379A" .
 
 <https://ex.org/3046089644> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9840,6 +9996,7 @@
     sdo:url "https://permalink.geldersarchief.nl/DF4E8D9C5E9B4A77B2AF8C38745DE058" .
 
 <https://ex.org/3046089648> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9847,6 +10004,7 @@
     sdo:url "https://permalink.geldersarchief.nl/74BA64BDB2DA4A10A2AC2DEC825E839F" .
 
 <https://ex.org/3046089652> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9854,6 +10012,7 @@
     sdo:url "https://permalink.geldersarchief.nl/3C3DF31FE0414596ABDCC7B2C7D21B12" .
 
 <https://ex.org/3046089656> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9861,6 +10020,7 @@
     sdo:url "https://permalink.geldersarchief.nl/37AC0DA3DF0646AAA4A323A0F6263960" .
 
 <https://ex.org/3046089660> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9868,6 +10028,7 @@
     sdo:url "https://permalink.geldersarchief.nl/A48EB6A766BA4FA7985CE15B807EDB31" .
 
 <https://ex.org/3046089664> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9875,6 +10036,7 @@
     sdo:url "https://permalink.geldersarchief.nl/BBAC9D40839B4A538B8D48965B784D86" .
 
 <https://ex.org/3046089668> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9882,6 +10044,7 @@
     sdo:url "https://permalink.geldersarchief.nl/0EC06775B9DD407B960B205A23D21773" .
 
 <https://ex.org/3046089672> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9889,6 +10052,7 @@
     sdo:url "https://permalink.geldersarchief.nl/4BFA0284D4D54611A722C7FFD0C0926F" .
 
 <https://ex.org/3046089676> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9896,6 +10060,7 @@
     sdo:url "https://permalink.geldersarchief.nl/2F1953D42EE34324B77DF82F7F04013E" .
 
 <https://ex.org/3046089680> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9903,6 +10068,7 @@
     sdo:url "https://permalink.geldersarchief.nl/CD577C68D98145F3A337159371DC95AE" .
 
 <https://ex.org/3046089684> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9910,6 +10076,7 @@
     sdo:url "https://permalink.geldersarchief.nl/252E845CBBD443629C84C0474810FA23" .
 
 <https://ex.org/3046089688> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9917,6 +10084,7 @@
     sdo:url "https://permalink.geldersarchief.nl/5C35145CB7C2460B98E0E71781E5063A" .
 
 <https://ex.org/3046089692> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9924,6 +10092,7 @@
     sdo:url "https://permalink.geldersarchief.nl/FAC7C64B9B95444AAE2A40BC1CE6C51F" .
 
 <https://ex.org/3046089696> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9931,6 +10100,7 @@
     sdo:url "https://permalink.geldersarchief.nl/3F987A72B7FD485ABE916E3562631963" .
 
 <https://ex.org/3046089700> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9938,6 +10108,7 @@
     sdo:url "https://permalink.geldersarchief.nl/8B1F78EF441F4F7EBBEB62BCC92F5C91" .
 
 <https://ex.org/3046089704> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9945,6 +10116,7 @@
     sdo:url "https://permalink.geldersarchief.nl/63B465BF594943EA9DD011389A1C9FD2" .
 
 <https://ex.org/3046089708> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9952,6 +10124,7 @@
     sdo:url "https://permalink.geldersarchief.nl/9A9DA4FA2EDE4D0C8D1EEF7EE2C3C0FD" .
 
 <https://ex.org/3046089712> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9959,6 +10132,7 @@
     sdo:url "https://permalink.geldersarchief.nl/77FB7AB0D51A4786A7C9BA8756CCAD4A" .
 
 <https://ex.org/3046089716> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9966,6 +10140,7 @@
     sdo:url "https://permalink.geldersarchief.nl/451E213B0E8A48C3AD7BD4A9054420DE" .
 
 <https://ex.org/3046089720> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9973,6 +10148,7 @@
     sdo:url "https://permalink.geldersarchief.nl/8772B246BCAC4E73985EBF17CD31881E" .
 
 <https://ex.org/3046089724> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9980,6 +10156,7 @@
     sdo:url "https://permalink.geldersarchief.nl/1E9E113033F4406D9BA964074AD9760C" .
 
 <https://ex.org/3046089728> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9987,6 +10164,7 @@
     sdo:url "https://permalink.geldersarchief.nl/86A931470F4C4A5A805620FAF862E34B" .
 
 <https://ex.org/3046089732> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -9994,6 +10172,7 @@
     sdo:url "https://permalink.geldersarchief.nl/C1F98D46894543FEBBFBBE74E696E356" .
 
 <https://ex.org/3046089736> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10001,6 +10180,7 @@
     sdo:url "https://permalink.geldersarchief.nl/08E989C6E906403FAFBF35C58294DC26" .
 
 <https://ex.org/3046089740> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10008,6 +10188,7 @@
     sdo:url "https://permalink.geldersarchief.nl/E01BEF8F5994417E858B31B7E0185FD9" .
 
 <https://ex.org/3046089744> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10015,6 +10196,7 @@
     sdo:url "https://permalink.geldersarchief.nl/88AD7C5C5B68402383E4853D79519847" .
 
 <https://ex.org/3046089748> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-07"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10022,6 +10204,7 @@
     sdo:url "https://permalink.geldersarchief.nl/C959A86B68084629A9494CFAED5E06B9" .
 
 <https://ex.org/3046089752> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10029,6 +10212,7 @@
     sdo:url "https://permalink.geldersarchief.nl/618A61A71F8343F7B9DC0588A71212D9" .
 
 <https://ex.org/3046089756> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10036,6 +10220,7 @@
     sdo:url "https://permalink.geldersarchief.nl/62299B30858E4507BA0906DBA3C676DA" .
 
 <https://ex.org/3046089760> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10043,6 +10228,7 @@
     sdo:url "https://permalink.geldersarchief.nl/7CD1E7B4632A4E09B324EBB3FAE5ECE7" .
 
 <https://ex.org/3046089764> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10050,6 +10236,7 @@
     sdo:url "https://permalink.geldersarchief.nl/F95F7DF046C843D29D35C53F5827BAE6" .
 
 <https://ex.org/3046089768> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10057,6 +10244,7 @@
     sdo:url "https://permalink.geldersarchief.nl/25BBE73FE3ED451295EE8B11BE45FBFB" .
 
 <https://ex.org/3046089772> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10064,6 +10252,7 @@
     sdo:url "https://permalink.geldersarchief.nl/969D45CFDA9C4213BA41108AD8B27621" .
 
 <https://ex.org/3046089776> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10071,6 +10260,7 @@
     sdo:url "https://permalink.geldersarchief.nl/6E62D606077948CCA4E554BF5B353983" .
 
 <https://ex.org/3046089780> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10078,6 +10268,7 @@
     sdo:url "https://permalink.geldersarchief.nl/45D4D58D844F42628FD914579FBF80F1" .
 
 <https://ex.org/3046089784> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10085,6 +10276,7 @@
     sdo:url "https://permalink.geldersarchief.nl/ADAFF83814064B0192D5FDDFF53264D3" .
 
 <https://ex.org/3046089788> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10092,6 +10284,7 @@
     sdo:url "https://permalink.geldersarchief.nl/1DDC988B1EAC4C20A842F53FEE2AE4E4" .
 
 <https://ex.org/3046089792> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10099,6 +10292,7 @@
     sdo:url "https://permalink.geldersarchief.nl/D0023139CCD94E229F77027A12C92085" .
 
 <https://ex.org/3046089796> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10106,6 +10300,7 @@
     sdo:url "https://permalink.geldersarchief.nl/EFF014B313CA4A8A9CA258435AED8134" .
 
 <https://ex.org/3046089800> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10113,6 +10308,7 @@
     sdo:url "https://permalink.geldersarchief.nl/E51C0B3712C94F41832B8AB045EDD57E" .
 
 <https://ex.org/3046089804> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10120,6 +10316,7 @@
     sdo:url "https://permalink.geldersarchief.nl/259CD1B62E6B40F385459E28EB7DF538" .
 
 <https://ex.org/3046089808> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10127,6 +10324,7 @@
     sdo:url "https://permalink.geldersarchief.nl/9CF833A505D543288144457AA0226AF8" .
 
 <https://ex.org/3046089812> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10134,6 +10332,7 @@
     sdo:url "https://permalink.geldersarchief.nl/7EB197B12B3D4FD5A959BF33C411757A" .
 
 <https://ex.org/3046089816> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10141,6 +10340,7 @@
     sdo:url "https://permalink.geldersarchief.nl/CA5F863FA541452CBE08FAB9E0BFFCC9" .
 
 <https://ex.org/3046089820> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10148,6 +10348,7 @@
     sdo:url "https://permalink.geldersarchief.nl/FE9280CD9B9843FB9CE47F508739A2C5" .
 
 <https://ex.org/3046089824> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10155,6 +10356,7 @@
     sdo:url "https://permalink.geldersarchief.nl/C2E05A3C01C9430390B6B5F1F9045AD8" .
 
 <https://ex.org/3046089828> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10162,6 +10364,7 @@
     sdo:url "https://permalink.geldersarchief.nl/C28D00BA00C54C74B1E88098F463CD5F" .
 
 <https://ex.org/3046089832> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10169,6 +10372,7 @@
     sdo:url "https://permalink.geldersarchief.nl/F02C986ED4A1434AAD3954EC2D33AC0A" .
 
 <https://ex.org/3046089836> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10176,6 +10380,7 @@
     sdo:url "https://permalink.geldersarchief.nl/A35BA2309E524305B5C4B4450F6B0433" .
 
 <https://ex.org/3046089840> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10183,6 +10388,7 @@
     sdo:url "https://permalink.geldersarchief.nl/14C8FF24FEB5438193C29DEF56F15A31" .
 
 <https://ex.org/3046089848> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10190,6 +10396,7 @@
     sdo:url "https://permalink.geldersarchief.nl/5E1874B99C5B43CA96445D172FDF8A23" .
 
 <https://ex.org/3046089852> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10197,6 +10404,7 @@
     sdo:url "https://permalink.geldersarchief.nl/8E997B4F99D944EE8DC243972BE4F52A" .
 
 <https://ex.org/3046089856> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10204,6 +10412,7 @@
     sdo:url "https://permalink.geldersarchief.nl/305A2A4C752241469C994752DFF45135" .
 
 <https://ex.org/3046089860> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10211,6 +10420,7 @@
     sdo:url "https://permalink.geldersarchief.nl/32E6E29CD3A44FABB6D287CAC39C0D48" .
 
 <https://ex.org/3046089864> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10218,6 +10428,7 @@
     sdo:url "https://permalink.geldersarchief.nl/3018CECE91214B70A41ECE5A00D0B40F" .
 
 <https://ex.org/3046089868> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10225,6 +10436,7 @@
     sdo:url "https://permalink.geldersarchief.nl/45FF7ECBB9074C5EBC94DCE110F0270F" .
 
 <https://ex.org/3046089872> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10232,6 +10444,7 @@
     sdo:url "https://permalink.geldersarchief.nl/DE8AEEF0CC9A4625AB833F1A1DCCF739" .
 
 <https://ex.org/3046089876> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10239,6 +10452,7 @@
     sdo:url "https://permalink.geldersarchief.nl/62A1A488C5094AEE94F6F04589D2B53D" .
 
 <https://ex.org/3046089880> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10246,6 +10460,7 @@
     sdo:url "https://permalink.geldersarchief.nl/99EA4AEB32D244098A44625C2C7D28A0" .
 
 <https://ex.org/3046089884> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10253,6 +10468,7 @@
     sdo:url "https://permalink.geldersarchief.nl/A3058251C7994470ACA0709D7FB8F911" .
 
 <https://ex.org/3046089888> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10260,6 +10476,7 @@
     sdo:url "https://permalink.geldersarchief.nl/809847F27BF7477691471FD94459D5ED" .
 
 <https://ex.org/3046089892> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10267,6 +10484,7 @@
     sdo:url "https://permalink.geldersarchief.nl/3A18C8C0909D491C8A673E23721571BC" .
 
 <https://ex.org/3046089896> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10274,6 +10492,7 @@
     sdo:url "https://permalink.geldersarchief.nl/A972AB83FC2F4A75BFC559D2F6648B8B" .
 
 <https://ex.org/3046089900> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10281,6 +10500,7 @@
     sdo:url "https://permalink.geldersarchief.nl/4BA85828EF6641D891679B88EA0A03F7" .
 
 <https://ex.org/3046089904> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
@@ -10288,6 +10508,7 @@
     sdo:url "https://permalink.geldersarchief.nl/A47D57AA7FCB418B91380F198B16D342" .
 
 <https://ex.org/3046089908> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
     sdo:dateCreated "1853-01-08"^^xsd:date ;
     sdo:dateModified "2022-12-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;

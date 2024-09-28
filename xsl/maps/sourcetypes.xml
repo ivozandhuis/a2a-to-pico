@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+    <item>
+        <name>BS Geboorte</name>
+        <id>https://terms.personsincontext.org/sourcetypes/551</id>
+    </item>
+    <item>
+        <name>BS Huwelijk</name>
+        <id>https://terms.personsincontext.org/sourcetypes/552</id>
+    </item>
+    <item>
+        <name>BS Overlijden</name>
+        <id>https://terms.personsincontext.org/sourcetypes/553</id>
+    </item>
+</items>

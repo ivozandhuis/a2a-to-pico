@@ -22,6 +22,7 @@
                 <xsl:value-of select="$baseUri"/>
                 <xsl:value-of select="a2a:RecordIdentifier"/>
             </xsl:attribute>
+            <xsl:apply-templates select="a2a:SourceType"/>
             <xsl:apply-templates select="a2a:SourceReference"/>
 			<xsl:apply-templates select="a2a:SourceDate"/>
 			<xsl:apply-templates select="a2a:SourcePlace"/>
@@ -61,7 +62,21 @@
         </sdo:dateCreated>
 	</xsl:template>
 	
-    <xsl:template match="a2a:SourceType"/>
+
+    <xsl:template match="a2a:SourceType">
+        <xsl:variable name="SourceTypeMap">maps/sourcetypes.xml</xsl:variable>
+        <xsl:variable name="source-type" select="text()"/>
+        <xsl:variable name="source-type-id" select="document($SourceTypeMap)/items/item[name=$source-type]/id"/>
+        <xsl:if test="$source-type-id != ''">
+            <sdo:additionalType>
+                <xsl:attribute name="rdf:resource">
+                    <xsl:value-of select="$source-type-id"></xsl:value-of>
+                </xsl:attribute>
+            </sdo:additionalType>
+        </xsl:if>
+    </xsl:template>
+
+
     <xsl:template match="a2a:EAD"/>
     <xsl:template match="a2a:EAC"/>
 

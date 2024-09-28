@@ -725,7 +725,7 @@
     prov:hadPrimarySource <https://ex.org/2650307845> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Velden" ;
             pnv:givenName "Willemina" ;
             pnv:literalName "van der Velden" ;
@@ -802,7 +802,7 @@
     prov:hadPrimarySource <https://ex.org/2650307866> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Wiel" ;
             pnv:givenName "Alida" ;
             pnv:literalName "van der Wiel" ;
@@ -843,7 +843,7 @@
     prov:hadPrimarySource <https://ex.org/2650307873> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Sittert" ;
             pnv:givenName "Elisabeth" ;
             pnv:literalName "van Sittert" ;
@@ -908,7 +908,7 @@
     prov:hadPrimarySource <https://ex.org/2650307894> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Bilt" ;
             pnv:givenName "Wilhelmina" ;
             pnv:literalName "van der Bilt" ;
@@ -961,7 +961,7 @@
     prov:hadPrimarySource <https://ex.org/2650307908> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Polak" ;
             pnv:givenName "Saartje" ;
             pnv:literalName "Polak" ;
@@ -1014,7 +1014,7 @@
     prov:hadPrimarySource <https://ex.org/2650307918> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Blijdestijn" ;
             pnv:givenName "Alida Maria Elisabeth" ;
             pnv:literalName "van Blijdestijn" ;
@@ -1031,7 +1031,7 @@
     prov:hadPrimarySource <https://ex.org/2650307918> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Muijen" ;
             pnv:givenName "Hendrikie" ;
             pnv:literalName "van Muijen" ;
@@ -1060,7 +1060,7 @@
     prov:hadPrimarySource <https://ex.org/2650307925> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Ginkel" ;
             pnv:givenName "Geertruida" ;
             pnv:literalName "van Ginkel" ;
@@ -1077,7 +1077,7 @@
     prov:hadPrimarySource <https://ex.org/2650307932> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Wieringen" ;
             pnv:givenName "Johanna" ;
             pnv:literalName "van Wieringen" ;
@@ -1106,7 +1106,7 @@
     prov:hadPrimarySource <https://ex.org/2650307938> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Lammerson" ;
             pnv:givenName "Roosje" ;
             pnv:literalName "Lammerson" ;
@@ -1123,7 +1123,7 @@
     prov:hadPrimarySource <https://ex.org/2650307938> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Dort" ;
             pnv:givenName "Heintje" ;
             pnv:literalName "van Dort" ;
@@ -1140,7 +1140,7 @@
     prov:hadPrimarySource <https://ex.org/2650307945> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Drukker" ;
             pnv:givenName "Rachel" ;
             pnv:literalName "Drukker" ;
@@ -1193,7 +1193,7 @@
     prov:hadPrimarySource <https://ex.org/2650307959> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Bergsma" ;
             pnv:givenName "Aaltje" ;
             pnv:literalName "Bergsma" ;
@@ -1414,7 +1414,7 @@
     prov:hadPrimarySource <https://ex.org/2650308021> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "See" ;
             pnv:givenName "Aaltje" ;
             pnv:literalName "van See" ;
@@ -1431,7 +1431,7 @@
     prov:hadPrimarySource <https://ex.org/2650308021> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Milde" ;
             pnv:givenName "Dirkje" ;
             pnv:literalName "de Milde" ;
@@ -1520,7 +1520,7 @@
     prov:hadPrimarySource <https://ex.org/2650308049> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Man" ;
             pnv:givenName "Neeltje" ;
             pnv:literalName "de Man" ;
@@ -1549,7 +1549,7 @@
     prov:hadPrimarySource <https://ex.org/2650308056> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Dingsdag" ;
             pnv:givenName "Sipora" ;
             pnv:literalName "Dingsdag" ;
@@ -1602,7 +1602,7 @@
     prov:hadPrimarySource <https://ex.org/2650308070> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Rouwelaar" ;
             pnv:givenName "Cornelia" ;
             pnv:literalName "ten Rouwelaar" ;
@@ -1643,7 +1643,7 @@
     prov:hadPrimarySource <https://ex.org/2650308077> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Tuin" ;
             pnv:givenName "Willemina" ;
             pnv:literalName "van der Tuin" ;
@@ -1660,7 +1660,7 @@
     prov:hadPrimarySource <https://ex.org/2650308084> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Straten" ;
             pnv:givenName "Joanna Christina" ;
             pnv:literalName "van Straten" ;
@@ -1737,7 +1737,7 @@
     prov:hadPrimarySource <https://ex.org/2650308105> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Smit" ;
             pnv:givenName "Vogel" ;
             pnv:literalName "Smit" ;
@@ -1754,7 +1754,7 @@
     prov:hadPrimarySource <https://ex.org/2650308105> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Koekoek" ;
             pnv:givenName "Schoontje" ;
             pnv:literalName "Koekoek" ;
@@ -1807,7 +1807,7 @@
     prov:hadPrimarySource <https://ex.org/2650308119> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Markes" ;
             pnv:givenName "Bontje" ;
             pnv:literalName "Markes" ;
@@ -1848,7 +1848,7 @@
     prov:hadPrimarySource <https://ex.org/2650308132> ;
     pico:hasAge "" ;
     pico:hasRole "Bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Duprez" ;
             pnv:givenName "Françoise" ;
             pnv:literalName "Duprez" ;
@@ -1901,7 +1901,7 @@
     prov:hadPrimarySource <https://ex.org/2650308142> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Koot" ;
             pnv:givenName "Aaltje" ;
             pnv:literalName "van Koot" ;
@@ -1954,7 +1954,7 @@
     prov:hadPrimarySource <https://ex.org/2650308156> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Vugt" ;
             pnv:givenName "Adriana" ;
             pnv:literalName "van Vugt" ;
@@ -1983,7 +1983,7 @@
     prov:hadPrimarySource <https://ex.org/2650308163> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Moolen" ;
             pnv:givenName "Helena" ;
             pnv:literalName "van der Moolen" ;
@@ -2024,7 +2024,7 @@
     prov:hadPrimarySource <https://ex.org/2650308170> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Klaveren" ;
             pnv:givenName "Geertruida Cornelia" ;
             pnv:literalName "van Klaveren" ;
@@ -2113,7 +2113,7 @@
     prov:hadPrimarySource <https://ex.org/2650308198> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Nieuwcasteel" ;
             pnv:givenName "Hendrica Willemina" ;
             pnv:literalName "van Nieuwcasteel" ;
@@ -2178,7 +2178,7 @@
     prov:hadPrimarySource <https://ex.org/2650308212> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Dam" ;
             pnv:givenName "Klaasje" ;
             pnv:literalName "van Dam" ;
@@ -2243,7 +2243,7 @@
     prov:hadPrimarySource <https://ex.org/2650308233> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Bogt" ;
             pnv:givenName "Maria Elisabeth" ;
             pnv:literalName "van der Bogt" ;
@@ -2320,7 +2320,7 @@
     prov:hadPrimarySource <https://ex.org/2650308254> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Wiele" ;
             pnv:givenName "Cornelia" ;
             pnv:literalName "van de Wiele" ;
@@ -2409,7 +2409,7 @@
     prov:hadPrimarySource <https://ex.org/2650308271> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Breemen" ;
             pnv:givenName "Elizabeth Maria" ;
             pnv:literalName "van Breemen" ;
@@ -2426,7 +2426,7 @@
     prov:hadPrimarySource <https://ex.org/2650308278> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Asselt" ;
             pnv:givenName "Aaltje" ;
             pnv:literalName "van Asselt" ;
@@ -2479,7 +2479,7 @@
     prov:hadPrimarySource <https://ex.org/2650308292> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Dusschoten" ;
             pnv:givenName "Elisabeth" ;
             pnv:literalName "van Dusschoten" ;
@@ -2532,7 +2532,7 @@
     prov:hadPrimarySource <https://ex.org/2650308306> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Zegen" ;
             pnv:givenName "Judik" ;
             pnv:literalName "Zegen" ;
@@ -2549,7 +2549,7 @@
     prov:hadPrimarySource <https://ex.org/2650308306> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Zegen" ;
             pnv:givenName "Reintje" ;
             pnv:literalName "Zegen" ;
@@ -2614,7 +2614,7 @@
     prov:hadPrimarySource <https://ex.org/2650308326> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Velde" ;
             pnv:givenName "Hendrica" ;
             pnv:literalName "van der Velde" ;
@@ -2631,7 +2631,7 @@
     prov:hadPrimarySource <https://ex.org/2650308326> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Ouw" ;
             pnv:givenName "Maria Catrina" ;
             pnv:literalName "van der Ouw" ;
@@ -2660,7 +2660,7 @@
     prov:hadPrimarySource <https://ex.org/2650308333> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Ettekoven" ;
             pnv:givenName "Evertje" ;
             pnv:literalName "van Ettekoven" ;
@@ -2749,7 +2749,7 @@
     prov:hadPrimarySource <https://ex.org/2650308361> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Kamerik" ;
             pnv:givenName "Rachel" ;
             pnv:literalName "van Kamerik" ;
@@ -2779,7 +2779,7 @@
     prov:hadPrimarySource <https://ex.org/2650308368> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Viet" ;
             pnv:givenName "Maria" ;
             pnv:literalName "de Viet" ;
@@ -2808,7 +2808,7 @@
     prov:hadPrimarySource <https://ex.org/2650308375> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Heijden" ;
             pnv:givenName "Maria Johanna Susanna" ;
             pnv:literalName "van der Heijden" ;
@@ -2861,7 +2861,7 @@
     prov:hadPrimarySource <https://ex.org/2650308389> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Kolk" ;
             pnv:givenName "Aartje" ;
             pnv:literalName "van der Kolk" ;
@@ -2890,7 +2890,7 @@
     prov:hadPrimarySource <https://ex.org/2650308396> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Visjager" ;
             pnv:givenName "Engeltje" ;
             pnv:literalName "Visjager" ;
@@ -2907,7 +2907,7 @@
     prov:hadPrimarySource <https://ex.org/2650308396> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Poorten" ;
             pnv:givenName "Nannette" ;
             pnv:literalName "van der Poorten" ;
@@ -2924,7 +2924,7 @@
     prov:hadPrimarySource <https://ex.org/2650308403> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Blanc" ;
             pnv:givenName "Maria Clementia" ;
             pnv:literalName "Le Blanc" ;
@@ -2953,7 +2953,7 @@
     prov:hadPrimarySource <https://ex.org/2650308410> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Rading" ;
             pnv:givenName "Trijntje" ;
             pnv:literalName "Rading" ;
@@ -2970,7 +2970,7 @@
     prov:hadPrimarySource <https://ex.org/2650308410> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Helder" ;
             pnv:givenName "Antje" ;
             pnv:literalName "Helder" ;
@@ -3023,7 +3023,7 @@
     prov:hadPrimarySource <https://ex.org/2650308424> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Breemen" ;
             pnv:givenName "Elizabeth Maria" ;
             pnv:literalName "van Breemen" ;
@@ -3040,7 +3040,7 @@
     prov:hadPrimarySource <https://ex.org/2650308431> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Ootmarsum" ;
             pnv:givenName "Geertruida Christina" ;
             pnv:literalName "van Ootmarsum" ;
@@ -3093,7 +3093,7 @@
     prov:hadPrimarySource <https://ex.org/2650308445> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Linden" ;
             pnv:givenName "Antje" ;
             pnv:literalName "van der Linden" ;
@@ -3122,7 +3122,7 @@
     prov:hadPrimarySource <https://ex.org/2650308452> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Meerten" ;
             pnv:givenName "Elisabeth Cornelia" ;
             pnv:literalName "van Meerten" ;
@@ -3139,7 +3139,7 @@
     prov:hadPrimarySource <https://ex.org/2650308452> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Jager" ;
             pnv:givenName "Elisabeth Wilhelmina" ;
             pnv:literalName "de Jager" ;
@@ -3201,6 +3201,7 @@
     sdo:spouse <https://ex.org/Person2650308471> .
 
 <https://ex.org/2650307915> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/F51B1527DB834C1D96EA862FBB8B518E" ;
             sdo:position "1" ;
@@ -3213,6 +3214,7 @@
     sdo:url "https://proxy.archieven.nl/236/498CBADCFD024A59847C6EAF3F1E6C1B" .
 
 <https://ex.org/2650308132> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/CBE1064F3B6348958967FF7861735560" ;
             sdo:position "1" ;
@@ -3225,6 +3227,7 @@
     sdo:url "https://proxy.archieven.nl/236/C87C39B4C4CA4E01B70E9900A745BFF0" .
 
 <https://ex.org/2650308261> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/9EC1BC6AE6B441478AE7890D97654712" ;
             sdo:position "1" ;
@@ -3240,7 +3243,7 @@
     prov:hadPrimarySource <https://ex.org/2650307824> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Driel" ;
             pnv:givenName "Johannes Albertus" ;
             pnv:literalName "van Driel" ;
@@ -3341,7 +3344,7 @@
     prov:hadPrimarySource <https://ex.org/2650307852> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Gelder" ;
             pnv:givenName "Willem" ;
             pnv:literalName "van Gelder" ;
@@ -3382,7 +3385,7 @@
     prov:hadPrimarySource <https://ex.org/2650307859> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Slingerlandt" ;
             pnv:givenName "Willem Constantijn" ;
             pnv:literalName "van Slingerlandt" ;
@@ -3399,7 +3402,7 @@
     prov:hadPrimarySource <https://ex.org/2650307866> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Waalwijk" ;
             pnv:givenName "Adrianus" ;
             pnv:literalName "van Waalwijk" ;
@@ -3440,7 +3443,7 @@
     prov:hadPrimarySource <https://ex.org/2650307873> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Heteren" ;
             pnv:givenName "Gerrit" ;
             pnv:literalName "van Heteren" ;
@@ -3481,7 +3484,7 @@
     prov:hadPrimarySource <https://ex.org/2650307887> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Möhlen" ;
             pnv:givenName "Ignatius Josephus" ;
             pnv:literalName "von der Möhlen" ;
@@ -3510,7 +3513,7 @@
     prov:hadPrimarySource <https://ex.org/2650307894> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Vogelzang" ;
             pnv:givenName "Pieter" ;
             pnv:literalName "Vogelzang" ;
@@ -3647,7 +3650,7 @@
     prov:hadPrimarySource <https://ex.org/2650307938> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Beth" ;
             pnv:givenName "Eliazer" ;
             pnv:literalName "Beth" ;
@@ -3664,7 +3667,7 @@
     prov:hadPrimarySource <https://ex.org/2650307938> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Harpman" ;
             pnv:givenName "Abraham" ;
             pnv:literalName "Harpman" ;
@@ -3681,7 +3684,7 @@
     prov:hadPrimarySource <https://ex.org/2650307945> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Halverstad" ;
             pnv:givenName "Elias" ;
             pnv:literalName "Halverstad" ;
@@ -3698,7 +3701,7 @@
     prov:hadPrimarySource <https://ex.org/2650307945> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Halberstadt" ;
             pnv:givenName "Levie" ;
             pnv:literalName "Halberstadt" ;
@@ -3739,7 +3742,7 @@
     prov:hadPrimarySource <https://ex.org/2650307959> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Glastra" ;
             pnv:givenName "Siebe" ;
             pnv:literalName "Glastra" ;
@@ -3912,7 +3915,7 @@
     prov:hadPrimarySource <https://ex.org/2650308007> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Meer" ;
             pnv:givenName "Daniel" ;
             pnv:literalName "van der Meer" ;
@@ -4073,7 +4076,7 @@
     prov:hadPrimarySource <https://ex.org/2650308056> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Appelboom" ;
             pnv:givenName "Samuel" ;
             pnv:literalName "Appelboom" ;
@@ -4090,7 +4093,7 @@
     prov:hadPrimarySource <https://ex.org/2650308056> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Praag" ;
             pnv:givenName "Mozes" ;
             pnv:literalName "van Praag" ;
@@ -4204,7 +4207,7 @@
     prov:hadPrimarySource <https://ex.org/2650308091> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Beek" ;
             pnv:givenName "Jacob" ;
             pnv:literalName "van Beek" ;
@@ -4257,7 +4260,7 @@
     prov:hadPrimarySource <https://ex.org/2650308105> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Wessel" ;
             pnv:givenName "Mozes" ;
             pnv:literalName "Wessel" ;
@@ -4274,7 +4277,7 @@
     prov:hadPrimarySource <https://ex.org/2650308105> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Diamant" ;
             pnv:givenName "Levie" ;
             pnv:literalName "Diamant" ;
@@ -4339,7 +4342,7 @@
     prov:hadPrimarySource <https://ex.org/2650308125> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Hartog" ;
             pnv:givenName "Mattheus" ;
             pnv:literalName "den Hartog" ;
@@ -4380,7 +4383,7 @@
     prov:hadPrimarySource <https://ex.org/2650308142> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Ridder" ;
             pnv:givenName "Ot" ;
             pnv:literalName "van de Ridder" ;
@@ -4421,7 +4424,7 @@
     prov:hadPrimarySource <https://ex.org/2650308149> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Doesen" ;
             pnv:givenName "Lammert" ;
             pnv:literalName "van Doesen" ;
@@ -4498,7 +4501,7 @@
     prov:hadPrimarySource <https://ex.org/2650308170> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Senden" ;
             pnv:givenName "Gerhard" ;
             pnv:literalName "van Senden" ;
@@ -4563,7 +4566,7 @@
     prov:hadPrimarySource <https://ex.org/2650308191> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Lee" ;
             pnv:givenName "Cornelis" ;
             pnv:literalName "van der Lee" ;
@@ -4652,7 +4655,7 @@
     prov:hadPrimarySource <https://ex.org/2650308212> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Wieringen" ;
             pnv:givenName "Willem" ;
             pnv:literalName "van Wieringen" ;
@@ -4753,7 +4756,7 @@
     prov:hadPrimarySource <https://ex.org/2650308240> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Lier" ;
             pnv:givenName "David" ;
             pnv:literalName "van Lier" ;
@@ -4818,7 +4821,7 @@
     prov:hadPrimarySource <https://ex.org/2650308264> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Vaart" ;
             pnv:givenName "Jochem" ;
             pnv:literalName "van der Vaart" ;
@@ -4836,7 +4839,7 @@
     prov:hadPrimarySource <https://ex.org/2650308264> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Brink" ;
             pnv:givenName "Hendrik Jan" ;
             pnv:literalName "ten Brink" ;
@@ -4949,7 +4952,7 @@
     prov:hadPrimarySource <https://ex.org/2650308299> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Schooneveld" ;
             pnv:givenName "Gerrit" ;
             pnv:literalName "van Schooneveld" ;
@@ -4978,7 +4981,7 @@
     prov:hadPrimarySource <https://ex.org/2650308306> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Winnik" ;
             pnv:givenName "Jacob" ;
             pnv:literalName "Winnik" ;
@@ -4995,7 +4998,7 @@
     prov:hadPrimarySource <https://ex.org/2650308306> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Witzenhausen" ;
             pnv:givenName "Mozes" ;
             pnv:literalName "Witzenhausen" ;
@@ -5084,7 +5087,7 @@
     prov:hadPrimarySource <https://ex.org/2650308333> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Ettekoven" ;
             pnv:givenName "Jan" ;
             pnv:literalName "van Ettekoven" ;
@@ -5101,7 +5104,7 @@
     prov:hadPrimarySource <https://ex.org/2650308340> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Wolde" ;
             pnv:givenName "Jan" ;
             pnv:literalName "de Wolde" ;
@@ -5275,7 +5278,7 @@
     prov:hadPrimarySource <https://ex.org/2650308389> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Joolingen" ;
             pnv:givenName "Joachim" ;
             pnv:literalName "van Joolingen" ;
@@ -5304,7 +5307,7 @@
     prov:hadPrimarySource <https://ex.org/2650308396> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Jong" ;
             pnv:givenName "Moses" ;
             pnv:literalName "de Jong" ;
@@ -5322,7 +5325,7 @@
     prov:hadPrimarySource <https://ex.org/2650308396> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Serlui" ;
             pnv:givenName "Samuel" ;
             pnv:literalName "Serlui" ;
@@ -5351,7 +5354,7 @@
     prov:hadPrimarySource <https://ex.org/2650308403> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Kampen" ;
             pnv:givenName "Cornelis" ;
             pnv:literalName "van Kampen" ;
@@ -5368,7 +5371,7 @@
     prov:hadPrimarySource <https://ex.org/2650308410> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Hanja" ;
             pnv:givenName "Gerben" ;
             pnv:literalName "Hanja" ;
@@ -5385,7 +5388,7 @@
     prov:hadPrimarySource <https://ex.org/2650308410> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Schaaf" ;
             pnv:givenName "Jan" ;
             pnv:literalName "van der Schaaf" ;
@@ -5415,7 +5418,7 @@
     prov:hadPrimarySource <https://ex.org/2650308417> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Ee" ;
             pnv:givenName "Marten" ;
             pnv:literalName "van Ee" ;
@@ -5456,7 +5459,7 @@
     prov:hadPrimarySource <https://ex.org/2650308431> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Kingma" ;
             pnv:givenName "Fokke" ;
             pnv:literalName "Kingma" ;
@@ -5485,7 +5488,7 @@
     prov:hadPrimarySource <https://ex.org/2650308438> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Straalen" ;
             pnv:givenName "Jacobus Henri" ;
             pnv:literalName "van Straalen" ;
@@ -5538,7 +5541,7 @@
     prov:hadPrimarySource <https://ex.org/2650308452> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Pruijs" ;
             pnv:givenName "Pieter" ;
             pnv:literalName "Pruijs" ;
@@ -5663,7 +5666,7 @@
     prov:hadPrimarySource <https://ex.org/2650307824> ;
     pico:hasAge "20" ;
     pico:hasRole "Bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Driel" ;
             pnv:givenName "Hendrina Everarda" ;
             pnv:literalName "van Driel" ;
@@ -5764,7 +5767,7 @@
     prov:hadPrimarySource <https://ex.org/2650307852> ;
     pico:hasAge "24" ;
     pico:hasRole "Bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Gelder" ;
             pnv:givenName "Johanna Hillegonda Antoinetta" ;
             pnv:literalName "van Gelder" ;
@@ -5805,7 +5808,7 @@
     prov:hadPrimarySource <https://ex.org/2650307859> ;
     pico:hasAge "25" ;
     pico:hasRole "Bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Slingerlandt" ;
             pnv:givenName "Willem Jacobus Cornelis" ;
             pnv:literalName "van Slingerlandt" ;
@@ -5822,7 +5825,7 @@
     prov:hadPrimarySource <https://ex.org/2650307866> ;
     pico:hasAge "22" ;
     pico:hasRole "Bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Waalwijk" ;
             pnv:givenName "Margaretha Gesina" ;
             pnv:literalName "van Waalwijk" ;
@@ -5863,7 +5866,7 @@
     prov:hadPrimarySource <https://ex.org/2650307873> ;
     pico:hasAge "28" ;
     pico:hasRole "Bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Heteren" ;
             pnv:givenName "Jan Hijko" ;
             pnv:literalName "van Heteren" ;
@@ -5904,7 +5907,7 @@
     prov:hadPrimarySource <https://ex.org/2650307887> ;
     pico:hasAge "30" ;
     pico:hasRole "Bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Möhlen" ;
             pnv:givenName "Elisabeth Carolina" ;
             pnv:literalName "von der Möhlen" ;
@@ -6305,7 +6308,7 @@
     prov:hadPrimarySource <https://ex.org/2650308007> ;
     pico:hasAge "36" ;
     pico:hasRole "Bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Meer" ;
             pnv:givenName "Daniel Nicolaas" ;
             pnv:literalName "van der Meer" ;
@@ -6478,7 +6481,7 @@
     prov:hadPrimarySource <https://ex.org/2650308056> ;
     pico:hasAge "20" ;
     pico:hasRole "Bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Praag" ;
             pnv:givenName "Emanuel" ;
             pnv:literalName "van Praag" ;
@@ -6591,7 +6594,7 @@
     prov:hadPrimarySource <https://ex.org/2650308091> ;
     pico:hasAge "25" ;
     pico:hasRole "Bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Beek" ;
             pnv:givenName "Clara Catharina Elisabeth" ;
             pnv:literalName "van Beek" ;
@@ -6716,7 +6719,7 @@
     prov:hadPrimarySource <https://ex.org/2650308125> ;
     pico:hasAge "19" ;
     pico:hasRole "Bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Hartog" ;
             pnv:givenName "Mattheus" ;
             pnv:literalName "den Hartog" ;
@@ -6757,7 +6760,7 @@
     prov:hadPrimarySource <https://ex.org/2650308142> ;
     pico:hasAge "31" ;
     pico:hasRole "Bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Ridder" ;
             pnv:givenName "Beertje" ;
             pnv:literalName "van de Ridder" ;
@@ -6798,7 +6801,7 @@
     prov:hadPrimarySource <https://ex.org/2650308149> ;
     pico:hasAge "27" ;
     pico:hasRole "Bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Doesen" ;
             pnv:givenName "Jan" ;
             pnv:literalName "van Doesen" ;
@@ -6875,7 +6878,7 @@
     prov:hadPrimarySource <https://ex.org/2650308170> ;
     pico:hasAge "27" ;
     pico:hasRole "Bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Senden" ;
             pnv:givenName "Christiaan" ;
             pnv:literalName "van Senden" ;
@@ -6940,7 +6943,7 @@
     prov:hadPrimarySource <https://ex.org/2650308191> ;
     pico:hasAge "29" ;
     pico:hasRole "Bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Lee" ;
             pnv:givenName "Maria Johanna" ;
             pnv:literalName "van der Lee" ;
@@ -7029,7 +7032,7 @@
     prov:hadPrimarySource <https://ex.org/2650308212> ;
     pico:hasAge "60" ;
     pico:hasRole "Bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Wieringen" ;
             pnv:givenName "Kornelis" ;
             pnv:literalName "van Wieringen" ;
@@ -7130,7 +7133,7 @@
     prov:hadPrimarySource <https://ex.org/2650308240> ;
     pico:hasAge "59" ;
     pico:hasRole "Bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Lier" ;
             pnv:givenName "Martinus" ;
             pnv:literalName "van Lier" ;
@@ -7195,7 +7198,7 @@
     prov:hadPrimarySource <https://ex.org/2650308264> ;
     pico:hasAge "18" ;
     pico:hasRole "Bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Vaart" ;
             pnv:givenName "Hijlkje" ;
             pnv:literalName "van der Vaart" ;
@@ -7212,7 +7215,7 @@
     prov:hadPrimarySource <https://ex.org/2650308264> ;
     pico:hasAge "24" ;
     pico:hasRole "Bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Brink" ;
             pnv:givenName "Fredrik" ;
             pnv:literalName "ten Brink" ;
@@ -7325,7 +7328,7 @@
     prov:hadPrimarySource <https://ex.org/2650308299> ;
     pico:hasAge "24" ;
     pico:hasRole "Bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Schooneveld" ;
             pnv:givenName "Antoinetta Wilhelmina" ;
             pnv:literalName "van Schooneveld" ;
@@ -7450,7 +7453,7 @@
     prov:hadPrimarySource <https://ex.org/2650308333> ;
     pico:hasAge "34" ;
     pico:hasRole "Bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Ettekoven" ;
             pnv:givenName "Karel" ;
             pnv:literalName "van Ettekoven" ;
@@ -7467,7 +7470,7 @@
     prov:hadPrimarySource <https://ex.org/2650308340> ;
     pico:hasAge "19" ;
     pico:hasRole "Bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Wolde" ;
             pnv:givenName "Matje" ;
             pnv:literalName "de Wolde" ;
@@ -7640,7 +7643,7 @@
     prov:hadPrimarySource <https://ex.org/2650308389> ;
     pico:hasAge "23" ;
     pico:hasRole "Bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Joolingen" ;
             pnv:givenName "Aartje" ;
             pnv:literalName "van Joolingen" ;
@@ -7669,7 +7672,7 @@
     prov:hadPrimarySource <https://ex.org/2650308396> ;
     pico:hasAge "28" ;
     pico:hasRole "Bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Jong" ;
             pnv:givenName "Betje" ;
             pnv:literalName "de Jong" ;
@@ -7710,7 +7713,7 @@
     prov:hadPrimarySource <https://ex.org/2650308403> ;
     pico:hasAge "21" ;
     pico:hasRole "Bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Kampen" ;
             pnv:givenName "Antonie" ;
             pnv:literalName "van Kampen" ;
@@ -7739,7 +7742,7 @@
     prov:hadPrimarySource <https://ex.org/2650308410> ;
     pico:hasAge "30" ;
     pico:hasRole "Bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Schaaf" ;
             pnv:givenName "Jan" ;
             pnv:literalName "van der Schaaf" ;
@@ -7768,7 +7771,7 @@
     prov:hadPrimarySource <https://ex.org/2650308417> ;
     pico:hasAge "25" ;
     pico:hasRole "Bruidegom" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Ee" ;
             pnv:givenName "Willem Fredrik" ;
             pnv:literalName "van Ee" ;
@@ -7833,7 +7836,7 @@
     prov:hadPrimarySource <https://ex.org/2650308438> ;
     pico:hasAge "23" ;
     pico:hasRole "Bruid" ;
-    sdo:additionalName [ a pnv:PersonName ;
+    sdo:alternateName [ a pnv:PersonName ;
             pnv:baseSurname "Straalen" ;
             pnv:givenName "Maria Jacoba" ;
             pnv:literalName "van Straalen" ;
@@ -7955,6 +7958,7 @@
     sdo:spouse <https://ex.org/Person2650308469> .
 
 <https://ex.org/2650307932> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/ECF5244D58B14D8A958856016B756BFC" ;
             sdo:position "1" ;
@@ -7967,6 +7971,7 @@
     sdo:url "https://proxy.archieven.nl/236/4C0F4F2FBBF94D51904392F98F62B6E3" .
 
 <https://ex.org/2650307966> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/17A336F2C9AE43A5B0A4C87E8B210E6E" ;
             sdo:position "1" ;
@@ -7979,6 +7984,7 @@
     sdo:url "https://proxy.archieven.nl/236/0B20A6179805498BAA4F04264EE8221C" .
 
 <https://ex.org/2650308119> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/92DE079529FC4616A595D461A98B68F0" ;
             sdo:position "1" ;
@@ -7991,6 +7997,7 @@
     sdo:url "https://proxy.archieven.nl/236/FF931A32D96C40EF9CE0FEB1DC164FEE" .
 
 <https://ex.org/2650308320> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/E4FFF761BDB6403696842952E40E71FB" ;
             sdo:position "1" ;
@@ -8003,6 +8010,7 @@
     sdo:url "https://proxy.archieven.nl/236/C76A5C3C5F61470784EB85D38FAF3ABF" .
 
 <https://ex.org/2650307824> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/D97ACDAB76EA489B9C678EED9EEF6CDC" ;
             sdo:position "1" ;
@@ -8015,6 +8023,7 @@
     sdo:url "https://proxy.archieven.nl/236/6FC48A5A676B4740B6ABBD3025890E1D" .
 
 <https://ex.org/2650307831> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/257C9D54EF3B411CA072852798085C3D" ;
             sdo:position "1" ;
@@ -8027,6 +8036,7 @@
     sdo:url "https://proxy.archieven.nl/236/263185B25DF548069C78E9D4B94E8EC2" .
 
 <https://ex.org/2650307838> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/0F1586A3AEB341C0BA17F83D1CB781B2" ;
             sdo:position "1" ;
@@ -8039,6 +8049,7 @@
     sdo:url "https://proxy.archieven.nl/236/5810D244863949098F8EC0C9C91F2ED5" .
 
 <https://ex.org/2650307845> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/191961364A354F73AC3377E9221BDC5C" ;
             sdo:position "1" ;
@@ -8051,6 +8062,7 @@
     sdo:url "https://proxy.archieven.nl/236/5DBD6B5FACFA4262A9B4DF79012A7086" .
 
 <https://ex.org/2650307852> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/5D8FE9FF25E945D8A2B642B32CC75E6D" ;
             sdo:position "1" ;
@@ -8063,6 +8075,7 @@
     sdo:url "https://proxy.archieven.nl/236/2822124D766643EDA1FAAD9FE1433530" .
 
 <https://ex.org/2650307859> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/95F216EC189A4107B8840F3374EA439A" ;
             sdo:position "1" ;
@@ -8075,6 +8088,7 @@
     sdo:url "https://proxy.archieven.nl/236/DA45DD3F6DD64736A397459EF7F40D11" .
 
 <https://ex.org/2650307866> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/7732CBF9510E4DDDB2C0A3B2A77D4952" ;
             sdo:position "1" ;
@@ -8087,6 +8101,7 @@
     sdo:url "https://proxy.archieven.nl/236/BF09C7921E864B1499DAA20BDA5D8557" .
 
 <https://ex.org/2650307873> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/50DD5404E4FE49CE96A8670CBED36D4E" ;
             sdo:position "1" ;
@@ -8099,6 +8114,7 @@
     sdo:url "https://proxy.archieven.nl/236/B7EB083447C14FA39F87CCEE6BB57395" .
 
 <https://ex.org/2650307880> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/9AF6E2FFA6F3414E894C741C08B70ACB" ;
             sdo:position "1" ;
@@ -8111,6 +8127,7 @@
     sdo:url "https://proxy.archieven.nl/236/24832E5C9D8945269706490B526AD5AE" .
 
 <https://ex.org/2650307887> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/E8B921636F1B4668BCB8CB2FD5B9EC44" ;
             sdo:position "1" ;
@@ -8123,6 +8140,7 @@
     sdo:url "https://proxy.archieven.nl/236/A0A969A202684D93978481C4357DD535" .
 
 <https://ex.org/2650307894> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/D06C2FC460C34704B3DA0FA170029E67" ;
             sdo:position "1" ;
@@ -8135,6 +8153,7 @@
     sdo:url "https://proxy.archieven.nl/236/A4B00C6A06CA4EFB8BA74C73936583F0" .
 
 <https://ex.org/2650307901> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/363689239D334572BC9EDCFBAFECE107" ;
             sdo:position "1" ;
@@ -8147,6 +8166,7 @@
     sdo:url "https://proxy.archieven.nl/236/56254AA84ABA47818B28C7F7682C5C1C" .
 
 <https://ex.org/2650307908> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/FA07C7918CCF4A64BF461741B1C6DC9F" ;
             sdo:position "1" ;
@@ -8159,6 +8179,7 @@
     sdo:url "https://proxy.archieven.nl/236/8D9077F19DEE4F82ADFCCA01D79CCF66" .
 
 <https://ex.org/2650307918> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/2780A0FCFE4F4600B4B7542A04C8FF26" ;
             sdo:position "1" ;
@@ -8171,6 +8192,7 @@
     sdo:url "https://proxy.archieven.nl/236/1EEAD3576B154BD195AEB130DCC64A8E" .
 
 <https://ex.org/2650307925> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/8098B917479A42D0A4001AE9528B38E3" ;
             sdo:position "1" ;
@@ -8183,6 +8205,7 @@
     sdo:url "https://proxy.archieven.nl/236/D7406846CC6B45D9914DC6109BB29CFF" .
 
 <https://ex.org/2650307938> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/BD9F0D34143A408BB1151B155A65476A" ;
             sdo:position "1" ;
@@ -8195,6 +8218,7 @@
     sdo:url "https://proxy.archieven.nl/236/979CA9D3059A4B498C59804E2DAE963B" .
 
 <https://ex.org/2650307945> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/FE887C40B4E6428A9442D16069D6389B" ;
             sdo:position "1" ;
@@ -8207,6 +8231,7 @@
     sdo:url "https://proxy.archieven.nl/236/254672843EEB435FA3944347754A1903" .
 
 <https://ex.org/2650307952> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/D850D19368E7416BB7ADC9CC5E8F7570" ;
             sdo:position "1" ;
@@ -8219,6 +8244,7 @@
     sdo:url "https://proxy.archieven.nl/236/7E27A7269ED0495BBEDD786979218C8A" .
 
 <https://ex.org/2650307959> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/06D1BC77172B455F96846059B1211FA0" ;
             sdo:position "1" ;
@@ -8231,6 +8257,7 @@
     sdo:url "https://proxy.archieven.nl/236/D6FCC092A09B40839C10FDBFC800A049" .
 
 <https://ex.org/2650307972> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/9CF15021CA934685B4F277789F9D4D2D" ;
             sdo:position "1" ;
@@ -8243,6 +8270,7 @@
     sdo:url "https://proxy.archieven.nl/236/D54E78B909B54E60AAD137C1390709DD" .
 
 <https://ex.org/2650307979> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/BF6100AC2BB84EBE9115071957593856" ;
             sdo:position "1" ;
@@ -8255,6 +8283,7 @@
     sdo:url "https://proxy.archieven.nl/236/9118CB2594F74B4D9D60BC1CD72E7E6E" .
 
 <https://ex.org/2650307986> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/637B16BEB3C24FD9869B7E258E4EA76F" ;
             sdo:position "1" ;
@@ -8267,6 +8296,7 @@
     sdo:url "https://proxy.archieven.nl/236/A1EABB84208B48BE9ABFB97037F90084" .
 
 <https://ex.org/2650307993> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/821303832F784BCD8EFD307569BFB02A" ;
             sdo:position "1" ;
@@ -8279,6 +8309,7 @@
     sdo:url "https://proxy.archieven.nl/236/4977236B720A4972A3A3A5C33A2D56BF" .
 
 <https://ex.org/2650308000> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/FEF04DEF86154391A95E1C1694149AD4" ;
             sdo:position "1" ;
@@ -8291,6 +8322,7 @@
     sdo:url "https://proxy.archieven.nl/236/349EEE879F2B4F79B3B55806EE84CB6D" .
 
 <https://ex.org/2650308007> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/F61EC0A69B7A4F7FA6CF788BCC2EDA3F" ;
             sdo:position "1" ;
@@ -8303,6 +8335,7 @@
     sdo:url "https://proxy.archieven.nl/236/A9698974DF934638AB226B6F9993A59A" .
 
 <https://ex.org/2650308014> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/FCE1C6A097CF4175BEB61748D1C103E6" ;
             sdo:position "1" ;
@@ -8315,6 +8348,7 @@
     sdo:url "https://proxy.archieven.nl/236/79E58F6030B74218BBC830781579605C" .
 
 <https://ex.org/2650308021> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/7745785F848F4EF0A677C7D754694FE9" ;
             sdo:position "1" ;
@@ -8327,6 +8361,7 @@
     sdo:url "https://proxy.archieven.nl/236/D96756F9EB8D4FF5AE22DC5FBD5BB2BF" .
 
 <https://ex.org/2650308028> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/D19C645AEFE34A50B306DF9EA6E95412" ;
             sdo:position "1" ;
@@ -8339,6 +8374,7 @@
     sdo:url "https://proxy.archieven.nl/236/7CD0229C55F54112A71C946D0F677FC8" .
 
 <https://ex.org/2650308035> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/BBCD4E592EEB457088763241ACAB4541" ;
             sdo:position "1" ;
@@ -8351,6 +8387,7 @@
     sdo:url "https://proxy.archieven.nl/236/FCBE64AD4D9E4BA581E0B18988E4987B" .
 
 <https://ex.org/2650308042> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/2E128730676B4529AE8B130AEC8B2795" ;
             sdo:position "1" ;
@@ -8363,6 +8400,7 @@
     sdo:url "https://proxy.archieven.nl/236/26BC1EDB45A243E891BA2BA3A2817E60" .
 
 <https://ex.org/2650308049> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/369E6887165E4553B31654FBC47B1370" ;
             sdo:position "1" ;
@@ -8375,6 +8413,7 @@
     sdo:url "https://proxy.archieven.nl/236/D55FB5FED4C24A31ADFCE4E16F7092B2" .
 
 <https://ex.org/2650308056> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/E8C1662D8E8E4D17BAB5B3AA582E227E" ;
             sdo:position "1" ;
@@ -8387,6 +8426,7 @@
     sdo:url "https://proxy.archieven.nl/236/B7F7FE6B6C7A4E7AA448AFDD28171FB3" .
 
 <https://ex.org/2650308063> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/92743B13A87B43E58DC21735703EA2E7" ;
             sdo:position "1" ;
@@ -8399,6 +8439,7 @@
     sdo:url "https://proxy.archieven.nl/236/A49B257C86DF4062A39B5B7C8ED1CE59" .
 
 <https://ex.org/2650308070> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/4BC06BBAAC3B4BC086CC324A72FAC821" ;
             sdo:position "1" ;
@@ -8411,6 +8452,7 @@
     sdo:url "https://proxy.archieven.nl/236/4BC58A263C3E4D719899C2B24906E4DC" .
 
 <https://ex.org/2650308077> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/246307BCBBDF46E88AE4F8386C5084D1" ;
             sdo:position "1" ;
@@ -8423,6 +8465,7 @@
     sdo:url "https://proxy.archieven.nl/236/4E926F2818C745838D7C48FA625B6BF2" .
 
 <https://ex.org/2650308084> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/2F7110719E4C450087ECD638E0CBB742" ;
             sdo:position "1" ;
@@ -8435,6 +8478,7 @@
     sdo:url "https://proxy.archieven.nl/236/6886E1F1689246D6878BD315485A6BB6" .
 
 <https://ex.org/2650308091> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/619EF7AACBD24AE1A54270DF86854227" ;
             sdo:position "1" ;
@@ -8447,6 +8491,7 @@
     sdo:url "https://proxy.archieven.nl/236/2D9B3011C1D047C982D801AEEBAF9F16" .
 
 <https://ex.org/2650308098> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/6E25FEE0E396416A8C448FD57517AAE8" ;
             sdo:position "1" ;
@@ -8459,6 +8504,7 @@
     sdo:url "https://proxy.archieven.nl/236/CDC81D3945D144D9B476FCD7F0A57004" .
 
 <https://ex.org/2650308105> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/F314FBB9AE2B4ED1B5A80342DCC950E9" ;
             sdo:position "1" ;
@@ -8471,6 +8517,7 @@
     sdo:url "https://proxy.archieven.nl/236/E07A6A5E130C4688815D44FA6937AB7B" .
 
 <https://ex.org/2650308112> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/2943F3D55AA04318B42DCE120EE137B5" ;
             sdo:position "1" ;
@@ -8483,6 +8530,7 @@
     sdo:url "https://proxy.archieven.nl/236/C3740E9817A044E2AE977D5BBE3E55CB" .
 
 <https://ex.org/2650308125> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/C5905158B0794A9E90E80163B71CFCF4" ;
             sdo:position "1" ;
@@ -8495,6 +8543,7 @@
     sdo:url "https://proxy.archieven.nl/236/B6F4D541AF2540AD8FC13CF97C957594" .
 
 <https://ex.org/2650308135> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/C007D62EF6BD4E0BA538C0E4F47C3329" ;
             sdo:position "1" ;
@@ -8507,6 +8556,7 @@
     sdo:url "https://proxy.archieven.nl/236/0199A5F126514AD6BACAEB885FE7D444" .
 
 <https://ex.org/2650308142> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/015D9A775D5A48CB8FCF12D596A61CD4" ;
             sdo:position "1" ;
@@ -8519,6 +8569,7 @@
     sdo:url "https://proxy.archieven.nl/236/87C664B471454B4D86031A0FF73BBE30" .
 
 <https://ex.org/2650308149> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/77118703F2694AD2AAE5C984AFF28944" ;
             sdo:position "1" ;
@@ -8531,6 +8582,7 @@
     sdo:url "https://proxy.archieven.nl/236/98D7CDAFF1E947B3AA326C2C9F3F50A0" .
 
 <https://ex.org/2650308156> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/0BEC19FADE764E6A9E00BDC048FB96E3" ;
             sdo:position "1" ;
@@ -8543,6 +8595,7 @@
     sdo:url "https://proxy.archieven.nl/236/4DB49495BB3040358C175367134FE204" .
 
 <https://ex.org/2650308163> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/C83002AFA3EA48628FE09FFF729FF0CF" ;
             sdo:position "1" ;
@@ -8555,6 +8608,7 @@
     sdo:url "https://proxy.archieven.nl/236/3136EF9A58DB4035877309E1128CCD6E" .
 
 <https://ex.org/2650308170> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/31230A5F0AA74BBAA4331F866E805E1F" ;
             sdo:position "1" ;
@@ -8567,6 +8621,7 @@
     sdo:url "https://proxy.archieven.nl/236/429F09AF144D4B9BAC6C9DA073CB234E" .
 
 <https://ex.org/2650308177> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/CB7DDB1E9B344E318FE71FD56D109BAC" ;
             sdo:position "1" ;
@@ -8579,6 +8634,7 @@
     sdo:url "https://proxy.archieven.nl/236/5DB1E38DCA0D4BCB8B132B4B84D61FEE" .
 
 <https://ex.org/2650308184> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/72E52AE0AB9044F880EC17A5F724CD22" ;
             sdo:position "1" ;
@@ -8591,6 +8647,7 @@
     sdo:url "https://proxy.archieven.nl/236/CCFDB18B73BD4295B50B1D371A1CB3F0" .
 
 <https://ex.org/2650308191> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/FDAA2C370B504D0292B887B247875954" ;
             sdo:position "1" ;
@@ -8603,6 +8660,7 @@
     sdo:url "https://proxy.archieven.nl/236/B9743E7121154185A86951A8D9773994" .
 
 <https://ex.org/2650308198> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/BAE42171AE6948F3AA6917A022D4EFB1" ;
             sdo:position "1" ;
@@ -8615,6 +8673,7 @@
     sdo:url "https://proxy.archieven.nl/236/C5DC79DDFEE944F6916DF559B35965DF" .
 
 <https://ex.org/2650308205> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/993E81E6C6344D97802051B287DAF0B5" ;
             sdo:position "1" ;
@@ -8627,6 +8686,7 @@
     sdo:url "https://proxy.archieven.nl/236/6665912C532D493CAC93B95B53464256" .
 
 <https://ex.org/2650308212> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/C25528D91C88416C8D3E55136428D289" ;
             sdo:position "1" ;
@@ -8639,6 +8699,7 @@
     sdo:url "https://proxy.archieven.nl/236/637EDD0CC9E64231951745AEE9F72089" .
 
 <https://ex.org/2650308219> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/3E5481D737A5457D9815E4278D6B0381" ;
             sdo:position "1" ;
@@ -8651,6 +8712,7 @@
     sdo:url "https://proxy.archieven.nl/236/FB72DC9A79214DC1B1B7CBD86D945F79" .
 
 <https://ex.org/2650308226> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/3E5481D737A5457D9815E4278D6B0381" ;
             sdo:position "1" ;
@@ -8663,6 +8725,7 @@
     sdo:url "https://proxy.archieven.nl/236/08550858488D4B7D9CDE9027B6BD7094" .
 
 <https://ex.org/2650308233> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/37A86D1CBC3C4870AB5CBB2903219BCB" ;
             sdo:position "1" ;
@@ -8675,6 +8738,7 @@
     sdo:url "https://proxy.archieven.nl/236/E991D3439CF2428DAE667F6AA4BA1A40" .
 
 <https://ex.org/2650308240> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/580A12AB62354FE88516F95F3382CA13" ;
             sdo:position "1" ;
@@ -8687,6 +8751,7 @@
     sdo:url "https://proxy.archieven.nl/236/7E07BFDF54804694A4707228F826DB21" .
 
 <https://ex.org/2650308247> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/E14C22E4A505481ABCC905C20934AF24" ;
             sdo:position "1" ;
@@ -8699,6 +8764,7 @@
     sdo:url "https://proxy.archieven.nl/236/7366B5DA3F7D4944B908B41216E8505C" .
 
 <https://ex.org/2650308254> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/6874555E847E4CFCBE5E7637099325C2" ;
             sdo:position "1" ;
@@ -8711,6 +8777,7 @@
     sdo:url "https://proxy.archieven.nl/236/48027F8806E244B78CF2255CC6CE35E8" .
 
 <https://ex.org/2650308264> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/39DB423F523E4A7194504B699FBECD3A" ;
             sdo:position "1" ;
@@ -8723,6 +8790,7 @@
     sdo:url "https://proxy.archieven.nl/236/B5CD5A99518347139A8F365A87B422AF" .
 
 <https://ex.org/2650308271> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/8C418D8C346249D9AD440CDB38C437A1" ;
             sdo:position "1" ;
@@ -8735,6 +8803,7 @@
     sdo:url "https://proxy.archieven.nl/236/99BF52959AD446B1A50A8D95945A67AF" .
 
 <https://ex.org/2650308278> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/5E73A833622E43A79827242C9CFBB25C" ;
             sdo:position "1" ;
@@ -8747,6 +8816,7 @@
     sdo:url "https://proxy.archieven.nl/236/ED5C033E94E64F5A883AC78B586D6D66" .
 
 <https://ex.org/2650308285> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/F8002BF96E7B41A9AFF7547E1D9CCCE9" ;
             sdo:position "1" ;
@@ -8759,6 +8829,7 @@
     sdo:url "https://proxy.archieven.nl/236/ED5B7D3240B84EBCA0D70F0051347A13" .
 
 <https://ex.org/2650308292> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/8A47F08D54D44C50A80DF5F3E318C669" ;
             sdo:position "1" ;
@@ -8771,6 +8842,7 @@
     sdo:url "https://proxy.archieven.nl/236/8D1EF78F5E1C4AF5BBBB5CA04738E5A4" .
 
 <https://ex.org/2650308299> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/8D1D7B1894F247A0A5EC67E25591F31E" ;
             sdo:position "1" ;
@@ -8783,6 +8855,7 @@
     sdo:url "https://proxy.archieven.nl/236/C502298F1E1A472E9D3845E147150B91" .
 
 <https://ex.org/2650308306> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/4857A56BD5A84203B8EC1EF8954637E6" ;
             sdo:position "1" ;
@@ -8795,6 +8868,7 @@
     sdo:url "https://proxy.archieven.nl/236/8325CD8217EC4B5988DC06F021BCCA4C" .
 
 <https://ex.org/2650308313> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/E89DE4B6BDAF43C0B3217059DAF20AE0" ;
             sdo:position "1" ;
@@ -8807,6 +8881,7 @@
     sdo:url "https://proxy.archieven.nl/236/E6408A3238F04C3BA26BE4DA421B8342" .
 
 <https://ex.org/2650308326> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/1A8D27DC39C14627821BF10784323781" ;
             sdo:position "1" ;
@@ -8819,6 +8894,7 @@
     sdo:url "https://proxy.archieven.nl/236/7F88F791D160452382A945C2E9885277" .
 
 <https://ex.org/2650308333> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/F5207A8256194BC68665BB4477999928" ;
             sdo:position "1" ;
@@ -8831,6 +8907,7 @@
     sdo:url "https://proxy.archieven.nl/236/612917D3EAF7479197AE0BB22C575799" .
 
 <https://ex.org/2650308340> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/CCD1BC9C540844E08CD94D5BA8D25D4E" ;
             sdo:position "1" ;
@@ -8843,6 +8920,7 @@
     sdo:url "https://proxy.archieven.nl/236/3B6A00DFBECA4B3D9A31395409159C60" .
 
 <https://ex.org/2650308347> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/52D3E0E86F914142964CA6D92C1F9E2D" ;
             sdo:position "1" ;
@@ -8855,6 +8933,7 @@
     sdo:url "https://proxy.archieven.nl/236/A325265CC99646C886C21B0EB4BE0CB1" .
 
 <https://ex.org/2650308354> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/7BF9E938A4A745EAA57730C31A57FF8C" ;
             sdo:position "1" ;
@@ -8867,6 +8946,7 @@
     sdo:url "https://proxy.archieven.nl/236/A9403BC51D9D476D840CAA1DC03F04EF" .
 
 <https://ex.org/2650308361> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/6E1EF028328347BA9CDA2037A4C2F442" ;
             sdo:position "1" ;
@@ -8879,6 +8959,7 @@
     sdo:url "https://proxy.archieven.nl/236/676EEB4D05BF46A9AD9057A22C3F9703" .
 
 <https://ex.org/2650308368> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/A2A193DDBA5B41B3B28A4A87FEB2C5D3" ;
             sdo:position "1" ;
@@ -8891,6 +8972,7 @@
     sdo:url "https://proxy.archieven.nl/236/1B0BE5933ADF40FC8F02F626BE4B5D60" .
 
 <https://ex.org/2650308375> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/7F4C78B290134F6AA92026A076F0D582" ;
             sdo:position "1" ;
@@ -8903,6 +8985,7 @@
     sdo:url "https://proxy.archieven.nl/236/3327BAF285CF4098990C61E60333FFEF" .
 
 <https://ex.org/2650308382> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/26E1A6B293B7445B9709CD4B0C4BE0CF" ;
             sdo:position "1" ;
@@ -8915,6 +8998,7 @@
     sdo:url "https://proxy.archieven.nl/236/2A51051F297248D58C2644CD1D892C4B" .
 
 <https://ex.org/2650308389> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/DC6CC40472DE4282871E8E53980A09F8" ;
             sdo:position "1" ;
@@ -8927,6 +9011,7 @@
     sdo:url "https://proxy.archieven.nl/236/40695EB9A84D4788B4533CE99B6D1A32" .
 
 <https://ex.org/2650308396> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/C69CA24305594D009A216E30DDD46A2C" ;
             sdo:position "1" ;
@@ -8939,6 +9024,7 @@
     sdo:url "https://proxy.archieven.nl/236/3D4DFF5C4D634E568D373E771308A0BE" .
 
 <https://ex.org/2650308403> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/648155C9E27C43E2AE80169A0E05077E" ;
             sdo:position "1" ;
@@ -8951,6 +9037,7 @@
     sdo:url "https://proxy.archieven.nl/236/4DDD4BAABC524E34BCC877ECF5045312" .
 
 <https://ex.org/2650308410> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/4E5EFF7421AD4D0E857C8637FC2A259F" ;
             sdo:position "1" ;
@@ -8963,6 +9050,7 @@
     sdo:url "https://proxy.archieven.nl/236/2106014465184C258F8594610B96C917" .
 
 <https://ex.org/2650308417> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/BFF4F67EE1FD41648B04244504B52D41" ;
             sdo:position "1" ;
@@ -8975,6 +9063,7 @@
     sdo:url "https://proxy.archieven.nl/236/0EA4443B76E541A38758904E2A923C67" .
 
 <https://ex.org/2650308424> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/D1B4587C2EDA45FF96576509AD794836" ;
             sdo:position "1" ;
@@ -8987,6 +9076,7 @@
     sdo:url "https://proxy.archieven.nl/236/6B87C0F963464EF4A852BB8658397CE0" .
 
 <https://ex.org/2650308431> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/19CA5C9E9B734C9C82861400F40A044D" ;
             sdo:position "1" ;
@@ -8999,6 +9089,7 @@
     sdo:url "https://proxy.archieven.nl/236/F7947B3AEBDE48EE833F290CF67381C6" .
 
 <https://ex.org/2650308438> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/46C108C8FEAB49819703BA8523012B91" ;
             sdo:position "1" ;
@@ -9011,6 +9102,7 @@
     sdo:url "https://proxy.archieven.nl/236/1CEDFAD2FB9143BD9914A6CDB174E615" .
 
 <https://ex.org/2650308445> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/D33F5719C1DC452F817A41345DF34A19" ;
             sdo:position "1" ;
@@ -9023,6 +9115,7 @@
     sdo:url "https://proxy.archieven.nl/236/C215B14DE43A464F836E62146A87CD27" .
 
 <https://ex.org/2650308452> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/EF7D6F67CF12414D85BAA261375156B7" ;
             sdo:position "1" ;
@@ -9035,6 +9128,7 @@
     sdo:url "https://proxy.archieven.nl/236/0C6A612C3F6C43F5B9A8C106AB3BA8AD" .
 
 <https://ex.org/2650308459> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/24F94A52DD0B4EB08D1FC6E68AB3AC4C" ;
             sdo:position "1" ;
@@ -9047,6 +9141,7 @@
     sdo:url "https://proxy.archieven.nl/236/84E5CCB0BABA4CD1831B52A2C6A74471" .
 
 <https://ex.org/2650308466> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://terms.personsincontext.org/sourcetypes/552> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://proxy.archieven.nl/embed/236/FA5AC3B28FF24F3D836889D4E5149F45" ;
             sdo:position "1" ;

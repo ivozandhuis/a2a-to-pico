@@ -15,7 +15,7 @@
       <sdo:name>Pieter Joukes van der Werf</sdo:name>
       <sdo:familyName>van der Werf</sdo:familyName>
       <sdo:givenName>Pieter</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Werf</pnv:literalName>
             <pnv:givenName>Pieter</pnv:givenName>
@@ -23,7 +23,7 @@
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Werf</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <pico:hasAge>84 jaar</pico:hasAge>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
    </pico:PersonObservation>
@@ -36,7 +36,7 @@
       <sdo:name>Jouke Pieters van der Werf</sdo:name>
       <sdo:familyName>van der Werf</sdo:familyName>
       <sdo:givenName>Jouke</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>van der Werf</pnv:literalName>
             <pnv:givenName>Jouke</pnv:givenName>
@@ -44,7 +44,7 @@
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Werf</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
    </pico:PersonObservation>
    <pico:PersonObservation rdf:about="https://ex.org/Person:c02b299d-6e3e-41b4-90a7-98e642f714ef">
@@ -55,12 +55,12 @@
       <sdo:gender rdf:resource="https://schema.org/Female"/>
       <sdo:name>Geeske Pieters</sdo:name>
       <sdo:givenName>Geeske</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:givenName>Geeske</pnv:givenName>
             <pnv:patronym>Pieters</pnv:patronym>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:gender rdf:resource="https://schema.org/Female"/>
    </pico:PersonObservation>
    <pico:PersonObservation rdf:about="https://ex.org/Person:16683087-de16-40a1-8890-10e4aa561bab">
@@ -68,17 +68,18 @@
       <sdo:name>Oetske Lammerts Blaauw</sdo:name>
       <sdo:familyName>Blaauw</sdo:familyName>
       <sdo:givenName>Oetske</sdo:givenName>
-      <sdo:additionalName>
+      <sdo:alternateName>
          <pnv:PersonName>
             <pnv:literalName>Blaauw</pnv:literalName>
             <pnv:givenName>Oetske</pnv:givenName>
             <pnv:patronym>Lammerts</pnv:patronym>
             <pnv:baseSurname>Blaauw</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:additionalName>
+      </sdo:alternateName>
       <sdo:gender rdf:resource="https://schema.org/Female"/>
    </pico:PersonObservation>
    <sdo:ArchiveComponent rdf:about="https://ex.org/">
+      <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/553"/>
       <sdo:name xml:lang="nl">AlleFriezen (Leeuwarden), Archiefnaam: Burgerlijke Stand Opsterland - Tresoar, Bron: boek, Deel:
                 3020, Periode: 1864, (toegangsnr. 30-28), inv.nr. 3020, Overlijdensregister 1864, 0044</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1864-02-29</sdo:dateCreated>
