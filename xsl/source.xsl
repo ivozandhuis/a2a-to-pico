@@ -116,25 +116,25 @@
 
 	<xsl:template match="a2a:Uri">
 		<sdo:url>
-			<xsl:value-of select="."/>
+			<xsl:value-of select="normalize-space(.)"/>
 		</sdo:url>
     </xsl:template>
 	
 	<xsl:template match="a2a:OrderSequenceNumber">
 		<sdo:position>
-			<xsl:value-of select="."/>
+			<xsl:value-of select="normalize-space(.)"/>
 		</sdo:position>
     </xsl:template>
 
 	<xsl:template match="a2a:UriViewer">
 		<sdo:embedUrl>
-			<xsl:value-of select="."/>
+			<xsl:value-of select="normalize-space(.)"/>
 		</sdo:embedUrl>
     </xsl:template>
 	
 	<xsl:template match="a2a:UriPreview">
 		<sdo:thumbnail>
-			<xsl:value-of select="."/>
+			<xsl:value-of select="normalize-space(.)"/>
 		</sdo:thumbnail>
     </xsl:template>
 	
@@ -142,13 +142,13 @@
 
     <xsl:template match="a2a:SourceLastChangeDate">
 		<sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">
-			<xsl:value-of select="."/>
+			<xsl:value-of select="normalize-space(.)"/>
 		</sdo:dateModified>
 	</xsl:template>
 
 	<xsl:template match="a2a:SourceDigitalOriginal">
 		<sdo:url>
-			<xsl:value-of select="."/>
+			<xsl:value-of select="normalize-space(.)"/>
 		</sdo:url> 
     </xsl:template>
 	
@@ -160,35 +160,35 @@
 
     <xsl:template match="a2a:Place" mode="schema-name-nl">
         <xsl:text>(</xsl:text>
-        <xsl:value-of select="."/>
+        <xsl:value-of select="normalize-space(.)"/>
         <xsl:text>), </xsl:text>
     </xsl:template>
 
     <xsl:template match="a2a:InstitutionName/text()" mode="schema-name-nl">
-        <xsl:value-of select="."/>
+        <xsl:value-of select="normalize-space(.)"/>
         <xsl:text> </xsl:text>
     </xsl:template>
 
     <xsl:template match="a2a:Archive/text()" mode="schema-name-nl">
         <xsl:text>(toegangsnr. </xsl:text>
-        <xsl:value-of select="."/>
+        <xsl:value-of select="normalize-space(.)"/>
         <xsl:text>), </xsl:text>
     </xsl:template>
 
     <xsl:template match="a2a:Collection/text()"  mode="schema-name-nl">
-        <xsl:value-of select="."/>
+        <xsl:value-of select="normalize-space(.)"/>
         <xsl:text>, </xsl:text>
     </xsl:template>
 
     <xsl:template match="a2a:Section"/>
 
     <xsl:template match="a2a:Book/text()" mode="schema-name-nl">
-        <xsl:value-of select="."/>
+        <xsl:value-of select="normalize-space(.)"/>
         <xsl:text>, </xsl:text>
     </xsl:template>
 
     <xsl:template match="a2a:Folio/text()" mode="schema-name-nl">
-        <xsl:value-of select="."/>
+        <xsl:value-of select="normalize-space(.)"/>
         <xsl:text>, </xsl:text>
     </xsl:template>
 
@@ -197,12 +197,12 @@
 
     <xsl:template match="a2a:RegistryNumber/text()" mode="schema-name-nl">
         <xsl:text>inv.nr. </xsl:text>
-        <xsl:value-of select="."/>
+        <xsl:value-of select="normalize-space(.)"/>
         <xsl:text>, </xsl:text>
     </xsl:template>
 
     <xsl:template match="a2a:DocumentNumber/text()">
-        <xsl:value-of select="."/>
+        <xsl:value-of select="normalize-space(.)"/>
     </xsl:template>
 
 <!-- level 2: END subelements of a2a:SourceReference -->

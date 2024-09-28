@@ -80,23 +80,18 @@
    </pico:PersonObservation>
    <sdo:ArchiveComponent rdf:about="https://ex.org/">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/553"/>
-      <sdo:name xml:lang="nl">AlleFriezen (Leeuwarden), Archiefnaam: Burgerlijke Stand Opsterland - Tresoar, Bron: boek, Deel:
-                3020, Periode: 1864, (toegangsnr. 30-28), inv.nr. 3020, Overlijdensregister 1864, 0044</sdo:name>
+      <sdo:name xml:lang="nl">AlleFriezen (Leeuwarden), Archiefnaam: Burgerlijke Stand Opsterland - Tresoar, Bron: boek, Deel: 3020, Periode: 1864, (toegangsnr. 30-28), inv.nr. 3020, Overlijdensregister 1864, 0044</sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1864-02-29</sdo:dateCreated>
       <sdo:locationCreated>Opsterland</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url>
-                    https://tresoar-images.memorix.nl/frl/thumb/640x480/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg</sdo:url>
-            <sdo:embedUrl>
-                    http://allefriezen.nl/zoeken/deeds/8f998b40-9d13-1861-62fe-feb667283688</sdo:embedUrl>
-            <sdo:thumbnail>
-                    https://tresoar-images.memorix.nl/frl/thumb/250x250/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg</sdo:thumbnail>
+            <sdo:url>https://tresoar-images.memorix.nl/frl/thumb/640x480/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg</sdo:url>
+            <sdo:embedUrl>http://allefriezen.nl/zoeken/deeds/8f998b40-9d13-1861-62fe-feb667283688</sdo:embedUrl>
+            <sdo:thumbnail>https://tresoar-images.memorix.nl/frl/thumb/250x250/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg</sdo:thumbnail>
          </sdo:ImageObject>
       </sdo:associatedMedia>
-      <sdo:url>
-            http://allefriezen.nl/zoeken/deeds/8f998b40-9d13-1861-62fe-feb667283688</sdo:url>
+      <sdo:url>http://allefriezen.nl/zoeken/deeds/8f998b40-9d13-1861-62fe-feb667283688</sdo:url>
       <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-08-29</sdo:dateModified>
    </sdo:ArchiveComponent>
 </rdf:RDF>
