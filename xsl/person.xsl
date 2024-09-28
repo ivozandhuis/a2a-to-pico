@@ -85,7 +85,7 @@
         </xsl:if>
         <xsl:apply-templates select="a2a:PersonNameFirstName" mode="sdo"/>
         <xsl:if test="a2a:PersonNamePrefixLastName/text() | a2a:PersonNamePatronym/text()">
-            <sdo:additionalName>
+            <sdo:alternateName>
                 <pnv:PersonName>
                     <xsl:if test="$family-name != ''">
                         <pnv:literalName>
@@ -97,7 +97,7 @@
                     <xsl:apply-templates select="a2a:PersonNamePrefixLastName" mode="pnv" />
                     <xsl:apply-templates select="a2a:PersonNameLastName" mode="pnv"/>    
                 </pnv:PersonName>
-            </sdo:additionalName>
+            </sdo:alternateName>
         </xsl:if>
     </xsl:template>
 
