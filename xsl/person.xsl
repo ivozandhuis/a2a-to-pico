@@ -41,10 +41,10 @@
 	<xsl:template match="a2a:Gender">
 		<xsl:choose>
 			<xsl:when test="text() = 'Man'">
-				<sdo:gender rdf:resource="sdo:Male"/>
+				<sdo:gender rdf:resource="https://schema.org/Male"/>
 			</xsl:when>
 			<xsl:when test="text() = 'Vrouw'">
-				<sdo:gender rdf:resource="sdo:Female"/>
+				<sdo:gender rdf:resource="https://schema.org/Female"/>
 			</xsl:when>
 		</xsl:choose>
 	</xsl:template>
@@ -67,19 +67,31 @@
     <xsl:template match="a2a:PersonRemark"/>
 
     <xsl:template match="a2a:PersonName">
-        <sdo:name>
+        <xsl:variable name="full-name">
             <xsl:call-template name="concat-full-name"/>
-        </sdo:name>
-        <sdo:familyName>
-		    <xsl:call-template name="concat-familyname"/>
-        </sdo:familyName>
+        </xsl:variable>
+        <xsl:variable name="family-name">
+            <xsl:call-template name="concat-family-name"/>
+        </xsl:variable>
+        <xsl:if test="$full-name != ''">
+            <sdo:name>
+                <xsl:value-of select="$full-name" />
+            </sdo:name>    
+        </xsl:if>
+        <xsl:if test="$family-name != ''">
+            <sdo:familyName>
+                <xsl:value-of select="$family-name" />
+            </sdo:familyName>
+        </xsl:if>
         <xsl:apply-templates select="a2a:PersonNameFirstName" mode="sdo"/>
         <xsl:if test="a2a:PersonNamePrefixLastName/text() | a2a:PersonNamePatronym/text()">
             <sdo:additionalName>
                 <pnv:PersonName>
-                    <pnv:literalName>
-                        <xsl:call-template name="concat-full-name"/>
-                    </pnv:literalName>
+                    <xsl:if test="$family-name != ''">
+                        <pnv:literalName>
+                            <xsl:value-of select="$family-name" />
+                        </pnv:literalName>
+                    </xsl:if>
                     <xsl:apply-templates select="a2a:PersonNameFirstName" mode="pnv"/>    
                     <xsl:apply-templates select="a2a:PersonNamePatronym" mode="pnv" />
                     <xsl:apply-templates select="a2a:PersonNamePrefixLastName" mode="pnv" />
@@ -150,7 +162,7 @@
         <xsl:value-of select="normalize-space(concat($str1, ' ', $str2, ' ', $str3, ' ', $str4))" />
     </xsl:template>
 
-    <xsl:template name="concat-familyname">
+    <xsl:template name="concat-family-name">
         <!-- Parameters for the strings -->
         <xsl:variable name="str1" select="a2a:PersonNamePrefixLastName" />
         <xsl:variable name="str2" select="a2a:PersonNameLastName" />

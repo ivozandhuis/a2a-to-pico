@@ -9,24 +9,27 @@
     sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Blaauw" ;
             pnv:givenName "Oetske" ;
-            pnv:literalName "Oetske Lammerts Blaauw" ;
+            pnv:literalName "Blaauw" ;
             pnv:patronym "Lammerts" ] ;
     sdo:familyName "Blaauw" ;
+    sdo:gender sdo:Female ;
     sdo:givenName "Oetske" ;
     sdo:name "Oetske Lammerts Blaauw" .
 
 <https://ex.org/Person:8961efcb-31b8-d5d0-8708-ef476627dd6b> a pico:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/> ;
+    pico:hasAge "84 jaar" ;
     pico:hasRole "Overledene" ;
     sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Werf" ;
             pnv:givenName "Pieter" ;
-            pnv:literalName "Pieter Joukes van der Werf" ;
+            pnv:literalName "van der Werf" ;
             pnv:patronym "Joukes" ;
             pnv:surnamePrefix "van der" ] ;
-    sdo:deathDate "1864-01-01"^^xsd:date ;
+    sdo:deathDate "1864-02-28"^^xsd:date ;
     sdo:deathPlace "Gorredijk" ;
     sdo:familyName "van der Werf" ;
+    sdo:gender sdo:Male ;
     sdo:givenName "Pieter" ;
     sdo:name "Pieter Joukes van der Werf" .
 
@@ -36,7 +39,7 @@
     sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Werf" ;
             pnv:givenName "Jouke" ;
-            pnv:literalName "Jouke Pieters van der Werf" ;
+            pnv:literalName "van der Werf" ;
             pnv:patronym "Pieters" ;
             pnv:surnamePrefix "van der" ] ;
     sdo:children <https://ex.org/> ;
@@ -51,10 +54,8 @@
     pico:hasRole "Moeder" ;
     sdo:additionalName [ a pnv:PersonName ;
             pnv:givenName "Geeske" ;
-            pnv:literalName "Geeske Pieters" ;
             pnv:patronym "Pieters" ] ;
     sdo:children <https://ex.org/> ;
-    sdo:familyName "" ;
     sdo:gender sdo:Female ;
     sdo:givenName "Geeske" ;
     sdo:name "Geeske Pieters" ;
@@ -69,8 +70,8 @@
                     https://tresoar-images.memorix.nl/frl/thumb/250x250/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg""" ;
             sdo:url """
                     https://tresoar-images.memorix.nl/frl/thumb/640x480/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg""" ] ;
-    sdo:dateCreated "1864-01-01"^^xsd:date ;
-    sdo:dateModified "2019-08-29" ;
+    sdo:dateCreated "1864-02-29"^^xsd:date ;
+    sdo:dateModified "2019-08-29"^^xsd:date ;
     sdo:locationCreated "Opsterland" ;
     sdo:name """AlleFriezen (Leeuwarden), Archiefnaam: Burgerlijke Stand Opsterland - Tresoar, Bron: boek, Deel:
                 3020, Periode: 1864, (toegangsnr. 30-28), inv.nr. 3020, Overlijdensregister 1864, 0044"""@nl ;
