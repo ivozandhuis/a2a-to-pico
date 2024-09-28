@@ -725,7 +725,7 @@
     prov:hadPrimarySource <https://ex.org/2650307845> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Velden" ;
             pnv:givenName "Willemina" ;
             pnv:literalName "van der Velden" ;
@@ -802,7 +802,7 @@
     prov:hadPrimarySource <https://ex.org/2650307866> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Wiel" ;
             pnv:givenName "Alida" ;
             pnv:literalName "van der Wiel" ;
@@ -843,7 +843,7 @@
     prov:hadPrimarySource <https://ex.org/2650307873> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Sittert" ;
             pnv:givenName "Elisabeth" ;
             pnv:literalName "van Sittert" ;
@@ -908,7 +908,7 @@
     prov:hadPrimarySource <https://ex.org/2650307894> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Bilt" ;
             pnv:givenName "Wilhelmina" ;
             pnv:literalName "van der Bilt" ;
@@ -961,7 +961,7 @@
     prov:hadPrimarySource <https://ex.org/2650307908> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Polak" ;
             pnv:givenName "Saartje" ;
             pnv:literalName "Polak" ;
@@ -1014,7 +1014,7 @@
     prov:hadPrimarySource <https://ex.org/2650307918> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Blijdestijn" ;
             pnv:givenName "Alida Maria Elisabeth" ;
             pnv:literalName "van Blijdestijn" ;
@@ -1031,7 +1031,7 @@
     prov:hadPrimarySource <https://ex.org/2650307918> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Muijen" ;
             pnv:givenName "Hendrikie" ;
             pnv:literalName "van Muijen" ;
@@ -1060,7 +1060,7 @@
     prov:hadPrimarySource <https://ex.org/2650307925> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Ginkel" ;
             pnv:givenName "Geertruida" ;
             pnv:literalName "van Ginkel" ;
@@ -1077,7 +1077,7 @@
     prov:hadPrimarySource <https://ex.org/2650307932> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Wieringen" ;
             pnv:givenName "Johanna" ;
             pnv:literalName "van Wieringen" ;
@@ -1106,7 +1106,7 @@
     prov:hadPrimarySource <https://ex.org/2650307938> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Lammerson" ;
             pnv:givenName "Roosje" ;
             pnv:literalName "Lammerson" ;
@@ -1123,7 +1123,7 @@
     prov:hadPrimarySource <https://ex.org/2650307938> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Dort" ;
             pnv:givenName "Heintje" ;
             pnv:literalName "van Dort" ;
@@ -1140,7 +1140,7 @@
     prov:hadPrimarySource <https://ex.org/2650307945> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Drukker" ;
             pnv:givenName "Rachel" ;
             pnv:literalName "Drukker" ;
@@ -1193,7 +1193,7 @@
     prov:hadPrimarySource <https://ex.org/2650307959> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Bergsma" ;
             pnv:givenName "Aaltje" ;
             pnv:literalName "Bergsma" ;
@@ -1414,7 +1414,7 @@
     prov:hadPrimarySource <https://ex.org/2650308021> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "See" ;
             pnv:givenName "Aaltje" ;
             pnv:literalName "van See" ;
@@ -1431,7 +1431,7 @@
     prov:hadPrimarySource <https://ex.org/2650308021> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Milde" ;
             pnv:givenName "Dirkje" ;
             pnv:literalName "de Milde" ;
@@ -1520,7 +1520,7 @@
     prov:hadPrimarySource <https://ex.org/2650308049> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Man" ;
             pnv:givenName "Neeltje" ;
             pnv:literalName "de Man" ;
@@ -1549,7 +1549,7 @@
     prov:hadPrimarySource <https://ex.org/2650308056> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Dingsdag" ;
             pnv:givenName "Sipora" ;
             pnv:literalName "Dingsdag" ;
@@ -1602,7 +1602,7 @@
     prov:hadPrimarySource <https://ex.org/2650308070> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Rouwelaar" ;
             pnv:givenName "Cornelia" ;
             pnv:literalName "ten Rouwelaar" ;
@@ -1643,7 +1643,7 @@
     prov:hadPrimarySource <https://ex.org/2650308077> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Tuin" ;
             pnv:givenName "Willemina" ;
             pnv:literalName "van der Tuin" ;
@@ -1660,7 +1660,7 @@
     prov:hadPrimarySource <https://ex.org/2650308084> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Straten" ;
             pnv:givenName "Joanna Christina" ;
             pnv:literalName "van Straten" ;
@@ -1737,7 +1737,7 @@
     prov:hadPrimarySource <https://ex.org/2650308105> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Smit" ;
             pnv:givenName "Vogel" ;
             pnv:literalName "Smit" ;
@@ -1754,7 +1754,7 @@
     prov:hadPrimarySource <https://ex.org/2650308105> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Koekoek" ;
             pnv:givenName "Schoontje" ;
             pnv:literalName "Koekoek" ;
@@ -1807,7 +1807,7 @@
     prov:hadPrimarySource <https://ex.org/2650308119> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Markes" ;
             pnv:givenName "Bontje" ;
             pnv:literalName "Markes" ;
@@ -1848,7 +1848,7 @@
     prov:hadPrimarySource <https://ex.org/2650308132> ;
     pico:hasAge "" ;
     pico:hasRole "Bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Duprez" ;
             pnv:givenName "Françoise" ;
             pnv:literalName "Duprez" ;
@@ -1901,7 +1901,7 @@
     prov:hadPrimarySource <https://ex.org/2650308142> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Koot" ;
             pnv:givenName "Aaltje" ;
             pnv:literalName "van Koot" ;
@@ -1954,7 +1954,7 @@
     prov:hadPrimarySource <https://ex.org/2650308156> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Vugt" ;
             pnv:givenName "Adriana" ;
             pnv:literalName "van Vugt" ;
@@ -1983,7 +1983,7 @@
     prov:hadPrimarySource <https://ex.org/2650308163> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Moolen" ;
             pnv:givenName "Helena" ;
             pnv:literalName "van der Moolen" ;
@@ -2024,7 +2024,7 @@
     prov:hadPrimarySource <https://ex.org/2650308170> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Klaveren" ;
             pnv:givenName "Geertruida Cornelia" ;
             pnv:literalName "van Klaveren" ;
@@ -2113,7 +2113,7 @@
     prov:hadPrimarySource <https://ex.org/2650308198> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Nieuwcasteel" ;
             pnv:givenName "Hendrica Willemina" ;
             pnv:literalName "van Nieuwcasteel" ;
@@ -2178,7 +2178,7 @@
     prov:hadPrimarySource <https://ex.org/2650308212> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Dam" ;
             pnv:givenName "Klaasje" ;
             pnv:literalName "van Dam" ;
@@ -2243,7 +2243,7 @@
     prov:hadPrimarySource <https://ex.org/2650308233> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Bogt" ;
             pnv:givenName "Maria Elisabeth" ;
             pnv:literalName "van der Bogt" ;
@@ -2320,7 +2320,7 @@
     prov:hadPrimarySource <https://ex.org/2650308254> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Wiele" ;
             pnv:givenName "Cornelia" ;
             pnv:literalName "van de Wiele" ;
@@ -2409,7 +2409,7 @@
     prov:hadPrimarySource <https://ex.org/2650308271> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Breemen" ;
             pnv:givenName "Elizabeth Maria" ;
             pnv:literalName "van Breemen" ;
@@ -2426,7 +2426,7 @@
     prov:hadPrimarySource <https://ex.org/2650308278> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Asselt" ;
             pnv:givenName "Aaltje" ;
             pnv:literalName "van Asselt" ;
@@ -2479,7 +2479,7 @@
     prov:hadPrimarySource <https://ex.org/2650308292> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Dusschoten" ;
             pnv:givenName "Elisabeth" ;
             pnv:literalName "van Dusschoten" ;
@@ -2532,7 +2532,7 @@
     prov:hadPrimarySource <https://ex.org/2650308306> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Zegen" ;
             pnv:givenName "Judik" ;
             pnv:literalName "Zegen" ;
@@ -2549,7 +2549,7 @@
     prov:hadPrimarySource <https://ex.org/2650308306> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Zegen" ;
             pnv:givenName "Reintje" ;
             pnv:literalName "Zegen" ;
@@ -2614,7 +2614,7 @@
     prov:hadPrimarySource <https://ex.org/2650308326> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Velde" ;
             pnv:givenName "Hendrica" ;
             pnv:literalName "van der Velde" ;
@@ -2631,7 +2631,7 @@
     prov:hadPrimarySource <https://ex.org/2650308326> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Ouw" ;
             pnv:givenName "Maria Catrina" ;
             pnv:literalName "van der Ouw" ;
@@ -2660,7 +2660,7 @@
     prov:hadPrimarySource <https://ex.org/2650308333> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Ettekoven" ;
             pnv:givenName "Evertje" ;
             pnv:literalName "van Ettekoven" ;
@@ -2749,7 +2749,7 @@
     prov:hadPrimarySource <https://ex.org/2650308361> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Kamerik" ;
             pnv:givenName "Rachel" ;
             pnv:literalName "van Kamerik" ;
@@ -2779,7 +2779,7 @@
     prov:hadPrimarySource <https://ex.org/2650308368> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Viet" ;
             pnv:givenName "Maria" ;
             pnv:literalName "de Viet" ;
@@ -2808,7 +2808,7 @@
     prov:hadPrimarySource <https://ex.org/2650308375> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Heijden" ;
             pnv:givenName "Maria Johanna Susanna" ;
             pnv:literalName "van der Heijden" ;
@@ -2861,7 +2861,7 @@
     prov:hadPrimarySource <https://ex.org/2650308389> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Kolk" ;
             pnv:givenName "Aartje" ;
             pnv:literalName "van der Kolk" ;
@@ -2890,7 +2890,7 @@
     prov:hadPrimarySource <https://ex.org/2650308396> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Visjager" ;
             pnv:givenName "Engeltje" ;
             pnv:literalName "Visjager" ;
@@ -2907,7 +2907,7 @@
     prov:hadPrimarySource <https://ex.org/2650308396> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Poorten" ;
             pnv:givenName "Nannette" ;
             pnv:literalName "van der Poorten" ;
@@ -2924,7 +2924,7 @@
     prov:hadPrimarySource <https://ex.org/2650308403> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Blanc" ;
             pnv:givenName "Maria Clementia" ;
             pnv:literalName "Le Blanc" ;
@@ -2953,7 +2953,7 @@
     prov:hadPrimarySource <https://ex.org/2650308410> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Rading" ;
             pnv:givenName "Trijntje" ;
             pnv:literalName "Rading" ;
@@ -2970,7 +2970,7 @@
     prov:hadPrimarySource <https://ex.org/2650308410> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Helder" ;
             pnv:givenName "Antje" ;
             pnv:literalName "Helder" ;
@@ -3023,7 +3023,7 @@
     prov:hadPrimarySource <https://ex.org/2650308424> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Breemen" ;
             pnv:givenName "Elizabeth Maria" ;
             pnv:literalName "van Breemen" ;
@@ -3040,7 +3040,7 @@
     prov:hadPrimarySource <https://ex.org/2650308431> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Ootmarsum" ;
             pnv:givenName "Geertruida Christina" ;
             pnv:literalName "van Ootmarsum" ;
@@ -3093,7 +3093,7 @@
     prov:hadPrimarySource <https://ex.org/2650308445> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Linden" ;
             pnv:givenName "Antje" ;
             pnv:literalName "van der Linden" ;
@@ -3122,7 +3122,7 @@
     prov:hadPrimarySource <https://ex.org/2650308452> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Meerten" ;
             pnv:givenName "Elisabeth Cornelia" ;
             pnv:literalName "van Meerten" ;
@@ -3139,7 +3139,7 @@
     prov:hadPrimarySource <https://ex.org/2650308452> ;
     pico:hasAge "" ;
     pico:hasRole "Moeder van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Jager" ;
             pnv:givenName "Elisabeth Wilhelmina" ;
             pnv:literalName "de Jager" ;
@@ -3243,7 +3243,7 @@
     prov:hadPrimarySource <https://ex.org/2650307824> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Driel" ;
             pnv:givenName "Johannes Albertus" ;
             pnv:literalName "van Driel" ;
@@ -3344,7 +3344,7 @@
     prov:hadPrimarySource <https://ex.org/2650307852> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Gelder" ;
             pnv:givenName "Willem" ;
             pnv:literalName "van Gelder" ;
@@ -3385,7 +3385,7 @@
     prov:hadPrimarySource <https://ex.org/2650307859> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Slingerlandt" ;
             pnv:givenName "Willem Constantijn" ;
             pnv:literalName "van Slingerlandt" ;
@@ -3402,7 +3402,7 @@
     prov:hadPrimarySource <https://ex.org/2650307866> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Waalwijk" ;
             pnv:givenName "Adrianus" ;
             pnv:literalName "van Waalwijk" ;
@@ -3443,7 +3443,7 @@
     prov:hadPrimarySource <https://ex.org/2650307873> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Heteren" ;
             pnv:givenName "Gerrit" ;
             pnv:literalName "van Heteren" ;
@@ -3484,7 +3484,7 @@
     prov:hadPrimarySource <https://ex.org/2650307887> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Möhlen" ;
             pnv:givenName "Ignatius Josephus" ;
             pnv:literalName "von der Möhlen" ;
@@ -3513,7 +3513,7 @@
     prov:hadPrimarySource <https://ex.org/2650307894> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Vogelzang" ;
             pnv:givenName "Pieter" ;
             pnv:literalName "Vogelzang" ;
@@ -3650,7 +3650,7 @@
     prov:hadPrimarySource <https://ex.org/2650307938> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Beth" ;
             pnv:givenName "Eliazer" ;
             pnv:literalName "Beth" ;
@@ -3667,7 +3667,7 @@
     prov:hadPrimarySource <https://ex.org/2650307938> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Harpman" ;
             pnv:givenName "Abraham" ;
             pnv:literalName "Harpman" ;
@@ -3684,7 +3684,7 @@
     prov:hadPrimarySource <https://ex.org/2650307945> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Halverstad" ;
             pnv:givenName "Elias" ;
             pnv:literalName "Halverstad" ;
@@ -3701,7 +3701,7 @@
     prov:hadPrimarySource <https://ex.org/2650307945> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Halberstadt" ;
             pnv:givenName "Levie" ;
             pnv:literalName "Halberstadt" ;
@@ -3742,7 +3742,7 @@
     prov:hadPrimarySource <https://ex.org/2650307959> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Glastra" ;
             pnv:givenName "Siebe" ;
             pnv:literalName "Glastra" ;
@@ -3915,7 +3915,7 @@
     prov:hadPrimarySource <https://ex.org/2650308007> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Meer" ;
             pnv:givenName "Daniel" ;
             pnv:literalName "van der Meer" ;
@@ -4076,7 +4076,7 @@
     prov:hadPrimarySource <https://ex.org/2650308056> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Appelboom" ;
             pnv:givenName "Samuel" ;
             pnv:literalName "Appelboom" ;
@@ -4093,7 +4093,7 @@
     prov:hadPrimarySource <https://ex.org/2650308056> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Praag" ;
             pnv:givenName "Mozes" ;
             pnv:literalName "van Praag" ;
@@ -4207,7 +4207,7 @@
     prov:hadPrimarySource <https://ex.org/2650308091> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Beek" ;
             pnv:givenName "Jacob" ;
             pnv:literalName "van Beek" ;
@@ -4260,7 +4260,7 @@
     prov:hadPrimarySource <https://ex.org/2650308105> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Wessel" ;
             pnv:givenName "Mozes" ;
             pnv:literalName "Wessel" ;
@@ -4277,7 +4277,7 @@
     prov:hadPrimarySource <https://ex.org/2650308105> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Diamant" ;
             pnv:givenName "Levie" ;
             pnv:literalName "Diamant" ;
@@ -4342,7 +4342,7 @@
     prov:hadPrimarySource <https://ex.org/2650308125> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Hartog" ;
             pnv:givenName "Mattheus" ;
             pnv:literalName "den Hartog" ;
@@ -4383,7 +4383,7 @@
     prov:hadPrimarySource <https://ex.org/2650308142> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Ridder" ;
             pnv:givenName "Ot" ;
             pnv:literalName "van de Ridder" ;
@@ -4424,7 +4424,7 @@
     prov:hadPrimarySource <https://ex.org/2650308149> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Doesen" ;
             pnv:givenName "Lammert" ;
             pnv:literalName "van Doesen" ;
@@ -4501,7 +4501,7 @@
     prov:hadPrimarySource <https://ex.org/2650308170> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Senden" ;
             pnv:givenName "Gerhard" ;
             pnv:literalName "van Senden" ;
@@ -4566,7 +4566,7 @@
     prov:hadPrimarySource <https://ex.org/2650308191> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Lee" ;
             pnv:givenName "Cornelis" ;
             pnv:literalName "van der Lee" ;
@@ -4655,7 +4655,7 @@
     prov:hadPrimarySource <https://ex.org/2650308212> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Wieringen" ;
             pnv:givenName "Willem" ;
             pnv:literalName "van Wieringen" ;
@@ -4756,7 +4756,7 @@
     prov:hadPrimarySource <https://ex.org/2650308240> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Lier" ;
             pnv:givenName "David" ;
             pnv:literalName "van Lier" ;
@@ -4821,7 +4821,7 @@
     prov:hadPrimarySource <https://ex.org/2650308264> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Vaart" ;
             pnv:givenName "Jochem" ;
             pnv:literalName "van der Vaart" ;
@@ -4839,7 +4839,7 @@
     prov:hadPrimarySource <https://ex.org/2650308264> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Brink" ;
             pnv:givenName "Hendrik Jan" ;
             pnv:literalName "ten Brink" ;
@@ -4952,7 +4952,7 @@
     prov:hadPrimarySource <https://ex.org/2650308299> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Schooneveld" ;
             pnv:givenName "Gerrit" ;
             pnv:literalName "van Schooneveld" ;
@@ -4981,7 +4981,7 @@
     prov:hadPrimarySource <https://ex.org/2650308306> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Winnik" ;
             pnv:givenName "Jacob" ;
             pnv:literalName "Winnik" ;
@@ -4998,7 +4998,7 @@
     prov:hadPrimarySource <https://ex.org/2650308306> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Witzenhausen" ;
             pnv:givenName "Mozes" ;
             pnv:literalName "Witzenhausen" ;
@@ -5087,7 +5087,7 @@
     prov:hadPrimarySource <https://ex.org/2650308333> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Ettekoven" ;
             pnv:givenName "Jan" ;
             pnv:literalName "van Ettekoven" ;
@@ -5104,7 +5104,7 @@
     prov:hadPrimarySource <https://ex.org/2650308340> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Wolde" ;
             pnv:givenName "Jan" ;
             pnv:literalName "de Wolde" ;
@@ -5278,7 +5278,7 @@
     prov:hadPrimarySource <https://ex.org/2650308389> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Joolingen" ;
             pnv:givenName "Joachim" ;
             pnv:literalName "van Joolingen" ;
@@ -5307,7 +5307,7 @@
     prov:hadPrimarySource <https://ex.org/2650308396> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Jong" ;
             pnv:givenName "Moses" ;
             pnv:literalName "de Jong" ;
@@ -5325,7 +5325,7 @@
     prov:hadPrimarySource <https://ex.org/2650308396> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Serlui" ;
             pnv:givenName "Samuel" ;
             pnv:literalName "Serlui" ;
@@ -5354,7 +5354,7 @@
     prov:hadPrimarySource <https://ex.org/2650308403> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Kampen" ;
             pnv:givenName "Cornelis" ;
             pnv:literalName "van Kampen" ;
@@ -5371,7 +5371,7 @@
     prov:hadPrimarySource <https://ex.org/2650308410> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Hanja" ;
             pnv:givenName "Gerben" ;
             pnv:literalName "Hanja" ;
@@ -5388,7 +5388,7 @@
     prov:hadPrimarySource <https://ex.org/2650308410> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Schaaf" ;
             pnv:givenName "Jan" ;
             pnv:literalName "van der Schaaf" ;
@@ -5418,7 +5418,7 @@
     prov:hadPrimarySource <https://ex.org/2650308417> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Ee" ;
             pnv:givenName "Marten" ;
             pnv:literalName "van Ee" ;
@@ -5459,7 +5459,7 @@
     prov:hadPrimarySource <https://ex.org/2650308431> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Kingma" ;
             pnv:givenName "Fokke" ;
             pnv:literalName "Kingma" ;
@@ -5488,7 +5488,7 @@
     prov:hadPrimarySource <https://ex.org/2650308438> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Straalen" ;
             pnv:givenName "Jacobus Henri" ;
             pnv:literalName "van Straalen" ;
@@ -5541,7 +5541,7 @@
     prov:hadPrimarySource <https://ex.org/2650308452> ;
     pico:hasAge "" ;
     pico:hasRole "Vader van de bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Pruijs" ;
             pnv:givenName "Pieter" ;
             pnv:literalName "Pruijs" ;
@@ -5666,7 +5666,7 @@
     prov:hadPrimarySource <https://ex.org/2650307824> ;
     pico:hasAge "20" ;
     pico:hasRole "Bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Driel" ;
             pnv:givenName "Hendrina Everarda" ;
             pnv:literalName "van Driel" ;
@@ -5767,7 +5767,7 @@
     prov:hadPrimarySource <https://ex.org/2650307852> ;
     pico:hasAge "24" ;
     pico:hasRole "Bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Gelder" ;
             pnv:givenName "Johanna Hillegonda Antoinetta" ;
             pnv:literalName "van Gelder" ;
@@ -5808,7 +5808,7 @@
     prov:hadPrimarySource <https://ex.org/2650307859> ;
     pico:hasAge "25" ;
     pico:hasRole "Bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Slingerlandt" ;
             pnv:givenName "Willem Jacobus Cornelis" ;
             pnv:literalName "van Slingerlandt" ;
@@ -5825,7 +5825,7 @@
     prov:hadPrimarySource <https://ex.org/2650307866> ;
     pico:hasAge "22" ;
     pico:hasRole "Bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Waalwijk" ;
             pnv:givenName "Margaretha Gesina" ;
             pnv:literalName "van Waalwijk" ;
@@ -5866,7 +5866,7 @@
     prov:hadPrimarySource <https://ex.org/2650307873> ;
     pico:hasAge "28" ;
     pico:hasRole "Bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Heteren" ;
             pnv:givenName "Jan Hijko" ;
             pnv:literalName "van Heteren" ;
@@ -5907,7 +5907,7 @@
     prov:hadPrimarySource <https://ex.org/2650307887> ;
     pico:hasAge "30" ;
     pico:hasRole "Bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Möhlen" ;
             pnv:givenName "Elisabeth Carolina" ;
             pnv:literalName "von der Möhlen" ;
@@ -6308,7 +6308,7 @@
     prov:hadPrimarySource <https://ex.org/2650308007> ;
     pico:hasAge "36" ;
     pico:hasRole "Bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Meer" ;
             pnv:givenName "Daniel Nicolaas" ;
             pnv:literalName "van der Meer" ;
@@ -6481,7 +6481,7 @@
     prov:hadPrimarySource <https://ex.org/2650308056> ;
     pico:hasAge "20" ;
     pico:hasRole "Bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Praag" ;
             pnv:givenName "Emanuel" ;
             pnv:literalName "van Praag" ;
@@ -6594,7 +6594,7 @@
     prov:hadPrimarySource <https://ex.org/2650308091> ;
     pico:hasAge "25" ;
     pico:hasRole "Bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Beek" ;
             pnv:givenName "Clara Catharina Elisabeth" ;
             pnv:literalName "van Beek" ;
@@ -6719,7 +6719,7 @@
     prov:hadPrimarySource <https://ex.org/2650308125> ;
     pico:hasAge "19" ;
     pico:hasRole "Bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Hartog" ;
             pnv:givenName "Mattheus" ;
             pnv:literalName "den Hartog" ;
@@ -6760,7 +6760,7 @@
     prov:hadPrimarySource <https://ex.org/2650308142> ;
     pico:hasAge "31" ;
     pico:hasRole "Bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Ridder" ;
             pnv:givenName "Beertje" ;
             pnv:literalName "van de Ridder" ;
@@ -6801,7 +6801,7 @@
     prov:hadPrimarySource <https://ex.org/2650308149> ;
     pico:hasAge "27" ;
     pico:hasRole "Bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Doesen" ;
             pnv:givenName "Jan" ;
             pnv:literalName "van Doesen" ;
@@ -6878,7 +6878,7 @@
     prov:hadPrimarySource <https://ex.org/2650308170> ;
     pico:hasAge "27" ;
     pico:hasRole "Bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Senden" ;
             pnv:givenName "Christiaan" ;
             pnv:literalName "van Senden" ;
@@ -6943,7 +6943,7 @@
     prov:hadPrimarySource <https://ex.org/2650308191> ;
     pico:hasAge "29" ;
     pico:hasRole "Bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Lee" ;
             pnv:givenName "Maria Johanna" ;
             pnv:literalName "van der Lee" ;
@@ -7032,7 +7032,7 @@
     prov:hadPrimarySource <https://ex.org/2650308212> ;
     pico:hasAge "60" ;
     pico:hasRole "Bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Wieringen" ;
             pnv:givenName "Kornelis" ;
             pnv:literalName "van Wieringen" ;
@@ -7133,7 +7133,7 @@
     prov:hadPrimarySource <https://ex.org/2650308240> ;
     pico:hasAge "59" ;
     pico:hasRole "Bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Lier" ;
             pnv:givenName "Martinus" ;
             pnv:literalName "van Lier" ;
@@ -7198,7 +7198,7 @@
     prov:hadPrimarySource <https://ex.org/2650308264> ;
     pico:hasAge "18" ;
     pico:hasRole "Bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Vaart" ;
             pnv:givenName "Hijlkje" ;
             pnv:literalName "van der Vaart" ;
@@ -7215,7 +7215,7 @@
     prov:hadPrimarySource <https://ex.org/2650308264> ;
     pico:hasAge "24" ;
     pico:hasRole "Bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Brink" ;
             pnv:givenName "Fredrik" ;
             pnv:literalName "ten Brink" ;
@@ -7328,7 +7328,7 @@
     prov:hadPrimarySource <https://ex.org/2650308299> ;
     pico:hasAge "24" ;
     pico:hasRole "Bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Schooneveld" ;
             pnv:givenName "Antoinetta Wilhelmina" ;
             pnv:literalName "van Schooneveld" ;
@@ -7453,7 +7453,7 @@
     prov:hadPrimarySource <https://ex.org/2650308333> ;
     pico:hasAge "34" ;
     pico:hasRole "Bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Ettekoven" ;
             pnv:givenName "Karel" ;
             pnv:literalName "van Ettekoven" ;
@@ -7470,7 +7470,7 @@
     prov:hadPrimarySource <https://ex.org/2650308340> ;
     pico:hasAge "19" ;
     pico:hasRole "Bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Wolde" ;
             pnv:givenName "Matje" ;
             pnv:literalName "de Wolde" ;
@@ -7643,7 +7643,7 @@
     prov:hadPrimarySource <https://ex.org/2650308389> ;
     pico:hasAge "23" ;
     pico:hasRole "Bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Joolingen" ;
             pnv:givenName "Aartje" ;
             pnv:literalName "van Joolingen" ;
@@ -7672,7 +7672,7 @@
     prov:hadPrimarySource <https://ex.org/2650308396> ;
     pico:hasAge "28" ;
     pico:hasRole "Bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Jong" ;
             pnv:givenName "Betje" ;
             pnv:literalName "de Jong" ;
@@ -7713,7 +7713,7 @@
     prov:hadPrimarySource <https://ex.org/2650308403> ;
     pico:hasAge "21" ;
     pico:hasRole "Bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Kampen" ;
             pnv:givenName "Antonie" ;
             pnv:literalName "van Kampen" ;
@@ -7742,7 +7742,7 @@
     prov:hadPrimarySource <https://ex.org/2650308410> ;
     pico:hasAge "30" ;
     pico:hasRole "Bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Schaaf" ;
             pnv:givenName "Jan" ;
             pnv:literalName "van der Schaaf" ;
@@ -7771,7 +7771,7 @@
     prov:hadPrimarySource <https://ex.org/2650308417> ;
     pico:hasAge "25" ;
     pico:hasRole "Bruidegom" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Ee" ;
             pnv:givenName "Willem Fredrik" ;
             pnv:literalName "van Ee" ;
@@ -7836,7 +7836,7 @@
     prov:hadPrimarySource <https://ex.org/2650308438> ;
     pico:hasAge "23" ;
     pico:hasRole "Bruid" ;
-    sdo:alternateName [ a pnv:PersonName ;
+    sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Straalen" ;
             pnv:givenName "Maria Jacoba" ;
             pnv:literalName "van Straalen" ;

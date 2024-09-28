@@ -16,14 +16,14 @@
       <sdo:name>Hermina van Leeuwen</sdo:name>
       <sdo:familyName>van Leeuwen</sdo:familyName>
       <sdo:givenName>Hermina</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Leeuwen</pnv:literalName>
             <pnv:givenName>Hermina</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Leeuwen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Female"/>
@@ -37,14 +37,14 @@
       <sdo:name>Pieter Zijdeman van Leeuwen</sdo:name>
       <sdo:familyName>van Leeuwen</sdo:familyName>
       <sdo:givenName>Pieter Zijdeman</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Leeuwen</pnv:literalName>
             <pnv:givenName>Pieter Zijdeman</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Leeuwen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>36</pico:hasAge>
    </pico:PersonObservation>
@@ -291,14 +291,14 @@
       <sdo:name>Johanna van Heumen</sdo:name>
       <sdo:familyName>van Heumen</sdo:familyName>
       <sdo:givenName>Johanna</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Heumen</pnv:literalName>
             <pnv:givenName>Johanna</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Heumen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Female"/>
@@ -312,14 +312,14 @@
       <sdo:name>Derk van Heumen</sdo:name>
       <sdo:familyName>van Heumen</sdo:familyName>
       <sdo:givenName>Derk</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Heumen</pnv:literalName>
             <pnv:givenName>Derk</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Heumen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>37</pico:hasAge>
    </pico:PersonObservation>
@@ -443,14 +443,14 @@
       <sdo:name>Schoontje de Bruin</sdo:name>
       <sdo:familyName>de Bruin</sdo:familyName>
       <sdo:givenName>Schoontje</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>de Bruin</pnv:literalName>
             <pnv:givenName>Schoontje</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Bruin</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -636,14 +636,14 @@
       <sdo:name>Aleida van Egmond</sdo:name>
       <sdo:familyName>van Egmond</sdo:familyName>
       <sdo:givenName>Aleida</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Egmond</pnv:literalName>
             <pnv:givenName>Aleida</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Egmond</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -681,14 +681,14 @@
       <sdo:name>Johanna Elisabeth Maria van Rees</sdo:name>
       <sdo:familyName>van Rees</sdo:familyName>
       <sdo:givenName>Johanna Elisabeth Maria</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Rees</pnv:literalName>
             <pnv:givenName>Johanna Elisabeth Maria</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Rees</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -701,14 +701,14 @@
       <sdo:name>Hendrik Gradus Gabriel van der Poll</sdo:name>
       <sdo:familyName>van der Poll</sdo:familyName>
       <sdo:givenName>Hendrik Gradus Gabriel</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van der Poll</pnv:literalName>
             <pnv:givenName>Hendrik Gradus Gabriel</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Poll</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
@@ -722,14 +722,14 @@
       <sdo:name>Hendrik Gradus Gabriel van der Poll</sdo:name>
       <sdo:familyName>van der Poll</sdo:familyName>
       <sdo:givenName>Hendrik Gradus Gabriel</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van der Poll</pnv:literalName>
             <pnv:givenName>Hendrik Gradus Gabriel</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Poll</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>28</pico:hasAge>
    </pico:PersonObservation>
@@ -779,14 +779,14 @@
       <sdo:name>Johanna van Til</sdo:name>
       <sdo:familyName>van Til</sdo:familyName>
       <sdo:givenName>Johanna</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Til</pnv:literalName>
             <pnv:givenName>Johanna</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Til</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -824,14 +824,14 @@
       <sdo:name>Allegonda Petronella Jacoba van Heerewaarden</sdo:name>
       <sdo:familyName>van Heerewaarden</sdo:familyName>
       <sdo:givenName>Allegonda Petronella Jacoba</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Heerewaarden</pnv:literalName>
             <pnv:givenName>Allegonda Petronella Jacoba</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Heerewaarden</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -1017,14 +1017,14 @@
       <sdo:name>Gesina van Gent</sdo:name>
       <sdo:familyName>van Gent</sdo:familyName>
       <sdo:givenName>Gesina</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Gent</pnv:literalName>
             <pnv:givenName>Gesina</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Gent</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -1062,14 +1062,14 @@
       <sdo:name>Josina Louisa van Gils</sdo:name>
       <sdo:familyName>van Gils</sdo:familyName>
       <sdo:givenName>Josina Louisa</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Gils</pnv:literalName>
             <pnv:givenName>Josina Louisa</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Gils</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -1218,14 +1218,14 @@
       <sdo:name>Aaltje van Tuijl</sdo:name>
       <sdo:familyName>van Tuijl</sdo:familyName>
       <sdo:givenName>Aaltje</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Tuijl</pnv:literalName>
             <pnv:givenName>Aaltje</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Tuijl</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -1349,14 +1349,14 @@
       <sdo:name>Marinus van Leiden</sdo:name>
       <sdo:familyName>van Leiden</sdo:familyName>
       <sdo:givenName>Marinus</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Leiden</pnv:literalName>
             <pnv:givenName>Marinus</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Leiden</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
@@ -1370,14 +1370,14 @@
       <sdo:name>Gerrit van Leiden</sdo:name>
       <sdo:familyName>van Leiden</sdo:familyName>
       <sdo:givenName>Gerrit</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Leiden</pnv:literalName>
             <pnv:givenName>Gerrit</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Leiden</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>38</pico:hasAge>
    </pico:PersonObservation>
@@ -1612,14 +1612,14 @@
       <sdo:name>Adriana van Meurs</sdo:name>
       <sdo:familyName>van Meurs</sdo:familyName>
       <sdo:givenName>Adriana</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Meurs</pnv:literalName>
             <pnv:givenName>Adriana</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Meurs</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -1743,14 +1743,14 @@
       <sdo:name>Willem van der Wiel</sdo:name>
       <sdo:familyName>van der Wiel</sdo:familyName>
       <sdo:givenName>Willem</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van der Wiel</pnv:literalName>
             <pnv:givenName>Willem</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Wiel</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
@@ -1764,14 +1764,14 @@
       <sdo:name>Willem van der Wiel</sdo:name>
       <sdo:familyName>van der Wiel</sdo:familyName>
       <sdo:givenName>Willem</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van der Wiel</pnv:literalName>
             <pnv:givenName>Willem</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Wiel</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>31</pico:hasAge>
    </pico:PersonObservation>
@@ -1858,14 +1858,14 @@
       <sdo:name>Wilhelmina Francisca Jacoba van Rossum</sdo:name>
       <sdo:familyName>van Rossum</sdo:familyName>
       <sdo:givenName>Wilhelmina Francisca Jacoba</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Rossum</pnv:literalName>
             <pnv:givenName>Wilhelmina Francisca Jacoba</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Rossum</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -1915,14 +1915,14 @@
       <sdo:name>Jan Johannes van Baaren</sdo:name>
       <sdo:familyName>van Baaren</sdo:familyName>
       <sdo:givenName>Jan Johannes</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Baaren</pnv:literalName>
             <pnv:givenName>Jan Johannes</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Baaren</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
@@ -1936,14 +1936,14 @@
       <sdo:name>Adrianus van Baaren</sdo:name>
       <sdo:familyName>van Baaren</sdo:familyName>
       <sdo:givenName>Adrianus</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Baaren</pnv:literalName>
             <pnv:givenName>Adrianus</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Baaren</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>32</pico:hasAge>
    </pico:PersonObservation>
@@ -2005,14 +2005,14 @@
       <sdo:name>Derk van Heuven</sdo:name>
       <sdo:familyName>van Heuven</sdo:familyName>
       <sdo:givenName>Derk</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Heuven</pnv:literalName>
             <pnv:givenName>Derk</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Heuven</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
@@ -2026,14 +2026,14 @@
       <sdo:name>Johan Karel van Heuven</sdo:name>
       <sdo:familyName>van Heuven</sdo:familyName>
       <sdo:givenName>Johan Karel</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Heuven</pnv:literalName>
             <pnv:givenName>Johan Karel</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Heuven</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>35</pico:hasAge>
    </pico:PersonObservation>
@@ -2046,14 +2046,14 @@
       <sdo:name>Derkje Aleida van der Linden</sdo:name>
       <sdo:familyName>van der Linden</sdo:familyName>
       <sdo:givenName>Derkje Aleida</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van der Linden</pnv:literalName>
             <pnv:givenName>Derkje Aleida</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Linden</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -2214,14 +2214,14 @@
       <sdo:name>Jantje Maria Anna Gardina van Kuijk</sdo:name>
       <sdo:familyName>van Kuijk</sdo:familyName>
       <sdo:givenName>Jantje Maria Anna Gardina</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Kuijk</pnv:literalName>
             <pnv:givenName>Jantje Maria Anna Gardina</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Kuijk</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Female"/>
@@ -2321,14 +2321,14 @@
       <sdo:name>Gerarda Johanna te Boekhorst</sdo:name>
       <sdo:familyName>te Boekhorst</sdo:familyName>
       <sdo:givenName>Gerarda Johanna</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>te Boekhorst</pnv:literalName>
             <pnv:givenName>Gerarda Johanna</pnv:givenName>
             <pnv:surnamePrefix>te</pnv:surnamePrefix>
             <pnv:baseSurname>Boekhorst</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -2514,14 +2514,14 @@
       <sdo:name>Elske van Beem</sdo:name>
       <sdo:familyName>van Beem</sdo:familyName>
       <sdo:givenName>Elske</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Beem</pnv:literalName>
             <pnv:givenName>Elske</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Beem</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -2596,14 +2596,14 @@
       <sdo:name>Antonette van Spreeken</sdo:name>
       <sdo:familyName>van Spreeken</sdo:familyName>
       <sdo:givenName>Antonette</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Spreeken</pnv:literalName>
             <pnv:givenName>Antonette</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Spreeken</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -2641,14 +2641,14 @@
       <sdo:name>Willemina van der Kamp</sdo:name>
       <sdo:familyName>van der Kamp</sdo:familyName>
       <sdo:givenName>Willemina</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van der Kamp</pnv:literalName>
             <pnv:givenName>Willemina</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Kamp</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -2797,14 +2797,14 @@
       <sdo:name>Teuntje van den Berg</sdo:name>
       <sdo:familyName>van den Berg</sdo:familyName>
       <sdo:givenName>Teuntje</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van den Berg</pnv:literalName>
             <pnv:givenName>Teuntje</pnv:givenName>
             <pnv:surnamePrefix>van den</pnv:surnamePrefix>
             <pnv:baseSurname>Berg</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -3027,14 +3027,14 @@
       <sdo:name>Everdina van Essen</sdo:name>
       <sdo:familyName>van Essen</sdo:familyName>
       <sdo:givenName>Everdina</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Essen</pnv:literalName>
             <pnv:givenName>Everdina</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Essen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -3331,14 +3331,14 @@
       <sdo:name>Johanna Jacomina de Heer</sdo:name>
       <sdo:familyName>de Heer</sdo:familyName>
       <sdo:givenName>Johanna Jacomina</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>de Heer</pnv:literalName>
             <pnv:givenName>Johanna Jacomina</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Heer</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -3758,14 +3758,14 @@
       <sdo:name>Thonia ten Cate</sdo:name>
       <sdo:familyName>ten Cate</sdo:familyName>
       <sdo:givenName>Thonia</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>ten Cate</pnv:literalName>
             <pnv:givenName>Thonia</pnv:givenName>
             <pnv:surnamePrefix>ten</pnv:surnamePrefix>
             <pnv:baseSurname>Cate</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Female"/>
@@ -3779,14 +3779,14 @@
       <sdo:name>Roelof ten Cate</sdo:name>
       <sdo:familyName>ten Cate</sdo:familyName>
       <sdo:givenName>Roelof</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>ten Cate</pnv:literalName>
             <pnv:givenName>Roelof</pnv:givenName>
             <pnv:surnamePrefix>ten</pnv:surnamePrefix>
             <pnv:baseSurname>Cate</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>49</pico:hasAge>
    </pico:PersonObservation>
@@ -3799,14 +3799,14 @@
       <sdo:name>Thonia van Zadelhoff</sdo:name>
       <sdo:familyName>van Zadelhoff</sdo:familyName>
       <sdo:givenName>Thonia</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Zadelhoff</pnv:literalName>
             <pnv:givenName>Thonia</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Zadelhoff</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -3967,14 +3967,14 @@
       <sdo:name>Jannetje de Vlaming</sdo:name>
       <sdo:familyName>de Vlaming</sdo:familyName>
       <sdo:givenName>Jannetje</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>de Vlaming</pnv:literalName>
             <pnv:givenName>Jannetje</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Vlaming</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Female"/>
@@ -3988,14 +3988,14 @@
       <sdo:name>Jacob de Vlaming</sdo:name>
       <sdo:familyName>de Vlaming</sdo:familyName>
       <sdo:givenName>Jacob</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>de Vlaming</pnv:literalName>
             <pnv:givenName>Jacob</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Vlaming</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>33</pico:hasAge>
    </pico:PersonObservation>
@@ -4045,14 +4045,14 @@
       <sdo:name>Margaretha Catharina van der Kade</sdo:name>
       <sdo:familyName>van der Kade</sdo:familyName>
       <sdo:givenName>Margaretha Catharina</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van der Kade</pnv:literalName>
             <pnv:givenName>Margaretha Catharina</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Kade</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -4065,14 +4065,14 @@
       <sdo:name>Theresia Jacoba Theodora van Heek</sdo:name>
       <sdo:familyName>van Heek</sdo:familyName>
       <sdo:givenName>Theresia Jacoba Theodora</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Heek</pnv:literalName>
             <pnv:givenName>Theresia Jacoba Theodora</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Heek</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Female"/>
@@ -4086,14 +4086,14 @@
       <sdo:name>Bernard Jacob van Heek</sdo:name>
       <sdo:familyName>van Heek</sdo:familyName>
       <sdo:givenName>Bernard Jacob</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Heek</pnv:literalName>
             <pnv:givenName>Bernard Jacob</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Heek</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>40</pico:hasAge>
    </pico:PersonObservation>
@@ -4143,14 +4143,14 @@
       <sdo:name>Johanna van Eck</sdo:name>
       <sdo:familyName>van Eck</sdo:familyName>
       <sdo:givenName>Johanna</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Eck</pnv:literalName>
             <pnv:givenName>Johanna</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Eck</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -4200,14 +4200,14 @@
       <sdo:name>Jacobus Petrus van Loon</sdo:name>
       <sdo:familyName>van Loon</sdo:familyName>
       <sdo:givenName>Jacobus Petrus</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Loon</pnv:literalName>
             <pnv:givenName>Jacobus Petrus</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Loon</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
@@ -4221,14 +4221,14 @@
       <sdo:name>Hendrik van Loon</sdo:name>
       <sdo:familyName>van Loon</sdo:familyName>
       <sdo:givenName>Hendrik</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Loon</pnv:literalName>
             <pnv:givenName>Hendrik</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Loon</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>24</pico:hasAge>
    </pico:PersonObservation>
@@ -4352,14 +4352,14 @@
       <sdo:name>Margaretha ten Hoed</sdo:name>
       <sdo:familyName>ten Hoed</sdo:familyName>
       <sdo:givenName>Margaretha</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>ten Hoed</pnv:literalName>
             <pnv:givenName>Margaretha</pnv:givenName>
             <pnv:surnamePrefix>ten</pnv:surnamePrefix>
             <pnv:baseSurname>Hoed</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -4409,14 +4409,14 @@
       <sdo:name>Catharina van der Weide</sdo:name>
       <sdo:familyName>van der Weide</sdo:familyName>
       <sdo:givenName>Catharina</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van der Weide</pnv:literalName>
             <pnv:givenName>Catharina</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Weide</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Female"/>
@@ -4442,14 +4442,14 @@
       <sdo:name>Catharina van der Weide</sdo:name>
       <sdo:familyName>van der Weide</sdo:familyName>
       <sdo:givenName>Catharina</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van der Weide</pnv:literalName>
             <pnv:givenName>Catharina</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Weide</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -4598,14 +4598,14 @@
       <sdo:name>Catharina Geertruida van Leijden</sdo:name>
       <sdo:familyName>van Leijden</sdo:familyName>
       <sdo:givenName>Catharina Geertruida</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Leijden</pnv:literalName>
             <pnv:givenName>Catharina Geertruida</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Leijden</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -4618,14 +4618,14 @@
       <sdo:name>Gerrit Jan te Winkel</sdo:name>
       <sdo:familyName>te Winkel</sdo:familyName>
       <sdo:givenName>Gerrit Jan</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>te Winkel</pnv:literalName>
             <pnv:givenName>Gerrit Jan</pnv:givenName>
             <pnv:surnamePrefix>te</pnv:surnamePrefix>
             <pnv:baseSurname>Winkel</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
@@ -4639,14 +4639,14 @@
       <sdo:name>Karel te Winkel</sdo:name>
       <sdo:familyName>te Winkel</sdo:familyName>
       <sdo:givenName>Karel</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>te Winkel</pnv:literalName>
             <pnv:givenName>Karel</pnv:givenName>
             <pnv:surnamePrefix>te</pnv:surnamePrefix>
             <pnv:baseSurname>Winkel</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>29</pico:hasAge>
    </pico:PersonObservation>
@@ -4733,14 +4733,14 @@
       <sdo:name>Hendrika van de Water</sdo:name>
       <sdo:familyName>van de Water</sdo:familyName>
       <sdo:givenName>Hendrika</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van de Water</pnv:literalName>
             <pnv:givenName>Hendrika</pnv:givenName>
             <pnv:surnamePrefix>van de</pnv:surnamePrefix>
             <pnv:baseSurname>Water</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -4963,14 +4963,14 @@
       <sdo:name>Petronella Wilhelmina van Braam</sdo:name>
       <sdo:familyName>van Braam</sdo:familyName>
       <sdo:givenName>Petronella Wilhelmina</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Braam</pnv:literalName>
             <pnv:givenName>Petronella Wilhelmina</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Braam</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -5020,14 +5020,14 @@
       <sdo:name>Jacob Wilhelmus van Zadelhoff</sdo:name>
       <sdo:familyName>van Zadelhoff</sdo:familyName>
       <sdo:givenName>Jacob Wilhelmus</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Zadelhoff</pnv:literalName>
             <pnv:givenName>Jacob Wilhelmus</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Zadelhoff</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
@@ -5041,7 +5041,7 @@
       <sdo:name>Willems Stevens van Zadelhoff</sdo:name>
       <sdo:familyName>van Zadelhoff</sdo:familyName>
       <sdo:givenName>Willems</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Zadelhoff</pnv:literalName>
             <pnv:givenName>Willems</pnv:givenName>
@@ -5049,7 +5049,7 @@
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Zadelhoff</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>42</pico:hasAge>
    </pico:PersonObservation>
@@ -5074,14 +5074,14 @@
       <sdo:name>Jacob Matthaeus de Kempenaer</sdo:name>
       <sdo:familyName>de Kempenaer</sdo:familyName>
       <sdo:givenName>Jacob Matthaeus</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>de Kempenaer</pnv:literalName>
             <pnv:givenName>Jacob Matthaeus</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Kempenaer</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
@@ -5095,14 +5095,14 @@
       <sdo:name>Jacob Ursel de Kempenaer</sdo:name>
       <sdo:familyName>de Kempenaer</sdo:familyName>
       <sdo:givenName>Jacob Ursel</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>de Kempenaer</pnv:literalName>
             <pnv:givenName>Jacob Ursel</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Kempenaer</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>32</pico:hasAge>
    </pico:PersonObservation>
@@ -5127,14 +5127,14 @@
       <sdo:name>Johanna de Leeuw</sdo:name>
       <sdo:familyName>de Leeuw</sdo:familyName>
       <sdo:givenName>Johanna</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>de Leeuw</pnv:literalName>
             <pnv:givenName>Johanna</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Leeuw</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Female"/>
@@ -5160,14 +5160,14 @@
       <sdo:name>Geesje Barta de Leeuw</sdo:name>
       <sdo:familyName>de Leeuw</sdo:familyName>
       <sdo:givenName>Geesje Barta</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>de Leeuw</pnv:literalName>
             <pnv:givenName>Geesje Barta</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Leeuw</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -5180,14 +5180,14 @@
       <sdo:name>Anna Poulina van der Heijden</sdo:name>
       <sdo:familyName>van der Heijden</sdo:familyName>
       <sdo:givenName>Anna Poulina</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van der Heijden</pnv:literalName>
             <pnv:givenName>Anna Poulina</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Heijden</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Female"/>
@@ -5201,14 +5201,14 @@
       <sdo:name>Cornelis van der Heijden</sdo:name>
       <sdo:familyName>van der Heijden</sdo:familyName>
       <sdo:givenName>Cornelis</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van der Heijden</pnv:literalName>
             <pnv:givenName>Cornelis</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Heijden</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>32</pico:hasAge>
    </pico:PersonObservation>
@@ -5369,14 +5369,14 @@
       <sdo:name>Grietje van Tongeren</sdo:name>
       <sdo:familyName>van Tongeren</sdo:familyName>
       <sdo:givenName>Grietje</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Tongeren</pnv:literalName>
             <pnv:givenName>Grietje</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Tongeren</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -5389,14 +5389,14 @@
       <sdo:name>Geertrui van Betuw</sdo:name>
       <sdo:familyName>van Betuw</sdo:familyName>
       <sdo:givenName>Geertrui</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Betuw</pnv:literalName>
             <pnv:givenName>Geertrui</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Betuw</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Female"/>
@@ -5410,14 +5410,14 @@
       <sdo:name>Christianus Henricus van Betuw</sdo:name>
       <sdo:familyName>van Betuw</sdo:familyName>
       <sdo:givenName>Christianus Henricus</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Betuw</pnv:literalName>
             <pnv:givenName>Christianus Henricus</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Betuw</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>67</pico:hasAge>
    </pico:PersonObservation>
@@ -5467,14 +5467,14 @@
       <sdo:name>Hendrina van Kempen</sdo:name>
       <sdo:familyName>van Kempen</sdo:familyName>
       <sdo:givenName>Hendrina</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Kempen</pnv:literalName>
             <pnv:givenName>Hendrina</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Kempen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -5537,14 +5537,14 @@
       <sdo:name>Pieter Cornelis Zoon Leendertz</sdo:name>
       <sdo:familyName>Leendertz</sdo:familyName>
       <sdo:givenName>Pieter</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>Leendertz</pnv:literalName>
             <pnv:givenName>Pieter</pnv:givenName>
             <pnv:patronym>Cornelis Zoon</pnv:patronym>
             <pnv:baseSurname>Leendertz</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>36</pico:hasAge>
    </pico:PersonObservation>
@@ -5557,14 +5557,14 @@
       <sdo:name>Anna de Jong</sdo:name>
       <sdo:familyName>de Jong</sdo:familyName>
       <sdo:givenName>Anna</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>de Jong</pnv:literalName>
             <pnv:givenName>Anna</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Jong</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -5688,14 +5688,14 @@
       <sdo:name>Jacobus de Vries</sdo:name>
       <sdo:familyName>de Vries</sdo:familyName>
       <sdo:givenName>Jacobus</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>de Vries</pnv:literalName>
             <pnv:givenName>Jacobus</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Vries</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
@@ -5709,14 +5709,14 @@
       <sdo:name>Joannes de Vries</sdo:name>
       <sdo:familyName>de Vries</sdo:familyName>
       <sdo:givenName>Joannes</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>de Vries</pnv:literalName>
             <pnv:givenName>Joannes</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Vries</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>33</pico:hasAge>
    </pico:PersonObservation>
@@ -5729,14 +5729,14 @@
       <sdo:name>Francijn van Boxtel</sdo:name>
       <sdo:familyName>van Boxtel</sdo:familyName>
       <sdo:givenName>Francijn</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Boxtel</pnv:literalName>
             <pnv:givenName>Francijn</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Boxtel</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -5959,14 +5959,14 @@
       <sdo:name>Pieternella van Rantwijk</sdo:name>
       <sdo:familyName>van Rantwijk</sdo:familyName>
       <sdo:givenName>Pieternella</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Rantwijk</pnv:literalName>
             <pnv:givenName>Pieternella</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Rantwijk</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -6115,14 +6115,14 @@
       <sdo:name>Hendrika Berendina ter Maat</sdo:name>
       <sdo:familyName>ter Maat</sdo:familyName>
       <sdo:givenName>Hendrika Berendina</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>ter Maat</pnv:literalName>
             <pnv:givenName>Hendrika Berendina</pnv:givenName>
             <pnv:surnamePrefix>ter</pnv:surnamePrefix>
             <pnv:baseSurname>Maat</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -6135,14 +6135,14 @@
       <sdo:name>Johannes van Randwijk</sdo:name>
       <sdo:familyName>van Randwijk</sdo:familyName>
       <sdo:givenName>Johannes</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Randwijk</pnv:literalName>
             <pnv:givenName>Johannes</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Randwijk</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
@@ -6156,14 +6156,14 @@
       <sdo:name>Huibert van Randwijk</sdo:name>
       <sdo:familyName>van Randwijk</sdo:familyName>
       <sdo:givenName>Huibert</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Randwijk</pnv:literalName>
             <pnv:givenName>Huibert</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Randwijk</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>30</pico:hasAge>
    </pico:PersonObservation>
@@ -6299,14 +6299,14 @@
       <sdo:name>Francisca Petronella ten Bensel</sdo:name>
       <sdo:familyName>ten Bensel</sdo:familyName>
       <sdo:givenName>Francisca Petronella</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>ten Bensel</pnv:literalName>
             <pnv:givenName>Francisca Petronella</pnv:givenName>
             <pnv:surnamePrefix>ten</pnv:surnamePrefix>
             <pnv:baseSurname>Bensel</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Female"/>
@@ -6320,14 +6320,14 @@
       <sdo:name>Johannes Jacobus ten Bensel</sdo:name>
       <sdo:familyName>ten Bensel</sdo:familyName>
       <sdo:givenName>Johannes Jacobus</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>ten Bensel</pnv:literalName>
             <pnv:givenName>Johannes Jacobus</pnv:givenName>
             <pnv:surnamePrefix>ten</pnv:surnamePrefix>
             <pnv:baseSurname>Bensel</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>53</pico:hasAge>
    </pico:PersonObservation>
@@ -6451,14 +6451,14 @@
       <sdo:name>Willemina van Wijk</sdo:name>
       <sdo:familyName>van Wijk</sdo:familyName>
       <sdo:givenName>Willemina</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Wijk</pnv:literalName>
             <pnv:givenName>Willemina</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Wijk</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -6545,14 +6545,14 @@
       <sdo:name>Wesselius Casparus van den Toorn</sdo:name>
       <sdo:familyName>van den Toorn</sdo:familyName>
       <sdo:givenName>Wesselius Casparus</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van den Toorn</pnv:literalName>
             <pnv:givenName>Wesselius Casparus</pnv:givenName>
             <pnv:surnamePrefix>van den</pnv:surnamePrefix>
             <pnv:baseSurname>Toorn</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
@@ -6566,14 +6566,14 @@
       <sdo:name>Adrianus van den Toorn</sdo:name>
       <sdo:familyName>van den Toorn</sdo:familyName>
       <sdo:givenName>Adrianus</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van den Toorn</pnv:literalName>
             <pnv:givenName>Adrianus</pnv:givenName>
             <pnv:surnamePrefix>van den</pnv:surnamePrefix>
             <pnv:baseSurname>Toorn</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>34</pico:hasAge>
    </pico:PersonObservation>
@@ -6672,14 +6672,14 @@
       <sdo:name>Anthonius Benedictus Joannes van der Meulen</sdo:name>
       <sdo:familyName>van der Meulen</sdo:familyName>
       <sdo:givenName>Anthonius Benedictus Joannes</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van der Meulen</pnv:literalName>
             <pnv:givenName>Anthonius Benedictus Joannes</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Meulen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
@@ -6693,14 +6693,14 @@
       <sdo:name>Joannes Franciscus Hubertus van der Meulen</sdo:name>
       <sdo:familyName>van der Meulen</sdo:familyName>
       <sdo:givenName>Joannes Franciscus Hubertus</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van der Meulen</pnv:literalName>
             <pnv:givenName>Joannes Franciscus Hubertus</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Meulen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>33</pico:hasAge>
    </pico:PersonObservation>
@@ -6713,14 +6713,14 @@
       <sdo:name>Johanna van Son</sdo:name>
       <sdo:familyName>van Son</sdo:familyName>
       <sdo:givenName>Johanna</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Son</pnv:literalName>
             <pnv:givenName>Johanna</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Son</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -6758,14 +6758,14 @@
       <sdo:name>Grada Johanna Hendrica van den Bergh</sdo:name>
       <sdo:familyName>van den Bergh</sdo:familyName>
       <sdo:givenName>Grada Johanna Hendrica</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van den Bergh</pnv:literalName>
             <pnv:givenName>Grada Johanna Hendrica</pnv:givenName>
             <pnv:surnamePrefix>van den</pnv:surnamePrefix>
             <pnv:baseSurname>Bergh</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -6815,14 +6815,14 @@
       <sdo:name>Cornelis Antonius van Eimeren</sdo:name>
       <sdo:familyName>van Eimeren</sdo:familyName>
       <sdo:givenName>Cornelis Antonius</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Eimeren</pnv:literalName>
             <pnv:givenName>Cornelis Antonius</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Eimeren</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
@@ -6836,14 +6836,14 @@
       <sdo:name>Rein van Eimeren</sdo:name>
       <sdo:familyName>van Eimeren</sdo:familyName>
       <sdo:givenName>Rein</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Eimeren</pnv:literalName>
             <pnv:givenName>Rein</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Eimeren</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>41</pico:hasAge>
    </pico:PersonObservation>
@@ -6868,14 +6868,14 @@
       <sdo:name>Hendrica Johanna van der Hart</sdo:name>
       <sdo:familyName>van der Hart</sdo:familyName>
       <sdo:givenName>Hendrica Johanna</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van der Hart</pnv:literalName>
             <pnv:givenName>Hendrica Johanna</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Hart</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Female"/>
@@ -6889,14 +6889,14 @@
       <sdo:name>Evert van der Hart</sdo:name>
       <sdo:familyName>van der Hart</sdo:familyName>
       <sdo:givenName>Evert</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van der Hart</pnv:literalName>
             <pnv:givenName>Evert</pnv:givenName>
             <pnv:surnamePrefix>van der</pnv:surnamePrefix>
             <pnv:baseSurname>Hart</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>45</pico:hasAge>
    </pico:PersonObservation>
@@ -6909,14 +6909,14 @@
       <sdo:name>Hendrica Johanna van Ommeren</sdo:name>
       <sdo:familyName>van Ommeren</sdo:familyName>
       <sdo:givenName>Hendrica Johanna</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Ommeren</pnv:literalName>
             <pnv:givenName>Hendrica Johanna</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Ommeren</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -6929,14 +6929,14 @@
       <sdo:name>Hendrikus de Greef</sdo:name>
       <sdo:familyName>de Greef</sdo:familyName>
       <sdo:givenName>Hendrikus</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>de Greef</pnv:literalName>
             <pnv:givenName>Hendrikus</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Greef</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
@@ -6950,14 +6950,14 @@
       <sdo:name>Franciskus de Greef</sdo:name>
       <sdo:familyName>de Greef</sdo:familyName>
       <sdo:givenName>Franciskus</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>de Greef</pnv:literalName>
             <pnv:givenName>Franciskus</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Greef</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>42</pico:hasAge>
    </pico:PersonObservation>
@@ -7167,14 +7167,14 @@
       <sdo:name>Theresia Maria van Beugen</sdo:name>
       <sdo:familyName>van Beugen</sdo:familyName>
       <sdo:givenName>Theresia Maria</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Beugen</pnv:literalName>
             <pnv:givenName>Theresia Maria</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Beugen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Female"/>
@@ -7188,14 +7188,14 @@
       <sdo:name>Johannes Machiel van Beugen</sdo:name>
       <sdo:familyName>van Beugen</sdo:familyName>
       <sdo:givenName>Johannes Machiel</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Beugen</pnv:literalName>
             <pnv:givenName>Johannes Machiel</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Beugen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>30</pico:hasAge>
    </pico:PersonObservation>
@@ -7319,14 +7319,14 @@
       <sdo:name>Johanna Charlotte Christine van Ranzow</sdo:name>
       <sdo:familyName>van Ranzow</sdo:familyName>
       <sdo:givenName>Johanna Charlotte Christine</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Ranzow</pnv:literalName>
             <pnv:givenName>Johanna Charlotte Christine</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Ranzow</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -7475,14 +7475,14 @@
       <sdo:name>Johanna Jacoba van Burik</sdo:name>
       <sdo:familyName>van Burik</sdo:familyName>
       <sdo:givenName>Johanna Jacoba</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Burik</pnv:literalName>
             <pnv:givenName>Johanna Jacoba</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Burik</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -7495,14 +7495,14 @@
       <sdo:name>Frederik van Koppenhagen</sdo:name>
       <sdo:familyName>van Koppenhagen</sdo:familyName>
       <sdo:givenName>Frederik</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Koppenhagen</pnv:literalName>
             <pnv:givenName>Frederik</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Koppenhagen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
@@ -7516,14 +7516,14 @@
       <sdo:name>Herbert van Koppenhagen</sdo:name>
       <sdo:familyName>van Koppenhagen</sdo:familyName>
       <sdo:givenName>Herbert</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Koppenhagen</pnv:literalName>
             <pnv:givenName>Herbert</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Koppenhagen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>38</pico:hasAge>
    </pico:PersonObservation>
@@ -7536,14 +7536,14 @@
       <sdo:name>Johanna van Harlem</sdo:name>
       <sdo:familyName>van Harlem</sdo:familyName>
       <sdo:givenName>Johanna</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Harlem</pnv:literalName>
             <pnv:givenName>Johanna</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Harlem</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -7692,14 +7692,14 @@
       <sdo:name>Heintje van de Kap</sdo:name>
       <sdo:familyName>van de Kap</sdo:familyName>
       <sdo:givenName>Heintje</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van de Kap</pnv:literalName>
             <pnv:givenName>Heintje</pnv:givenName>
             <pnv:surnamePrefix>van de</pnv:surnamePrefix>
             <pnv:baseSurname>Kap</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -8008,14 +8008,14 @@
       <sdo:name>Ludovikus Jacobus van Reeken</sdo:name>
       <sdo:familyName>van Reeken</sdo:familyName>
       <sdo:givenName>Ludovikus Jacobus</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Reeken</pnv:literalName>
             <pnv:givenName>Ludovikus Jacobus</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Reeken</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
@@ -8029,14 +8029,14 @@
       <sdo:name>Peter van Reeken</sdo:name>
       <sdo:familyName>van Reeken</sdo:familyName>
       <sdo:givenName>Peter</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Reeken</pnv:literalName>
             <pnv:givenName>Peter</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Reeken</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>32</pico:hasAge>
    </pico:PersonObservation>
@@ -8086,14 +8086,14 @@
       <sdo:name>Geertruida van Ginkel</sdo:name>
       <sdo:familyName>van Ginkel</sdo:familyName>
       <sdo:givenName>Geertruida</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Ginkel</pnv:literalName>
             <pnv:givenName>Geertruida</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Ginkel</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -8131,14 +8131,14 @@
       <sdo:name>Dirkje de Goeij</sdo:name>
       <sdo:familyName>de Goeij</sdo:familyName>
       <sdo:givenName>Dirkje</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>de Goeij</pnv:literalName>
             <pnv:givenName>Dirkje</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Goeij</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -8151,14 +8151,14 @@
       <sdo:name>Catharina Clasina Maria van den Braak</sdo:name>
       <sdo:familyName>van den Braak</sdo:familyName>
       <sdo:givenName>Catharina Clasina Maria</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van den Braak</pnv:literalName>
             <pnv:givenName>Catharina Clasina Maria</pnv:givenName>
             <pnv:surnamePrefix>van den</pnv:surnamePrefix>
             <pnv:baseSurname>Braak</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Female"/>
@@ -8172,14 +8172,14 @@
       <sdo:name>Leonardus Raphael van den Braak</sdo:name>
       <sdo:familyName>van den Braak</sdo:familyName>
       <sdo:givenName>Leonardus Raphael</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van den Braak</pnv:literalName>
             <pnv:givenName>Leonardus Raphael</pnv:givenName>
             <pnv:surnamePrefix>van den</pnv:surnamePrefix>
             <pnv:baseSurname>Braak</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>29</pico:hasAge>
    </pico:PersonObservation>
@@ -8648,14 +8648,14 @@
       <sdo:name>Gerard van Eck</sdo:name>
       <sdo:familyName>van Eck</sdo:familyName>
       <sdo:givenName>Gerard</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Eck</pnv:literalName>
             <pnv:givenName>Gerard</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Eck</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
@@ -8669,14 +8669,14 @@
       <sdo:name>François Willem Lambert van Eck</sdo:name>
       <sdo:familyName>van Eck</sdo:familyName>
       <sdo:givenName>François Willem Lambert</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Eck</pnv:literalName>
             <pnv:givenName>François Willem Lambert</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Eck</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>28</pico:hasAge>
    </pico:PersonObservation>
@@ -8689,14 +8689,14 @@
       <sdo:name>Gerrarda Cornelia de Bruijn</sdo:name>
       <sdo:familyName>de Bruijn</sdo:familyName>
       <sdo:givenName>Gerrarda Cornelia</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>de Bruijn</pnv:literalName>
             <pnv:givenName>Gerrarda Cornelia</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Bruijn</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -8734,14 +8734,14 @@
       <sdo:name>Maria den Bock</sdo:name>
       <sdo:familyName>den Bock</sdo:familyName>
       <sdo:givenName>Maria</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>den Bock</pnv:literalName>
             <pnv:givenName>Maria</pnv:givenName>
             <pnv:surnamePrefix>den</pnv:surnamePrefix>
             <pnv:baseSurname>Bock</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -8754,14 +8754,14 @@
       <sdo:name>Albert Peter van Gorkum</sdo:name>
       <sdo:familyName>van Gorkum</sdo:familyName>
       <sdo:givenName>Albert Peter</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Gorkum</pnv:literalName>
             <pnv:givenName>Albert Peter</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Gorkum</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
@@ -8775,14 +8775,14 @@
       <sdo:name>François van Gorkum</sdo:name>
       <sdo:familyName>van Gorkum</sdo:familyName>
       <sdo:givenName>François</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Gorkum</pnv:literalName>
             <pnv:givenName>François</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Gorkum</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
    </pico:PersonObservation>
@@ -8881,14 +8881,14 @@
       <sdo:name>Theodorus Loardus de Beer</sdo:name>
       <sdo:familyName>de Beer</sdo:familyName>
       <sdo:givenName>Theodorus Loardus</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>de Beer</pnv:literalName>
             <pnv:givenName>Theodorus Loardus</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Beer</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
@@ -8902,14 +8902,14 @@
       <sdo:name>Heiko de Beer</sdo:name>
       <sdo:familyName>de Beer</sdo:familyName>
       <sdo:givenName>Heiko</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>de Beer</pnv:literalName>
             <pnv:givenName>Heiko</pnv:givenName>
             <pnv:surnamePrefix>de</pnv:surnamePrefix>
             <pnv:baseSurname>Beer</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>43</pico:hasAge>
    </pico:PersonObservation>
@@ -8971,14 +8971,14 @@
       <sdo:name>Gerardiena Theodora van Herpen</sdo:name>
       <sdo:familyName>van Herpen</sdo:familyName>
       <sdo:givenName>Gerardiena Theodora</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Herpen</pnv:literalName>
             <pnv:givenName>Gerardiena Theodora</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Herpen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge/>
       <sdo:gender rdf:resource="https://schema.org/Female"/>
@@ -8992,14 +8992,14 @@
       <sdo:name>Rudolf van Herpen</sdo:name>
       <sdo:familyName>van Herpen</sdo:familyName>
       <sdo:givenName>Rudolf</sdo:givenName>
-      <sdo:alternateName>
+      <sdo:additionalName>
          <pnv:PersonName>
             <pnv:literalName>van Herpen</pnv:literalName>
             <pnv:givenName>Rudolf</pnv:givenName>
             <pnv:surnamePrefix>van</pnv:surnamePrefix>
             <pnv:baseSurname>Herpen</pnv:baseSurname>
          </pnv:PersonName>
-      </sdo:alternateName>
+      </sdo:additionalName>
       <sdo:birthPlace/>
       <pico:hasAge>43</pico:hasAge>
    </pico:PersonObservation>
