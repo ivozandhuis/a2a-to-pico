@@ -1,4 +1,4 @@
-@prefix pico: <https://personsincontext.org/model/> .
+@prefix pico: <https://personsincontext.org/model#> .
 @prefix pnv: <https://w3id.org/pnv#> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix sdo: <https://schema.org/> .
@@ -69,7 +69,6 @@
             sdo:thumbnail "https://tresoar-images.memorix.nl/frl/thumb/250x250/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg" ;
             sdo:url "https://tresoar-images.memorix.nl/frl/thumb/640x480/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg" ] ;
     sdo:dateCreated "1864-02-29"^^xsd:date ;
-    sdo:dateModified "2019-08-29"^^xsd:date ;
     sdo:locationCreated "Opsterland" ;
     sdo:name "AlleFriezen (Leeuwarden), Archiefnaam: Burgerlijke Stand Opsterland - Tresoar, Bron: boek, Deel: 3020, Periode: 1864, (toegangsnr. 30-28), inv.nr. 3020, Overlijdensregister 1864, 0044"@nl ;
     sdo:url "http://allefriezen.nl/zoeken/deeds/8f998b40-9d13-1861-62fe-feb667283688" .

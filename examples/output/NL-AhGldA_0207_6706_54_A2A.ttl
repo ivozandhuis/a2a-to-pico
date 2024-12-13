@@ -1,4 +1,4 @@
-@prefix pico: <https://personsincontext.org/model/> .
+@prefix pico: <https://personsincontext.org/model#> .
 @prefix pnv: <https://w3id.org/pnv#> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix sdo: <https://schema.org/> .
@@ -2885,7 +2885,7 @@
     prov:hadPrimarySource <https://ex.org/3046089012> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-04"^^xsd:date ;
+    sdo:birthDate "1853-04-23"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Stitzinger" ;
@@ -2910,7 +2910,7 @@
     prov:hadPrimarySource <https://ex.org/3046089016> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-04"^^xsd:date ;
+    sdo:birthDate "1853-04-23"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Hilbrand" ;
@@ -2935,7 +2935,7 @@
     prov:hadPrimarySource <https://ex.org/3046089020> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-04"^^xsd:date ;
+    sdo:birthDate "1853-04-24"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Cranen" ;
@@ -2960,7 +2960,7 @@
     prov:hadPrimarySource <https://ex.org/3046089024> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-04"^^xsd:date ;
+    sdo:birthDate "1853-04-23"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Janssen" ;
@@ -2985,7 +2985,7 @@
     prov:hadPrimarySource <https://ex.org/3046089028> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-04"^^xsd:date ;
+    sdo:birthDate "1853-04-24"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Mallinckrodt" ;
@@ -3010,7 +3010,7 @@
     prov:hadPrimarySource <https://ex.org/3046089032> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-04"^^xsd:date ;
+    sdo:birthDate "1853-04-23"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Engelberts" ;
@@ -3035,7 +3035,7 @@
     prov:hadPrimarySource <https://ex.org/3046089036> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-04"^^xsd:date ;
+    sdo:birthDate "1853-04-26"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Jansen" ;
@@ -3060,7 +3060,7 @@
     prov:hadPrimarySource <https://ex.org/3046089040> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-04"^^xsd:date ;
+    sdo:birthDate "1853-04-28"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Folman" ;
@@ -3085,7 +3085,7 @@
     prov:hadPrimarySource <https://ex.org/3046089044> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-04"^^xsd:date ;
+    sdo:birthDate "1853-04-26"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Landsheer" ;
@@ -3110,7 +3110,7 @@
     prov:hadPrimarySource <https://ex.org/3046089048> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-04"^^xsd:date ;
+    sdo:birthDate "1853-04-27"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Looman" ;
@@ -3135,7 +3135,7 @@
     prov:hadPrimarySource <https://ex.org/3046089052> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-04"^^xsd:date ;
+    sdo:birthDate "1853-04-27"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Magendans" ;
@@ -3160,7 +3160,7 @@
     prov:hadPrimarySource <https://ex.org/3046089056> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-04"^^xsd:date ;
+    sdo:birthDate "1853-04-28"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Rogmans" ;
@@ -3185,7 +3185,7 @@
     prov:hadPrimarySource <https://ex.org/3046089060> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-04"^^xsd:date ;
+    sdo:birthDate "1853-04-29"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Jezeer" ;
@@ -3215,7 +3215,7 @@
             pnv:givenName "Hermina" ;
             pnv:literalName "van Leeuwen" ;
             pnv:surnamePrefix "van" ] ;
-    sdo:birthDate "1853-01-04"^^xsd:date ;
+    sdo:birthDate "1853-04-30"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van Leeuwen" ;
@@ -3245,7 +3245,7 @@
     prov:hadPrimarySource <https://ex.org/3046089068> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-04"^^xsd:date ;
+    sdo:birthDate "1853-04-30"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Gerritsen" ;
@@ -3270,7 +3270,7 @@
     prov:hadPrimarySource <https://ex.org/3046089072> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-02"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Kuster" ;
@@ -3295,7 +3295,7 @@
     prov:hadPrimarySource <https://ex.org/3046089076> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-02"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Righart" ;
@@ -3320,7 +3320,7 @@
     prov:hadPrimarySource <https://ex.org/3046089080> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-02"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Kruijer" ;
@@ -3345,7 +3345,7 @@
     prov:hadPrimarySource <https://ex.org/3046089084> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-04"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Baltus" ;
@@ -3370,7 +3370,7 @@
     prov:hadPrimarySource <https://ex.org/3046089088> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-04"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Jansen" ;
@@ -3400,7 +3400,7 @@
             pnv:givenName "Johanna" ;
             pnv:literalName "van Heumen" ;
             pnv:surnamePrefix "van" ] ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-05"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van Heumen" ;
@@ -3430,7 +3430,7 @@
     prov:hadPrimarySource <https://ex.org/3046089096> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-07"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Teunissen" ;
@@ -3455,7 +3455,7 @@
     prov:hadPrimarySource <https://ex.org/3046089100> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-06"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Lenglet" ;
@@ -3480,7 +3480,7 @@
     prov:hadPrimarySource <https://ex.org/3046089104> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-05"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Menco" ;
@@ -3505,7 +3505,7 @@
     prov:hadPrimarySource <https://ex.org/3046089108> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-08"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Jansen" ;
@@ -3530,7 +3530,7 @@
     prov:hadPrimarySource <https://ex.org/3046089112> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-08"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Theunissen" ;
@@ -3555,7 +3555,7 @@
     prov:hadPrimarySource <https://ex.org/3046089116> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-08"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Wigman" ;
@@ -3580,7 +3580,7 @@
     prov:hadPrimarySource <https://ex.org/3046089120> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-08"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Reiff" ;
@@ -3605,7 +3605,7 @@
     prov:hadPrimarySource <https://ex.org/3046089124> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-07"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Heijster" ;
@@ -3630,7 +3630,7 @@
     prov:hadPrimarySource <https://ex.org/3046089128> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-08"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Rietbergen" ;
@@ -3655,7 +3655,7 @@
     prov:hadPrimarySource <https://ex.org/3046089132> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-09"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Feith" ;
@@ -3680,7 +3680,7 @@
     prov:hadPrimarySource <https://ex.org/3046089136> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-10"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Verburgt" ;
@@ -3705,7 +3705,7 @@
     prov:hadPrimarySource <https://ex.org/3046089140> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-10"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Koentz" ;
@@ -3730,7 +3730,7 @@
     prov:hadPrimarySource <https://ex.org/3046089156> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-10"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Valk" ;
@@ -3755,7 +3755,7 @@
     prov:hadPrimarySource <https://ex.org/3046089160> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-11"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Jung" ;
@@ -3780,7 +3780,7 @@
     prov:hadPrimarySource <https://ex.org/3046089164> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-11"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Wijman" ;
@@ -3810,7 +3810,7 @@
             pnv:givenName "Willem" ;
             pnv:literalName "van der Wiel" ;
             pnv:surnamePrefix "van der" ] ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-11"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van der Wiel" ;
@@ -3840,7 +3840,7 @@
     prov:hadPrimarySource <https://ex.org/3046089172> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-12"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Rijsewijk" ;
@@ -3865,7 +3865,7 @@
     prov:hadPrimarySource <https://ex.org/3046089176> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-11"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Haas" ;
@@ -3890,7 +3890,7 @@
     prov:hadPrimarySource <https://ex.org/3046089180> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-14"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Diepenbroek" ;
@@ -3920,7 +3920,7 @@
             pnv:givenName "Jan Johannes" ;
             pnv:literalName "van Baaren" ;
             pnv:surnamePrefix "van" ] ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-12"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van Baaren" ;
@@ -3950,7 +3950,7 @@
     prov:hadPrimarySource <https://ex.org/3046089188> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-13"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Tardijn" ;
@@ -3975,7 +3975,7 @@
     prov:hadPrimarySource <https://ex.org/3046089192> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-14"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Wielheesen" ;
@@ -4000,7 +4000,7 @@
     prov:hadPrimarySource <https://ex.org/3046089196> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-13"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Bouwman" ;
@@ -4025,7 +4025,7 @@
     prov:hadPrimarySource <https://ex.org/3046089200> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-12"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Isselmann" ;
@@ -4050,7 +4050,7 @@
     prov:hadPrimarySource <https://ex.org/3046089204> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-14"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Sluiter" ;
@@ -4075,7 +4075,7 @@
     prov:hadPrimarySource <https://ex.org/3046089208> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-16"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Standaar" ;
@@ -4100,7 +4100,7 @@
     prov:hadPrimarySource <https://ex.org/3046089212> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-15"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Evers" ;
@@ -4125,7 +4125,7 @@
     prov:hadPrimarySource <https://ex.org/3046089216> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-16"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Baerends" ;
@@ -4150,7 +4150,7 @@
     prov:hadPrimarySource <https://ex.org/3046089220> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-15"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Vos" ;
@@ -4175,7 +4175,7 @@
     prov:hadPrimarySource <https://ex.org/3046089224> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-15"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Boumann" ;
@@ -4200,7 +4200,7 @@
     prov:hadPrimarySource <https://ex.org/3046089228> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-17"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Roepers" ;
@@ -4225,7 +4225,7 @@
     prov:hadPrimarySource <https://ex.org/3046089232> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-17"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Boester" ;
@@ -4250,7 +4250,7 @@
     prov:hadPrimarySource <https://ex.org/3046089236> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-17"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Horn" ;
@@ -4275,7 +4275,7 @@
     prov:hadPrimarySource <https://ex.org/3046089240> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-15"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Kessels" ;
@@ -4300,7 +4300,7 @@
     prov:hadPrimarySource <https://ex.org/3046089244> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-18"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Becker" ;
@@ -4325,7 +4325,7 @@
     prov:hadPrimarySource <https://ex.org/3046089248> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-18"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Verplak" ;
@@ -4350,7 +4350,7 @@
     prov:hadPrimarySource <https://ex.org/3046089252> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-16"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Eshuijs" ;
@@ -4375,7 +4375,7 @@
     prov:hadPrimarySource <https://ex.org/3046089256> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-19"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Verburg" ;
@@ -4400,7 +4400,7 @@
     prov:hadPrimarySource <https://ex.org/3046089260> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-19"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Sigelinski" ;
@@ -4425,7 +4425,7 @@
     prov:hadPrimarySource <https://ex.org/3046089264> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-20"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Fredriks" ;
@@ -4450,7 +4450,7 @@
     prov:hadPrimarySource <https://ex.org/3046089268> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-22"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Vissers" ;
@@ -4475,7 +4475,7 @@
     prov:hadPrimarySource <https://ex.org/3046089272> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-23"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Thomassen" ;
@@ -4500,7 +4500,7 @@
     prov:hadPrimarySource <https://ex.org/3046089276> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-22"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Bredevelt" ;
@@ -4525,7 +4525,7 @@
     prov:hadPrimarySource <https://ex.org/3046089280> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-23"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Harmsen" ;
@@ -4555,7 +4555,7 @@
             pnv:givenName "Jannetje" ;
             pnv:literalName "de Vlaming" ;
             pnv:surnamePrefix "de" ] ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-22"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "de Vlaming" ;
@@ -4585,7 +4585,7 @@
     prov:hadPrimarySource <https://ex.org/3046089288> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-23"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Nijenhuis" ;
@@ -4615,7 +4615,7 @@
             pnv:givenName "Theresia Jacoba Theodora" ;
             pnv:literalName "van Heek" ;
             pnv:surnamePrefix "van" ] ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-23"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van Heek" ;
@@ -4645,7 +4645,7 @@
     prov:hadPrimarySource <https://ex.org/3046089296> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-25"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Zuuring" ;
@@ -4670,7 +4670,7 @@
     prov:hadPrimarySource <https://ex.org/3046089300> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-24"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Verheul" ;
@@ -4700,7 +4700,7 @@
             pnv:givenName "Jacobus Petrus" ;
             pnv:literalName "van Loon" ;
             pnv:surnamePrefix "van" ] ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-24"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van Loon" ;
@@ -4730,7 +4730,7 @@
     prov:hadPrimarySource <https://ex.org/3046089308> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-24"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Thomassen" ;
@@ -4755,7 +4755,7 @@
     prov:hadPrimarySource <https://ex.org/3046089312> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-25"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Reijers" ;
@@ -4780,7 +4780,7 @@
     prov:hadPrimarySource <https://ex.org/3046089316> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-26"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Jansen" ;
@@ -4805,7 +4805,7 @@
     prov:hadPrimarySource <https://ex.org/3046089320> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-25"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Niesman" ;
@@ -4835,7 +4835,7 @@
             pnv:givenName "Catharina" ;
             pnv:literalName "van der Weide" ;
             pnv:surnamePrefix "van der" ] ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-26"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van der Weide" ;
@@ -4860,7 +4860,7 @@
     prov:hadPrimarySource <https://ex.org/3046089328> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-26"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Baumann" ;
@@ -4885,7 +4885,7 @@
     prov:hadPrimarySource <https://ex.org/3046089332> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-28"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Smits" ;
@@ -4910,7 +4910,7 @@
     prov:hadPrimarySource <https://ex.org/3046089336> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-28"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Driessen" ;
@@ -4935,7 +4935,7 @@
     prov:hadPrimarySource <https://ex.org/3046089340> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-28"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Dinkeloo" ;
@@ -4965,7 +4965,7 @@
             pnv:givenName "Gerrit Jan" ;
             pnv:literalName "te Winkel" ;
             pnv:surnamePrefix "te" ] ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-28"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "te Winkel" ;
@@ -4995,7 +4995,7 @@
     prov:hadPrimarySource <https://ex.org/3046089348> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-29"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Ubijng" ;
@@ -5020,7 +5020,7 @@
     prov:hadPrimarySource <https://ex.org/3046089352> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-31"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Boerbooms" ;
@@ -5045,7 +5045,7 @@
     prov:hadPrimarySource <https://ex.org/3046089356> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-05"^^xsd:date ;
+    sdo:birthDate "1853-05-30"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Ludwig" ;
@@ -5070,7 +5070,7 @@
     prov:hadPrimarySource <https://ex.org/3046089360> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-03"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Wouters" ;
@@ -5095,7 +5095,7 @@
     prov:hadPrimarySource <https://ex.org/3046089364> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-03"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Freriks" ;
@@ -5120,7 +5120,7 @@
     prov:hadPrimarySource <https://ex.org/3046089368> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-04"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Greven" ;
@@ -5145,7 +5145,7 @@
     prov:hadPrimarySource <https://ex.org/3046089372> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-05"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Janssen Van Essen" ;
@@ -5170,7 +5170,7 @@
     prov:hadPrimarySource <https://ex.org/3046089376> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-06"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Böthlingk" ;
@@ -5195,7 +5195,7 @@
     prov:hadPrimarySource <https://ex.org/3046089380> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-07"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Verhoeven" ;
@@ -5225,7 +5225,7 @@
             pnv:givenName "Jacob Wilhelmus" ;
             pnv:literalName "van Zadelhoff" ;
             pnv:surnamePrefix "van" ] ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-07"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van Zadelhoff" ;
@@ -5261,7 +5261,7 @@
             pnv:givenName "Jacob Matthaeus" ;
             pnv:literalName "de Kempenaer" ;
             pnv:surnamePrefix "de" ] ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-06"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "de Kempenaer" ;
@@ -5296,7 +5296,7 @@
             pnv:givenName "Johanna" ;
             pnv:literalName "de Leeuw" ;
             pnv:surnamePrefix "de" ] ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-07"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "de Leeuw" ;
@@ -5326,7 +5326,7 @@
             pnv:givenName "Anna Poulina" ;
             pnv:literalName "van der Heijden" ;
             pnv:surnamePrefix "van der" ] ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-08"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van der Heijden" ;
@@ -5356,7 +5356,7 @@
     prov:hadPrimarySource <https://ex.org/3046089400> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-09"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Cornelissen De Beer" ;
@@ -5381,7 +5381,7 @@
     prov:hadPrimarySource <https://ex.org/3046089404> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-10"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Bouterse" ;
@@ -5406,7 +5406,7 @@
     prov:hadPrimarySource <https://ex.org/3046089408> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-12"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Burgers" ;
@@ -5431,7 +5431,7 @@
     prov:hadPrimarySource <https://ex.org/3046089412> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-13"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Jongkees" ;
@@ -5461,7 +5461,7 @@
             pnv:givenName "Geertrui" ;
             pnv:literalName "van Betuw" ;
             pnv:surnamePrefix "van" ] ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-11"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van Betuw" ;
@@ -5491,7 +5491,7 @@
     prov:hadPrimarySource <https://ex.org/3046089420> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-12"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Evers" ;
@@ -5516,7 +5516,7 @@
     prov:hadPrimarySource <https://ex.org/3046089424> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-12"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Theben" ;
@@ -5541,7 +5541,7 @@
     prov:hadPrimarySource <https://ex.org/3046089428> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-11"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Leendertz" ;
@@ -5571,7 +5571,7 @@
     prov:hadPrimarySource <https://ex.org/3046089432> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-11"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Murkens" ;
@@ -5596,7 +5596,7 @@
     prov:hadPrimarySource <https://ex.org/3046089436> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-13"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Noverraz" ;
@@ -5621,7 +5621,7 @@
     prov:hadPrimarySource <https://ex.org/3046089440> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-14"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Janssen" ;
@@ -5651,7 +5651,7 @@
             pnv:givenName "Jacobus" ;
             pnv:literalName "de Vries" ;
             pnv:surnamePrefix "de" ] ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-15"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "de Vries" ;
@@ -5681,7 +5681,7 @@
     prov:hadPrimarySource <https://ex.org/3046089448> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-16"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Houben" ;
@@ -5706,7 +5706,7 @@
     prov:hadPrimarySource <https://ex.org/3046089452> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-17"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Zwartkruis" ;
@@ -5731,7 +5731,7 @@
     prov:hadPrimarySource <https://ex.org/3046089456> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-16"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Burgers" ;
@@ -5756,7 +5756,7 @@
     prov:hadPrimarySource <https://ex.org/3046089460> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-17"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Willemsen" ;
@@ -5781,7 +5781,7 @@
     prov:hadPrimarySource <https://ex.org/3046089464> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-18"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Derksen" ;
@@ -5806,7 +5806,7 @@
     prov:hadPrimarySource <https://ex.org/3046089468> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-20"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Gijsbers" ;
@@ -5831,7 +5831,7 @@
     prov:hadPrimarySource <https://ex.org/3046089472> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-18"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Laponder" ;
@@ -5856,7 +5856,7 @@
     prov:hadPrimarySource <https://ex.org/3046089476> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-20"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Beumer" ;
@@ -5881,7 +5881,7 @@
     prov:hadPrimarySource <https://ex.org/3046089480> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-19"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Kienen" ;
@@ -5906,7 +5906,7 @@
     prov:hadPrimarySource <https://ex.org/3046089484> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-20"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Jolink" ;
@@ -5936,7 +5936,7 @@
             pnv:givenName "Johannes" ;
             pnv:literalName "van Randwijk" ;
             pnv:surnamePrefix "van" ] ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-20"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van Randwijk" ;
@@ -5966,7 +5966,7 @@
     prov:hadPrimarySource <https://ex.org/3046089492> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-21"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Leenen" ;
@@ -5991,7 +5991,7 @@
     prov:hadPrimarySource <https://ex.org/3046089496> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-20"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Peters" ;
@@ -6016,7 +6016,7 @@
     prov:hadPrimarySource <https://ex.org/3046089500> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-20"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Sanders" ;
@@ -6046,7 +6046,7 @@
             pnv:givenName "Francisca Petronella" ;
             pnv:literalName "ten Bensel" ;
             pnv:surnamePrefix "ten" ] ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-22"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "ten Bensel" ;
@@ -6076,7 +6076,7 @@
     prov:hadPrimarySource <https://ex.org/3046089508> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-22"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Hummeling" ;
@@ -6101,7 +6101,7 @@
     prov:hadPrimarySource <https://ex.org/3046089512> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-21"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Karel" ;
@@ -6126,7 +6126,7 @@
     prov:hadPrimarySource <https://ex.org/3046089516> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-22"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Jacobs" ;
@@ -6151,7 +6151,7 @@
     prov:hadPrimarySource <https://ex.org/3046089520> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-23"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Kolenbrander" ;
@@ -6176,7 +6176,7 @@
     prov:hadPrimarySource <https://ex.org/3046089524> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-23"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Pik" ;
@@ -6206,7 +6206,7 @@
             pnv:givenName "Wesselius Casparus" ;
             pnv:literalName "van den Toorn" ;
             pnv:surnamePrefix "van den" ] ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-25"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van den Toorn" ;
@@ -6236,7 +6236,7 @@
     prov:hadPrimarySource <https://ex.org/3046089532> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-25"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Jansen" ;
@@ -6261,7 +6261,7 @@
     prov:hadPrimarySource <https://ex.org/3046089536> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-25"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Winkes" ;
@@ -6291,7 +6291,7 @@
             pnv:givenName "Anthonius Benedictus Joannes" ;
             pnv:literalName "van der Meulen" ;
             pnv:surnamePrefix "van der" ] ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-27"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van der Meulen" ;
@@ -6321,7 +6321,7 @@
     prov:hadPrimarySource <https://ex.org/3046089544> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-28"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Thieme" ;
@@ -6346,7 +6346,7 @@
     prov:hadPrimarySource <https://ex.org/3046089548> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-28"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Beekhuijzen" ;
@@ -6376,7 +6376,7 @@
             pnv:givenName "Cornelis Antonius" ;
             pnv:literalName "van Eimeren" ;
             pnv:surnamePrefix "van" ] ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-27"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van Eimeren" ;
@@ -6411,7 +6411,7 @@
             pnv:givenName "Hendrica Johanna" ;
             pnv:literalName "van der Hart" ;
             pnv:surnamePrefix "van der" ] ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-28"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van der Hart" ;
@@ -6446,7 +6446,7 @@
             pnv:givenName "Hendrikus" ;
             pnv:literalName "de Greef" ;
             pnv:surnamePrefix "de" ] ;
-    sdo:birthDate "1853-01-06"^^xsd:date ;
+    sdo:birthDate "1853-06-30"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "de Greef" ;
@@ -6476,7 +6476,7 @@
     prov:hadPrimarySource <https://ex.org/3046089564> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-02"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Gieben" ;
@@ -6501,7 +6501,7 @@
     prov:hadPrimarySource <https://ex.org/3046089568> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-01"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Verhoeven" ;
@@ -6526,7 +6526,7 @@
     prov:hadPrimarySource <https://ex.org/3046089572> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-01"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Rijsemus" ;
@@ -6551,7 +6551,7 @@
     prov:hadPrimarySource <https://ex.org/3046089576> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-01"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Gresnich" ;
@@ -6576,7 +6576,7 @@
     prov:hadPrimarySource <https://ex.org/3046089580> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-02"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Breijer" ;
@@ -6606,7 +6606,7 @@
             pnv:givenName "Theresia Maria" ;
             pnv:literalName "van Beugen" ;
             pnv:surnamePrefix "van" ] ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-01"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van Beugen" ;
@@ -6636,7 +6636,7 @@
     prov:hadPrimarySource <https://ex.org/3046089588> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-04"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Jasper" ;
@@ -6661,7 +6661,7 @@
     prov:hadPrimarySource <https://ex.org/3046089592> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-04"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Hekkers" ;
@@ -6686,7 +6686,7 @@
     prov:hadPrimarySource <https://ex.org/3046089596> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-03"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Baud" ;
@@ -6711,7 +6711,7 @@
     prov:hadPrimarySource <https://ex.org/3046089600> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-06"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Kleintjes" ;
@@ -6736,7 +6736,7 @@
     prov:hadPrimarySource <https://ex.org/3046089604> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-06"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Frequin" ;
@@ -6761,7 +6761,7 @@
     prov:hadPrimarySource <https://ex.org/3046089608> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-06"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Pitlo" ;
@@ -6786,7 +6786,7 @@
     prov:hadPrimarySource <https://ex.org/3046089612> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-08"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Vlaanderen" ;
@@ -6816,7 +6816,7 @@
             pnv:givenName "Frederik" ;
             pnv:literalName "van Koppenhagen" ;
             pnv:surnamePrefix "van" ] ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-09"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van Koppenhagen" ;
@@ -6846,7 +6846,7 @@
     prov:hadPrimarySource <https://ex.org/3046089620> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-08"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Willemsen" ;
@@ -6871,7 +6871,7 @@
     prov:hadPrimarySource <https://ex.org/3046089624> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-10"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Guldenaar" ;
@@ -6896,7 +6896,7 @@
     prov:hadPrimarySource <https://ex.org/3046089628> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-10"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Berger" ;
@@ -6921,7 +6921,7 @@
     prov:hadPrimarySource <https://ex.org/3046089632> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-09"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Brouwer" ;
@@ -6946,7 +6946,7 @@
     prov:hadPrimarySource <https://ex.org/3046089636> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-10"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Peters" ;
@@ -6971,7 +6971,7 @@
     prov:hadPrimarySource <https://ex.org/3046089640> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-10"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Goedvrind" ;
@@ -6996,7 +6996,7 @@
     prov:hadPrimarySource <https://ex.org/3046089644> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-14"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Wegman" ;
@@ -7021,7 +7021,7 @@
     prov:hadPrimarySource <https://ex.org/3046089648> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-14"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Smit" ;
@@ -7046,7 +7046,7 @@
     prov:hadPrimarySource <https://ex.org/3046089652> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-16"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Biezen" ;
@@ -7076,7 +7076,7 @@
             pnv:givenName "Ludovikus Jacobus" ;
             pnv:literalName "van Reeken" ;
             pnv:surnamePrefix "van" ] ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-18"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van Reeken" ;
@@ -7106,7 +7106,7 @@
     prov:hadPrimarySource <https://ex.org/3046089660> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-18"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Lorentz" ;
@@ -7131,7 +7131,7 @@
     prov:hadPrimarySource <https://ex.org/3046089664> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-18"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Kapel" ;
@@ -7161,7 +7161,7 @@
             pnv:givenName "Catharina Clasina Maria" ;
             pnv:literalName "van den Braak" ;
             pnv:surnamePrefix "van den" ] ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-18"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van den Braak" ;
@@ -7191,7 +7191,7 @@
     prov:hadPrimarySource <https://ex.org/3046089672> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-20"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Hendriks" ;
@@ -7216,7 +7216,7 @@
     prov:hadPrimarySource <https://ex.org/3046089676> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-20"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Verheij" ;
@@ -7246,7 +7246,7 @@
             pnv:givenName "Gerard" ;
             pnv:literalName "van Eck" ;
             pnv:surnamePrefix "van" ] ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-21"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van Eck" ;
@@ -7276,7 +7276,7 @@
     prov:hadPrimarySource <https://ex.org/3046089684> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-21"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Giebing" ;
@@ -7306,7 +7306,7 @@
             pnv:givenName "Albert Peter" ;
             pnv:literalName "van Gorkum" ;
             pnv:surnamePrefix "van" ] ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-23"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van Gorkum" ;
@@ -7336,7 +7336,7 @@
     prov:hadPrimarySource <https://ex.org/3046089692> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-24"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Beeks" ;
@@ -7361,7 +7361,7 @@
     prov:hadPrimarySource <https://ex.org/3046089696> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-23"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Meijer" ;
@@ -7391,7 +7391,7 @@
             pnv:givenName "Theodorus Loardus" ;
             pnv:literalName "de Beer" ;
             pnv:surnamePrefix "de" ] ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-23"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "de Beer" ;
@@ -7421,7 +7421,7 @@
     prov:hadPrimarySource <https://ex.org/3046089704> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-23"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Aalbers" ;
@@ -7451,7 +7451,7 @@
             pnv:givenName "Gerardiena Theodora" ;
             pnv:literalName "van Herpen" ;
             pnv:surnamePrefix "van" ] ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-26"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van Herpen" ;
@@ -7481,7 +7481,7 @@
     prov:hadPrimarySource <https://ex.org/3046089712> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-25"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Hormel" ;
@@ -7506,7 +7506,7 @@
     prov:hadPrimarySource <https://ex.org/3046089716> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-26"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Freriks" ;
@@ -7531,7 +7531,7 @@
     prov:hadPrimarySource <https://ex.org/3046089720> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-27"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Thomas" ;
@@ -7556,7 +7556,7 @@
     prov:hadPrimarySource <https://ex.org/3046089724> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-28"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Teunissen" ;
@@ -7581,7 +7581,7 @@
     prov:hadPrimarySource <https://ex.org/3046089728> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-28"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Hulsman" ;
@@ -7606,7 +7606,7 @@
     prov:hadPrimarySource <https://ex.org/3046089732> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-29"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Esvelt" ;
@@ -7631,7 +7631,7 @@
     prov:hadPrimarySource <https://ex.org/3046089736> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-28"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Dronsberg" ;
@@ -7661,7 +7661,7 @@
             pnv:givenName "Hendrik Gradus Gabriel" ;
             pnv:literalName "van der Poll" ;
             pnv:surnamePrefix "van der" ] ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-29"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van der Poll" ;
@@ -7691,7 +7691,7 @@
     prov:hadPrimarySource <https://ex.org/3046089744> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-29"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Kuipers" ;
@@ -7716,7 +7716,7 @@
     prov:hadPrimarySource <https://ex.org/3046089748> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-07"^^xsd:date ;
+    sdo:birthDate "1853-07-28"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Magendans" ;
@@ -7741,7 +7741,7 @@
     prov:hadPrimarySource <https://ex.org/3046089752> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-01"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Isselmann" ;
@@ -7766,7 +7766,7 @@
     prov:hadPrimarySource <https://ex.org/3046089756> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-02"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Becks" ;
@@ -7791,7 +7791,7 @@
     prov:hadPrimarySource <https://ex.org/3046089760> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-02"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Janssen" ;
@@ -7816,7 +7816,7 @@
     prov:hadPrimarySource <https://ex.org/3046089764> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-04"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Schouw Santfoort" ;
@@ -7846,7 +7846,7 @@
             pnv:givenName "Marinus" ;
             pnv:literalName "van Leiden" ;
             pnv:surnamePrefix "van" ] ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-06"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van Leiden" ;
@@ -7876,7 +7876,7 @@
     prov:hadPrimarySource <https://ex.org/3046089772> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-05"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Hölzel" ;
@@ -7901,7 +7901,7 @@
     prov:hadPrimarySource <https://ex.org/3046089776> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-07"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Jansen" ;
@@ -7926,7 +7926,7 @@
     prov:hadPrimarySource <https://ex.org/3046089780> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-06"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Joling" ;
@@ -7951,7 +7951,7 @@
     prov:hadPrimarySource <https://ex.org/3046089784> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-07"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Pegman" ;
@@ -7976,7 +7976,7 @@
     prov:hadPrimarySource <https://ex.org/3046089788> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-06"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Wigman" ;
@@ -8001,7 +8001,7 @@
     prov:hadPrimarySource <https://ex.org/3046089792> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-08"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Jansen" ;
@@ -8026,7 +8026,7 @@
     prov:hadPrimarySource <https://ex.org/3046089796> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-09"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Markhorst" ;
@@ -8056,7 +8056,7 @@
             pnv:givenName "Derk" ;
             pnv:literalName "van Heuven" ;
             pnv:surnamePrefix "van" ] ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-10"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van Heuven" ;
@@ -8086,7 +8086,7 @@
     prov:hadPrimarySource <https://ex.org/3046089804> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-11"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Lindeman" ;
@@ -8111,7 +8111,7 @@
     prov:hadPrimarySource <https://ex.org/3046089808> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-11"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Groh" ;
@@ -8136,7 +8136,7 @@
     prov:hadPrimarySource <https://ex.org/3046089812> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-11"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Kingma" ;
@@ -8161,7 +8161,7 @@
     prov:hadPrimarySource <https://ex.org/3046089816> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-11"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Schill" ;
@@ -8191,7 +8191,7 @@
             pnv:givenName "Jantje Maria Anna Gardina" ;
             pnv:literalName "van Kuijk" ;
             pnv:surnamePrefix "van" ] ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-11"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "van Kuijk" ;
@@ -8216,7 +8216,7 @@
     prov:hadPrimarySource <https://ex.org/3046089824> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-13"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Kinkelaar" ;
@@ -8241,7 +8241,7 @@
     prov:hadPrimarySource <https://ex.org/3046089828> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-13"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Mulder" ;
@@ -8266,7 +8266,7 @@
     prov:hadPrimarySource <https://ex.org/3046089832> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-16"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Teunissen" ;
@@ -8291,7 +8291,7 @@
     prov:hadPrimarySource <https://ex.org/3046089836> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-15"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Cleeve" ;
@@ -8316,7 +8316,7 @@
     prov:hadPrimarySource <https://ex.org/3046089840> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-15"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Blom" ;
@@ -8341,7 +8341,7 @@
     prov:hadPrimarySource <https://ex.org/3046089848> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-16"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Bolman" ;
@@ -8366,7 +8366,7 @@
     prov:hadPrimarySource <https://ex.org/3046089852> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-17"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Adriaans" ;
@@ -8391,7 +8391,7 @@
     prov:hadPrimarySource <https://ex.org/3046089856> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-17"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Maandag" ;
@@ -8416,7 +8416,7 @@
     prov:hadPrimarySource <https://ex.org/3046089860> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-17"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Voslamber" ;
@@ -8466,7 +8466,7 @@
     prov:hadPrimarySource <https://ex.org/3046089868> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-19"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Muller" ;
@@ -8491,7 +8491,7 @@
     prov:hadPrimarySource <https://ex.org/3046089872> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-18"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Willems" ;
@@ -8516,7 +8516,7 @@
     prov:hadPrimarySource <https://ex.org/3046089876> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-19"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Daams" ;
@@ -8541,7 +8541,7 @@
     prov:hadPrimarySource <https://ex.org/3046089880> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-19"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Knelissen" ;
@@ -8566,7 +8566,7 @@
     prov:hadPrimarySource <https://ex.org/3046089884> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-20"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Galle" ;
@@ -8591,7 +8591,7 @@
     prov:hadPrimarySource <https://ex.org/3046089888> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-21"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Jansen" ;
@@ -8616,7 +8616,7 @@
     prov:hadPrimarySource <https://ex.org/3046089892> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-20"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Brink" ;
@@ -8641,7 +8641,7 @@
     prov:hadPrimarySource <https://ex.org/3046089896> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-21"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Willems" ;
@@ -8666,7 +8666,7 @@
     prov:hadPrimarySource <https://ex.org/3046089900> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-19"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Schneider" ;
@@ -8691,7 +8691,7 @@
     prov:hadPrimarySource <https://ex.org/3046089904> ;
     pico:hasAge "" ;
     pico:hasRole "Kind" ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-23"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "Otterlo" ;
@@ -8721,7 +8721,7 @@
             pnv:givenName "Thonia" ;
             pnv:literalName "ten Cate" ;
             pnv:surnamePrefix "ten" ] ;
-    sdo:birthDate "1853-01-08"^^xsd:date ;
+    sdo:birthDate "1853-08-25"^^xsd:date ;
     sdo:birthPlace "",
         "Arnhem" ;
     sdo:familyName "ten Cate" ;
@@ -8749,1768 +8749,1547 @@
 
 <https://ex.org/3046089012> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-04"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-04-23"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 224"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/C1354FDD29A74E008915EBCF3C11F820" .
 
 <https://ex.org/3046089016> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-04"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-04-25"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 225"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/B791D0EC35F9476D81E31A11DF9A3AF7" .
 
 <https://ex.org/3046089020> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-04"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-04-25"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 226"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/65BFFE6445774547BC320FE29CB2718A" .
 
 <https://ex.org/3046089024> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-04"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-04-25"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 227"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/D09B7500BBEF425EABB3F8DC2909BC35" .
 
 <https://ex.org/3046089028> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-04"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-04-25"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 228"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/CDA152314AE940B8AFEE423F15C374C2" .
 
 <https://ex.org/3046089032> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-04"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-04-25"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 229"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/AF1F7970BFFF4FB8AC85E1BE3245BA36" .
 
 <https://ex.org/3046089036> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-04"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-04-27"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 230"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/9DB31C0A51EB4F45BD8C9534E5877589" .
 
 <https://ex.org/3046089040> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-04"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-04-28"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 231"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/25514FBA980641F594B7CB07150833A9" .
 
 <https://ex.org/3046089044> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-04"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-04-28"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 232"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/12553B34DF4D4CE897009E3A823C26DA" .
 
 <https://ex.org/3046089048> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-04"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-04-28"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 233"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/7546A741F6A143E3822D6A0C0C5DC4B7" .
 
 <https://ex.org/3046089052> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-04"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-04-28"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 234"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/9A64C48E837D447B813F580B17F43D1E" .
 
 <https://ex.org/3046089056> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-04"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-04-29"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 235"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/6C18C6748120454A943148C3389C9CE6" .
 
 <https://ex.org/3046089060> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-04"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-04-30"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 236"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/A5D3478F00534963B0E23D5B786ED6B5" .
 
 <https://ex.org/3046089064> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-02"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 237"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/642FEAE6C81B4C83A3F4B7D33632EA2C" .
 
 <https://ex.org/3046089068> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-02"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 238"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/5EF69191B20A4D99B5B72FBFE7C2B694" .
 
 <https://ex.org/3046089072> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-03"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 239"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/ADCA55D009C94F308EBB4360834C0ACE" .
 
 <https://ex.org/3046089076> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-03"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 240"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/821C2461980B4ECEAAA574CB7E34FB10" .
 
 <https://ex.org/3046089080> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-03"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 241"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/90B0E2036AE3446B9193C0D368F9B051" .
 
 <https://ex.org/3046089084> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-06"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 242"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/CEA07318E1A74E15BADBDE0B26910DF3" .
 
 <https://ex.org/3046089088> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-06"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 243"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/18EF40306D6D4631ADE7A1DC852A2A7C" .
 
 <https://ex.org/3046089092> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-06"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 244"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/CE644EF6CC114131BD053CE072A3FBB1" .
 
 <https://ex.org/3046089096> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-07"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 245"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/9637EDBB2C1B46D68A0302B22A54F747" .
 
 <https://ex.org/3046089100> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-07"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 246"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/4FC6505DFA974B09B58B5FDA5913EDF6" .
 
 <https://ex.org/3046089104> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-07"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 247"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/FA3FB34FA3DD40C6A29A112E20F01D79" .
 
 <https://ex.org/3046089108> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-09"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 248"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/9DF68D1D2F7E46C680C8EA05179ACFC4" .
 
 <https://ex.org/3046089112> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-09"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 249"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/FFE6C48880914F458FCA0B3963B0226E" .
 
 <https://ex.org/3046089116> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-09"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 250"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/98021E670F004D78B72152A98AD33327" .
 
 <https://ex.org/3046089120> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-09"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 251"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/2313C1011DC546C2BF3211111A167131" .
 
 <https://ex.org/3046089124> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-09"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 252"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/5B71ADD6415646049FBBDCB21DBB63FD" .
 
 <https://ex.org/3046089128> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-09"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 253"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/3BBA45CAD95E4883B9DF14F6F73E30E5" .
 
 <https://ex.org/3046089132> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-10"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 254"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/9F1C6EB87F4048C499AA2C23F19825C1" .
 
 <https://ex.org/3046089136> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-10"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 255"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/5F46ACC9A022489BA2D4D1D079E926D2" .
 
 <https://ex.org/3046089140> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-10"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 256"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/B98DF7E4FDE24E6D8CE7EC583940BF97" .
 
 <https://ex.org/3046089156> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-11"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 258"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/090B3B4A38414028BD677EE2E88C1AD1" .
 
 <https://ex.org/3046089160> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-11"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 259"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/B5857A16FA7C41BDB74347DED8C652FB" .
 
 <https://ex.org/3046089164> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-12"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 260"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/81DB10E8EDDA4E57B532B337F1B3F682" .
 
 <https://ex.org/3046089168> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-12"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 261"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/69006EAB9454479796E52373475AFB7B" .
 
 <https://ex.org/3046089172> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-12"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 262"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/495613EF694544A09AD93858BAAC2EA2" .
 
 <https://ex.org/3046089176> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-12"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 263"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/98876D4F208E49139F9A2234A10CBE20" .
 
 <https://ex.org/3046089180> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-15"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 264"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/C216F5CC513A4444B544762DAACB3428" .
 
 <https://ex.org/3046089184> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-14"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 265"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/DE90BDE2FEC34AD495C0A523AA7D7775" .
 
 <https://ex.org/3046089188> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-14"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 266"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/00DA5D880B1F4798BB9DD06906A525FD" .
 
 <https://ex.org/3046089192> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-14"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 267"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/B66C8F3FCBF8463DA0CAC0155EE55C45" .
 
 <https://ex.org/3046089196> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-14"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 268"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/22CD671665AE4712ACC6F4A1178C19A5" .
 
 <https://ex.org/3046089200> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-14"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 269"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/38E701F9A71C4AE6BBCEC028474D604D" .
 
 <https://ex.org/3046089204> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-17"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 270"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/E012A263485F411AB2CF53130C664E9F" .
 
 <https://ex.org/3046089208> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-17"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 271"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/A46FB0C50BAC4105A5667B0A26B348FA" .
 
 <https://ex.org/3046089212> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-17"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 272"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/9BC2B16E0B554C5AA032958BA3DFCAF9" .
 
 <https://ex.org/3046089216> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-17"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 273"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/62DB4C10BABC4552800AD8BA9E3757AA" .
 
 <https://ex.org/3046089220> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-17"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 274"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/48214E5DBFDF4C42AF13F5BFC13476C3" .
 
 <https://ex.org/3046089224> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-17"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 275"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/4F008CD3A3724466A88DE251D685FAC2" .
 
 <https://ex.org/3046089228> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-17"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 276"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/BE33F9AEA79B4B2FBE80829724C9E898" .
 
 <https://ex.org/3046089232> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-18"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 277"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/1BCCF68B41264ADD8427FA78C2E64557" .
 
 <https://ex.org/3046089236> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-18"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 278"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/D7F130E0A6924EF592BF1685DED69DDD" .
 
 <https://ex.org/3046089240> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-18"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 279"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/0375BF10EF42424E923729C8366937E8" .
 
 <https://ex.org/3046089244> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-19"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 280"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/D0C52115E6204FFB8A68A768015151C1" .
 
 <https://ex.org/3046089248> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-19"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 281"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/57DACEEB80614B35BB59D7A8499FA8CA" .
 
 <https://ex.org/3046089252> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-19"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 282"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/8D7235F9EE074389A98D7D66446D8D0A" .
 
 <https://ex.org/3046089256> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-20"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 283"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/70B70D18960B40EBBC4DD0C1DE2CC8D1" .
 
 <https://ex.org/3046089260> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-20"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 284"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/6D63D794A1064199BCB53356F4C89421" .
 
 <https://ex.org/3046089264> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-21"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 285"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/04D506F2C6FE4B4EB71646A5F07CBEFD" .
 
 <https://ex.org/3046089268> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-23"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 286"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/6824EE3CC32D4ED6B2B8C036E92CAEB0" .
 
 <https://ex.org/3046089272> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-23"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 287"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/3A9FB6BFB69B46FBA6999F1312DE973B" .
 
 <https://ex.org/3046089276> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-23"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 288"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/9796999B3DE34DFDB939A25FBB67DFCE" .
 
 <https://ex.org/3046089280> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-23"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 289"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/0EF7F334357B4796A3A4B1284570D4C5" .
 
 <https://ex.org/3046089284> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-23"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 290"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/3DF7C7F43BAA4BB382802E4A8E047BD2" .
 
 <https://ex.org/3046089288> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-23"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 291"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/C51E5C3E8B24462880565FDE5267CDFB" .
 
 <https://ex.org/3046089292> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-24"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 292"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/A691043772FA45DC8A6A2ACA1BD1A517" .
 
 <https://ex.org/3046089296> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-25"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 293"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/4FED4DA35AB94252AFF4967FAD7866E3" .
 
 <https://ex.org/3046089300> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-25"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 294"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/A1319CC4072B4A2DB20B82D2025AE0E4" .
 
 <https://ex.org/3046089304> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-25"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 295"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/1E0C18FCB0E84436BE9558F7616F51F9" .
 
 <https://ex.org/3046089308> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-25"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 296"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/09FA41711A9D4FB4B3F1A505BADE379F" .
 
 <https://ex.org/3046089312> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-26"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 297"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/9DFB23F67F6548B18B83EC32727A9C89" .
 
 <https://ex.org/3046089316> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-26"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 298"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/4C692E06AF994EA2ADB17E3231232046" .
 
 <https://ex.org/3046089320> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-26"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 299"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/D9182542E13A463A8490386BD6FBA030" .
 
 <https://ex.org/3046089324> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-26"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 300"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/FCFB4E9F0C0C4023B08AE503B67B02A4" .
 
 <https://ex.org/3046089328> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-27"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 301"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/CC482F8AD9CA4C3D867B3A86E9070F78" .
 
 <https://ex.org/3046089332> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-28"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 302"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/7F6276CBE1094F88A823455CC219EDB9" .
 
 <https://ex.org/3046089336> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-30"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 303"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/ED0581948C834404ADC1363D1E751D84" .
 
 <https://ex.org/3046089340> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-30"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 304"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/0F2EA7A6352741FD88B826FCCFD0ED21" .
 
 <https://ex.org/3046089344> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-30"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 305"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/04FF908A0D9B495881D1E68F88F0C11D" .
 
 <https://ex.org/3046089348> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-30"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 306"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/8D0550C1C00D463FA4F851F409442FA7" .
 
 <https://ex.org/3046089352> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-31"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 307"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/BA61BB65B30A4F8CB3B90F31B9DE59FD" .
 
 <https://ex.org/3046089356> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-05"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-05-31"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 308"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/CA997C8BB28A4C7D87FAC4D3CC862866" .
 
 <https://ex.org/3046089360> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-03"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 309"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/274551881C1540F8A72698D1A3042088" .
 
 <https://ex.org/3046089364> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-03"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 310"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/EC4E63754E564FA98AEF51574F382FC8" .
 
 <https://ex.org/3046089368> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-06"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 311"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/C79A0A71FDA946BB9EA865FEAC17518E" .
 
 <https://ex.org/3046089372> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-06"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 312"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/2EA70C89D9BC4EDF8BC731F668C48095" .
 
 <https://ex.org/3046089376> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-07"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 313"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/02A0EF0959B04FD786411F3B99F8A7CB" .
 
 <https://ex.org/3046089380> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-07"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 314"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/42F6C8F8AC8C4C938350BA2240D23EAA" .
 
 <https://ex.org/3046089384> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-08"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 315"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/EE699BACF8DD4D818804991C24DADEE7" .
 
 <https://ex.org/3046089388> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-08"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 316"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/4C57E4F524424A82B52DAEA5C08EE751" .
 
 <https://ex.org/3046089392> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-09"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 317"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/5E2598B4B4C9468F98E60F84F3745FB7" .
 
 <https://ex.org/3046089396> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-09"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 318"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/C287AF3C384D4C94B02364F5E0D8CD8F" .
 
 <https://ex.org/3046089400> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-10"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 319"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/00C9FF70D6B64A0DBB171DF542A73AEF" .
 
 <https://ex.org/3046089404> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-11"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 320"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/60511210025C4CC5B48E423BD2367DE8" .
 
 <https://ex.org/3046089408> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-13"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 321"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/EF48094F12C44791A844F3A95FF7837E" .
 
 <https://ex.org/3046089412> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-13"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 322"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/1D4C968A2D3444018D1629DB3F0BF19F" .
 
 <https://ex.org/3046089416> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-13"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 323"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/228A92656E23400686652448CFEA125D" .
 
 <https://ex.org/3046089420> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-13"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 324"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/027306DCB16846C8B9512E46EA1CF1C5" .
 
 <https://ex.org/3046089424> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-13"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 325"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/A3CA026A335E4AE9B4D81B6EA6E5C630" .
 
 <https://ex.org/3046089428> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-13"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 326"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/B5FDA7FC1A6E4033A4BA062105F9E180" .
 
 <https://ex.org/3046089432> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-13"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 327"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/706562980DDA4BAEB73F43A8EBE5DC6E" .
 
 <https://ex.org/3046089436> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-14"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 328"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/4CE53959150C45AC9280BA5F62D3390A" .
 
 <https://ex.org/3046089440> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-15"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 329"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/E74DA34A44B44D31BB1B78444232B0CF" .
 
 <https://ex.org/3046089444> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-15"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 330"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/0544634DDE91436B8DB16C2E23142894" .
 
 <https://ex.org/3046089448> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-17"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 331"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/66AE82B9CDBC4C7E8A9B34F087A8C3CD" .
 
 <https://ex.org/3046089452> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-17"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 332"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/0B081CFBD8E24F5FA559AC22DE202F58" .
 
 <https://ex.org/3046089456> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-17"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 333"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/0471C403800745CE992EE123A37BC76E" .
 
 <https://ex.org/3046089460> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-17"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 334"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/18373B33E7464B10A97539C312C964AF" .
 
 <https://ex.org/3046089464> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-18"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 335"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/8771A4A9B981421AB5626DF4C81D70A1" .
 
 <https://ex.org/3046089468> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-20"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 336"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/43EE0CDC96124F95A81404702A81BCA4" .
 
 <https://ex.org/3046089472> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-20"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 337"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/E9794C7EAFE74725903E9515A108A091" .
 
 <https://ex.org/3046089476> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-20"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 338"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/221217663B6D4F3D83119F85377C2A5D" .
 
 <https://ex.org/3046089480> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-20"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 339"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/4B6748344BF7441B90A817202844323E" .
 
 <https://ex.org/3046089484> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-21"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 340"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/41B7DFEA62F74A51A7B776242B643EAC" .
 
 <https://ex.org/3046089488> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-21"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 341"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/97F13FB8D2574EC49B5B38A4D19D2EE1" .
 
 <https://ex.org/3046089492> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-21"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 342"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/970878657805489185422F6E14E5FB44" .
 
 <https://ex.org/3046089496> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-21"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 343"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/DDBC2D779F074BB89BC556436A081A7A" .
 
 <https://ex.org/3046089500> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-21"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 344"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/0E465F0CE10943219C4537CF340D0BAF" .
 
 <https://ex.org/3046089504> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-22"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 345"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/852BAF8264A74344AC365505418A9A7F" .
 
 <https://ex.org/3046089508> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-22"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 346"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/F39A2FC209F549A78593B310C5DC46A2" .
 
 <https://ex.org/3046089512> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-23"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 347"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/F307E7369EC645DEB383E393BB279A47" .
 
 <https://ex.org/3046089516> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-23"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 348"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/5C8BFC07829D4D3CA187F3DD29DF8CFB" .
 
 <https://ex.org/3046089520> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-23"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 349"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/EED1F4969A2041D3A5FB8351B103E9C9" .
 
 <https://ex.org/3046089524> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-24"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 350"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/1AF0CE8D5E8F4A969B0367392292DE4D" .
 
 <https://ex.org/3046089528> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-27"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 351"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/6516DE375670492E982FFBA666B06E7E" .
 
 <https://ex.org/3046089532> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-27"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 352"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/A9E663CA9328412F9FADD0686DFF673C" .
 
 <https://ex.org/3046089536> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-28"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 353"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/987F90BF7B9E43008E301771A08C0403" .
 
 <https://ex.org/3046089540> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-28"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 354"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/92CB40FDFE884BB5941CE4D7BE9D7320" .
 
 <https://ex.org/3046089544> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-29"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 355"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/5CDCAFDC8E45479D99855CA2AC75CAAF" .
 
 <https://ex.org/3046089548> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-29"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 356"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/E173FB1A16834BD89510BAE9F3BBFDD9" .
 
 <https://ex.org/3046089552> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-29"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 357"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/89AE8A9E39DD432E9E74B76FAC6DF6AC" .
 
 <https://ex.org/3046089556> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-06"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-06-30"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 358"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/97B858593B1D4F3BBE917ADB43CE0C55" .
 
 <https://ex.org/3046089560> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-01"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 359"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/BB613C6D6A054FF188AD8AB91EFB73B4" .
 
 <https://ex.org/3046089564> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-02"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 360"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/399155AE37744320B9AE34F66D7551DA" .
 
 <https://ex.org/3046089568> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-02"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 361"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/F6C40CAE4E16481AAFB87C64A348558B" .
 
 <https://ex.org/3046089572> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-02"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 362"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/406A8DBBCFD84DA683A7C31209348A53" .
 
 <https://ex.org/3046089576> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-02"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 363"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/339016268F7C49129FEDFA970C572FEC" .
 
 <https://ex.org/3046089580> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-02"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 364"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/3181961F77CB4E3AA912329C0EAE6EB7" .
 
 <https://ex.org/3046089584> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-04"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 365"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/5F6695D1D699477E80F3DA4F893E85F0" .
 
 <https://ex.org/3046089588> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-05"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 366"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/C26C79F1EAB5449B979C8EB9FF27D415" .
 
 <https://ex.org/3046089592> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-05"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 367"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/A14444A9CF794B9A83D65AEBF96D48E6" .
 
 <https://ex.org/3046089596> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-06"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 368"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/85DCDD22DB974C14B0715F6CA72B6799" .
 
 <https://ex.org/3046089600> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-06"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 369"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/FE02AF1DC78B4703BDE15DC2FE4B31A9" .
 
 <https://ex.org/3046089604> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-07"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 370"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/704518C7099640F99EA697D08469AC9C" .
 
 <https://ex.org/3046089608> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-08"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 371"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/5C6B035F310444B087B0A3A23E8F159B" .
 
 <https://ex.org/3046089612> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-09"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 372"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/60CECBCCE1324E468625108A4C2C7B3D" .
 
 <https://ex.org/3046089616> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-09"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 373"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/81AD896E61F04D9892C584AEA7E85D01" .
 
 <https://ex.org/3046089620> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-09"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 374"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/D17EA265CF8C4F2F9461E3DD02195BDC" .
 
 <https://ex.org/3046089624> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-11"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 375"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/BC1F41B5B01C459D9FCE5FC407D58610" .
 
 <https://ex.org/3046089628> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-11"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 376"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/5655F485DAD9432A8109C256E4253A41" .
 
 <https://ex.org/3046089632> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-11"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 377"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/A2875922C72E40F6B5660C609AA3761E" .
 
 <https://ex.org/3046089636> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-11"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 378"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/D26FE8DB7BD54B4AA385BA6EA1A4632B" .
 
 <https://ex.org/3046089640> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-12"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 379"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/779DCD3CB005498E933C63014C0A379A" .
 
 <https://ex.org/3046089644> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-15"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 380"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/DF4E8D9C5E9B4A77B2AF8C38745DE058" .
 
 <https://ex.org/3046089648> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-16"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 381"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/74BA64BDB2DA4A10A2AC2DEC825E839F" .
 
 <https://ex.org/3046089652> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-18"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 382"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/3C3DF31FE0414596ABDCC7B2C7D21B12" .
 
 <https://ex.org/3046089656> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-19"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 383"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/37AC0DA3DF0646AAA4A323A0F6263960" .
 
 <https://ex.org/3046089660> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-19"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 384"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/A48EB6A766BA4FA7985CE15B807EDB31" .
 
 <https://ex.org/3046089664> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-19"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 385"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/BBAC9D40839B4A538B8D48965B784D86" .
 
 <https://ex.org/3046089668> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-20"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 386"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/0EC06775B9DD407B960B205A23D21773" .
 
 <https://ex.org/3046089672> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-20"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 387"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/4BFA0284D4D54611A722C7FFD0C0926F" .
 
 <https://ex.org/3046089676> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-21"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 388"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/2F1953D42EE34324B77DF82F7F04013E" .
 
 <https://ex.org/3046089680> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-21"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 389"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/CD577C68D98145F3A337159371DC95AE" .
 
 <https://ex.org/3046089684> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-22"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 390"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/252E845CBBD443629C84C0474810FA23" .
 
 <https://ex.org/3046089688> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-23"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 391"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/5C35145CB7C2460B98E0E71781E5063A" .
 
 <https://ex.org/3046089692> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-25"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 392"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/FAC7C64B9B95444AAE2A40BC1CE6C51F" .
 
 <https://ex.org/3046089696> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-25"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 393"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/3F987A72B7FD485ABE916E3562631963" .
 
 <https://ex.org/3046089700> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-25"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 394"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/8B1F78EF441F4F7EBBEB62BCC92F5C91" .
 
 <https://ex.org/3046089704> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-25"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 395"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/63B465BF594943EA9DD011389A1C9FD2" .
 
 <https://ex.org/3046089708> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-26"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 396"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/9A9DA4FA2EDE4D0C8D1EEF7EE2C3C0FD" .
 
 <https://ex.org/3046089712> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-27"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 397"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/77FB7AB0D51A4786A7C9BA8756CCAD4A" .
 
 <https://ex.org/3046089716> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-27"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 398"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/451E213B0E8A48C3AD7BD4A9054420DE" .
 
 <https://ex.org/3046089720> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-28"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 399"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/8772B246BCAC4E73985EBF17CD31881E" .
 
 <https://ex.org/3046089724> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-28"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 400"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/1E9E113033F4406D9BA964074AD9760C" .
 
 <https://ex.org/3046089728> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-29"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 401"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/86A931470F4C4A5A805620FAF862E34B" .
 
 <https://ex.org/3046089732> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-29"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 402"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/C1F98D46894543FEBBFBBE74E696E356" .
 
 <https://ex.org/3046089736> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-29"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 403"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/08E989C6E906403FAFBF35C58294DC26" .
 
 <https://ex.org/3046089740> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-30"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 404"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/E01BEF8F5994417E858B31B7E0185FD9" .
 
 <https://ex.org/3046089744> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-30"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 405"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/88AD7C5C5B68402383E4853D79519847" .
 
 <https://ex.org/3046089748> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-07"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-07-30"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 406"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/C959A86B68084629A9494CFAED5E06B9" .
 
 <https://ex.org/3046089752> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-02"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 407"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/618A61A71F8343F7B9DC0588A71212D9" .
 
 <https://ex.org/3046089756> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-03"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 408"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/62299B30858E4507BA0906DBA3C676DA" .
 
 <https://ex.org/3046089760> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-04"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 409"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/7CD1E7B4632A4E09B324EBB3FAE5ECE7" .
 
 <https://ex.org/3046089764> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-05"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 410"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/F95F7DF046C843D29D35C53F5827BAE6" .
 
 <https://ex.org/3046089768> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-06"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 411"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/25BBE73FE3ED451295EE8B11BE45FBFB" .
 
 <https://ex.org/3046089772> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-06"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 412"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/969D45CFDA9C4213BA41108AD8B27621" .
 
 <https://ex.org/3046089776> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-08"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 413"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/6E62D606077948CCA4E554BF5B353983" .
 
 <https://ex.org/3046089780> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-08"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 414"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/45D4D58D844F42628FD914579FBF80F1" .
 
 <https://ex.org/3046089784> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-08"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 415"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/ADAFF83814064B0192D5FDDFF53264D3" .
 
 <https://ex.org/3046089788> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-08"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 416"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/1DDC988B1EAC4C20A842F53FEE2AE4E4" .
 
 <https://ex.org/3046089792> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-09"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 417"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/D0023139CCD94E229F77027A12C92085" .
 
 <https://ex.org/3046089796> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-10"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 418"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/EFF014B313CA4A8A9CA258435AED8134" .
 
 <https://ex.org/3046089800> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-11"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 419"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/E51C0B3712C94F41832B8AB045EDD57E" .
 
 <https://ex.org/3046089804> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-11"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 420"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/259CD1B62E6B40F385459E28EB7DF538" .
 
 <https://ex.org/3046089808> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-11"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 421"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/9CF833A505D543288144457AA0226AF8" .
 
 <https://ex.org/3046089812> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-12"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 422"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/7EB197B12B3D4FD5A959BF33C411757A" .
 
 <https://ex.org/3046089816> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-12"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 423"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/CA5F863FA541452CBE08FAB9E0BFFCC9" .
 
 <https://ex.org/3046089820> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-13"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 424"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/FE9280CD9B9843FB9CE47F508739A2C5" .
 
 <https://ex.org/3046089824> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-15"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 425"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/C2E05A3C01C9430390B6B5F1F9045AD8" .
 
 <https://ex.org/3046089828> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-15"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 426"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/C28D00BA00C54C74B1E88098F463CD5F" .
 
 <https://ex.org/3046089832> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-16"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 427"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/F02C986ED4A1434AAD3954EC2D33AC0A" .
 
 <https://ex.org/3046089836> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-16"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 428"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/A35BA2309E524305B5C4B4450F6B0433" .
 
 <https://ex.org/3046089840> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-16"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 429"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/14C8FF24FEB5438193C29DEF56F15A31" .
 
 <https://ex.org/3046089848> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-17"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 431"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/5E1874B99C5B43CA96445D172FDF8A23" .
 
 <https://ex.org/3046089852> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-17"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 432"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/8E997B4F99D944EE8DC243972BE4F52A" .
 
 <https://ex.org/3046089856> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-18"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 433"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/305A2A4C752241469C994752DFF45135" .
 
 <https://ex.org/3046089860> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-18"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 434"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/32E6E29CD3A44FABB6D287CAC39C0D48" .
 
 <https://ex.org/3046089864> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-18"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 435"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/3018CECE91214B70A41ECE5A00D0B40F" .
 
 <https://ex.org/3046089868> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-19"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 436"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/45FF7ECBB9074C5EBC94DCE110F0270F" .
 
 <https://ex.org/3046089872> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-19"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 437"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/DE8AEEF0CC9A4625AB833F1A1DCCF739" .
 
 <https://ex.org/3046089876> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-20"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 438"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/62A1A488C5094AEE94F6F04589D2B53D" .
 
 <https://ex.org/3046089880> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-20"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 439"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/99EA4AEB32D244098A44625C2C7D28A0" .
 
 <https://ex.org/3046089884> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-22"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 440"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/A3058251C7994470ACA0709D7FB8F911" .
 
 <https://ex.org/3046089888> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-22"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 441"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/809847F27BF7477691471FD94459D5ED" .
 
 <https://ex.org/3046089892> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-22"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 442"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/3A18C8C0909D491C8A673E23721571BC" .
 
 <https://ex.org/3046089896> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-22"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 443"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/A972AB83FC2F4A75BFC559D2F6648B8B" .
 
 <https://ex.org/3046089900> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-22"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 444"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/4BA85828EF6641D891679B88EA0A03F7" .
 
 <https://ex.org/3046089904> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-24"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 445"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/A47D57AA7FCB418B91380F198B16D342" .
 
 <https://ex.org/3046089908> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/551> ;
-    sdo:dateCreated "1853-01-08"^^xsd:date ;
-    sdo:dateModified "2022-12-01"^^xsd:date ;
+    sdo:dateCreated "1853-08-26"^^xsd:date ;
     sdo:locationCreated "Arnhem" ;
     sdo:name "Gelders Archief (Arnhem), Burgerlijke stand Gelderland, dubbelen, (toegangsnr. 0207), inv.nr. 67.06, Arnhem, Geboorteregister, 446"@nl ;
     sdo:url "https://permalink.geldersarchief.nl/82FAD78E64EF4B7EA269B41EB516EC00" .

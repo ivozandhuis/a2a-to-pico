@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:pico="https://personsincontext.org/model/"
+<rdf:RDF xmlns:pico="https://personsincontext.org/model#"
           xmlns:picot="https://terms.personsincontext.org/"
           xmlns:pnv="https://w3id.org/pnv#"
           xmlns:prov="http://www.w3.org/ns/prov#"
@@ -7648,7 +7648,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307824">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307824"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307827"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307830"/>
@@ -7656,7 +7656,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307831">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307831"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307834"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307837"/>
@@ -7664,7 +7664,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307838">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307838"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307841"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307844"/>
@@ -7672,7 +7672,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307845">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307845"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307848"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307851"/>
@@ -7680,7 +7680,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307852">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307852"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307855"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307858"/>
@@ -7688,7 +7688,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307859">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307859"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307862"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307865"/>
@@ -7696,7 +7696,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308105">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308105"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308108"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308111"/>
@@ -7704,7 +7704,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308112">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308112"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308115"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308118"/>
@@ -7712,7 +7712,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308119">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308119"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308121"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308124"/>
@@ -7720,7 +7720,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308125">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308125"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308128"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308131"/>
@@ -7728,7 +7728,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308135">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308135"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308138"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308141"/>
@@ -7736,7 +7736,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308340">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308340"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308343"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308346"/>
@@ -7744,7 +7744,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308347">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308347"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308350"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308353"/>
@@ -7752,7 +7752,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308354">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308354"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308357"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308360"/>
@@ -7760,7 +7760,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308361">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308361"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308364"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308367"/>
@@ -7768,7 +7768,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308368">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308368"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308371"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308374"/>
@@ -7776,7 +7776,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308375">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308375"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308378"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308381"/>
@@ -7784,7 +7784,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307866">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307866"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307869"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307872"/>
@@ -7792,7 +7792,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307873">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307873"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307876"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307879"/>
@@ -7800,7 +7800,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307880">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307880"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307883"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307886"/>
@@ -7808,7 +7808,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307887">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307887"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307890"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307893"/>
@@ -7816,7 +7816,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307894">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307894"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307897"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307900"/>
@@ -7824,7 +7824,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307901">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307901"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307904"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307907"/>
@@ -7832,7 +7832,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307908">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307908"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307911"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307914"/>
@@ -7840,7 +7840,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307918">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307918"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307921"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307924"/>
@@ -7848,7 +7848,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307925">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307925"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-15</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-15</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307928"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307931"/>
@@ -7856,7 +7856,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307932">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307932"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307935"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307937"/>
@@ -7864,7 +7864,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307938">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307938"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307941"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307944"/>
@@ -7872,7 +7872,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308142">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308142"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308145"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308148"/>
@@ -7880,7 +7880,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308149">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308149"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308152"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308155"/>
@@ -7888,7 +7888,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308156">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308156"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308159"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308162"/>
@@ -7896,7 +7896,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308163">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308163"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308166"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308169"/>
@@ -7904,7 +7904,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308170">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308170"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308173"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308176"/>
@@ -7912,7 +7912,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308177">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308177"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308180"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308183"/>
@@ -7920,7 +7920,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308382">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308382"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308385"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308388"/>
@@ -7928,7 +7928,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308389">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308389"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308392"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308395"/>
@@ -7936,7 +7936,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308396">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308396"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308399"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308402"/>
@@ -7944,7 +7944,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308403">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308403"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308406"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308409"/>
@@ -7952,7 +7952,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308410">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308410"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308413"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308416"/>
@@ -7960,7 +7960,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308417">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308417"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308420"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308423"/>
@@ -7968,7 +7968,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307945">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307945"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307948"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307951"/>
@@ -7976,7 +7976,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307952">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307952"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307955"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307958"/>
@@ -7984,7 +7984,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307959">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307959"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307962"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307965"/>
@@ -7992,7 +7992,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307966">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307966"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307968"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307971"/>
@@ -8000,7 +8000,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307972">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307972"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307975"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307978"/>
@@ -8008,7 +8008,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307979">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307979"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307982"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307985"/>
@@ -8016,7 +8016,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308184">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308184"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308187"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308190"/>
@@ -8024,7 +8024,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308191">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308191"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308194"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308197"/>
@@ -8032,7 +8032,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308198">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308198"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308201"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308204"/>
@@ -8040,7 +8040,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308205">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308205"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308208"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308211"/>
@@ -8048,7 +8048,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308212">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308212"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308215"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308218"/>
@@ -8056,7 +8056,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308219">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308219"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-008-004</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-08-04</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308222"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308225"/>
@@ -8064,7 +8064,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308424">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308424"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-28</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-28</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308427"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308430"/>
@@ -8072,7 +8072,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308431">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308431"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-28</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-28</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308434"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308437"/>
@@ -8080,7 +8080,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308438">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308438"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-28</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-28</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308441"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308444"/>
@@ -8088,7 +8088,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308445">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308445"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-28</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-28</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308448"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308451"/>
@@ -8096,7 +8096,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308452">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308452"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-28</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-28</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308455"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308458"/>
@@ -8104,7 +8104,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308459">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308459"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-28</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-28</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308462"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308465"/>
@@ -8112,7 +8112,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307986">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307986"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307989"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307992"/>
@@ -8120,7 +8120,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650307993">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650307993"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650307996"/>
       <bio:partner rdf:resource="https://ex.org/Person2650307999"/>
@@ -8128,7 +8128,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308000">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308000"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308003"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308006"/>
@@ -8136,7 +8136,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308007">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308007"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308010"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308013"/>
@@ -8144,7 +8144,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308014">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308014"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308017"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308020"/>
@@ -8152,7 +8152,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308021">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308021"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308024"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308027"/>
@@ -8160,7 +8160,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308226">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308226"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308229"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308232"/>
@@ -8168,7 +8168,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308233">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308233"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308236"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308239"/>
@@ -8176,7 +8176,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308240">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308240"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308243"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308246"/>
@@ -8184,7 +8184,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308247">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308247"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308250"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308253"/>
@@ -8192,7 +8192,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308254">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308254"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308257"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308260"/>
@@ -8200,7 +8200,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308466">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308466"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-28</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-28</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308469"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308472"/>
@@ -8208,7 +8208,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308028">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308028"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308031"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308034"/>
@@ -8216,7 +8216,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308035">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308035"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308038"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308041"/>
@@ -8224,7 +8224,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308042">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308042"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308045"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308048"/>
@@ -8232,7 +8232,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308049">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308049"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308052"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308055"/>
@@ -8240,7 +8240,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308056">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308056"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308059"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308062"/>
@@ -8248,7 +8248,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308063">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308063"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308066"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308069"/>
@@ -8256,7 +8256,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308264">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308264"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308267"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308270"/>
@@ -8264,7 +8264,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308271">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308271"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308274"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308277"/>
@@ -8272,7 +8272,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308278">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308278"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308281"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308284"/>
@@ -8280,7 +8280,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308285">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308285"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308288"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308291"/>
@@ -8288,7 +8288,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308292">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308292"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308295"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308298"/>
@@ -8296,7 +8296,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308299">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308299"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308302"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308305"/>
@@ -8304,7 +8304,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308070">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308070"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308073"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308076"/>
@@ -8312,7 +8312,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308077">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308077"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308080"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308083"/>
@@ -8320,7 +8320,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308084">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308084"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308087"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308090"/>
@@ -8328,7 +8328,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308091">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308091"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308094"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308097"/>
@@ -8336,7 +8336,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308098">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308098"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308101"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308104"/>
@@ -8344,7 +8344,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308306">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308306"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308309"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308312"/>
@@ -8352,7 +8352,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308313">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308313"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308316"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308319"/>
@@ -8360,7 +8360,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308320">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308320"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308323"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308325"/>
@@ -8368,7 +8368,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308326">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308326"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308329"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308332"/>
@@ -8376,7 +8376,7 @@
    <bio:Marriage xmlns:bio="http://purl.org/vocab/bio/0.1/"
                   rdf:about="https://ex.org/Event1-2650308333">
       <prov:hadPrimarySource rdf:resource="https://ex.org/2650308333"/>
-      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</bio:date>
+      <bio:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</bio:date>
       <bio:place>Amsterdam</bio:place>
       <bio:partner rdf:resource="https://ex.org/Person2650308336"/>
       <bio:partner rdf:resource="https://ex.org/Person2650308339"/>
@@ -8384,7 +8384,7 @@
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307824">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 1</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8395,12 +8395,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/6FC48A5A676B4740B6ABBD3025890E1D</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307831">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 1v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8411,12 +8410,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/263185B25DF548069C78E9D4B94E8EC2</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307838">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 2</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8427,12 +8425,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/5810D244863949098F8EC0C9C91F2ED5</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307845">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 2v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8443,12 +8440,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/5DBD6B5FACFA4262A9B4DF79012A7086</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307852">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 3</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8459,12 +8455,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/2822124D766643EDA1FAAD9FE1433530</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307859">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 4</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8475,12 +8470,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/DA45DD3F6DD64736A397459EF7F40D11</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308105">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 22</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8491,12 +8485,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/E07A6A5E130C4688815D44FA6937AB7B</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308112">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 22v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8507,12 +8500,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/C3740E9817A044E2AE977D5BBE3E55CB</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308119">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 23</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8523,12 +8515,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/FF931A32D96C40EF9CE0FEB1DC164FEE</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308125">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 23v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8539,12 +8530,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/B6F4D541AF2540AD8FC13CF97C957594</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308135">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 24v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8555,12 +8545,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/0199A5F126514AD6BACAEB885FE7D444</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308340">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 41</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8571,12 +8560,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/3B6A00DFBECA4B3D9A31395409159C60</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308347">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 41v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8587,12 +8575,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/A325265CC99646C886C21B0EB4BE0CB1</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308354">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 42</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8603,12 +8590,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/A9403BC51D9D476D840CAA1DC03F04EF</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308361">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 42v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8619,12 +8605,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/676EEB4D05BF46A9AD9057A22C3F9703</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308368">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 43</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8635,12 +8620,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/1B0BE5933ADF40FC8F02F626BE4B5D60</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308375">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 43v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8651,12 +8635,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/3327BAF285CF4098990C61E60333FFEF</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307866">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 4v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8667,12 +8650,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/BF09C7921E864B1499DAA20BDA5D8557</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307873">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 5</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8683,12 +8665,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/B7EB083447C14FA39F87CCEE6BB57395</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307880">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 5v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8699,12 +8680,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/24832E5C9D8945269706490B526AD5AE</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307887">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 6</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8715,12 +8695,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/A0A969A202684D93978481C4357DD535</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307894">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 6v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8731,12 +8710,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/A4B00C6A06CA4EFB8BA74C73936583F0</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307901">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 7</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8747,12 +8725,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/56254AA84ABA47818B28C7F7682C5C1C</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307908">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 7v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8763,12 +8740,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/8D9077F19DEE4F82ADFCCA01D79CCF66</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307918">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 8v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8779,12 +8755,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/1EEAD3576B154BD195AEB130DCC64A8E</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307925">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 9</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-15</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-15</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8795,12 +8770,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/D7406846CC6B45D9914DC6109BB29CFF</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307932">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 9v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8811,12 +8785,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/4C0F4F2FBBF94D51904392F98F62B6E3</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307938">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 10</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8827,12 +8800,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/979CA9D3059A4B498C59804E2DAE963B</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308142">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 25</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8843,12 +8815,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/87C664B471454B4D86031A0FF73BBE30</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308149">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 25v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8859,12 +8830,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/98D7CDAFF1E947B3AA326C2C9F3F50A0</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308156">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 26</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8875,12 +8845,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/4DB49495BB3040358C175367134FE204</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308163">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 26v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8891,12 +8860,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/3136EF9A58DB4035877309E1128CCD6E</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308170">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 27</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8907,12 +8875,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/429F09AF144D4B9BAC6C9DA073CB234E</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308177">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 27v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8923,12 +8890,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/5DB1E38DCA0D4BCB8B132B4B84D61FEE</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308382">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 44</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8939,12 +8905,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/2A51051F297248D58C2644CD1D892C4B</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308389">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 44v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8955,12 +8920,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/40695EB9A84D4788B4533CE99B6D1A32</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308396">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 45</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8971,12 +8935,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/3D4DFF5C4D634E568D373E771308A0BE</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308403">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 45v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -8987,12 +8950,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/4DDD4BAABC524E34BCC877ECF5045312</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308410">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 46</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9003,12 +8965,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/2106014465184C258F8594610B96C917</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308417">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 46v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9019,12 +8980,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/0EA4443B76E541A38758904E2A923C67</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307945">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 10v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9035,12 +8995,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/254672843EEB435FA3944347754A1903</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307952">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 11</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9051,12 +9010,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/7E27A7269ED0495BBEDD786979218C8A</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307959">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 11v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9067,12 +9025,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/D6FCC092A09B40839C10FDBFC800A049</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307966">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 12</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9083,12 +9040,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/0B20A6179805498BAA4F04264EE8221C</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307972">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 12v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9099,12 +9055,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/D54E78B909B54E60AAD137C1390709DD</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307979">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 13</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9115,12 +9070,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/9118CB2594F74B4D9D60BC1CD72E7E6E</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308184">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 28</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9131,12 +9085,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/CCFDB18B73BD4295B50B1D371A1CB3F0</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308191">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 28v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9147,12 +9100,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/B9743E7121154185A86951A8D9773994</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308198">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 29</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9163,12 +9115,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/C5DC79DDFEE944F6916DF559B35965DF</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308205">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 29v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9179,12 +9130,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/6665912C532D493CAC93B95B53464256</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308212">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 30</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9195,12 +9145,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/637EDD0CC9E64231951745AEE9F72089</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308219">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 30v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-008-04</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-08-04</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9211,12 +9160,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/FB72DC9A79214DC1B1B7CBD86D945F79</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308424">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 47v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-28</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-28</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9227,12 +9175,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/6B87C0F963464EF4A852BB8658397CE0</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308431">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 48</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-28</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-28</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9243,12 +9190,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/F7947B3AEBDE48EE833F290CF67381C6</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308438">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 48v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-28</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-28</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9259,12 +9205,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/1CEDFAD2FB9143BD9914A6CDB174E615</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308445">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 49</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-28</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-28</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9275,12 +9220,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/C215B14DE43A464F836E62146A87CD27</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308452">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 49v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-28</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-28</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9291,12 +9235,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/0C6A612C3F6C43F5B9A8C106AB3BA8AD</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308459">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 50</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-28</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-28</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9307,12 +9250,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/84E5CCB0BABA4CD1831B52A2C6A74471</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307986">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 13v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9323,12 +9265,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/A1EABB84208B48BE9ABFB97037F90084</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307993">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 14</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9339,12 +9280,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/4977236B720A4972A3A3A5C33A2D56BF</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308000">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 14v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9355,12 +9295,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/349EEE879F2B4F79B3B55806EE84CB6D</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308007">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 15</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9371,12 +9310,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/A9698974DF934638AB226B6F9993A59A</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308014">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 15v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9387,12 +9325,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/79E58F6030B74218BBC830781579605C</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308021">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 16</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9403,12 +9340,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/D96756F9EB8D4FF5AE22DC5FBD5BB2BF</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308226">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 30v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9419,12 +9355,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/08550858488D4B7D9CDE9027B6BD7094</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308233">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 31</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9435,12 +9370,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/E991D3439CF2428DAE667F6AA4BA1A40</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308240">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 31v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9451,12 +9385,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/7E07BFDF54804694A4707228F826DB21</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308247">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 32</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9467,12 +9400,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/7366B5DA3F7D4944B908B41216E8505C</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308254">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 32v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9483,12 +9415,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/48027F8806E244B78CF2255CC6CE35E8</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308466">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 50v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-28</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-28</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9499,12 +9430,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/86231657BC95488590FA5DCF963784E3</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308028">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 16v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9515,12 +9445,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/7CD0229C55F54112A71C946D0F677FC8</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308035">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 17</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9531,12 +9460,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/FCBE64AD4D9E4BA581E0B18988E4987B</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308042">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 17v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9547,12 +9475,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/26BC1EDB45A243E891BA2BA3A2817E60</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308049">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 18</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9563,12 +9490,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/D55FB5FED4C24A31ADFCE4E16F7092B2</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308056">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 18v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9579,12 +9505,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/B7F7FE6B6C7A4E7AA448AFDD28171FB3</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308063">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 19</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9595,12 +9520,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/A49B257C86DF4062A39B5B7C8ED1CE59</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308264">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 33v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9611,12 +9535,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/B5CD5A99518347139A8F365A87B422AF</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308271">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 36</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9627,12 +9550,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/99BF52959AD446B1A50A8D95945A67AF</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308278">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 36v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9643,12 +9565,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/ED5C033E94E64F5A883AC78B586D6D66</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308285">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 37</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9659,12 +9580,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/ED5B7D3240B84EBCA0D70F0051347A13</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308292">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 37v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9675,12 +9595,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/8D1EF78F5E1C4AF5BBBB5CA04738E5A4</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308299">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 38</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9691,12 +9610,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/C502298F1E1A472E9D3845E147150B91</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308070">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 19v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9707,12 +9625,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/4BC58A263C3E4D719899C2B24906E4DC</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308077">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 20</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9723,12 +9640,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/4E926F2818C745838D7C48FA625B6BF2</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308084">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 20v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9739,12 +9655,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/6886E1F1689246D6878BD315485A6BB6</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308091">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 21</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9755,12 +9670,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/2D9B3011C1D047C982D801AEEBAF9F16</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308098">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 21v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9771,12 +9685,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/CDC81D3945D144D9B476FCD7F0A57004</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308306">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 38v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9787,12 +9700,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/8325CD8217EC4B5988DC06F021BCCA4C</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308313">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 39</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9803,12 +9715,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/E6408A3238F04C3BA26BE4DA421B8342</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308320">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 39v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9819,12 +9730,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/C76A5C3C5F61470784EB85D38FAF3ABF</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308326">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 40</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9835,12 +9745,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/7F88F791D160452382A945C2E9885277</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308333">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 40v</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-27</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-27</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9851,12 +9760,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/612917D3EAF7479197AE0BB22C575799</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308132">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 24</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-20</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-20</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9867,12 +9775,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/C87C39B4C4CA4E01B70E9900A745BFF0</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650307915">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 8</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-14</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-14</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9883,12 +9790,11 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/498CBADCFD024A59847C6EAF3F1E6C1B</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
    <sdo:ArchiveComponent rdf:about="https://ex.org/2650308261">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/552"/>
       <sdo:name xml:lang="nl">Noord-Hollands Archief (Haarlem), burgerlijke stand van de gemeente Amsterdam, Archiefdeel van (dubbele) registers van huwelijken v..., (toegangsnr. 358.6), inv.nr. 667, Huwelijksakten van de gemeente Amsterdam, 1881, Reg. 15 fol. 33</sdo:name>
-      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-007-21</sdo:dateCreated>
+      <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-07-21</sdo:dateCreated>
       <sdo:locationCreated>Amsterdam</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
@@ -9899,6 +9805,5 @@
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url>https://proxy.archieven.nl/236/047AF46C65D042B78690FEC440BE44FE</sdo:url>
-      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-08</sdo:dateModified>
    </sdo:ArchiveComponent>
 </rdf:RDF>
