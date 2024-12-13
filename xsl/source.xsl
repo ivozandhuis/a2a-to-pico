@@ -136,11 +136,7 @@
 	
     <xsl:template match="a2a:SourceDigitalizationDate"/>
 
-    <xsl:template match="a2a:SourceLastChangeDate">
-		<sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">
-			<xsl:value-of select="normalize-space(.)"/>
-		</sdo:dateModified>
-	</xsl:template>
+    <xsl:template match="a2a:SourceLastChangeDate"/>
 
 	<xsl:template match="a2a:SourceDigitalOriginal">
 		<sdo:url>
