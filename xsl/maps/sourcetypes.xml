@@ -1,15 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <items>
-    <item>
-        <name>BS Geboorte</name>
-        <id>https://terms.personsincontext.org/sourcetypes/551</id>
-    </item>
-    <item>
-        <name>BS Huwelijk</name>
-        <id>https://terms.personsincontext.org/sourcetypes/552</id>
-    </item>
-    <item>
-        <name>BS Overlijden</name>
-        <id>https://terms.personsincontext.org/sourcetypes/553</id>
-    </item>
+	<item>
+		<name>BS Geboorte</name>
+		<id>https://terms.personsincontext.org/sourcetypes/551</id>
+	</item>
+	<item>
+		<name>BS Huwelijk</name>
+		<id>https://terms.personsincontext.org/sourcetypes/552</id>
+	</item>
+	<item>
+		<name>BS Overlijden</name>
+		<id>https://terms.personsincontext.org/sourcetypes/553</id>
+	</item>
+	<item>
+		<name>DTB Dopen</name>
+		<id>picot:548</id>
+	</item>
+	<item>
+		<name>DTB Trouwen</name>
+		<id>picot:549</id>
+	</item>
+	<item>
+		<name>DTB Begraven</name>
+		<id>picot:526</id>
+	</item>
+	<item>
+		<name>Ondertrouwregister</name>
+		<id>picot:549</id>
+	</item>
+	<item>
+		<name>DTB Lidmaten</name>
+		<id>picot:539</id>
+	</item>
+	<item>
+		<name>Lidmatenregister</name>
+		<id>picot:539</id>
+	</item>
+	<item>
+		<name>Bevolkingsregister</name>
+		<id>picot:554</id>
+	</item>
+	<item>
+		<name>Gezinskaarten</name>
+		<id>picot:554</id>
+	</item>
+	<item>
+		<name>Notariële archieven</name>
+		<id>picot:572</id>
+	</item>
 </items>
