@@ -11,15 +11,15 @@
     xmlns:prov="http://www.w3.org/ns/prov#"
     xmlns:sdo="https://schema.org/"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-    xmlns:pico="https://personsincontext.org/model#"
+    xmlns:picom="https://personsincontext.org/model#"
     xmlns:picot="https://terms.personsincontext.org/"
 
     exclude-result-prefixes="xsl a2a a2arc">
 
     <xsl:template match="a2a:RelationEP">
-        <pico:hasRole>
+        <picom:hasRole>
             <xsl:value-of select="a2a:RelationType"/>
-        </pico:hasRole>
+        </picom:hasRole>
         <xsl:call-template name="determine-relation-property">
             <xsl:with-param name="rel-type" select="a2a:RelationType"/>
         </xsl:call-template>

@@ -11,14 +11,14 @@
     xmlns:prov="http://www.w3.org/ns/prov#"
     xmlns:sdo="https://schema.org/"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-    xmlns:pico="https://personsincontext.org/model#"
+    xmlns:picom="https://personsincontext.org/model#"
     xmlns:picot="https://terms.personsincontext.org/"
 
     exclude-result-prefixes="xsl a2a a2arc">
 
     <xsl:template match="a2a:Person">
         <xsl:param name="pid" select="@pid"/>
-        <pico:PersonObservation>
+        <picom:PersonObservation>
             <xsl:attribute name="rdf:about">
                 <xsl:value-of select="$baseUri"/>
                 <xsl:value-of select="$pid"/>
@@ -34,7 +34,7 @@
 			<xsl:apply-templates select="a2a:BirthPlace"/>	
 			<xsl:apply-templates select="a2a:Age"/>	
 			<xsl:apply-templates select="a2a:Gender"/>
-        </pico:PersonObservation>
+        </picom:PersonObservation>
     </xsl:template>
 
 <!-- level 1: subelements of Person -->
@@ -52,9 +52,9 @@
     <xsl:template match="a2a:Religion"/>
     <xsl:template match="a2a:Origin"/>
 	<xsl:template match="a2a:Age">
-		<pico:hasAge>
+		<picom:hasAge>
 			<xsl:value-of select="a2a:PersonAgeLiteral"/>
-		</pico:hasAge>
+		</picom:hasAge>
 	</xsl:template>
     <xsl:template match="a2a:BirthDate"/>
 	<xsl:template match="a2a:BirthPlace">
