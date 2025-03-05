@@ -1,10 +1,10 @@
-@prefix pico: <https://personsincontext.org/model#> .
+@prefix picom: <https://personsincontext.org/model#> .
 @prefix pnv: <https://w3id.org/pnv#> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix sdo: <https://schema.org/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://ex.org/Person:16683087-de16-40a1-8890-10e4aa561bab> a pico:PersonObservation ;
+<https://ex.org/Person:16683087-de16-40a1-8890-10e4aa561bab> a picom:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/> ;
     sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Blaauw" ;
@@ -14,12 +14,13 @@
     sdo:familyName "Blaauw" ;
     sdo:gender sdo:Female ;
     sdo:givenName "Oetske" ;
+    sdo:hasOccupation "arbeidster" ;
     sdo:name "Oetske Lammerts Blaauw" .
 
-<https://ex.org/Person:8961efcb-31b8-d5d0-8708-ef476627dd6b> a pico:PersonObservation ;
+<https://ex.org/Person:8961efcb-31b8-d5d0-8708-ef476627dd6b> a picom:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/> ;
-    pico:hasAge "84 jaar" ;
-    pico:hasRole "Overledene" ;
+    picom:hasAge "84 jaar" ;
+    picom:hasRole "Overledene" ;
     sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Werf" ;
             pnv:givenName "Pieter" ;
@@ -31,11 +32,12 @@
     sdo:familyName "van der Werf" ;
     sdo:gender sdo:Male ;
     sdo:givenName "Pieter" ;
+    sdo:hasOccupation "arbeider" ;
     sdo:name "Pieter Joukes van der Werf" .
 
-<https://ex.org/Person:3f28fb01-c4cb-40b7-aa23-b8e2c4af03c2> a pico:PersonObservation ;
+<https://ex.org/Person:3f28fb01-c4cb-40b7-aa23-b8e2c4af03c2> a picom:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/> ;
-    pico:hasRole "Vader" ;
+    picom:hasRole "Vader" ;
     sdo:additionalName [ a pnv:PersonName ;
             pnv:baseSurname "Werf" ;
             pnv:givenName "Jouke" ;
@@ -49,9 +51,9 @@
     sdo:name "Jouke Pieters van der Werf" ;
     sdo:spouse <https://ex.org/Person:c02b299d-6e3e-41b4-90a7-98e642f714ef> .
 
-<https://ex.org/Person:c02b299d-6e3e-41b4-90a7-98e642f714ef> a pico:PersonObservation ;
+<https://ex.org/Person:c02b299d-6e3e-41b4-90a7-98e642f714ef> a picom:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/> ;
-    pico:hasRole "Moeder" ;
+    picom:hasRole "Moeder" ;
     sdo:additionalName [ a pnv:PersonName ;
             pnv:givenName "Geeske" ;
             pnv:patronym "Pieters" ] ;

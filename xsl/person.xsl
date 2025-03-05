@@ -34,6 +34,7 @@
 			<xsl:apply-templates select="a2a:BirthPlace"/>	
 			<xsl:apply-templates select="a2a:Age"/>	
 			<xsl:apply-templates select="a2a:Gender"/>
+			<xsl:apply-templates select="a2a:Profession"/>
         </picom:PersonObservation>
     </xsl:template>
 
@@ -52,17 +53,29 @@
     <xsl:template match="a2a:Religion"/>
     <xsl:template match="a2a:Origin"/>
 	<xsl:template match="a2a:Age">
-		<picom:hasAge>
-			<xsl:value-of select="a2a:PersonAgeLiteral"/>
-		</picom:hasAge>
+        <xsl:if test="a2a:PersonAgeLiteral != ''">
+            <picom:hasAge>
+                <xsl:value-of select="a2a:PersonAgeLiteral"/>
+            </picom:hasAge>
+        </xsl:if>
 	</xsl:template>
     <xsl:template match="a2a:BirthDate"/>
 	<xsl:template match="a2a:BirthPlace">
-		<sdo:birthPlace>
-			<xsl:value-of select="./a2a:Place"/>
-		</sdo:birthPlace>
+        <xsl:if test="./a2a:Place != ''">
+            <sdo:birthPlace>
+                <xsl:value-of select="./a2a:Place"/>
+            </sdo:birthPlace>
+        </xsl:if>
 	</xsl:template>
-    <xsl:template match="a2a:Profession"/>
+
+    <xsl:template match="a2a:Profession">
+        <xsl:if test=". != ''">
+            <sdo:hasOccupation>
+                <xsl:value-of select="."/>        
+            </sdo:hasOccupation>
+        </xsl:if>
+    </xsl:template>
+
     <xsl:template match="a2a:MaritalStatus"/>
     <xsl:template match="a2a:PersonRemark"/>
 
