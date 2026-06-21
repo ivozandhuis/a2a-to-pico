@@ -37,7 +37,7 @@
 				<picom:hasRole rdf:resource="https://terms.personsincontext.org/roles/574"/>
 			</xsl:when>
 
-			<!-- Bruidegom → picot:573 -->
+			<!-- Getuige → picot:573 -->
 			<xsl:when test="a2a:RelationType = 'Getuige'">
 				<picom:hasRole rdf:resource="https://terms.personsincontext.org/roles/573"/>
 			</xsl:when>
@@ -45,7 +45,7 @@
 				<picom:hasRole rdf:resource="https://terms.personsincontext.org/roles/573"/>
 			</xsl:when>
 
-			<!-- Bruidegom → picot:479 -->
+			<!-- Overledene → picot:479 -->
 			<xsl:when test="a2a:RelationType = 'Overledene'">
 				<picom:hasRole rdf:resource="https://terms.personsincontext.org/roles/479"/>
 			</xsl:when>
