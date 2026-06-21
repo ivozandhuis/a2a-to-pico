@@ -15,7 +15,6 @@
 
     exclude-result-prefixes="xsl a2a a2arc">
 	<xsl:import href="person.xsl"/>
-	<xsl:import href="event.xsl"/>
 	<xsl:import href="object.xsl"/>
 	<xsl:import href="source.xsl"/>
 	<xsl:import href="relations.xsl"/>
@@ -38,21 +37,22 @@
 		</xsl:choose>
 	</xsl:param>
 	
-	<!-- ignore empty elements-->
-	<!-- HOE!? -->
-	<!-- RDF wrap -->
 	<xsl:template match="/a2arc:A2ACollection">
 		<rdf:RDF>
-			<xsl:apply-templates select="a2a:A2A/a2a:Person"/>
-			<!-- <xsl:apply-templates select="a2a:A2A/a2a:Event[a2a:EventType='Huwelijk']"/> nu via blanknode sdo:spouse -->
-			<xsl:apply-templates select="a2a:A2A/a2a:Source"/>
+			<!-- skip records whose RecordIdentifier contains a quote (it happens!) as it breaks URIs based on the RecordIdentifier -->
+			<xsl:if test="not(contains(a2a:A2A/a2a:Source/a2a:RecordIdentifier, '&quot;'))">
+				<xsl:apply-templates select="a2a:A2A/a2a:Person"/>
+				<xsl:apply-templates select="a2a:A2A/a2a:Source"/>
+			</xsl:if>
 		</rdf:RDF>
 	</xsl:template>
 	<xsl:template match="/a2a:A2A">
 		<rdf:RDF>
-			<xsl:apply-templates select="a2a:Person"/>
-			<!-- <xsl:apply-templates select="a2a:Event[a2a:EventType='Huwelijk']"/> nu via blanknode sdo:spouse -->
-			<xsl:apply-templates select="a2a:Source"/>
+			<!-- skip records whose RecordIdentifier contains a quote (it happens!) as it breaks URIs based on the RecordIdentifier -->
+			<xsl:if test="not(contains(a2a:Source/a2a:RecordIdentifier, '&quot;'))">
+				<xsl:apply-templates select="a2a:Person"/>
+				<xsl:apply-templates select="a2a:Source"/>
+			</xsl:if>
 		</rdf:RDF>
 	</xsl:template>
 </xsl:stylesheet>
