@@ -29,10 +29,13 @@
 			</prov:hadPrimarySource>
 			<xsl:apply-templates select="../a2a:RelationEP[a2a:PersonKeyRef = $pid]"/>
 			<xsl:apply-templates select="a2a:PersonName"/>
+			<xsl:apply-templates select="a2a:BirthDate"/>
 			<xsl:apply-templates select="a2a:BirthPlace"/>
 			<xsl:apply-templates select="a2a:Age"/>
 			<xsl:apply-templates select="a2a:Gender"/>
 			<xsl:apply-templates select="a2a:Profession"/>
+			<xsl:apply-templates select="a2a:Residence"/>
+			<xsl:apply-templates select="a2a:Religion"/>
 		</picom:PersonObservation>
 	</xsl:template>
 	<!-- level 1: subelements of Person -->
@@ -46,8 +49,20 @@
 			</xsl:when>
 		</xsl:choose>
 	</xsl:template>
-	<xsl:template match="a2a:Residence"/>
-	<xsl:template match="a2a:Religion"/>
+	<xsl:template match="a2a:Residence">
+		<xsl:if test="./a2a:Place != ''">
+			<sdo:address xml:lang="{$lang}">
+				<xsl:value-of select="./a2a:Place"/>
+			</sdo:address>
+		</xsl:if>
+	</xsl:template>
+	<xsl:template match="a2a:Religion">
+		<xsl:if test=". != ''">
+			<picom:hasReligion xml:lang="{$lang}">
+				<xsl:value-of select="."/>
+			</picom:hasReligion>
+		</xsl:if>
+	</xsl:template>
 	<xsl:template match="a2a:Origin"/>
 	<xsl:template match="a2a:Age">
 		<xsl:variable name="age" select="normalize-space(a2a:PersonAgeLiteral)"/>
@@ -66,7 +81,44 @@
 			</xsl:choose>
 		</xsl:if>
 	</xsl:template>
-	<xsl:template match="a2a:BirthDate"/>
+	<xsl:template match="a2a:BirthDate">
+		<xsl:variable name="year" select="./a2a:Year"/>
+		<xsl:variable name="month" select="number(./a2a:Month)"/>
+		<xsl:variable name="day" select="number(./a2a:Day)"/>
+		<xsl:variable name="monthElement" select="./a2a:Month"/>
+		<xsl:variable name="dayElement" select="./a2a:Day"/>
+		<xsl:if test="$year != ''">
+			<sdo:birthDate>
+				<xsl:choose>
+					<xsl:when test="($month = 0 or not($monthElement)) and ($day = 0 or not($dayElement))">
+						<xsl:attribute name="rdf:datatype">http://www.w3.org/2001/XMLSchema#gYear</xsl:attribute>
+						<xsl:value-of select="$year"/>
+					</xsl:when>
+					<xsl:when test="($month &gt; 0 and $month &lt; 13) and ($day = 0 or not($dayElement))">
+						<xsl:attribute name="rdf:datatype">http://www.w3.org/2001/XMLSchema#gYearMonth</xsl:attribute>
+						<xsl:value-of select="$year"/>
+						<xsl:text>-</xsl:text>
+						<xsl:value-of select="format-number($month, '00')"/>
+					</xsl:when>
+					<xsl:when test="$month &gt; 12 or $day &gt; 31 or $month &lt; 1 or $day &lt; 1">
+						<xsl:value-of select="$year"/>
+						<xsl:text>-</xsl:text>
+						<xsl:value-of select="format-number($month, '00')"/>
+						<xsl:text>-</xsl:text>
+						<xsl:value-of select="format-number($day, '00')"/>
+					</xsl:when>
+					<xsl:otherwise>
+						<xsl:attribute name="rdf:datatype">http://www.w3.org/2001/XMLSchema#date</xsl:attribute>
+						<xsl:value-of select="$year"/>
+						<xsl:text>-</xsl:text>
+						<xsl:value-of select="format-number($month, '00')"/>
+						<xsl:text>-</xsl:text>
+						<xsl:value-of select="format-number($day, '00')"/>
+					</xsl:otherwise>
+				</xsl:choose>
+			</sdo:birthDate>
+		</xsl:if>
+	</xsl:template>
 	<xsl:template match="a2a:BirthPlace">
         <xsl:if test="./a2a:Place != ''">
             <sdo:birthPlace xml:lang="{$lang}">
@@ -108,6 +160,7 @@
 						<xsl:value-of select="$full-name"/>
 					</pnv:literalName>
 					<xsl:apply-templates select="a2a:PersonNameFirstName" mode="pnv"/>
+					<xsl:apply-templates select="a2a:PersonNameInitials" mode="pnv"/>
 					<xsl:apply-templates select="a2a:PersonNamePatronym" mode="pnv" />
 					<xsl:apply-templates select="a2a:PersonNamePrefixLastName" mode="pnv" />
 					<xsl:apply-templates select="a2a:PersonNameLastName" mode="pnv"/>
@@ -148,6 +201,11 @@
 	</xsl:template>
 	<xsl:template match="a2a:PersonNameFamilyName"/>
 	<xsl:template match="a2a:PersonNameInitials"/>
+	<xsl:template match="a2a:PersonNameInitials/text()" mode="pnv">
+		<pnv:initials xml:lang="{$lang}">
+			<xsl:value-of select="."/>
+		</pnv:initials>
+	</xsl:template>
 	<xsl:template match="a2a:PersonNameRemark"/>
 	<!-- level 2: END subelements of PersonName-->
 	<xsl:template name="concat-full-name">
