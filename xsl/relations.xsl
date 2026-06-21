@@ -196,7 +196,10 @@
         <xsl:param name="rel-type"/>
         <xsl:variable name="RelationTypeMap">maps/relationtypes.xml</xsl:variable>
         <xsl:variable name="gender" select="document($RelationTypeMap)/items/item[name=$rel-type]/gender"/>
-        <xsl:if test="$gender">
+        <!-- explicit gender on the person (person.xsl emits sdo:gender only for Man/Vrouw) -->
+        <xsl:variable name="explicitGender" select="../a2a:Person[@pid = current()/a2a:PersonKeyRef]/a2a:Gender"/>
+        <!-- only emit relation-derived gender when no explicit gender triple will be produced -->
+        <xsl:if test="$gender and not($explicitGender = 'Man' or $explicitGender = 'Vrouw')">
             <sdo:gender>
                 <xsl:attribute name="rdf:resource">
                     <xsl:value-of select="$gender"/>
