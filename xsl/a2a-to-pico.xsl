@@ -10,6 +10,9 @@
 	<xsl:param name="baseUri">
 		<xsl:text>https://ex.org/</xsl:text>
 	</xsl:param>
+	<!-- When empty, all persons in the record are emitted (record-level).
+	     When set to a (':' replaced by '_') @pid, only that PersonObservation is emitted. -->
+	<xsl:param name="targetPid"><xsl:text></xsl:text></xsl:param>
 	<xsl:param name="lang">
 		<xsl:choose>
 			<xsl:when test="contains(/a2arc:A2ACollection/a2a:A2A/a2a:Source/a2a:SourceReference/a2a:InstitutionName, 'INSEE')        or contains(/a2a:A2A/a2a:Source/a2a:SourceReference/a2a:InstitutionName, 'INSEE')">
@@ -24,7 +27,7 @@
 		<rdf:RDF>
 			<!-- skip records whose RecordIdentifier contains a quote (it happens!) as it breaks URIs based on the RecordIdentifier -->
 			<xsl:if test="not(contains(a2a:A2A/a2a:Source/a2a:RecordIdentifier, '&quot;'))">
-				<xsl:apply-templates select="a2a:A2A/a2a:Person"/>
+				<xsl:apply-templates select="a2a:A2A/a2a:Person[$targetPid = '' or translate(@pid, ':', '_') = $targetPid]"/>
 				<xsl:apply-templates select="a2a:A2A/a2a:Source"/>
 			</xsl:if>
 		</rdf:RDF>
@@ -33,7 +36,7 @@
 		<rdf:RDF>
 			<!-- skip records whose RecordIdentifier contains a quote (it happens!) as it breaks URIs based on the RecordIdentifier -->
 			<xsl:if test="not(contains(a2a:Source/a2a:RecordIdentifier, '&quot;'))">
-				<xsl:apply-templates select="a2a:Person"/>
+				<xsl:apply-templates select="a2a:Person[$targetPid = '' or translate(@pid, ':', '_') = $targetPid]"/>
 				<xsl:apply-templates select="a2a:Source"/>
 			</xsl:if>
 		</rdf:RDF>
