@@ -50,6 +50,14 @@
 				<picom:hasRole rdf:resource="https://terms.personsincontext.org/roles/479"/>
 			</xsl:when>
 
+			<!-- Aangever → picot:489 -->
+			<xsl:when test="a2a:RelationType = 'Aangever'">
+				<picom:hasRole rdf:resource="https://terms.personsincontext.org/roles/489"/>
+			</xsl:when>
+			<xsl:when test="a2a:RelationType = 'other:Aangever'">
+				<picom:hasRole rdf:resource="https://terms.personsincontext.org/roles/489"/>
+			</xsl:when>
+
 			<!-- otherwise: nothing -->
 		</xsl:choose>
 		
