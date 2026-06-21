@@ -67,18 +67,9 @@
 	<xsl:template match="a2a:Age">
 		<xsl:variable name="age" select="normalize-space(a2a:PersonAgeLiteral)"/>
 		<xsl:if test="$age != ''">
-			<xsl:choose>
-				<xsl:when test="not(translate($age, '0123456789', ''))"> <!-- NUMBER ONLY? -->
-					<picom:hasAge rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">
-						<xsl:value-of select="$age"/>
-					</picom:hasAge>
-				</xsl:when>
-				<xsl:otherwise>
-					<picom:hasAge>
-						<xsl:value-of select="$age"/>
-					</picom:hasAge>
-				</xsl:otherwise>
-			</xsl:choose>
+			<picom:hasAge>
+				<xsl:value-of select="$age"/>
+			</picom:hasAge>
 		</xsl:if>
 	</xsl:template>
 	<xsl:template match="a2a:BirthDate">
