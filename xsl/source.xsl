@@ -166,8 +166,7 @@
     <xsl:value-of select="normalize-space(.)"/>
     <xsl:text>), </xsl:text>
   </xsl:template>
-
-
+  
   <!-- view-source:https://www.openarchieven.nl/includes/archives-xsl.php -->
 
   <xsl:template match="a2a:InstitutionName">
@@ -300,7 +299,7 @@
         </xsl:when>
         <xsl:when test='text() = "Nationaal Archief Rijksarchief Zuid-Holland"'>
           <sdo:holdingArchive>
-            <xsl:attribute name="rdf:resource">https://www.nationaalarchief.nl/</xsl:attribute>
+            <xsl:attribute name="rdf:resource">https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/zuid-holland/</xsl:attribute>
           </sdo:holdingArchive>
         </xsl:when>
         <xsl:when test='text() = "Stadsarchief Rotterdam"'>
@@ -403,11 +402,6 @@
             <xsl:attribute name="rdf:resource">https://hetutrechtsarchief.nl/</xsl:attribute>
           </sdo:holdingArchive>
         </xsl:when>
-        <xsl:when test='text() = "Rijckheyt, centrum voor regionale geschiedenis"'>
-          <sdo:holdingArchive>
-            <xsl:attribute name="rdf:resource">https://www.rijckheyt.nl/</xsl:attribute>
-          </sdo:holdingArchive>
-        </xsl:when>
         <xsl:when test='text() = "Gemeentearchief Schiedam"'>
           <sdo:holdingArchive>
             <xsl:attribute name="rdf:resource">https://www.schiedam.nl/gemeentearchief</xsl:attribute>
@@ -453,9 +447,9 @@
             <xsl:attribute name="rdf:resource">https://haagsgemeentearchief.nl/</xsl:attribute>
           </sdo:holdingArchive>
         </xsl:when>
-        <xsl:when test='text() = "Gemeentearchief Zoetermeer"'>
+        <xsl:when test='text() = "Stadsarchief Zoetermeer"'>
           <sdo:holdingArchive>
-            <xsl:attribute name="rdf:resource">https://www.zoetermeer.nl/inwoners/stadsarchief_46467/</xsl:attribute>
+            <xsl:attribute name="rdf:resource">https://www.geheugenvanzoetermeer.nl/</xsl:attribute>
           </sdo:holdingArchive>
         </xsl:when>
         <xsl:when test='text() = "Streekarchief Voorne-Putten"'>
@@ -488,6 +482,21 @@
             <xsl:attribute name="rdf:resource">https://www.arch.be/index.php?l=nl&amp;m=praktische-info&amp;r=onze-leeszalen&amp;d=hasselt</xsl:attribute>
           </sdo:holdingArchive>
         </xsl:when>
+        <xsl:when test='text() = "Rijksarchief België (Aarlen)"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.arch.be/index.php?l=nl&amp;m=praktische-info&amp;r=onze-leeszalen&amp;d=aarlen</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Stadsarchief Mechelen"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://stadsarchief.mechelen.be/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "New York City Municipal Archives"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.nyc.gov/site/records/about/municipal-archives.page</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
         <xsl:when test='text() = "Rijksarchief België (Leuven)"'>
           <sdo:holdingArchive>
             <xsl:attribute name="rdf:resource">https://www.arch.be/index.php?l=nl&amp;m=praktische-info&amp;r=onze-leeszalen&amp;d=leuven</xsl:attribute>
@@ -496,6 +505,16 @@
         <xsl:when test='text() = "Rijksarchief België (Antwerpen-Beveren)"'>
           <sdo:holdingArchive>
             <xsl:attribute name="rdf:resource">https://www.arch.be/index.php?l=nl&amp;m=praktische-info&amp;r=onze-leeszalen&amp;d=beveren</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Rijksarchief België (Brugge)"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.arch.be/index.php?l=nl&amp;m=praktische-info&amp;r=onze-leeszalen&amp;d=brugge</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Rijksarchief België (Louvain-la-Neuve)"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.arch.be/index.php?l=nl&amp;m=praktische-info&amp;r=onze-leeszalen&amp;d=lln</xsl:attribute>
           </sdo:holdingArchive>
         </xsl:when>
         <xsl:when test='text() = "Nederlands Bidprentjes Archief"'>
@@ -628,9 +647,9 @@
             <xsl:attribute name="rdf:resource">https://www.gooienvechthistorisch.nl/</xsl:attribute>
           </sdo:holdingArchive>
         </xsl:when>
-        <xsl:when test='text() = "Archief De Domijnen Sittard-Geleen"'>
+        <xsl:when test='text() = "Regioarchief Sittard-Geleen"'>
           <sdo:holdingArchive>
-            <xsl:attribute name="rdf:resource">https://www.dedomijnen.nl/</xsl:attribute>
+            <xsl:attribute name="rdf:resource">https://regioarchiefsittard-geleen.nl/</xsl:attribute>
           </sdo:holdingArchive>
         </xsl:when>
         <xsl:when test='text() = "Heemkring Molenheide"'>
@@ -793,6 +812,46 @@
             <xsl:attribute name="rdf:resource">https://www.heemkundeschaijkreek.nl/</xsl:attribute>
           </sdo:holdingArchive>
         </xsl:when>
+        <xsl:when test='text() = "Historische Kring Voorhout"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.hkv-voorhout.nl/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Heemkundekring De Wojstap"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.dewojstap.nl/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = concat("Heemkundige Kring ",$apos,"t Sireentje")'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://sireentje.be/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Heemkundekring De Kleine Meijerij"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.dekleinemeijerij.nl/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Heemkundevereniging De Heerlijkheid Herlaar"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://deheerlijkheidherlaar.nl/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Heemkundige Kring Braem"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.hkbraem.be/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Heemkundevereniging Helden"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://moennik.nl/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Stichting Historisch Egmond"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.historischegmond.nl/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
         <xsl:when test='text() = "Heemkundekring Jan uten Houte"'>
           <sdo:holdingArchive>
             <xsl:attribute name="rdf:resource">https://www.janutenhoute.nl/</xsl:attribute>
@@ -816,6 +875,11 @@
         <xsl:when test='text() = "Heemkundekring Rosmalen"'>
           <sdo:holdingArchive>
             <xsl:attribute name="rdf:resource">https://www.heemkundekringrosmalen.nl/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Heemkundekring De Steenen Kamer"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.hkkdesteenenkamer.nl/</xsl:attribute>
           </sdo:holdingArchive>
         </xsl:when>
         <xsl:when test='text() = "Stichting Oud Wervershoof"'>
@@ -863,9 +927,9 @@
             <xsl:attribute name="rdf:resource">https://www.gemeentearchiefgemert-bakel.nl/</xsl:attribute>
           </sdo:holdingArchive>
         </xsl:when>
-        <xsl:when test='text() = "Streekarchivariaat Noordwest-Veluwe"'>
+        <xsl:when test='text() = "Noord-Veluws Archief"'>
           <sdo:holdingArchive>
-            <xsl:attribute name="rdf:resource">https://www.snwv.nl/</xsl:attribute>
+            <xsl:attribute name="rdf:resource">https://noordveluwsarchief.nl/</xsl:attribute>
           </sdo:holdingArchive>
         </xsl:when>
         <xsl:when test='text() = "Stedelijk Archief en Documentatiecentrum Aarschot"'>
@@ -884,7 +948,9 @@
           </sdo:holdingArchive>
         </xsl:when>
         <xsl:when test='text() = "Streekarchief Midden-Holland"'>
-          <sdo:holdingArchive rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://samh.nl/</sdo:holdingArchive>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://samh.nl/</xsl:attribute>
+          </sdo:holdingArchive>
         </xsl:when>
         <xsl:when test='text() = "Stadsarchief Aalst"'>
           <sdo:holdingArchive>
@@ -907,6 +973,36 @@
           </sdo:holdingArchive>
         </xsl:when>
         <xsl:when test='text() = "Stichting Erfgoedcentrum Tongerlohuys"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.tongerlohuys.nl/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Stichting Erfgoed Goirle - De Vyer Heertganghen"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://erfgoedgoirle.nl/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Heemkundekring Erthepe"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.erthepe.nl/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Heemkunde De Heerlyckheit Plo"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://heemkundeoploo.nl/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Stichting Heem en Historie Oeffelt"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.heemhistorieoeffelt.nl/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Erfgoedvereniging Heerlijkheid Hooge- en Lage Zwaluwe"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://erfgoedzwaluwe.nl/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Heemkundekring Megen, Haren en Macharen"'>
           <sdo:holdingArchive>
             <xsl:attribute name="rdf:resource">https://www.tongerlohuys.nl/</xsl:attribute>
           </sdo:holdingArchive>
@@ -989,6 +1085,126 @@
         <xsl:when test='text() = "Heemkundekring Made en Drimmelen"'>
           <sdo:holdingArchive>
             <xsl:attribute name="rdf:resource">https://www.heemkundekring-made-en-drimmelen.nl/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Familiekunde Dendermonde"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://familiekunde-dendermonde.be/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Arsip Nasional Republik Indonesia"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://anri.go.id/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Geschied- en Heemkundige Kring De Goede Stede Hamont"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.hamontachel.com/bidprentjes-opzoeken/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Doodsprentjes.be"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.doodsprentjes.be/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Indeken.be"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.indeken.be/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Bidprentjesverzameling van Jacques Bogaerts"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://wb-stamboom-bidprenten-jacques.be/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Familiekunde Vlaanderen - Centrum voor Familiegeschiedenis"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://centrumfamiliegeschiedenis.be/bidprentjes</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Familiekunde Vlaanderen - regio Ieper-Diksmuide"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.familiekunde-ieperdiksmuide.be/bidprentjes/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Heemkring Spaenhiers"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://spaenhiers.be/archief/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Heemkundige Kring Ten Mandere"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.tenmandere.be/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Familiekunde Vlaanderen - regio Westkust"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://familiekunde-westkust.be/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Euregionaal Bidprentjes Archief"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://bidprentjes-archief.nl/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Oudheidkundige Kring De Vier Ambachten"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://devierambachten.nl/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Familiekunde Vlaanderen - regio Brugge"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://fvbrugge.be/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Familiekunde Vlaanderen - regio Gent"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.familiekunde-gent.be/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Familiekunde Vlaanderen - regio Oostende"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.familiekunde-oostende.be/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Familiekunde Vlaanderen - regio Mandel en Leie"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://fv-mandelleie.familiekunde-vlaanderen.be/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Familiekunde Vlaanderen - regio Leuven"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://familiekundevlaanderen-leuven.be/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Heemkring Zonnebeke"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://familiekundevlaanderen-leuven.be/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "de ziel van Neerkant"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://nheneerkant.nl/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Heemkundekring Sint Tunnis in Oelbroeck"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://heemkundesinttunnis.nl/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Historische Vereniging Soest/Soesterberg"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.hvsoest.nl/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Bidprentjesverzameling Willy Ribbers"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://willyribbers.nl/</xsl:attribute>
+          </sdo:holdingArchive>
+        </xsl:when>
+        <xsl:when test='text() = "Reclaim The Records"'>
+          <sdo:holdingArchive>
+            <xsl:attribute name="rdf:resource">https://www.reclaimtherecords.org/</xsl:attribute>
           </sdo:holdingArchive>
         </xsl:when>
       </xsl:choose>
