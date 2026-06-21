@@ -138,7 +138,9 @@
 		</sdo:embedUrl>
 	</xsl:template>
 	<xsl:template match="a2a:UriPreview">
-		<sdo:thumbnail rdf:resource="{normalize-space(.)}"/>
+		<sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
+			<xsl:value-of select="normalize-space(.)"/>
+		</sdo:thumbnail>
 	</xsl:template>
 	<xsl:template match="a2a:SourceDigitalizationDate"/>
 	<xsl:template match="a2a:SourceLastChangeDate">
