@@ -278,6 +278,8 @@
 <xsl:variable name="monthElement" select="$eventDate/a2a:Month"/>
 <xsl:variable name="dayElement" select="$eventDate/a2a:Day"/>
 
+<xsl:choose>
+<xsl:when test="$year != ''">
 <sdo:deathDate>
     <xsl:choose>
 
@@ -311,6 +313,12 @@
         </xsl:otherwise>
     </xsl:choose>
 </sdo:deathDate>
+</xsl:when>
+<!-- death date unknown: assert deceased per PiCo scopeNote (otherwise person is considered alive) -->
+<xsl:otherwise>
+<picom:deceased rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</picom:deceased>
+</xsl:otherwise>
+</xsl:choose>
 <xsl:if test="../a2a:Event/a2a:EventPlace/a2a:Place != ''">
     <sdo:deathPlace xml:lang="{$lang}">
         <xsl:value-of select="../a2a:Event/a2a:EventPlace/a2a:Place"/>
