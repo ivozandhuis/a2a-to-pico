@@ -252,7 +252,7 @@
 </sdo:birthDate>
 
 <xsl:if test="../a2a:Event/a2a:EventPlace/a2a:Place != ''">
-    <sdo:birthPlace>
+    <sdo:birthPlace xml:lang="{$lang}">
         <xsl:value-of select="../a2a:Event/a2a:EventPlace/a2a:Place"/>
     </sdo:birthPlace>
 </xsl:if>
@@ -301,7 +301,7 @@
     </xsl:choose>
 </sdo:deathDate>
 <xsl:if test="../a2a:Event/a2a:EventPlace/a2a:Place != ''">
-    <sdo:deathPlace>
+    <sdo:deathPlace xml:lang="{$lang}">
         <xsl:value-of select="../a2a:Event/a2a:EventPlace/a2a:Place"/>
     </sdo:deathPlace>
 </xsl:if>
