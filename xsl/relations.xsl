@@ -45,6 +45,9 @@
 		<xsl:call-template name="determine-event">
 			<xsl:with-param name="rel-type" select="a2a:RelationType"/>
 		</xsl:call-template>
+		<xsl:call-template name="determine-sibling">
+			<xsl:with-param name="rel-type" select="a2a:RelationType"/>
+		</xsl:call-template>
 	</xsl:template>
 	<xsl:template match="a2a:RelationPP"/>
 	<xsl:template match="a2a:RelationPO"/>
@@ -274,5 +277,37 @@
 				</xsl:if>
 			</xsl:when>
 		</xsl:choose>
+	</xsl:template>
+	<!-- sibling link: only in death (BS Overlijden) / burial (DTB Begraven) records,
+	     between the Overledene and any other:Broer / other:Zus -->
+	<xsl:template name="determine-sibling">
+		<xsl:param name="rel-type"/>
+		<xsl:variable name="sourceType" select="../a2a:Source/a2a:SourceType"/>
+		<xsl:if test="$sourceType = 'BS Overlijden' or $sourceType = 'DTB Begraven'">
+			<xsl:choose>
+				<!-- the deceased -> link to every brother / sister in the record -->
+				<xsl:when test="$rel-type = 'Overledene'">
+					<xsl:for-each select="../a2a:RelationEP[a2a:RelationType = 'other:Broer' or a2a:RelationType = 'other:Zus']">
+						<sdo:sibling>
+							<xsl:attribute name="rdf:resource">
+								<xsl:value-of select="$baseUri"/>
+								<xsl:value-of select="a2a:PersonKeyRef"/>
+							</xsl:attribute>
+						</sdo:sibling>
+					</xsl:for-each>
+				</xsl:when>
+				<!-- a brother / sister -> link back to the deceased -->
+				<xsl:when test="$rel-type = 'other:Broer' or $rel-type = 'other:Zus'">
+					<xsl:for-each select="../a2a:RelationEP[a2a:RelationType = 'Overledene']">
+						<sdo:sibling>
+							<xsl:attribute name="rdf:resource">
+								<xsl:value-of select="$baseUri"/>
+								<xsl:value-of select="a2a:PersonKeyRef"/>
+							</xsl:attribute>
+						</sdo:sibling>
+					</xsl:for-each>
+				</xsl:when>
+			</xsl:choose>
+		</xsl:if>
 	</xsl:template>
 </xsl:stylesheet>
