@@ -48,6 +48,9 @@
 		<xsl:call-template name="determine-sibling">
 			<xsl:with-param name="rel-type" select="a2a:RelationType"/>
 		</xsl:call-template>
+		<xsl:call-template name="determine-uncle-aunt-nephew-niece">
+			<xsl:with-param name="rel-type" select="a2a:RelationType"/>
+		</xsl:call-template>
 	</xsl:template>
 	<xsl:template match="a2a:RelationPP"/>
 	<xsl:template match="a2a:RelationPO"/>
@@ -305,6 +308,60 @@
 								<xsl:value-of select="a2a:PersonKeyRef"/>
 							</xsl:attribute>
 						</sdo:sibling>
+					</xsl:for-each>
+				</xsl:when>
+			</xsl:choose>
+		</xsl:if>
+	</xsl:template>
+	<!-- uncle/aunt <-> nephew/niece link: only in death (BS Overlijden) / burial
+	     (DTB Begraven) records, between the Overledene and any
+	     other:Neef / other:Nicht (nephews/nieces of the deceased) and
+	     other:Oom / other:Tante (uncles/aunts of the deceased) -->
+	<xsl:template name="determine-uncle-aunt-nephew-niece">
+		<xsl:param name="rel-type"/>
+		<xsl:variable name="sourceType" select="../a2a:Source/a2a:SourceType"/>
+		<xsl:if test="$sourceType = 'BS Overlijden' or $sourceType = 'DTB Begraven'">
+			<xsl:choose>
+				<!-- the deceased -> hasNephew_Niece to every nephew/niece,
+				     hasUncle_Aunt to every uncle/aunt in the record -->
+				<xsl:when test="$rel-type = 'Overledene'">
+					<xsl:for-each select="../a2a:RelationEP[a2a:RelationType = 'other:Neef' or a2a:RelationType = 'other:Nicht']">
+						<picom:hasNephew_Niece>
+							<xsl:attribute name="rdf:resource">
+								<xsl:value-of select="$baseUri"/>
+								<xsl:value-of select="a2a:PersonKeyRef"/>
+							</xsl:attribute>
+						</picom:hasNephew_Niece>
+					</xsl:for-each>
+					<xsl:for-each select="../a2a:RelationEP[a2a:RelationType = 'other:Oom' or a2a:RelationType = 'other:Tante']">
+						<picom:hasUncle_Aunt>
+							<xsl:attribute name="rdf:resource">
+								<xsl:value-of select="$baseUri"/>
+								<xsl:value-of select="a2a:PersonKeyRef"/>
+							</xsl:attribute>
+						</picom:hasUncle_Aunt>
+					</xsl:for-each>
+				</xsl:when>
+				<!-- a nephew/niece -> hasUncle_Aunt back to the deceased -->
+				<xsl:when test="$rel-type = 'other:Neef' or $rel-type = 'other:Nicht'">
+					<xsl:for-each select="../a2a:RelationEP[a2a:RelationType = 'Overledene']">
+						<picom:hasUncle_Aunt>
+							<xsl:attribute name="rdf:resource">
+								<xsl:value-of select="$baseUri"/>
+								<xsl:value-of select="a2a:PersonKeyRef"/>
+							</xsl:attribute>
+						</picom:hasUncle_Aunt>
+					</xsl:for-each>
+				</xsl:when>
+				<!-- an uncle/aunt -> hasNephew_Niece back to the deceased -->
+				<xsl:when test="$rel-type = 'other:Oom' or $rel-type = 'other:Tante'">
+					<xsl:for-each select="../a2a:RelationEP[a2a:RelationType = 'Overledene']">
+						<picom:hasNephew_Niece>
+							<xsl:attribute name="rdf:resource">
+								<xsl:value-of select="$baseUri"/>
+								<xsl:value-of select="a2a:PersonKeyRef"/>
+							</xsl:attribute>
+						</picom:hasNephew_Niece>
 					</xsl:for-each>
 				</xsl:when>
 			</xsl:choose>
