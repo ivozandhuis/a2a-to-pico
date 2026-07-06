@@ -1,0 +1,304 @@
+{
+  "@context": {
+    "picom": "https://personsincontext.org/model#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "vann": "http://purl.org/vocab/vann/",
+    "sh": "http://www.w3.org/ns/shacl#",
+    "prov": "http://www.w3.org/ns/prov#",
+    "pnv": "https://w3id.org/pnv#",
+    "sdo": "https://schema.org/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "qb": "http://purl.org/linked-data/cube#",
+    "PersonObservation": "picom:PersonObservation",
+    "Agent": "prov:Agent",
+    "ArchiveComponent": "sdo:ArchiveComponent",
+    "ImageObject": "sdo:ImageObject",
+    "Person": "picom:Person",
+    "LifeEvent": "picom:LifeEvent",
+    "PersonName": "pnv:PersonName",
+    "PersonReconstruction": "picom:PersonReconstruction",
+    "Activity": "prov:Activity",
+    "holdingArchive": {
+      "@id": "sdo:holdingArchive",
+      "@type": "@id"
+    },
+    "hasPreviousPartner": {
+      "@id": "picom:hasPreviousPartner",
+      "@type": "@id"
+    },
+    "hasStepchild": {
+      "@id": "picom:hasStepchild",
+      "@type": "@id"
+    },
+    "hasNephew_Niece-in-law": {
+      "@id": "picom:hasNephew_Niece-in-law",
+      "@type": "@id"
+    },
+    "hasGodparent": {
+      "@id": "picom:hasGodparent",
+      "@type": "@id"
+    },
+    "hasNephew_Niece": {
+      "@id": "picom:hasNephew_Niece",
+      "@type": "@id"
+    },
+    "children": {
+      "@id": "sdo:children",
+      "@type": "@id"
+    },
+    "thumbnail": {
+      "@id": "sdo:thumbnail",
+      "@type": "@id"
+    },
+    "wasDerivedFrom": {
+      "@id": "prov:wasDerivedFrom",
+      "@type": "@id"
+    },
+    "isLegitimitezedChildOf": {
+      "@id": "picom:isLegitimitezedChildOf",
+      "@type": "@id"
+    },
+    "wasRevisionOf": {
+      "@id": "prov:wasRevisionOf",
+      "@type": "@id"
+    },
+    "hasStepchild-in-law": {
+      "@id": "picom:hasStepchild-in-law",
+      "@type": "@id"
+    },
+    "hasRole": {
+      "@id": "picom:hasRole",
+      "@type": "@id"
+    },
+    "hasFosterChild": {
+      "@id": "picom:hasFosterChild",
+      "@type": "@id"
+    },
+    "hasUncle_Aunt": {
+      "@id": "picom:hasUncle_Aunt",
+      "@type": "@id"
+    },
+    "hasStepparent": {
+      "@id": "picom:hasStepparent",
+      "@type": "@id"
+    },
+    "hasChild-in-law": {
+      "@id": "picom:hasChild-in-law",
+      "@type": "@id"
+    },
+    "hasGrandchild": {
+      "@id": "picom:hasGrandchild",
+      "@type": "@id"
+    },
+    "hadPrimarySource": {
+      "@id": "prov:hadPrimarySource",
+      "@type": "@id"
+    },
+    "hasGreat-grandchild": {
+      "@id": "picom:hasGreat-grandchild",
+      "@type": "@id"
+    },
+    "hasSibling-in-law": {
+      "@id": "picom:hasSibling-in-law",
+      "@type": "@id"
+    },
+    "hasGrandparent": {
+      "@id": "picom:hasGrandparent",
+      "@type": "@id"
+    },
+    "additionalType": {
+      "@id": "sdo:additionalType",
+      "@type": "@id"
+    },
+    "isWidOf": {
+      "@id": "picom:isWidOf",
+      "@type": "@id"
+    },
+    "hasGrandchild-in-law": {
+      "@id": "picom:hasGrandchild-in-law",
+      "@type": "@id"
+    },
+    "hasStepsibling": {
+      "@id": "picom:hasStepsibling",
+      "@type": "@id"
+    },
+    "hasCousin-in-law": {
+      "@id": "picom:hasCousin-in-law",
+      "@type": "@id"
+    },
+    "hasDescendant": {
+      "@id": "picom:hasDescendant",
+      "@type": "@id"
+    },
+    "additionalName": {
+      "@id": "sdo:additionalName",
+      "@type": "@id"
+    },
+    "hasCousin": {
+      "@id": "picom:hasCousin",
+      "@type": "@id"
+    },
+    "hasGrandparent-in-law": {
+      "@id": "picom:hasGrandparent-in-law",
+      "@type": "@id"
+    },
+    "hasAncestor": {
+      "@id": "picom:hasAncestor",
+      "@type": "@id"
+    },
+    "hasParent-in-law": {
+      "@id": "picom:hasParent-in-law",
+      "@type": "@id"
+    },
+    "parent": {
+      "@id": "sdo:parent",
+      "@type": "@id"
+    },
+    "hasStepparent-in-law": {
+      "@id": "picom:hasStepparent-in-law",
+      "@type": "@id"
+    },
+    "sibling": {
+      "@id": "sdo:sibling",
+      "@type": "@id"
+    },
+    "embedUrl": {
+      "@id": "sdo:embedUrl",
+      "@type": "@id"
+    },
+    "associatedMedia": {
+      "@id": "sdo:associatedMedia",
+      "@type": "@id"
+    },
+    "hasGreat-grandparent": {
+      "@id": "picom:hasGreat-grandparent",
+      "@type": "@id"
+    },
+    "url": {
+      "@id": "sdo:url",
+      "@type": "@id"
+    },
+    "hasLifeEvent": {
+      "@id": "picom:hasLifeEvent",
+      "@type": "@id"
+    },
+    "hasFosterParent": {
+      "@id": "picom:hasFosterParent",
+      "@type": "@id"
+    },
+    "hasLegitimizedChild": {
+      "@id": "picom:hasLegitimizedChild",
+      "@type": "@id"
+    },
+    "wasGeneratedBy": {
+      "@id": "prov:wasGeneratedBy",
+      "@type": "@id"
+    },
+    "hasHalf-sibling": {
+      "@id": "picom:hasHalf-sibling",
+      "@type": "@id"
+    },
+    "hasUncle_Aunt-in-law": {
+      "@id": "picom:hasUncle_Aunt-in-law",
+      "@type": "@id"
+    },
+    "spouse": {
+      "@id": "sdo:spouse",
+      "@type": "@id"
+    },
+    "hasGodchild": {
+      "@id": "picom:hasGodchild",
+      "@type": "@id"
+    },
+    "eventType": {
+      "@id": "picom:eventType",
+      "@type": "@id"
+    },
+    "baseSurname": "pnv:baseSurname",
+    "position": {
+      "@id": "sdo:position",
+      "@type": "xsd:int"
+    },
+    "familyName": "sdo:familyName",
+    "name": "sdo:name",
+    "givenName": "sdo:givenName",
+    "hasOccupation": "sdo:hasOccupation",
+    "wasAssociatedWith": {
+      "@id": "prov:wasAssociatedWith",
+      "@type": "prov:Agent"
+    },
+    "patronym": "pnv:patronym",
+    "address": {
+      "@id": "sdo:address",
+      "@type": "sdo:Text"
+    },
+    "startedAtTime": {
+      "@id": "prov:startedAtTime",
+      "@type": "xsd:dateTime"
+    },
+    "hasAge": "picom:hasAge",
+    "dateCreated": {
+      "@id": "sdo:dateCreated",
+      "@type": "xsd:date"
+    },
+    "surnamePrefix": "pnv:surnamePrefix",
+    "birthPlace": "sdo:birthPlace",
+    "literalName": "pnv:literalName",
+    "contentLocation": "sdo:contentLocation",
+    "birthDate": "sdo:birthDate",
+    "deathPlace": "sdo:deathPlace",
+    "eventPlace": "picom:eventPlace",
+    "deathDate": "sdo:deathDate",
+    "gender": {
+      "@id": "sdo:gender",
+      "@type": "sdo:GenderType"
+    },
+    "endedAtTime": {
+      "@id": "prov:endedAtTime",
+      "@type": "xsd:dateTime"
+    },
+    "hasReligion": "picom:hasReligion",
+    "initials": "pnv:initials",
+    "eventDate": "picom:eventDate",
+    "deceased": {
+      "@id": "picom:deceased",
+      "@type": "xsd:boolean"
+    },
+    "creator": "dcterms:creator",
+    "isDefinedBy": "rdfs:isDefinedBy",
+    "scopeNote": "skos:scopeNote",
+    "rights": "dcterms:rights",
+    "versionInfo": "owl:versionInfo",
+    "range": "rdfs:range",
+    "workExample": "sdo:workExample",
+    "definition": "skos:definition",
+    "license": "dcterms:license",
+    "modified": "dcterms:modified",
+    "subPropertyOf": "rdfs:subPropertyOf",
+    "label": "rdfs:label",
+    "created": "dcterms:created",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "order": "sh:order",
+    "caption": "sdo:caption",
+    "domain": "rdfs:domain",
+    "subClassOf": "rdfs:subClassOf",
+    "domainIncludes": "sdo:domainIncludes",
+    "rangeIncludes": "sdo:rangeIncludes",
+    "contributor": "dcterms:contributor",
+    "encodingFormat": "sdo:encodingFormat",
+    "historyNote": "skos:historyNote",
+    "text": "sdo:text",
+    "type": "rdf:type",
+    "priorVersion": "owl:priorVersion",
+    "publisher": "sdo:publisher",
+    "contentUrl": "sdo:contentUrl",
+    "description": "sdo:description",
+    "inverseOf": "owl:inverseOf",
+    "codeList": "qb:codeList",
+    "codeRepository": "sdo:codeRepository",
+    "@vocab": "https://personsincontext.org/model#"
+  }
+}
