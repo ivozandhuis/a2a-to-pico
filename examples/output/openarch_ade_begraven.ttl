@@ -1,0 +1,40 @@
+@prefix picom: <https://personsincontext.org/model#> .
+@prefix picot_eventtypes: <https://terms.personsincontext.org/eventtypes/> .
+@prefix picot_roles: <https://terms.personsincontext.org/roles/> .
+@prefix pnv: <https://w3id.org/pnv#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://ex.org/Person1> a picom:PersonObservation ;
+    prov:hadPrimarySource <https://ex.org/> ;
+    picom:deceased true ;
+    picom:hasLifeEvent [ a picom:LifeEvent ;
+            picom:eventDate "1757-10-08"^^xsd:date ;
+            picom:eventPlace "Delft"@nl ;
+            picom:eventType picot_eventtypes:76 ] ;
+    picom:hasRole picot_roles:479 ;
+    schema:address "Bastiaanssteeg"@nl ;
+    schema:familyName "Coret"@nl ;
+    schema:givenName "Anna"@nl ;
+    schema:name "Anna Coret"@nl .
+
+<https://ex.org/Person6> a picom:PersonObservation ;
+    prov:hadPrimarySource <https://ex.org/> ;
+    schema:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Heeft"@nl ;
+            pnv:givenName "Pieter"@nl ;
+            pnv:literalName "Pieter van Heeft"@nl ;
+            pnv:surnamePrefix "van"@nl ] ;
+    schema:familyName "van Heeft"@nl ;
+    schema:givenName "Pieter"@nl ;
+    schema:name "Pieter van Heeft"@nl .
+
+<https://ex.org/> a schema:ArchiveComponent ;
+    schema:additionalType <https://terms.personsincontext.org/sourcetypes/526> ;
+    schema:dateModified "2019-03-19"^^xsd:date ;
+    schema:holdingArchive <https://www.stadsarchiefdelft.nl/> ;
+    schema:locationCreated "Delft"@nl ;
+    schema:name "Archief Delft Collectie Doop-, Trouw- en Begraafboeken van Delft, (toegangsnr. 0014), inv.nr. 00050, Begraafboeken Oude en Nieuwe Kerk, 1747 november 5 - 1763 december 30, 273v, "@nl ;
+    schema:url "https://hdl.handle.net/21.12115/NL-DtAD22560281"^^xsd:anyURI .
+

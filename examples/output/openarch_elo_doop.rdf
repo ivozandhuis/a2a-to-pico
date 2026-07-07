@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:pnv="https://w3id.org/pnv#" xmlns:prov="http://www.w3.org/ns/prov#" xmlns:sdo="https://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:picom="https://personsincontext.org/model#" xmlns:picot="https://terms.personsincontext.org/">
+  <picom:PersonObservation rdf:about="https://ex.org/Person:8860fe7d-d4f4-1fe1-453d-117ade5e5f28">
+    <prov:hadPrimarySource rdf:resource="https://ex.org/"/>
+    <picom:hasRole rdf:resource="https://terms.personsincontext.org/roles/dopeling"/>
+    <sdo:parent rdf:resource="https://ex.org/Person:222b3c45-2df2-8914-92cc-62bb55a70db7"/>
+    <sdo:parent rdf:resource="https://ex.org/Person:f10d5c16-fe2c-3b5d-8cf4-5b9a565c8635"/>
+    <picom:hasLifeEvent xmlns:picot_roles="https://terms.personsincontext.org/roles/" xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/">
+      <rdf:Description>
+        <rdf:type rdf:resource="https://personsincontext.org/model#LifeEvent"/>
+        <picom:eventType rdf:resource="https://terms.personsincontext.org/eventtypes/75"/>
+        <picom:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1738-08-20</picom:eventDate>
+        <picom:eventPlace xml:lang="nl">Leiden</picom:eventPlace>
+      </rdf:Description>
+    </picom:hasLifeEvent>
+    <sdo:name xml:lang="nl">Lijsbeth de Vos</sdo:name>
+    <sdo:familyName xml:lang="nl">de Vos</sdo:familyName>
+    <sdo:givenName xml:lang="nl">Lijsbeth</sdo:givenName>
+    <sdo:additionalName>
+      <pnv:PersonName>
+        <pnv:literalName xml:lang="nl">Lijsbeth de Vos</pnv:literalName>
+        <pnv:givenName xml:lang="nl">Lijsbeth</pnv:givenName>
+        <pnv:surnamePrefix xml:lang="nl">de</pnv:surnamePrefix>
+        <pnv:baseSurname xml:lang="nl">Vos</pnv:baseSurname>
+      </pnv:PersonName>
+    </sdo:additionalName>
+  </picom:PersonObservation>
+  <picom:PersonObservation rdf:about="https://ex.org/Person:222b3c45-2df2-8914-92cc-62bb55a70db7">
+    <prov:hadPrimarySource rdf:resource="https://ex.org/"/>
+    <sdo:children rdf:resource="https://ex.org/Person:8860fe7d-d4f4-1fe1-453d-117ade5e5f28"/>
+    <sdo:spouse rdf:resource="https://ex.org/Person:f10d5c16-fe2c-3b5d-8cf4-5b9a565c8635"/>
+    <sdo:gender rdf:resource="https://schema.org/Male"/>
+    <sdo:name xml:lang="nl">Jan de Vos</sdo:name>
+    <sdo:familyName xml:lang="nl">de Vos</sdo:familyName>
+    <sdo:givenName xml:lang="nl">Jan</sdo:givenName>
+    <sdo:additionalName>
+      <pnv:PersonName>
+        <pnv:literalName xml:lang="nl">Jan de Vos</pnv:literalName>
+        <pnv:givenName xml:lang="nl">Jan</pnv:givenName>
+        <pnv:surnamePrefix xml:lang="nl">de</pnv:surnamePrefix>
+        <pnv:baseSurname xml:lang="nl">Vos</pnv:baseSurname>
+      </pnv:PersonName>
+    </sdo:additionalName>
+  </picom:PersonObservation>
+  <picom:PersonObservation rdf:about="https://ex.org/Person:f10d5c16-fe2c-3b5d-8cf4-5b9a565c8635">
+    <prov:hadPrimarySource rdf:resource="https://ex.org/"/>
+    <sdo:children rdf:resource="https://ex.org/Person:8860fe7d-d4f4-1fe1-453d-117ade5e5f28"/>
+    <sdo:spouse rdf:resource="https://ex.org/Person:222b3c45-2df2-8914-92cc-62bb55a70db7"/>
+    <sdo:gender rdf:resource="https://schema.org/Female"/>
+    <sdo:name xml:lang="nl">Abigaël Coret</sdo:name>
+    <sdo:familyName xml:lang="nl">Coret</sdo:familyName>
+    <sdo:givenName xml:lang="nl">Abigaël</sdo:givenName>
+  </picom:PersonObservation>
+  <picom:PersonObservation rdf:about="https://ex.org/Person:e5c3ea7a-d39c-80ba-631c-2ecc09f81277">
+    <prov:hadPrimarySource rdf:resource="https://ex.org/"/>
+    <picom:hasRole rdf:resource="https://terms.personsincontext.org/roles/573"/>
+    <sdo:name xml:lang="nl">Lijsbeth Gewelligen</sdo:name>
+    <sdo:familyName xml:lang="nl">Gewelligen</sdo:familyName>
+    <sdo:givenName xml:lang="nl">Lijsbeth</sdo:givenName>
+  </picom:PersonObservation>
+  <picom:PersonObservation rdf:about="https://ex.org/Person:66a5db12-ee0c-aa22-d774-2822f66adc44">
+    <prov:hadPrimarySource rdf:resource="https://ex.org/"/>
+    <picom:hasRole rdf:resource="https://terms.personsincontext.org/roles/573"/>
+    <sdo:name xml:lang="nl">Jan Breijnen</sdo:name>
+    <sdo:familyName xml:lang="nl">Breijnen</sdo:familyName>
+    <sdo:givenName xml:lang="nl">Jan</sdo:givenName>
+  </picom:PersonObservation>
+  <sdo:ArchiveComponent rdf:about="https://ex.org/">
+    <sdo:additionalType xml:lang="nl">other:</sdo:additionalType>
+    <sdo:name xml:lang="nl">Erfgoed Leiden (Leiden), Archiefnaam: Doop-, trouw-, begraaf- en geboorteboeken Leiden (DTB Leiden), Deel: 228, Periode: 1..., (toegangsnr. 1004), inv.nr. 228, Doopboek van de Pieterskerk (NH) te Leiden, 1725 - 1740., </sdo:name>
+    <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1738-08-20</sdo:dateCreated>
+    <sdo:locationCreated xml:lang="nl">Leiden</sdo:locationCreated>
+    <sdo:associatedMedia>
+      <sdo:ImageObject>
+        <sdo:position>1</sdo:position>
+        <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://elo.memorix.io/resources/iiif/3/cd26cd03-b7e8-4ecf-9e5e-0a9e8f2dd7f2/info.json</sdo:url>
+        <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/ad8b3fa8-193b-aaba-64c1-15f711a309fa</sdo:embedUrl>
+        <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://elo.memorix.io/resources/iiif/3/cd26cd03-b7e8-4ecf-9e5e-0a9e8f2dd7f2/full/!250,250/0/default.jpg</sdo:thumbnail>
+      </sdo:ImageObject>
+    </sdo:associatedMedia>
+    <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/ad8b3fa8-193b-aaba-64c1-15f711a309fa</sdo:url>
+    <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1970-01-01</sdo:dateModified>
+  </sdo:ArchiveComponent>
+</rdf:RDF>

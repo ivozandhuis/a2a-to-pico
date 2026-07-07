@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:pnv="https://w3id.org/pnv#" xmlns:prov="http://www.w3.org/ns/prov#" xmlns:sdo="https://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:picom="https://personsincontext.org/model#" xmlns:picot="https://terms.personsincontext.org/">
+  <picom:PersonObservation rdf:about="https://ex.org/https://id.archief.amsterdam/961f6b1f-23bb-53f7-e053-b784100aa83b">
+    <prov:hadPrimarySource rdf:resource="https://ex.org/"/>
+    <picom:hasRole rdf:resource="https://terms.personsincontext.org/roles/574"/>
+    <sdo:spouse rdf:resource="https://ex.org/https://id.archief.amsterdam/961f6b1f-23bc-53f7-e053-b784100aa83b"/>
+    <sdo:gender rdf:resource="https://schema.org/Male"/>
+    <picom:hasLifeEvent xmlns:picot_roles="https://terms.personsincontext.org/roles/" xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/">
+      <rdf:Description>
+        <rdf:type rdf:resource="https://personsincontext.org/model#LifeEvent"/>
+        <picom:eventType rdf:resource="https://terms.personsincontext.org/eventtypes/ondertrouw"/>
+        <picom:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1673-03-25</picom:eventDate>
+        <picom:eventPlace xml:lang="nl">Amsterdam</picom:eventPlace>
+      </rdf:Description>
+    </picom:hasLifeEvent>
+    <sdo:name xml:lang="nl">Abraham Coret</sdo:name>
+    <sdo:familyName xml:lang="nl">Coret</sdo:familyName>
+    <sdo:givenName xml:lang="nl">Abraham</sdo:givenName>
+  </picom:PersonObservation>
+  <picom:PersonObservation rdf:about="https://ex.org/https://id.archief.amsterdam/961f6b1f-23bc-53f7-e053-b784100aa83b">
+    <prov:hadPrimarySource rdf:resource="https://ex.org/"/>
+    <picom:hasRole rdf:resource="https://terms.personsincontext.org/roles/574"/>
+    <sdo:spouse rdf:resource="https://ex.org/https://id.archief.amsterdam/961f6b1f-23bb-53f7-e053-b784100aa83b"/>
+    <sdo:gender rdf:resource="https://schema.org/Female"/>
+    <picom:hasLifeEvent xmlns:picot_roles="https://terms.personsincontext.org/roles/" xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/">
+      <rdf:Description>
+        <rdf:type rdf:resource="https://personsincontext.org/model#LifeEvent"/>
+        <picom:eventType rdf:resource="https://terms.personsincontext.org/eventtypes/ondertrouw"/>
+        <picom:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1673-03-25</picom:eventDate>
+        <picom:eventPlace xml:lang="nl">Amsterdam</picom:eventPlace>
+      </rdf:Description>
+    </picom:hasLifeEvent>
+    <sdo:name xml:lang="nl">Judick du Bo</sdo:name>
+    <sdo:familyName xml:lang="nl">du Bo</sdo:familyName>
+    <sdo:givenName xml:lang="nl">Judick</sdo:givenName>
+    <sdo:additionalName>
+      <pnv:PersonName>
+        <pnv:literalName xml:lang="nl">Judick du Bo</pnv:literalName>
+        <pnv:givenName xml:lang="nl">Judick</pnv:givenName>
+        <pnv:surnamePrefix xml:lang="nl">du</pnv:surnamePrefix>
+        <pnv:baseSurname xml:lang="nl">Bo</pnv:baseSurname>
+      </pnv:PersonName>
+    </sdo:additionalName>
+  </picom:PersonObservation>
+  <picom:PersonObservation rdf:about="https://ex.org/https://id.archief.amsterdam/cd0b2194-5092-7a61-e053-b784100a72e9">
+    <prov:hadPrimarySource rdf:resource="https://ex.org/"/>
+    <sdo:name xml:lang="nl">Guilliam Boetjouw</sdo:name>
+    <sdo:familyName xml:lang="nl">Boetjouw</sdo:familyName>
+    <sdo:givenName xml:lang="nl">Guilliam</sdo:givenName>
+  </picom:PersonObservation>
+  <sdo:ArchiveComponent rdf:about="https://ex.org/">
+    <sdo:additionalType xml:lang="nl">other:Ondertrouw</sdo:additionalType>
+    <sdo:name xml:lang="nl">Stadsarchief Amsterdam (Amsterdam), (toegangsnr. 5001, Archief van de Burgerlijke Stand: doop-, trouw- en begraafboeken van Amsterdam (retroacta van de Burgerlijke Stand)), inv.nr. 499, Ondertrouwregister, p.15, </sdo:name>
+    <sdo:holdingArchive rdf:resource="https://www.amsterdam.nl/stadsarchief/"/>
+    <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1673-03-25</sdo:dateCreated>
+    <sdo:locationCreated xml:lang="nl">Amsterdam</sdo:locationCreated>
+    <sdo:associatedMedia>
+      <sdo:ImageObject>
+        <sdo:position>1</sdo:position>
+        <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://stadsarchiefamsterdam.memorix.io/resources/records/media/b0e8c5d2-83e3-4430-bb67-a0f1a90835cb/iiif/3/12436204/info.json</sdo:embedUrl>
+      </sdo:ImageObject>
+    </sdo:associatedMedia>
+    <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://archief.amsterdam/indexen/deeds/b0e8c5d2-83e3-4430-bb67-a0f1a90835cb</sdo:url>
+    <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-08-07</sdo:dateModified>
+  </sdo:ArchiveComponent>
+</rdf:RDF>

@@ -1,0 +1,57 @@
+@prefix picom: <https://personsincontext.org/model#> .
+@prefix picot_eventtypes: <https://terms.personsincontext.org/eventtypes/> .
+@prefix picot_roles: <https://terms.personsincontext.org/roles/> .
+@prefix pnv: <https://w3id.org/pnv#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://ex.org/https://id.archief.amsterdam/cd0b2194-5092-7a61-e053-b784100a72e9> a picom:PersonObservation ;
+    prov:hadPrimarySource <https://ex.org/> ;
+    schema:familyName "Boetjouw"@nl ;
+    schema:givenName "Guilliam"@nl ;
+    schema:name "Guilliam Boetjouw"@nl .
+
+<https://ex.org/https://id.archief.amsterdam/961f6b1f-23bb-53f7-e053-b784100aa83b> a picom:PersonObservation ;
+    prov:hadPrimarySource <https://ex.org/> ;
+    picom:hasLifeEvent [ a picom:LifeEvent ;
+            picom:eventDate "1673-03-25"^^xsd:date ;
+            picom:eventPlace "Amsterdam"@nl ;
+            picom:eventType picot_eventtypes:ondertrouw ] ;
+    picom:hasRole picot_roles:574 ;
+    schema:familyName "Coret"@nl ;
+    schema:gender schema:Male ;
+    schema:givenName "Abraham"@nl ;
+    schema:name "Abraham Coret"@nl ;
+    schema:spouse <https://ex.org/https://id.archief.amsterdam/961f6b1f-23bc-53f7-e053-b784100aa83b> .
+
+<https://ex.org/https://id.archief.amsterdam/961f6b1f-23bc-53f7-e053-b784100aa83b> a picom:PersonObservation ;
+    prov:hadPrimarySource <https://ex.org/> ;
+    picom:hasLifeEvent [ a picom:LifeEvent ;
+            picom:eventDate "1673-03-25"^^xsd:date ;
+            picom:eventPlace "Amsterdam"@nl ;
+            picom:eventType picot_eventtypes:ondertrouw ] ;
+    picom:hasRole picot_roles:574 ;
+    schema:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Bo"@nl ;
+            pnv:givenName "Judick"@nl ;
+            pnv:literalName "Judick du Bo"@nl ;
+            pnv:surnamePrefix "du"@nl ] ;
+    schema:familyName "du Bo"@nl ;
+    schema:gender schema:Female ;
+    schema:givenName "Judick"@nl ;
+    schema:name "Judick du Bo"@nl ;
+    schema:spouse <https://ex.org/https://id.archief.amsterdam/961f6b1f-23bb-53f7-e053-b784100aa83b> .
+
+<https://ex.org/> a schema:ArchiveComponent ;
+    schema:additionalType "other:Ondertrouw"@nl ;
+    schema:associatedMedia [ a schema:ImageObject ;
+            schema:embedUrl "https://stadsarchiefamsterdam.memorix.io/resources/records/media/b0e8c5d2-83e3-4430-bb67-a0f1a90835cb/iiif/3/12436204/info.json"^^xsd:anyURI ;
+            schema:position "1" ] ;
+    schema:dateCreated "1673-03-25"^^xsd:date ;
+    schema:dateModified "2025-08-07"^^xsd:date ;
+    schema:holdingArchive <https://www.amsterdam.nl/stadsarchief/> ;
+    schema:locationCreated "Amsterdam"@nl ;
+    schema:name "Stadsarchief Amsterdam (Amsterdam), (toegangsnr. 5001, Archief van de Burgerlijke Stand: doop-, trouw- en begraafboeken van Amsterdam (retroacta van de Burgerlijke Stand)), inv.nr. 499, Ondertrouwregister, p.15, "@nl ;
+    schema:url "https://archief.amsterdam/indexen/deeds/b0e8c5d2-83e3-4430-bb67-a0f1a90835cb"^^xsd:anyURI .
+
