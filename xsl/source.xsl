@@ -123,9 +123,9 @@
 		</sdo:ImageObject>
 	</xsl:template>
 	<xsl:template match="a2a:Uri">
-		<sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
+		<sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
 			<xsl:value-of select="normalize-space(.)"/>
-		</sdo:url>
+		</sdo:contentUrl>
 	</xsl:template>
 	<xsl:template match="a2a:OrderSequenceNumber">
 		<sdo:position>
@@ -138,9 +138,9 @@
 		</sdo:embedUrl>
 	</xsl:template>
 	<xsl:template match="a2a:UriPreview">
-		<sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
+		<sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
 			<xsl:value-of select="normalize-space(.)"/>
-		</sdo:thumbnail>
+		</sdo:thumbnailUrl>
 	</xsl:template>
 	<xsl:template match="a2a:SourceDigitalizationDate"/>
 	<xsl:template match="a2a:SourceLastChangeDate">
