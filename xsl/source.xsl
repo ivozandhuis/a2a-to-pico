@@ -88,6 +88,7 @@
 					</xsl:attribute>
 				</xsl:when>
 				<xsl:otherwise>
+					<xsl:attribute name="xml:lang"><xsl:value-of select="$lang"/></xsl:attribute>
 					<xsl:value-of select="$source-type"/>
 				</xsl:otherwise>
 			</xsl:choose>
