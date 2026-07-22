@@ -1,1 +1,127 @@
-<a2a:A2A xmlns:a2a="http://Mindbus.nl/A2A" Version="1.7"><a2a:Person pid="Person:8860fe7d-d4f4-1fe1-453d-117ade5e5f28"><a2a:PersonName><a2a:PersonNameFirstName>Lijsbeth</a2a:PersonNameFirstName><a2a:PersonNamePrefixLastName>de</a2a:PersonNamePrefixLastName><a2a:PersonNameLastName>Vos</a2a:PersonNameLastName></a2a:PersonName><a2a:Gender>Onbekend</a2a:Gender><a2a:PersonRemark Key="diversen"><a2a:Value>Doopdatum: 20-08-1738</a2a:Value></a2a:PersonRemark></a2a:Person><a2a:Person pid="Person:222b3c45-2df2-8914-92cc-62bb55a70db7"><a2a:PersonName><a2a:PersonNameFirstName>Jan</a2a:PersonNameFirstName><a2a:PersonNamePrefixLastName>de</a2a:PersonNamePrefixLastName><a2a:PersonNameLastName>Vos</a2a:PersonNameLastName></a2a:PersonName><a2a:Gender>Onbekend</a2a:Gender></a2a:Person><a2a:Person pid="Person:f10d5c16-fe2c-3b5d-8cf4-5b9a565c8635"><a2a:PersonName><a2a:PersonNameFirstName>Abigaël</a2a:PersonNameFirstName><a2a:PersonNameLastName>Coret</a2a:PersonNameLastName></a2a:PersonName><a2a:Gender>Onbekend</a2a:Gender></a2a:Person><a2a:Person pid="Person:e5c3ea7a-d39c-80ba-631c-2ecc09f81277"><a2a:PersonName><a2a:PersonNameFirstName>Lijsbeth</a2a:PersonNameFirstName><a2a:PersonNameLastName>Gewelligen</a2a:PersonNameLastName></a2a:PersonName><a2a:Gender>Onbekend</a2a:Gender></a2a:Person><a2a:Person pid="Person:66a5db12-ee0c-aa22-d774-2822f66adc44"><a2a:PersonName><a2a:PersonNameFirstName>Jan</a2a:PersonNameFirstName><a2a:PersonNameLastName>Breijnen</a2a:PersonNameLastName></a2a:PersonName><a2a:Gender>Onbekend</a2a:Gender></a2a:Person><a2a:Event eid="Event1"><a2a:EventType>other:DTB Dopen</a2a:EventType><a2a:EventDate><a2a:Year>1738</a2a:Year><a2a:Month>8</a2a:Month><a2a:Day>20</a2a:Day></a2a:EventDate><a2a:EventPlace><a2a:Place>Leiden</a2a:Place></a2a:EventPlace></a2a:Event><a2a:RelationEP><a2a:PersonKeyRef>Person:8860fe7d-d4f4-1fe1-453d-117ade5e5f28</a2a:PersonKeyRef><a2a:EventKeyRef>Event1</a2a:EventKeyRef><a2a:RelationType>Kind</a2a:RelationType></a2a:RelationEP><a2a:RelationEP><a2a:PersonKeyRef>Person:222b3c45-2df2-8914-92cc-62bb55a70db7</a2a:PersonKeyRef><a2a:EventKeyRef>Event1</a2a:EventKeyRef><a2a:RelationType>Vader</a2a:RelationType></a2a:RelationEP><a2a:RelationEP><a2a:PersonKeyRef>Person:f10d5c16-fe2c-3b5d-8cf4-5b9a565c8635</a2a:PersonKeyRef><a2a:EventKeyRef>Event1</a2a:EventKeyRef><a2a:RelationType>Moeder</a2a:RelationType></a2a:RelationEP><a2a:RelationEP><a2a:PersonKeyRef>Person:e5c3ea7a-d39c-80ba-631c-2ecc09f81277</a2a:PersonKeyRef><a2a:EventKeyRef>Event1</a2a:EventKeyRef><a2a:RelationType>Getuige</a2a:RelationType></a2a:RelationEP><a2a:RelationEP><a2a:PersonKeyRef>Person:66a5db12-ee0c-aa22-d774-2822f66adc44</a2a:PersonKeyRef><a2a:EventKeyRef>Event1</a2a:EventKeyRef><a2a:RelationType>Getuige</a2a:RelationType></a2a:RelationEP><a2a:Source><a2a:SourcePlace><a2a:Place>Leiden</a2a:Place></a2a:SourcePlace><a2a:SourceIndexDate><a2a:From>1725-01-01</a2a:From><a2a:To>1740-12-31</a2a:To></a2a:SourceIndexDate><a2a:SourceDate><a2a:Year>1738</a2a:Year><a2a:Month>8</a2a:Month><a2a:Day>20</a2a:Day></a2a:SourceDate><a2a:SourceType>other:</a2a:SourceType><a2a:SourceReference><a2a:Place>Leiden</a2a:Place><a2a:InstitutionName>Erfgoed Leiden</a2a:InstitutionName><a2a:Archive>1004</a2a:Archive><a2a:Collection>Archiefnaam: Doop-, trouw-, begraaf- en geboorteboeken Leiden (DTB Leiden), Deel: 228, Periode: 1...</a2a:Collection><a2a:Book>Doopboek van de Pieterskerk (NH) te Leiden, 1725 - 1740.</a2a:Book><a2a:RegistryNumber>228</a2a:RegistryNumber></a2a:SourceReference><a2a:SourceAvailableScans><a2a:Scan><a2a:OrderSequenceNumber>1</a2a:OrderSequenceNumber><a2a:Uri>https://elo.memorix.io/resources/iiif/3/cd26cd03-b7e8-4ecf-9e5e-0a9e8f2dd7f2/info.json</a2a:Uri><a2a:UriViewer>https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/ad8b3fa8-193b-aaba-64c1-15f711a309fa</a2a:UriViewer><a2a:UriPreview>https://elo.memorix.io/resources/iiif/3/cd26cd03-b7e8-4ecf-9e5e-0a9e8f2dd7f2/full/!250,250/0/default.jpg</a2a:UriPreview></a2a:Scan></a2a:SourceAvailableScans><a2a:SourceLastChangeDate>1970-01-01</a2a:SourceLastChangeDate><a2a:SourceDigitalOriginal>https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/ad8b3fa8-193b-aaba-64c1-15f711a309fa</a2a:SourceDigitalOriginal><a2a:RecordGUID>{ad8b3fa8-193b-aaba-64c1-15f711a309fa}</a2a:RecordGUID><a2a:SourceRemark Key="Opmerking"><a2a:Value>Doopdatum: 20-08-1738&lt;br/&gt;&lt;br/&gt;&lt;a href="/collecties/archieven/archievenoverzicht/search/list/findingaid/1004/file/228"&gt;Inventarisnummer 228 van archiefnummer 1004 in Archieven&lt;/a&gt;</a2a:Value></a2a:SourceRemark><a2a:SourceRemark Key="archiefnaam"><a2a:Value>Doop-, trouw-, begraaf- en geboorteboeken Leiden (DTB Leiden)</a2a:Value></a2a:SourceRemark><a2a:SourceRemark Key="deel"><a2a:Value>228</a2a:Value></a2a:SourceRemark><a2a:SourceRemark Key="register_periode"><a2a:Value>1725-1740</a2a:Value></a2a:SourceRemark><a2a:SourceRemark Key="Provenance"><a2a:Value>A2Acollection oai-pmh_20260701_26994_00026994.xml van ELO</a2a:Value></a2a:SourceRemark></a2a:Source></a2a:A2A>
+<a2a:A2A xmlns:a2a="http://Mindbus.nl/A2A" Version="1.7">
+    <a2a:Person pid="Person:8860fe7d-d4f4-1fe1-453d-117ade5e5f28">
+        <a2a:PersonName>
+            <a2a:PersonNameFirstName>Lijsbeth</a2a:PersonNameFirstName>
+            <a2a:PersonNamePrefixLastName>de</a2a:PersonNamePrefixLastName>
+            <a2a:PersonNameLastName>Vos</a2a:PersonNameLastName>
+        </a2a:PersonName>
+        <a2a:Gender>Onbekend</a2a:Gender>
+        <a2a:PersonRemark Key="diversen">
+            <a2a:Value>Doopdatum: 20-08-1738</a2a:Value>
+        </a2a:PersonRemark>
+    </a2a:Person>
+    <a2a:Person pid="Person:222b3c45-2df2-8914-92cc-62bb55a70db7">
+        <a2a:PersonName>
+            <a2a:PersonNameFirstName>Jan</a2a:PersonNameFirstName>
+            <a2a:PersonNamePrefixLastName>de</a2a:PersonNamePrefixLastName>
+            <a2a:PersonNameLastName>Vos</a2a:PersonNameLastName>
+        </a2a:PersonName>
+        <a2a:Gender>Onbekend</a2a:Gender>
+    </a2a:Person>
+    <a2a:Person pid="Person:f10d5c16-fe2c-3b5d-8cf4-5b9a565c8635">
+        <a2a:PersonName>
+            <a2a:PersonNameFirstName>Abigaël</a2a:PersonNameFirstName>
+            <a2a:PersonNameLastName>Coret</a2a:PersonNameLastName>
+        </a2a:PersonName>
+        <a2a:Gender>Onbekend</a2a:Gender>
+    </a2a:Person>
+    <a2a:Person pid="Person:e5c3ea7a-d39c-80ba-631c-2ecc09f81277">
+        <a2a:PersonName>
+            <a2a:PersonNameFirstName>Lijsbeth</a2a:PersonNameFirstName>
+            <a2a:PersonNameLastName>Gewelligen</a2a:PersonNameLastName>
+        </a2a:PersonName>
+        <a2a:Gender>Onbekend</a2a:Gender>
+    </a2a:Person>
+    <a2a:Person pid="Person:66a5db12-ee0c-aa22-d774-2822f66adc44">
+        <a2a:PersonName>
+            <a2a:PersonNameFirstName>Jan</a2a:PersonNameFirstName>
+            <a2a:PersonNameLastName>Breijnen</a2a:PersonNameLastName>
+        </a2a:PersonName>
+        <a2a:Gender>Onbekend</a2a:Gender>
+    </a2a:Person>
+    <a2a:Event eid="Event1">
+        <a2a:EventType>other:DTB Dopen</a2a:EventType>
+        <a2a:EventDate>
+            <a2a:Year>1738</a2a:Year>
+            <a2a:Month>8</a2a:Month>
+            <a2a:Day>20</a2a:Day>
+        </a2a:EventDate>
+        <a2a:EventPlace>
+            <a2a:Place>Leiden</a2a:Place>
+        </a2a:EventPlace>
+    </a2a:Event>
+    <a2a:RelationEP>
+        <a2a:PersonKeyRef>Person:8860fe7d-d4f4-1fe1-453d-117ade5e5f28</a2a:PersonKeyRef>
+        <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+        <a2a:RelationType>Kind</a2a:RelationType>
+    </a2a:RelationEP>
+    <a2a:RelationEP>
+        <a2a:PersonKeyRef>Person:222b3c45-2df2-8914-92cc-62bb55a70db7</a2a:PersonKeyRef>
+        <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+        <a2a:RelationType>Vader</a2a:RelationType>
+    </a2a:RelationEP>
+    <a2a:RelationEP>
+        <a2a:PersonKeyRef>Person:f10d5c16-fe2c-3b5d-8cf4-5b9a565c8635</a2a:PersonKeyRef>
+        <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+        <a2a:RelationType>Moeder</a2a:RelationType>
+    </a2a:RelationEP>
+    <a2a:RelationEP>
+        <a2a:PersonKeyRef>Person:e5c3ea7a-d39c-80ba-631c-2ecc09f81277</a2a:PersonKeyRef>
+        <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+        <a2a:RelationType>Getuige</a2a:RelationType>
+    </a2a:RelationEP>
+    <a2a:RelationEP>
+        <a2a:PersonKeyRef>Person:66a5db12-ee0c-aa22-d774-2822f66adc44</a2a:PersonKeyRef>
+        <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+        <a2a:RelationType>Getuige</a2a:RelationType>
+    </a2a:RelationEP>
+    <a2a:Source>
+        <a2a:SourcePlace>
+            <a2a:Place>Leiden</a2a:Place>
+        </a2a:SourcePlace>
+        <a2a:SourceIndexDate>
+            <a2a:From>1725-01-01</a2a:From>
+            <a2a:To>1740-12-31</a2a:To>
+        </a2a:SourceIndexDate>
+        <a2a:SourceDate>
+            <a2a:Year>1738</a2a:Year>
+            <a2a:Month>8</a2a:Month>
+            <a2a:Day>20</a2a:Day>
+        </a2a:SourceDate>
+        <a2a:SourceType>other:</a2a:SourceType>
+        <a2a:SourceReference>
+            <a2a:Place>Leiden</a2a:Place>
+            <a2a:InstitutionName>Erfgoed Leiden</a2a:InstitutionName>
+            <a2a:Archive>1004</a2a:Archive>
+            <a2a:Collection>Archiefnaam: Doop-, trouw-, begraaf- en geboorteboeken Leiden (DTB Leiden), Deel: 228, Periode: 1...</a2a:Collection>
+            <a2a:Book>Doopboek van de Pieterskerk (NH) te Leiden, 1725 - 1740.</a2a:Book>
+            <a2a:RegistryNumber>228</a2a:RegistryNumber>
+        </a2a:SourceReference>
+        <a2a:SourceAvailableScans>
+            <a2a:Scan>
+                <a2a:OrderSequenceNumber>1</a2a:OrderSequenceNumber>
+                <a2a:Uri>https://elo.memorix.io/resources/iiif/3/cd26cd03-b7e8-4ecf-9e5e-0a9e8f2dd7f2/info.json</a2a:Uri>
+                <a2a:UriViewer>https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/ad8b3fa8-193b-aaba-64c1-15f711a309fa</a2a:UriViewer>
+                <a2a:UriPreview>https://elo.memorix.io/resources/iiif/3/cd26cd03-b7e8-4ecf-9e5e-0a9e8f2dd7f2/full/!250,250/0/default.jpg</a2a:UriPreview>
+            </a2a:Scan>
+        </a2a:SourceAvailableScans>
+        <a2a:SourceLastChangeDate>1970-01-01</a2a:SourceLastChangeDate>
+        <a2a:SourceDigitalOriginal>https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/ad8b3fa8-193b-aaba-64c1-15f711a309fa</a2a:SourceDigitalOriginal>
+        <a2a:RecordGUID>{ad8b3fa8-193b-aaba-64c1-15f711a309fa}</a2a:RecordGUID>
+        <a2a:SourceRemark Key="Opmerking">
+            <a2a:Value>Doopdatum: 20-08-1738&lt;br/&gt;&lt;br/&gt;&lt;a href="/collecties/archieven/archievenoverzicht/search/list/findingaid/1004/file/228"&gt;Inventarisnummer 228 van archiefnummer 1004 in Archieven&lt;/a&gt;</a2a:Value>
+        </a2a:SourceRemark>
+        <a2a:SourceRemark Key="archiefnaam">
+            <a2a:Value>Doop-, trouw-, begraaf- en geboorteboeken Leiden (DTB Leiden)</a2a:Value>
+        </a2a:SourceRemark>
+        <a2a:SourceRemark Key="deel">
+            <a2a:Value>228</a2a:Value>
+        </a2a:SourceRemark>
+        <a2a:SourceRemark Key="register_periode">
+            <a2a:Value>1725-1740</a2a:Value>
+        </a2a:SourceRemark>
+        <a2a:SourceRemark Key="Provenance">
+            <a2a:Value>A2Acollection oai-pmh_20260701_26994_00026994.xml van ELO</a2a:Value>
+        </a2a:SourceRemark>
+    </a2a:Source>
+</a2a:A2A>

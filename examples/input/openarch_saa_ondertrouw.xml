@@ -1,1 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?><a2a:A2A xmlns:a2a="http://Mindbus.nl/A2A" Version="1.7"> <a2a:Person pid="https://id.archief.amsterdam/961f6b1f-23bb-53f7-e053-b784100aa83b">  <a2a:PersonName>   <a2a:PersonNameFirstName>Abraham</a2a:PersonNameFirstName>   <a2a:PersonNameLastName>Coret</a2a:PersonNameLastName>  </a2a:PersonName> </a2a:Person> <a2a:Person pid="https://id.archief.amsterdam/961f6b1f-23bc-53f7-e053-b784100aa83b">  <a2a:PersonName>   <a2a:PersonNameFirstName>Judick</a2a:PersonNameFirstName>   <a2a:PersonNamePrefixLastName>du</a2a:PersonNamePrefixLastName>   <a2a:PersonNameLastName>Bo</a2a:PersonNameLastName>  </a2a:PersonName> </a2a:Person> <a2a:Person pid="https://id.archief.amsterdam/cd0b2194-5092-7a61-e053-b784100a72e9">  <a2a:PersonName>   <a2a:PersonNameFirstName>Guilliam</a2a:PersonNameFirstName>   <a2a:PersonNameLastName>Boetjouw</a2a:PersonNameLastName>  </a2a:PersonName> </a2a:Person> <a2a:Event eid="Event1">  <a2a:EventType>other:Ondertrouw</a2a:EventType>  <a2a:EventDate>   <a2a:Year>1673</a2a:Year>   <a2a:Month>03</a2a:Month>   <a2a:Day>25</a2a:Day>  </a2a:EventDate>  <a2a:EventPlace>   <a2a:Place>Amsterdam</a2a:Place>  </a2a:EventPlace> </a2a:Event> <a2a:RelationEP>  <a2a:PersonKeyRef>https://id.archief.amsterdam/cd0b2194-5092-7a61-e053-b784100a72e9</a2a:PersonKeyRef>  <a2a:EventKeyRef>Event1</a2a:EventKeyRef>  <a2a:RelationType>other:Eerdere man</a2a:RelationType> </a2a:RelationEP> <a2a:RelationEP>  <a2a:PersonKeyRef>https://id.archief.amsterdam/961f6b1f-23bc-53f7-e053-b784100aa83b</a2a:PersonKeyRef>  <a2a:EventKeyRef>Event1</a2a:EventKeyRef>  <a2a:RelationType>Bruid</a2a:RelationType> </a2a:RelationEP> <a2a:RelationEP>  <a2a:PersonKeyRef>https://id.archief.amsterdam/961f6b1f-23bb-53f7-e053-b784100aa83b</a2a:PersonKeyRef>  <a2a:EventKeyRef>Event1</a2a:EventKeyRef>  <a2a:RelationType>Bruidegom</a2a:RelationType> </a2a:RelationEP> <a2a:Source>  <a2a:SourcePlace>   <a2a:Place>Amsterdam</a2a:Place>  </a2a:SourcePlace>  <a2a:SourceIndexDate>   <a2a:From>1673-03-25</a2a:From>   <a2a:To>1673-03-25</a2a:To>  </a2a:SourceIndexDate>  <a2a:SourceDate>   <a2a:Year>1673</a2a:Year>   <a2a:Month>03</a2a:Month>   <a2a:Day>25</a2a:Day>  </a2a:SourceDate>  <a2a:SourceType>other:Ondertrouw</a2a:SourceType>  <a2a:SourceReference>   <a2a:Place>Amsterdam</a2a:Place>   <a2a:InstitutionName>Stadsarchief Amsterdam</a2a:InstitutionName>   <a2a:Archive>5001, Archief van de Burgerlijke Stand: doop-, trouw- en begraafboeken van Amsterdam (retroacta van de Burgerlijke Stand)</a2a:Archive>   <a2a:Book>Ondertrouwregister</a2a:Book>   <a2a:Folio>p.15</a2a:Folio>   <a2a:RegistryNumber>499</a2a:RegistryNumber>  </a2a:SourceReference>  <a2a:SourceAvailableScans>   <a2a:Scan>    <a2a:OrderSequenceNumber>1</a2a:OrderSequenceNumber>    <a2a:UriViewer>https://stadsarchiefamsterdam.memorix.io/resources/records/media/b0e8c5d2-83e3-4430-bb67-a0f1a90835cb/iiif/3/12436204/info.json</a2a:UriViewer>   </a2a:Scan>  </a2a:SourceAvailableScans>  <a2a:SourceLastChangeDate>2025-08-07</a2a:SourceLastChangeDate>  <a2a:SourceDigitalOriginal>https://archief.amsterdam/indexen/deeds/b0e8c5d2-83e3-4430-bb67-a0f1a90835cb</a2a:SourceDigitalOriginal>  <a2a:RecordGUID>{b0e8c5d2-83e3-4430-bb67-a0f1a90835cb}</a2a:RecordGUID>  <a2a:SourceRemark Key="Opmerking">   <a2a:Value>Huwelijksintekeningen van de KERK.</a2a:Value>  </a2a:SourceRemark>  <a2a:SourceRemark Key="InventarisLink">   <a2a:Value>https://archief.amsterdam/inventarissen/file/2b19bcc2-686a-360c-dbaf-bb5832ab8f8e</a2a:Value>  </a2a:SourceRemark>  <a2a:SourceRemark Key="link_EAD">   <a2a:Value>https://archief.amsterdam/inventarissen/file/796f876e-d5c0-01e6-e053-b784100a7a85</a2a:Value>  </a2a:SourceRemark>  <a2a:SourceRemark Key="Provenance">   <a2a:Value>RDF via https://id.archief.amsterdam/b0e8c5d2-83e3-4430-bb67-a0f1a90835cb converted to A2A</a2a:Value>  </a2a:SourceRemark> </a2a:Source></a2a:A2A>
+<?xml version="1.0" encoding="UTF-8"?>
+<a2a:A2A xmlns:a2a="http://Mindbus.nl/A2A" Version="1.7">
+    <a2a:Person pid="https://id.archief.amsterdam/961f6b1f-23bb-53f7-e053-b784100aa83b">
+        <a2a:PersonName>
+            <a2a:PersonNameFirstName>Abraham</a2a:PersonNameFirstName>
+            <a2a:PersonNameLastName>Coret</a2a:PersonNameLastName>
+        </a2a:PersonName>
+    </a2a:Person>
+    <a2a:Person pid="https://id.archief.amsterdam/961f6b1f-23bc-53f7-e053-b784100aa83b">
+        <a2a:PersonName>
+            <a2a:PersonNameFirstName>Judick</a2a:PersonNameFirstName>
+            <a2a:PersonNamePrefixLastName>du</a2a:PersonNamePrefixLastName>
+            <a2a:PersonNameLastName>Bo</a2a:PersonNameLastName>
+        </a2a:PersonName>
+    </a2a:Person>
+    <a2a:Person pid="https://id.archief.amsterdam/cd0b2194-5092-7a61-e053-b784100a72e9">
+        <a2a:PersonName>
+            <a2a:PersonNameFirstName>Guilliam</a2a:PersonNameFirstName>
+            <a2a:PersonNameLastName>Boetjouw</a2a:PersonNameLastName>
+        </a2a:PersonName>
+    </a2a:Person>
+    <a2a:Event eid="Event1">
+        <a2a:EventType>other:Ondertrouw</a2a:EventType>
+        <a2a:EventDate>
+            <a2a:Year>1673</a2a:Year>
+            <a2a:Month>03</a2a:Month>
+            <a2a:Day>25</a2a:Day>
+        </a2a:EventDate>
+        <a2a:EventPlace>
+            <a2a:Place>Amsterdam</a2a:Place>
+        </a2a:EventPlace>
+    </a2a:Event>
+    <a2a:RelationEP>
+        <a2a:PersonKeyRef>https://id.archief.amsterdam/cd0b2194-5092-7a61-e053-b784100a72e9</a2a:PersonKeyRef>
+        <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+        <a2a:RelationType>other:Eerdere man</a2a:RelationType>
+    </a2a:RelationEP>
+    <a2a:RelationEP>
+        <a2a:PersonKeyRef>https://id.archief.amsterdam/961f6b1f-23bc-53f7-e053-b784100aa83b</a2a:PersonKeyRef>
+        <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+        <a2a:RelationType>Bruid</a2a:RelationType>
+    </a2a:RelationEP>
+    <a2a:RelationEP>
+        <a2a:PersonKeyRef>https://id.archief.amsterdam/961f6b1f-23bb-53f7-e053-b784100aa83b</a2a:PersonKeyRef>
+        <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+        <a2a:RelationType>Bruidegom</a2a:RelationType>
+    </a2a:RelationEP>
+    <a2a:Source>
+        <a2a:SourcePlace>
+            <a2a:Place>Amsterdam</a2a:Place>
+        </a2a:SourcePlace>
+        <a2a:SourceIndexDate>
+            <a2a:From>1673-03-25</a2a:From>
+            <a2a:To>1673-03-25</a2a:To>
+        </a2a:SourceIndexDate>
+        <a2a:SourceDate>
+            <a2a:Year>1673</a2a:Year>
+            <a2a:Month>03</a2a:Month>
+            <a2a:Day>25</a2a:Day>
+        </a2a:SourceDate>
+        <a2a:SourceType>other:Ondertrouw</a2a:SourceType>
+        <a2a:SourceReference>
+            <a2a:Place>Amsterdam</a2a:Place>
+            <a2a:InstitutionName>Stadsarchief Amsterdam</a2a:InstitutionName>
+            <a2a:Archive>5001, Archief van de Burgerlijke Stand: doop-, trouw- en begraafboeken van Amsterdam (retroacta van de Burgerlijke Stand)</a2a:Archive>
+            <a2a:Book>Ondertrouwregister</a2a:Book>
+            <a2a:Folio>p.15</a2a:Folio>
+            <a2a:RegistryNumber>499</a2a:RegistryNumber>
+        </a2a:SourceReference>
+        <a2a:SourceAvailableScans>
+            <a2a:Scan>
+                <a2a:OrderSequenceNumber>1</a2a:OrderSequenceNumber>
+                <a2a:UriViewer>https://stadsarchiefamsterdam.memorix.io/resources/records/media/b0e8c5d2-83e3-4430-bb67-a0f1a90835cb/iiif/3/12436204/info.json</a2a:UriViewer>
+            </a2a:Scan>
+        </a2a:SourceAvailableScans>
+        <a2a:SourceLastChangeDate>2025-08-07</a2a:SourceLastChangeDate>
+        <a2a:SourceDigitalOriginal>https://archief.amsterdam/indexen/deeds/b0e8c5d2-83e3-4430-bb67-a0f1a90835cb</a2a:SourceDigitalOriginal>
+        <a2a:RecordGUID>{b0e8c5d2-83e3-4430-bb67-a0f1a90835cb}</a2a:RecordGUID>
+        <a2a:SourceRemark Key="Opmerking">
+            <a2a:Value>Huwelijksintekeningen van de KERK.</a2a:Value>
+        </a2a:SourceRemark>
+        <a2a:SourceRemark Key="InventarisLink">
+            <a2a:Value>https://archief.amsterdam/inventarissen/file/2b19bcc2-686a-360c-dbaf-bb5832ab8f8e</a2a:Value>
+        </a2a:SourceRemark>
+        <a2a:SourceRemark Key="link_EAD">
+            <a2a:Value>https://archief.amsterdam/inventarissen/file/796f876e-d5c0-01e6-e053-b784100a7a85</a2a:Value>
+        </a2a:SourceRemark>
+        <a2a:SourceRemark Key="Provenance">
+            <a2a:Value>RDF via https://id.archief.amsterdam/b0e8c5d2-83e3-4430-bb67-a0f1a90835cb converted to A2A</a2a:Value>
+        </a2a:SourceRemark>
+    </a2a:Source>
+</a2a:A2A>
