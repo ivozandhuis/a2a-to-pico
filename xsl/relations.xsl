@@ -4,9 +4,18 @@
 	<xsl:template match="a2a:RelationEP">
 		<!-- picom:hasRole only for specific RelationType values -->
 		<xsl:choose>
-			<!-- Kind → picot:575 -->
+			<!-- Kind → picot:575; but a Kind in a baptism (Doop) is the Dopeling.
+			     NOTE: PiCo has no Dopeling role yet; the URI is a placeholder pending
+			     a term from CBG (issue10). -->
 			<xsl:when test="a2a:RelationType = 'Kind'">
-				<picom:hasRole rdf:resource="https://terms.personsincontext.org/roles/575"/>
+				<xsl:choose>
+					<xsl:when test="../a2a:Event/a2a:EventType = 'Doop' or ../a2a:Event/a2a:EventType = 'other:DTB Dopen'">
+						<picom:hasRole rdf:resource="https://terms.personsincontext.org/roles/dopeling"/>
+					</xsl:when>
+					<xsl:otherwise>
+						<picom:hasRole rdf:resource="https://terms.personsincontext.org/roles/575"/>
+					</xsl:otherwise>
+				</xsl:choose>
 			</xsl:when>
 			<!-- Bruid → picot:574 -->
 			<xsl:when test="a2a:RelationType = 'Bruid'">
@@ -49,6 +58,9 @@
 			<xsl:with-param name="rel-type" select="a2a:RelationType"/>
 		</xsl:call-template>
 		<xsl:call-template name="determine-uncle-aunt-nephew-niece">
+			<xsl:with-param name="rel-type" select="a2a:RelationType"/>
+		</xsl:call-template>
+		<xsl:call-template name="determine-lifeevent">
 			<xsl:with-param name="rel-type" select="a2a:RelationType"/>
 		</xsl:call-template>
 	</xsl:template>
@@ -120,7 +132,9 @@
 					</sdo:spouse>
 				</xsl:if>
 			</xsl:for-each>
-			<!-- Marriage life event -->
+			<!-- Marriage life event (only when the record documents an actual Huwelijk,
+			     so an Ondertrouw record does not mint an empty-dated marriage) -->
+			<xsl:if test="$relations-parent/a2a:Event[a2a:EventType='Huwelijk']">
 			<picom:hasLifeEvent>
 				<rdf:Description>
 					<rdf:type rdf:resource="https://personsincontext.org/model#LifeEvent"/>
@@ -167,6 +181,7 @@
 					</xsl:if>
 				</rdf:Description>
 			</picom:hasLifeEvent>
+			</xsl:if>
 		</xsl:if>
 	</xsl:template>
 	<xsl:template name="determine-gender">
@@ -187,7 +202,8 @@
 	<xsl:template name="determine-event">
 		<xsl:param name="rel-type"/>
 		<xsl:choose>
-			<xsl:when test="$rel-type = 'Kind'">
+			<!-- birthDate only from an actual birth event, never from a baptism (Doop) -->
+			<xsl:when test="$rel-type = 'Kind' and ../a2a:Event/a2a:EventType = 'Geboorte'">
 				<xsl:variable name="eventDate" select="../a2a:Event/a2a:EventDate"/>
 				<xsl:variable name="year" select="$eventDate/a2a:Year"/>
 				<xsl:variable name="month" select="number($eventDate/a2a:Month)"/>
@@ -229,7 +245,8 @@
 					</sdo:birthPlace>
 				</xsl:if>
 			</xsl:when>
-			<xsl:when test="$rel-type = 'Overledene'">
+			<!-- deathDate only from an actual death event, never from a burial (Begraven) -->
+			<xsl:when test="$rel-type = 'Overledene' and ../a2a:Event/a2a:EventType = 'Overlijden'">
 				<xsl:variable name="eventDate" select="../a2a:Event/a2a:EventDate"/>
 				<xsl:variable name="year" select="$eventDate/a2a:Year"/>
 				<xsl:variable name="month" select="number($eventDate/a2a:Month)"/>
@@ -366,5 +383,104 @@
 				</xsl:when>
 			</xsl:choose>
 		</xsl:if>
+	</xsl:template>
+	<!-- baptism / burial / marriage-banns life events (mainly DTB records).
+	     Modelled as lightweight picom:LifeEvent nodes, per the LifeEvent scopeNote. -->
+	<xsl:template name="determine-lifeevent">
+		<xsl:param name="rel-type"/>
+		<xsl:variable name="eventType" select="../a2a:Event/a2a:EventType"/>
+		<xsl:variable name="eventDate" select="../a2a:Event/a2a:EventDate"/>
+		<xsl:variable name="eventPlace" select="../a2a:Event/a2a:EventPlace/a2a:Place"/>
+		<xsl:choose>
+			<!-- baptism: the baptised person (A2A labels this a Kind; in PiCo the role is Dopeling) -->
+			<xsl:when test="($eventType = 'Doop' or $eventType = 'other:DTB Dopen') and $rel-type = 'Kind'">
+				<xsl:call-template name="emit-lifeevent">
+					<xsl:with-param name="eventTypeUri" select="'https://terms.personsincontext.org/eventtypes/75'"/>
+					<xsl:with-param name="eventDate" select="$eventDate"/>
+					<xsl:with-param name="eventPlace" select="$eventPlace"/>
+				</xsl:call-template>
+			</xsl:when>
+			<!-- burial: the deceased -->
+			<xsl:when test="$eventType = 'Begraven' and $rel-type = 'Overledene'">
+				<xsl:call-template name="emit-lifeevent">
+					<xsl:with-param name="eventTypeUri" select="'https://terms.personsincontext.org/eventtypes/76'"/>
+					<xsl:with-param name="eventDate" select="$eventDate"/>
+					<xsl:with-param name="eventPlace" select="$eventPlace"/>
+				</xsl:call-template>
+				<!-- a buried person is by definition deceased (the death branch above is
+				     skipped for a Begraven event, so assert it here) -->
+				<picom:deceased rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</picom:deceased>
+			</xsl:when>
+			<!-- marriage banns / ondertrouw: bride and groom.
+			     NOTE: PiCo has no eventtype term for ondertrouw yet; the URI below is a
+			     placeholder pending a term from CBG (issue10, option C). -->
+			<xsl:when test="($eventType = 'Ondertrouw' or $eventType = 'other:Ondertrouw') and ($rel-type = 'Bruid' or $rel-type = 'Bruidegom')">
+				<xsl:call-template name="emit-lifeevent">
+					<xsl:with-param name="eventTypeUri" select="'https://terms.personsincontext.org/eventtypes/ondertrouw'"/>
+					<xsl:with-param name="eventDate" select="$eventDate"/>
+					<xsl:with-param name="eventPlace" select="$eventPlace"/>
+				</xsl:call-template>
+			</xsl:when>
+		</xsl:choose>
+	</xsl:template>
+	<!-- shared: emit a lightweight picom:LifeEvent (type + optional date + optional place) -->
+	<xsl:template name="emit-lifeevent">
+		<xsl:param name="eventTypeUri"/>
+		<xsl:param name="eventDate"/>
+		<xsl:param name="eventPlace"/>
+		<picom:hasLifeEvent>
+			<rdf:Description>
+				<rdf:type rdf:resource="https://personsincontext.org/model#LifeEvent"/>
+				<picom:eventType rdf:resource="{$eventTypeUri}"/>
+				<xsl:if test="$eventDate/a2a:Year != ''">
+					<picom:eventDate>
+						<xsl:call-template name="emit-date-value">
+							<xsl:with-param name="eventDate" select="$eventDate"/>
+						</xsl:call-template>
+					</picom:eventDate>
+				</xsl:if>
+				<xsl:if test="$eventPlace != ''">
+					<picom:eventPlace xml:lang="{$lang}">
+						<xsl:value-of select="$eventPlace"/>
+					</picom:eventPlace>
+				</xsl:if>
+			</rdf:Description>
+		</picom:hasLifeEvent>
+	</xsl:template>
+	<!-- shared: emit rdf:datatype + value for an a2a:EventDate (gYear / gYearMonth / date precision) -->
+	<xsl:template name="emit-date-value">
+		<xsl:param name="eventDate"/>
+		<xsl:variable name="year" select="$eventDate/a2a:Year"/>
+		<xsl:variable name="month" select="number($eventDate/a2a:Month)"/>
+		<xsl:variable name="day" select="number($eventDate/a2a:Day)"/>
+		<xsl:variable name="monthElement" select="$eventDate/a2a:Month"/>
+		<xsl:variable name="dayElement" select="$eventDate/a2a:Day"/>
+		<xsl:choose>
+			<xsl:when test="($month = 0 or not($monthElement)) and ($day = 0 or not($dayElement))">
+				<xsl:attribute name="rdf:datatype">http://www.w3.org/2001/XMLSchema#gYear</xsl:attribute>
+				<xsl:value-of select="$year"/>
+			</xsl:when>
+			<xsl:when test="($month &gt; 0 and $month &lt; 13) and ($day = 0 or not($dayElement))">
+				<xsl:attribute name="rdf:datatype">http://www.w3.org/2001/XMLSchema#gYearMonth</xsl:attribute>
+				<xsl:value-of select="$year"/>
+				<xsl:text>-</xsl:text>
+				<xsl:value-of select="format-number($month, '00')"/>
+			</xsl:when>
+			<xsl:when test="$month &gt; 12 or $day &gt; 31 or $month &lt; 1 or $day &lt; 1">
+				<xsl:value-of select="$year"/>
+				<xsl:text>-</xsl:text>
+				<xsl:value-of select="format-number($month, '00')"/>
+				<xsl:text>-</xsl:text>
+				<xsl:value-of select="format-number($day, '00')"/>
+			</xsl:when>
+			<xsl:otherwise>
+				<xsl:attribute name="rdf:datatype">http://www.w3.org/2001/XMLSchema#date</xsl:attribute>
+				<xsl:value-of select="$year"/>
+				<xsl:text>-</xsl:text>
+				<xsl:value-of select="format-number($month, '00')"/>
+				<xsl:text>-</xsl:text>
+				<xsl:value-of select="format-number($day, '00')"/>
+			</xsl:otherwise>
+		</xsl:choose>
 	</xsl:template>
 </xsl:stylesheet>

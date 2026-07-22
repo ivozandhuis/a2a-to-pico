@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:pnv="https://w3id.org/pnv#" xmlns:prov="http://www.w3.org/ns/prov#" xmlns:sdo="https://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:picom="https://personsincontext.org/model#" xmlns:picot="https://terms.personsincontext.org/">
+  <picom:PersonObservation rdf:about="https://ex.org/Person1">
+    <prov:hadPrimarySource rdf:resource="https://ex.org/"/>
+    <picom:hasRole rdf:resource="https://terms.personsincontext.org/roles/479"/>
+    <picom:hasLifeEvent xmlns:picot_roles="https://terms.personsincontext.org/roles/" xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/">
+      <rdf:Description>
+        <rdf:type rdf:resource="https://personsincontext.org/model#LifeEvent"/>
+        <picom:eventType rdf:resource="https://terms.personsincontext.org/eventtypes/76"/>
+        <picom:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1757-10-08</picom:eventDate>
+        <picom:eventPlace xml:lang="nl">Delft</picom:eventPlace>
+      </rdf:Description>
+    </picom:hasLifeEvent>
+    <picom:deceased rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</picom:deceased>
+    <sdo:name xml:lang="nl">Anna Coret</sdo:name>
+    <sdo:familyName xml:lang="nl">Coret</sdo:familyName>
+    <sdo:givenName xml:lang="nl">Anna</sdo:givenName>
+    <sdo:address xml:lang="nl">Bastiaanssteeg</sdo:address>
+  </picom:PersonObservation>
+  <picom:PersonObservation rdf:about="https://ex.org/Person6">
+    <prov:hadPrimarySource rdf:resource="https://ex.org/"/>
+    <sdo:name xml:lang="nl">Pieter van Heeft</sdo:name>
+    <sdo:familyName xml:lang="nl">van Heeft</sdo:familyName>
+    <sdo:givenName xml:lang="nl">Pieter</sdo:givenName>
+    <sdo:additionalName>
+      <pnv:PersonName>
+        <pnv:literalName xml:lang="nl">Pieter van Heeft</pnv:literalName>
+        <pnv:givenName xml:lang="nl">Pieter</pnv:givenName>
+        <pnv:surnamePrefix xml:lang="nl">van</pnv:surnamePrefix>
+        <pnv:baseSurname xml:lang="nl">Heeft</pnv:baseSurname>
+      </pnv:PersonName>
+    </sdo:additionalName>
+  </picom:PersonObservation>
+  <sdo:ArchiveComponent rdf:about="https://ex.org/">
+    <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/526"/>
+    <sdo:name xml:lang="nl">Archief Delft Collectie Doop-, Trouw- en Begraafboeken van Delft, (toegangsnr. 0014), inv.nr. 00050, Begraafboeken Oude en Nieuwe Kerk, 1747 november 5 - 1763 december 30, 273v, </sdo:name>
+    <sdo:holdingArchive rdf:resource="https://www.stadsarchiefdelft.nl/"/>
+    <sdo:locationCreated xml:lang="nl">Delft</sdo:locationCreated>
+    <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://hdl.handle.net/21.12115/NL-DtAD22560281</sdo:url>
+    <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-03-19</sdo:dateModified>
+  </sdo:ArchiveComponent>
+</rdf:RDF>
