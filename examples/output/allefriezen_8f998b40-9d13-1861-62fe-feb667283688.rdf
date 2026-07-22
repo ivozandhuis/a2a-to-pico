@@ -8,91 +8,100 @@
           xmlns:sdo="https://schema.org/"
           xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
    <picom:PersonObservation rdf:about="https://ex.org/Person:8961efcb-31b8-d5d0-8708-ef476627dd6b">
-      <prov:hadPrimarySource rdf:resource="https://ex.org/"/>
-      <picom:hasRole>Overledene</picom:hasRole>
-      <sdo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1864-02-28</sdo:deathDate>
-      <sdo:deathPlace>Gorredijk</sdo:deathPlace>
-      <sdo:name>Pieter Joukes van der Werf</sdo:name>
-      <sdo:familyName>van der Werf</sdo:familyName>
-      <sdo:givenName>Pieter</sdo:givenName>
+      <prov:hadPrimarySource rdf:resource="https://ex.org/Source:8f998b40-9d13-1861-62fe-feb667283688"/>
+      <picom:hasRole xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                      xmlns:picot_roles="https://terms.personsincontext.org/roles/"
+                      rdf:resource="https://terms.personsincontext.org/roles/479"/>
+      <sdo:deathDate xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                      xmlns:picot_roles="https://terms.personsincontext.org/roles/"
+                      rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1864-02-28</sdo:deathDate>
+      <sdo:deathPlace xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                       xmlns:picot_roles="https://terms.personsincontext.org/roles/"
+                       xml:lang="nl">Gorredijk</sdo:deathPlace>
+      <sdo:name xml:lang="nl">Pieter Joukes van der Werf</sdo:name>
+      <sdo:familyName xml:lang="nl">van der Werf</sdo:familyName>
+      <sdo:givenName xml:lang="nl">Pieter</sdo:givenName>
       <sdo:additionalName>
          <pnv:PersonName>
-            <pnv:literalName>van der Werf</pnv:literalName>
-            <pnv:givenName>Pieter</pnv:givenName>
-            <pnv:patronym>Joukes</pnv:patronym>
-            <pnv:surnamePrefix>van der</pnv:surnamePrefix>
-            <pnv:baseSurname>Werf</pnv:baseSurname>
+            <pnv:literalName xml:lang="nl">Pieter Joukes van der Werf</pnv:literalName>
+            <pnv:givenName xml:lang="nl">Pieter</pnv:givenName>
+            <pnv:patronym xml:lang="nl">Joukes</pnv:patronym>
+            <pnv:surnamePrefix xml:lang="nl">van der</pnv:surnamePrefix>
+            <pnv:baseSurname xml:lang="nl">Werf</pnv:baseSurname>
          </pnv:PersonName>
       </sdo:additionalName>
       <picom:hasAge>84 jaar</picom:hasAge>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
-      <sdo:hasOccupation>arbeider</sdo:hasOccupation>
+      <sdo:hasOccupation xml:lang="nl">arbeider</sdo:hasOccupation>
+      <sdo:description xml:lang="nl">gehuwd</sdo:description>
    </picom:PersonObservation>
    <picom:PersonObservation rdf:about="https://ex.org/Person:3f28fb01-c4cb-40b7-aa23-b8e2c4af03c2">
-      <prov:hadPrimarySource rdf:resource="https://ex.org/"/>
-      <picom:hasRole>Vader</picom:hasRole>
-      <sdo:children rdf:resource="https://ex.org/"/>
-      <sdo:spouse rdf:resource="https://ex.org/Person:c02b299d-6e3e-41b4-90a7-98e642f714ef"/>
-      <sdo:gender rdf:resource="https://schema.org/Male"/>
-      <sdo:name>Jouke Pieters van der Werf</sdo:name>
-      <sdo:familyName>van der Werf</sdo:familyName>
-      <sdo:givenName>Jouke</sdo:givenName>
+      <prov:hadPrimarySource rdf:resource="https://ex.org/Source:8f998b40-9d13-1861-62fe-feb667283688"/>
+      <sdo:spouse xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                   xmlns:picot_roles="https://terms.personsincontext.org/roles/"
+                   rdf:resource="https://ex.org/Person:c02b299d-6e3e-41b4-90a7-98e642f714ef"/>
+      <sdo:name xml:lang="nl">Jouke Pieters van der Werf</sdo:name>
+      <sdo:familyName xml:lang="nl">van der Werf</sdo:familyName>
+      <sdo:givenName xml:lang="nl">Jouke</sdo:givenName>
       <sdo:additionalName>
          <pnv:PersonName>
-            <pnv:literalName>van der Werf</pnv:literalName>
-            <pnv:givenName>Jouke</pnv:givenName>
-            <pnv:patronym>Pieters</pnv:patronym>
-            <pnv:surnamePrefix>van der</pnv:surnamePrefix>
-            <pnv:baseSurname>Werf</pnv:baseSurname>
+            <pnv:literalName xml:lang="nl">Jouke Pieters van der Werf</pnv:literalName>
+            <pnv:givenName xml:lang="nl">Jouke</pnv:givenName>
+            <pnv:patronym xml:lang="nl">Pieters</pnv:patronym>
+            <pnv:surnamePrefix xml:lang="nl">van der</pnv:surnamePrefix>
+            <pnv:baseSurname xml:lang="nl">Werf</pnv:baseSurname>
          </pnv:PersonName>
       </sdo:additionalName>
       <sdo:gender rdf:resource="https://schema.org/Male"/>
    </picom:PersonObservation>
    <picom:PersonObservation rdf:about="https://ex.org/Person:c02b299d-6e3e-41b4-90a7-98e642f714ef">
-      <prov:hadPrimarySource rdf:resource="https://ex.org/"/>
-      <picom:hasRole>Moeder</picom:hasRole>
-      <sdo:children rdf:resource="https://ex.org/"/>
-      <sdo:spouse rdf:resource="https://ex.org/Person:3f28fb01-c4cb-40b7-aa23-b8e2c4af03c2"/>
-      <sdo:gender rdf:resource="https://schema.org/Female"/>
-      <sdo:name>Geeske Pieters</sdo:name>
-      <sdo:givenName>Geeske</sdo:givenName>
+      <prov:hadPrimarySource rdf:resource="https://ex.org/Source:8f998b40-9d13-1861-62fe-feb667283688"/>
+      <sdo:spouse xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                   xmlns:picot_roles="https://terms.personsincontext.org/roles/"
+                   rdf:resource="https://ex.org/Person:3f28fb01-c4cb-40b7-aa23-b8e2c4af03c2"/>
+      <sdo:name xml:lang="nl">Geeske Pieters</sdo:name>
+      <sdo:givenName xml:lang="nl">Geeske</sdo:givenName>
       <sdo:additionalName>
          <pnv:PersonName>
-            <pnv:givenName>Geeske</pnv:givenName>
-            <pnv:patronym>Pieters</pnv:patronym>
+            <pnv:literalName xml:lang="nl">Geeske Pieters</pnv:literalName>
+            <pnv:givenName xml:lang="nl">Geeske</pnv:givenName>
+            <pnv:patronym xml:lang="nl">Pieters</pnv:patronym>
          </pnv:PersonName>
       </sdo:additionalName>
       <sdo:gender rdf:resource="https://schema.org/Female"/>
    </picom:PersonObservation>
    <picom:PersonObservation rdf:about="https://ex.org/Person:16683087-de16-40a1-8890-10e4aa561bab">
-      <prov:hadPrimarySource rdf:resource="https://ex.org/"/>
-      <sdo:name>Oetske Lammerts Blaauw</sdo:name>
-      <sdo:familyName>Blaauw</sdo:familyName>
-      <sdo:givenName>Oetske</sdo:givenName>
+      <prov:hadPrimarySource rdf:resource="https://ex.org/Source:8f998b40-9d13-1861-62fe-feb667283688"/>
+      <sdo:name xml:lang="nl">Oetske Lammerts Blaauw</sdo:name>
+      <sdo:familyName xml:lang="nl">Blaauw</sdo:familyName>
+      <sdo:givenName xml:lang="nl">Oetske</sdo:givenName>
       <sdo:additionalName>
          <pnv:PersonName>
-            <pnv:literalName>Blaauw</pnv:literalName>
-            <pnv:givenName>Oetske</pnv:givenName>
-            <pnv:patronym>Lammerts</pnv:patronym>
-            <pnv:baseSurname>Blaauw</pnv:baseSurname>
+            <pnv:literalName xml:lang="nl">Oetske Lammerts Blaauw</pnv:literalName>
+            <pnv:givenName xml:lang="nl">Oetske</pnv:givenName>
+            <pnv:patronym xml:lang="nl">Lammerts</pnv:patronym>
+            <pnv:baseSurname xml:lang="nl">Blaauw</pnv:baseSurname>
          </pnv:PersonName>
       </sdo:additionalName>
       <sdo:gender rdf:resource="https://schema.org/Female"/>
-      <sdo:hasOccupation>arbeidster</sdo:hasOccupation>
+      <sdo:hasOccupation xml:lang="nl">arbeidster</sdo:hasOccupation>
    </picom:PersonObservation>
-   <sdo:ArchiveComponent rdf:about="https://ex.org/">
+   <sdo:ArchiveComponent rdf:about="https://ex.org/Source:8f998b40-9d13-1861-62fe-feb667283688">
       <sdo:additionalType rdf:resource="https://terms.personsincontext.org/sourcetypes/553"/>
       <sdo:name xml:lang="nl">AlleFriezen (Leeuwarden), Archiefnaam: Burgerlijke Stand Opsterland - Tresoar, Bron: boek, Deel: 3020, Periode: 1864, (toegangsnr. 30-28), inv.nr. 3020, Overlijdensregister 1864, 0044</sdo:name>
+      <sdo:holdingArchive rdf:resource="https://www.allefriezen.nl/"/>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1864-02-29</sdo:dateCreated>
-      <sdo:locationCreated>Opsterland</sdo:locationCreated>
+      <sdo:locationCreated xml:lang="nl">Opsterland</sdo:locationCreated>
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url>https://tresoar-images.memorix.nl/frl/thumb/640x480/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg</sdo:url>
-            <sdo:embedUrl>http://allefriezen.nl/zoeken/deeds/8f998b40-9d13-1861-62fe-feb667283688</sdo:embedUrl>
-            <sdo:thumbnail>https://tresoar-images.memorix.nl/frl/thumb/250x250/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg</sdo:thumbnail>
+            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://tresoar-images.memorix.nl/frl/thumb/640x480/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg</sdo:url>
+            <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://allefriezen.nl/zoeken/deeds/8f998b40-9d13-1861-62fe-feb667283688</sdo:embedUrl>
+            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://tresoar-images.memorix.nl/frl/thumb/250x250/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg</sdo:thumbnail>
          </sdo:ImageObject>
       </sdo:associatedMedia>
-      <sdo:url>http://allefriezen.nl/zoeken/deeds/8f998b40-9d13-1861-62fe-feb667283688</sdo:url>
+      <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://allefriezen.nl/zoeken/deeds/8f998b40-9d13-1861-62fe-feb667283688</sdo:url>
+      <sdo:description xml:lang="nl">A2Acollection oai-pmh_20240413_5195_00005195.xml van FRL</sdo:description>
+      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-08-29</sdo:dateModified>
    </sdo:ArchiveComponent>
 </rdf:RDF>

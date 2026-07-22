@@ -1,0 +1,84 @@
+@prefix picom: <https://personsincontext.org/model#> .
+@prefix picot_eventtypes: <https://terms.personsincontext.org/eventtypes/> .
+@prefix picot_roles: <https://terms.personsincontext.org/roles/> .
+@prefix pnv: <https://w3id.org/pnv#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix sdo: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://ex.org/Person:29b3d393-dded-abe8-e56f-2738df4c3279> a picom:PersonObservation ;
+    prov:hadPrimarySource <https://ex.org/Source:14b2d6e9-e5b1-06d9-870d-d5a0dfc585b0> ;
+    picom:hasRole picot_roles:573 ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Thiel"@nl ;
+            pnv:givenName "Barber"@nl ;
+            pnv:literalName "Barber van Thiel"@nl ;
+            pnv:surnamePrefix "van"@nl ] ;
+    sdo:description "getuige van de bruid, relatie tot de bruid: bekende, adres: Coenesteegh"@nl ;
+    sdo:familyName "van Thiel"@nl ;
+    sdo:givenName "Barber"@nl ;
+    sdo:name "Barber van Thiel"@nl .
+
+<https://ex.org/Person:f3870c00-8053-86b2-84c8-14e9d48e72bd> a picom:PersonObservation ;
+    prov:hadPrimarySource <https://ex.org/Source:14b2d6e9-e5b1-06d9-870d-d5a0dfc585b0> ;
+    picom:hasRole picot_roles:573 ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Dervoe"@nl ;
+            pnv:givenName "Claes"@nl ;
+            pnv:literalName "Claes Jansz Dervoe"@nl ;
+            pnv:patronym "Jansz"@nl ] ;
+    sdo:description "getuige van de bruidegom, relatie tot de bruidegom: oom, adres: Oostdwersgraft"@nl ;
+    sdo:familyName "Dervoe"@nl ;
+    sdo:givenName "Claes"@nl ;
+    sdo:name "Claes Jansz Dervoe"@nl .
+
+<https://ex.org/Person:4533b2e8-2f6d-cc99-5348-148912de9e3c> a picom:PersonObservation ;
+    prov:hadPrimarySource <https://ex.org/Source:14b2d6e9-e5b1-06d9-870d-d5a0dfc585b0> ;
+    picom:hasLifeEvent [ a picom:LifeEvent ;
+            picom:eventDate ""^^xsd:gYear ;
+            picom:eventType picot_eventtypes:83 ] ;
+    picom:hasRole picot_roles:574 ;
+    sdo:address "Oranjegraft"@nl ;
+    sdo:birthPlace "Leyden"@nl ;
+    sdo:familyName "Verlinde"@nl ;
+    sdo:gender sdo:Male ;
+    sdo:givenName "Johannes"@nl ;
+    sdo:hasOccupation "saaiwerker"@nl ;
+    sdo:name "Johannes Verlinde"@nl ;
+    sdo:spouse <https://ex.org/Person:ef1fbb14-8655-daa9-af17-8408204f538b> .
+
+<https://ex.org/Person:ef1fbb14-8655-daa9-af17-8408204f538b> a picom:PersonObservation ;
+    prov:hadPrimarySource <https://ex.org/Source:14b2d6e9-e5b1-06d9-870d-d5a0dfc585b0> ;
+    picom:hasLifeEvent [ a picom:LifeEvent ;
+            picom:eventDate ""^^xsd:gYear ;
+            picom:eventType picot_eventtypes:83 ] ;
+    picom:hasRole picot_roles:574 ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Leeuwen"@nl ;
+            pnv:givenName "Annetge"@nl ;
+            pnv:literalName "Annetge van Leeuwen"@nl ;
+            pnv:surnamePrefix "van"@nl ] ;
+    sdo:address "Levendael"@nl ;
+    sdo:birthPlace "Leyden"@nl ;
+    sdo:familyName "van Leeuwen"@nl ;
+    sdo:gender sdo:Female ;
+    sdo:givenName "Annetge"@nl ;
+    sdo:name "Annetge van Leeuwen"@nl ;
+    sdo:spouse <https://ex.org/Person:4533b2e8-2f6d-cc99-5348-148912de9e3c> .
+
+<https://ex.org/Source:14b2d6e9-e5b1-06d9-870d-d5a0dfc585b0> a sdo:ArchiveComponent ;
+    sdo:additionalType "other: " ;
+    sdo:associatedMedia [ a sdo:ImageObject ;
+            sdo:embedUrl "https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/14b2d6e9-e5b1-06d9-870d-d5a0dfc585b0"^^xsd:anyURI ;
+            sdo:position "1" ;
+            sdo:thumbnail "https://elo.memorix.io/resources/iiif/3/ac90e1ff-ee8f-4beb-b473-6241b1ae6c83/full/!250,250/0/default.jpg"^^xsd:anyURI ;
+            sdo:url "https://elo.memorix.io/resources/iiif/3/ac90e1ff-ee8f-4beb-b473-6241b1ae6c83/info.json"^^xsd:anyURI ] ;
+    sdo:dateModified "1970-01-01"^^xsd:date ;
+    sdo:description "1678-1681"@nl,
+        "22"@nl,
+        "Datum ondertrouw: 12-10-1680<br/><br/><a href=\"/collecties/archieven/archievenoverzicht/search/list/findingaid/1004/file/22\">Inventarisnummer 22 van archiefnummer 1004 in Archieven</a>"@nl,
+        "Doop-, trouw-, begraaf- en geboorteboeken Leiden (DTB Leiden)"@nl ;
+    sdo:locationCreated "Leiden"@nl ;
+    sdo:name "Erfgoed Leiden (Leiden), Archiefnaam: Doop-, trouw-, begraaf- en geboorteboeken Leiden (DTB Leiden), Deel: 22, Periode: 16..., (toegangsnr. 1004), inv.nr. 22, X. Kerkelijk ondertrouwboek (NH) van Leiden, januari 1678 - 1681., 191, "@nl ;
+    sdo:url "https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/14b2d6e9-e5b1-06d9-870d-d5a0dfc585b0"^^xsd:anyURI .
+

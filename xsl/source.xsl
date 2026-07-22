@@ -5,7 +5,8 @@
 		<sdo:ArchiveComponent>
 			<xsl:attribute name="rdf:about">
 				<xsl:value-of select="$baseUri"/>
-				<xsl:value-of select="a2a:RecordIdentifier"/>
+				<xsl:text>Source:</xsl:text>
+				<xsl:value-of select="translate(a2a:RecordGUID, '{}', '')"/>
 			</xsl:attribute>
 			<xsl:apply-templates select="a2a:SourceType"/>
 			<xsl:apply-templates select="a2a:SourceReference"/>
@@ -13,6 +14,7 @@
 			<xsl:apply-templates select="a2a:SourcePlace"/>
 			<xsl:apply-templates select="a2a:SourceAvailableScans"/>
 			<xsl:apply-templates select="a2a:SourceDigitalOriginal"/>
+			<xsl:apply-templates select="a2a:SourceRemark"/>
 			<xsl:apply-templates select="a2a:SourceLastChangeDate"/>
 		</sdo:ArchiveComponent>
 	</xsl:template>
@@ -155,7 +157,13 @@
 	</xsl:template>
 	<xsl:template match="a2a:RecordIdentifier"/>
 	<xsl:template match="a2a:RecordGUID"/>
-	<xsl:template match="a2a:SourceRemark"/>
+	<xsl:template match="a2a:SourceRemark">
+		<xsl:if test="a2a:Value != ''">
+			<sdo:description xml:lang="{$lang}">
+				<xsl:value-of select="a2a:Value"/>
+			</sdo:description>
+		</xsl:if>
+	</xsl:template>
 	<!-- level 2: START subelements of a2a:SourceReference -->
 	<xsl:template match="a2a:Place" mode="schema-name-nl">
 		<xsl:text>(</xsl:text>

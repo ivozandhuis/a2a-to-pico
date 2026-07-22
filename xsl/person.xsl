@@ -11,7 +11,8 @@
 			<prov:hadPrimarySource>
 				<xsl:attribute name="rdf:resource">
 					<xsl:value-of select="$baseUri"/>
-					<xsl:value-of select="../a2a:Source/a2a:RecordIdentifier"/>
+					<xsl:text>Source:</xsl:text>
+					<xsl:value-of select="translate(../a2a:Source/a2a:RecordGUID, '{}', '')"/>
 				</xsl:attribute>
 			</prov:hadPrimarySource>
 			<xsl:apply-templates select="../a2a:RelationEP[a2a:PersonKeyRef = $pid]"/>
@@ -21,6 +22,7 @@
 			<xsl:apply-templates select="a2a:Age"/>
 			<xsl:apply-templates select="a2a:Gender"/>
 			<xsl:apply-templates select="a2a:Profession"/>
+			<xsl:apply-templates select="a2a:PersonRemark"/>
 			<xsl:apply-templates select="a2a:Residence"/>
 			<xsl:apply-templates select="a2a:Religion"/>
 		</picom:PersonObservation>
@@ -112,7 +114,13 @@
 		</xsl:if>
 	</xsl:template>
 	<xsl:template match="a2a:MaritalStatus"/>
-	<xsl:template match="a2a:PersonRemark"/>
+	<xsl:template match="a2a:PersonRemark">
+		<xsl:if test="a2a:Value != ''">
+			<sdo:description xml:lang="{$lang}">
+				<xsl:value-of select="a2a:Value"/>
+			</sdo:description>
+		</xsl:if>
+	</xsl:template>
 	<xsl:template match="a2a:PersonName">
 		<xsl:variable name="full-name">
 			<xsl:call-template name="concat-full-name"/>

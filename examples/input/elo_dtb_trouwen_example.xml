@@ -1,0 +1,135 @@
+<a2a:A2A xmlns:a2a="http://Mindbus.nl/A2A" Version="1.7">
+  <a2a:Person pid="Person:4533b2e8-2f6d-cc99-5348-148912de9e3c">
+    <a2a:PersonName>
+      <a2a:PersonNameFirstName>Johannes</a2a:PersonNameFirstName>
+      <a2a:PersonNameLastName>Verlinde</a2a:PersonNameLastName>
+    </a2a:PersonName>
+    <a2a:Gender>Onbekend</a2a:Gender>
+    <a2a:Residence>
+      <a2a:Place>Oranjegraft</a2a:Place>
+    </a2a:Residence>
+    <a2a:Age>
+      <a2a:PersonAgeLiteral/>
+    </a2a:Age>
+    <a2a:BirthPlace>
+      <a2a:Place>Leyden</a2a:Place>
+    </a2a:BirthPlace>
+    <a2a:Profession>saaiwerker</a2a:Profession>
+  </a2a:Person>
+  <a2a:Person pid="Person:ef1fbb14-8655-daa9-af17-8408204f538b">
+    <a2a:PersonName>
+      <a2a:PersonNameFirstName>Annetge</a2a:PersonNameFirstName>
+      <a2a:PersonNamePrefixLastName>van</a2a:PersonNamePrefixLastName>
+      <a2a:PersonNameLastName>Leeuwen</a2a:PersonNameLastName>
+    </a2a:PersonName>
+    <a2a:Gender>Onbekend</a2a:Gender>
+    <a2a:Residence>
+      <a2a:Place>Levendael</a2a:Place>
+    </a2a:Residence>
+    <a2a:Age>
+      <a2a:PersonAgeLiteral/>
+    </a2a:Age>
+    <a2a:BirthPlace>
+      <a2a:Place>Leyden</a2a:Place>
+    </a2a:BirthPlace>
+    <a2a:Profession/>
+  </a2a:Person>
+  <a2a:Person pid="Person:f3870c00-8053-86b2-84c8-14e9d48e72bd">
+    <a2a:PersonName>
+      <a2a:PersonNameFirstName>Claes</a2a:PersonNameFirstName>
+      <a2a:PersonNamePatronym>Jansz</a2a:PersonNamePatronym>
+      <a2a:PersonNameLastName>Dervoe</a2a:PersonNameLastName>
+    </a2a:PersonName>
+    <a2a:Gender>Onbekend</a2a:Gender>
+    <a2a:Age>
+      <a2a:PersonAgeLiteral/>
+    </a2a:Age>
+    <a2a:Profession/>
+    <a2a:PersonRemark Key="diversen">
+      <a2a:Value>getuige van de bruidegom, relatie tot de bruidegom: oom, adres: Oostdwersgraft</a2a:Value>
+    </a2a:PersonRemark>
+  </a2a:Person>
+  <a2a:Person pid="Person:29b3d393-dded-abe8-e56f-2738df4c3279">
+    <a2a:PersonName>
+      <a2a:PersonNameFirstName>Barber</a2a:PersonNameFirstName>
+      <a2a:PersonNamePrefixLastName>van</a2a:PersonNamePrefixLastName>
+      <a2a:PersonNameLastName>Thiel</a2a:PersonNameLastName>
+    </a2a:PersonName>
+    <a2a:Gender>Onbekend</a2a:Gender>
+    <a2a:Age>
+      <a2a:PersonAgeLiteral/>
+    </a2a:Age>
+    <a2a:Profession/>
+    <a2a:PersonRemark Key="diversen">
+      <a2a:Value>getuige van de bruid, relatie tot de bruid: bekende, adres: Coenesteegh</a2a:Value>
+    </a2a:PersonRemark>
+  </a2a:Person>
+  <a2a:Event eid="Event1">
+    <a2a:EventType>other: DTB Trouwen</a2a:EventType>
+    <a2a:EventPlace>
+      <a2a:Place>Leiden</a2a:Place>
+    </a2a:EventPlace>
+  </a2a:Event>
+  <a2a:RelationEP>
+    <a2a:PersonKeyRef>Person:4533b2e8-2f6d-cc99-5348-148912de9e3c</a2a:PersonKeyRef>
+    <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+    <a2a:RelationType>Bruidegom</a2a:RelationType>
+  </a2a:RelationEP>
+  <a2a:RelationEP>
+    <a2a:PersonKeyRef>Person:ef1fbb14-8655-daa9-af17-8408204f538b</a2a:PersonKeyRef>
+    <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+    <a2a:RelationType>Bruid</a2a:RelationType>
+  </a2a:RelationEP>
+  <a2a:RelationEP>
+    <a2a:PersonKeyRef>Person:f3870c00-8053-86b2-84c8-14e9d48e72bd</a2a:PersonKeyRef>
+    <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+    <a2a:RelationType>Getuige</a2a:RelationType>
+  </a2a:RelationEP>
+  <a2a:RelationEP>
+    <a2a:PersonKeyRef>Person:29b3d393-dded-abe8-e56f-2738df4c3279</a2a:PersonKeyRef>
+    <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+    <a2a:RelationType>Getuige</a2a:RelationType>
+  </a2a:RelationEP>
+  <a2a:Source>
+    <a2a:SourcePlace>
+      <a2a:Place>Leiden</a2a:Place>
+    </a2a:SourcePlace>
+    <a2a:SourceIndexDate>
+      <a2a:From>1678-01-01</a2a:From>
+      <a2a:To>1681-12-31</a2a:To>
+    </a2a:SourceIndexDate>
+    <a2a:SourceType>other: </a2a:SourceType>
+    <a2a:SourceReference>
+      <a2a:Place>Leiden</a2a:Place>
+      <a2a:InstitutionName>Erfgoed Leiden</a2a:InstitutionName>
+      <a2a:Archive>1004</a2a:Archive>
+      <a2a:Collection>Archiefnaam: Doop-, trouw-, begraaf- en geboorteboeken Leiden (DTB Leiden), Deel: 22, Periode: 16...</a2a:Collection>
+      <a2a:Book>X. Kerkelijk ondertrouwboek (NH) van Leiden, januari 1678 - 1681.</a2a:Book>
+      <a2a:Folio>191</a2a:Folio>
+      <a2a:RegistryNumber>22</a2a:RegistryNumber>
+    </a2a:SourceReference>
+    <a2a:SourceAvailableScans>
+      <a2a:Scan>
+        <a2a:OrderSequenceNumber>1</a2a:OrderSequenceNumber>
+        <a2a:Uri>https://elo.memorix.io/resources/iiif/3/ac90e1ff-ee8f-4beb-b473-6241b1ae6c83/info.json</a2a:Uri>
+        <a2a:UriViewer>https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/14b2d6e9-e5b1-06d9-870d-d5a0dfc585b0</a2a:UriViewer>
+        <a2a:UriPreview>https://elo.memorix.io/resources/iiif/3/ac90e1ff-ee8f-4beb-b473-6241b1ae6c83/full/!250,250/0/default.jpg</a2a:UriPreview>
+      </a2a:Scan>
+    </a2a:SourceAvailableScans>
+    <a2a:SourceLastChangeDate>1970-01-01</a2a:SourceLastChangeDate>
+    <a2a:SourceDigitalOriginal>https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/14b2d6e9-e5b1-06d9-870d-d5a0dfc585b0</a2a:SourceDigitalOriginal>
+    <a2a:RecordGUID>{14b2d6e9-e5b1-06d9-870d-d5a0dfc585b0}</a2a:RecordGUID>
+    <a2a:SourceRemark Key="Opmerking">
+      <a2a:Value>Datum ondertrouw: 12-10-1680&lt;br/&gt;&lt;br/&gt;&lt;a href="/collecties/archieven/archievenoverzicht/search/list/findingaid/1004/file/22"&gt;Inventarisnummer 22 van archiefnummer 1004 in Archieven&lt;/a&gt;</a2a:Value>
+    </a2a:SourceRemark>
+    <a2a:SourceRemark Key="archiefnaam">
+      <a2a:Value>Doop-, trouw-, begraaf- en geboorteboeken Leiden (DTB Leiden)</a2a:Value>
+    </a2a:SourceRemark>
+    <a2a:SourceRemark Key="deel">
+      <a2a:Value>22</a2a:Value>
+    </a2a:SourceRemark>
+    <a2a:SourceRemark Key="register_periode">
+      <a2a:Value>1678-1681</a2a:Value>
+    </a2a:SourceRemark>
+  </a2a:Source>
+</a2a:A2A>

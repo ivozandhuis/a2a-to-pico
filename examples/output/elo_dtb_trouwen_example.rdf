@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:picom="https://personsincontext.org/model#"
+          xmlns:picot="https://terms.personsincontext.org/"
+          xmlns:pnv="https://w3id.org/pnv#"
+          xmlns:prov="http://www.w3.org/ns/prov#"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+          xmlns:sdo="https://schema.org/"
+          xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+   <picom:PersonObservation rdf:about="https://ex.org/Person:4533b2e8-2f6d-cc99-5348-148912de9e3c">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/Source:14b2d6e9-e5b1-06d9-870d-d5a0dfc585b0"/>
+      <picom:hasRole xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                      xmlns:picot_roles="https://terms.personsincontext.org/roles/"
+                      rdf:resource="https://terms.personsincontext.org/roles/574"/>
+      <sdo:spouse xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                   xmlns:picot_roles="https://terms.personsincontext.org/roles/"
+                   rdf:resource="https://ex.org/Person:ef1fbb14-8655-daa9-af17-8408204f538b"/>
+      <picom:hasLifeEvent xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                           xmlns:picot_roles="https://terms.personsincontext.org/roles/">
+         <rdf:Description>
+            <rdf:type rdf:resource="https://personsincontext.org/model#LifeEvent"/>
+            <picom:eventType rdf:resource="https://terms.personsincontext.org/eventtypes/83"/>
+            <picom:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear"/>
+         </rdf:Description>
+      </picom:hasLifeEvent>
+      <sdo:gender xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                   xmlns:picot_roles="https://terms.personsincontext.org/roles/"
+                   rdf:resource="https://schema.org/Male"/>
+      <sdo:name xml:lang="nl">Johannes Verlinde</sdo:name>
+      <sdo:familyName xml:lang="nl">Verlinde</sdo:familyName>
+      <sdo:givenName xml:lang="nl">Johannes</sdo:givenName>
+      <sdo:birthPlace xml:lang="nl">Leyden</sdo:birthPlace>
+      <sdo:hasOccupation xml:lang="nl">saaiwerker</sdo:hasOccupation>
+      <sdo:address xml:lang="nl">Oranjegraft</sdo:address>
+   </picom:PersonObservation>
+   <picom:PersonObservation rdf:about="https://ex.org/Person:ef1fbb14-8655-daa9-af17-8408204f538b">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/Source:14b2d6e9-e5b1-06d9-870d-d5a0dfc585b0"/>
+      <picom:hasRole xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                      xmlns:picot_roles="https://terms.personsincontext.org/roles/"
+                      rdf:resource="https://terms.personsincontext.org/roles/574"/>
+      <sdo:spouse xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                   xmlns:picot_roles="https://terms.personsincontext.org/roles/"
+                   rdf:resource="https://ex.org/Person:4533b2e8-2f6d-cc99-5348-148912de9e3c"/>
+      <picom:hasLifeEvent xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                           xmlns:picot_roles="https://terms.personsincontext.org/roles/">
+         <rdf:Description>
+            <rdf:type rdf:resource="https://personsincontext.org/model#LifeEvent"/>
+            <picom:eventType rdf:resource="https://terms.personsincontext.org/eventtypes/83"/>
+            <picom:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear"/>
+         </rdf:Description>
+      </picom:hasLifeEvent>
+      <sdo:gender xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                   xmlns:picot_roles="https://terms.personsincontext.org/roles/"
+                   rdf:resource="https://schema.org/Female"/>
+      <sdo:name xml:lang="nl">Annetge van Leeuwen</sdo:name>
+      <sdo:familyName xml:lang="nl">van Leeuwen</sdo:familyName>
+      <sdo:givenName xml:lang="nl">Annetge</sdo:givenName>
+      <sdo:additionalName>
+         <pnv:PersonName>
+            <pnv:literalName xml:lang="nl">Annetge van Leeuwen</pnv:literalName>
+            <pnv:givenName xml:lang="nl">Annetge</pnv:givenName>
+            <pnv:surnamePrefix xml:lang="nl">van</pnv:surnamePrefix>
+            <pnv:baseSurname xml:lang="nl">Leeuwen</pnv:baseSurname>
+         </pnv:PersonName>
+      </sdo:additionalName>
+      <sdo:birthPlace xml:lang="nl">Leyden</sdo:birthPlace>
+      <sdo:address xml:lang="nl">Levendael</sdo:address>
+   </picom:PersonObservation>
+   <picom:PersonObservation rdf:about="https://ex.org/Person:f3870c00-8053-86b2-84c8-14e9d48e72bd">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/Source:14b2d6e9-e5b1-06d9-870d-d5a0dfc585b0"/>
+      <picom:hasRole xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                      xmlns:picot_roles="https://terms.personsincontext.org/roles/"
+                      rdf:resource="https://terms.personsincontext.org/roles/573"/>
+      <sdo:name xml:lang="nl">Claes Jansz Dervoe</sdo:name>
+      <sdo:familyName xml:lang="nl">Dervoe</sdo:familyName>
+      <sdo:givenName xml:lang="nl">Claes</sdo:givenName>
+      <sdo:additionalName>
+         <pnv:PersonName>
+            <pnv:literalName xml:lang="nl">Claes Jansz Dervoe</pnv:literalName>
+            <pnv:givenName xml:lang="nl">Claes</pnv:givenName>
+            <pnv:patronym xml:lang="nl">Jansz</pnv:patronym>
+            <pnv:baseSurname xml:lang="nl">Dervoe</pnv:baseSurname>
+         </pnv:PersonName>
+      </sdo:additionalName>
+      <sdo:description xml:lang="nl">getuige van de bruidegom, relatie tot de bruidegom: oom, adres: Oostdwersgraft</sdo:description>
+   </picom:PersonObservation>
+   <picom:PersonObservation rdf:about="https://ex.org/Person:29b3d393-dded-abe8-e56f-2738df4c3279">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/Source:14b2d6e9-e5b1-06d9-870d-d5a0dfc585b0"/>
+      <picom:hasRole xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                      xmlns:picot_roles="https://terms.personsincontext.org/roles/"
+                      rdf:resource="https://terms.personsincontext.org/roles/573"/>
+      <sdo:name xml:lang="nl">Barber van Thiel</sdo:name>
+      <sdo:familyName xml:lang="nl">van Thiel</sdo:familyName>
+      <sdo:givenName xml:lang="nl">Barber</sdo:givenName>
+      <sdo:additionalName>
+         <pnv:PersonName>
+            <pnv:literalName xml:lang="nl">Barber van Thiel</pnv:literalName>
+            <pnv:givenName xml:lang="nl">Barber</pnv:givenName>
+            <pnv:surnamePrefix xml:lang="nl">van</pnv:surnamePrefix>
+            <pnv:baseSurname xml:lang="nl">Thiel</pnv:baseSurname>
+         </pnv:PersonName>
+      </sdo:additionalName>
+      <sdo:description xml:lang="nl">getuige van de bruid, relatie tot de bruid: bekende, adres: Coenesteegh</sdo:description>
+   </picom:PersonObservation>
+   <sdo:ArchiveComponent rdf:about="https://ex.org/Source:14b2d6e9-e5b1-06d9-870d-d5a0dfc585b0">
+      <sdo:additionalType>other: </sdo:additionalType>
+      <sdo:name xml:lang="nl">Erfgoed Leiden (Leiden), Archiefnaam: Doop-, trouw-, begraaf- en geboorteboeken Leiden (DTB Leiden), Deel: 22, Periode: 16..., (toegangsnr. 1004), inv.nr. 22, X. Kerkelijk ondertrouwboek (NH) van Leiden, januari 1678 - 1681., 191, </sdo:name>
+      <sdo:locationCreated xml:lang="nl">Leiden</sdo:locationCreated>
+      <sdo:associatedMedia>
+         <sdo:ImageObject>
+            <sdo:position>1</sdo:position>
+            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://elo.memorix.io/resources/iiif/3/ac90e1ff-ee8f-4beb-b473-6241b1ae6c83/info.json</sdo:url>
+            <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/14b2d6e9-e5b1-06d9-870d-d5a0dfc585b0</sdo:embedUrl>
+            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://elo.memorix.io/resources/iiif/3/ac90e1ff-ee8f-4beb-b473-6241b1ae6c83/full/!250,250/0/default.jpg</sdo:thumbnail>
+         </sdo:ImageObject>
+      </sdo:associatedMedia>
+      <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/14b2d6e9-e5b1-06d9-870d-d5a0dfc585b0</sdo:url>
+      <sdo:description xml:lang="nl">Datum ondertrouw: 12-10-1680&lt;br/&gt;&lt;br/&gt;&lt;a href="/collecties/archieven/archievenoverzicht/search/list/findingaid/1004/file/22"&gt;Inventarisnummer 22 van archiefnummer 1004 in Archieven&lt;/a&gt;</sdo:description>
+      <sdo:description xml:lang="nl">Doop-, trouw-, begraaf- en geboorteboeken Leiden (DTB Leiden)</sdo:description>
+      <sdo:description xml:lang="nl">22</sdo:description>
+      <sdo:description xml:lang="nl">1678-1681</sdo:description>
+      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1970-01-01</sdo:dateModified>
+   </sdo:ArchiveComponent>
+</rdf:RDF>

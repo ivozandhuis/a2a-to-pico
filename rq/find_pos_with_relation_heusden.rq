@@ -1,0 +1,19 @@
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX sd: <http://www.w3.org/ns/sparql-service-description#>
+PREFIX picom: <https://personsincontext.org/model#>
+PREFIX sdo: <https://schema.org/>
+PREFIX pico: <https://personsincontext.org/model#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT *
+WHERE {
+  ?po1 a picom:PersonObservation ;
+       prov:hadPrimarySource ?src1 ;
+       ?placerel "Heusden"@nl .
+  ?po2 a picom:PersonObservation ;
+       prov:hadPrimarySource ?src2 .
+  ?src1 sdo:holdingArchive <https://www.salha.nl/> .
+  ?src2 sdo:holdingArchive <https://www.salha.nl/> .
+  ?po1 ?rel ?po2 .
+}
