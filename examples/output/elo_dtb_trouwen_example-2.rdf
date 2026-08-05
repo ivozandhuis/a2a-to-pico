@@ -68,6 +68,8 @@
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/162cf4bb-4eb1-c3bc-7297-8c5a72038999</sdo:embedUrl>
             <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://elo.memorix.io/resources/iiif/3/470ac276-6a15-44fe-a10c-6c9894d61cda/full/!250,250/0/default.jpg</sdo:thumbnailUrl>
          </sdo:ImageObject>
+      </sdo:associatedMedia>
+      <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>2</sdo:position>
             <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://elo.memorix.io/resources/iiif/3/7aa55676-00e3-46b1-9cd1-2759bce8c60c/info.json</sdo:contentUrl>

@@ -1,0 +1,63 @@
+@prefix picom: <https://personsincontext.org/model#> .
+@prefix picot_roles: <https://terms.personsincontext.org/roles/> .
+@prefix pnv: <https://w3id.org/pnv#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix sdo: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://ex.org/Person:07e7caa9-9bf0-4203-d38c-870baf4c3ff3> a picom:PersonObservation ;
+    prov:hadPrimarySource <https://ex.org/Source:162cf4bb-4eb1-c3bc-7297-8c5a72038999> ;
+    sdo:familyName "Erpel"@nl ;
+    sdo:givenName "Johan"@nl ;
+    sdo:name "Johan Erpel"@nl .
+
+<https://ex.org/Person:0ee70e0b-28d1-172a-dbfe-7fe7f73fd8c8> a picom:PersonObservation ;
+    prov:hadPrimarySource <https://ex.org/Source:162cf4bb-4eb1-c3bc-7297-8c5a72038999> ;
+    picom:hasRole picot_roles:574 ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Alphen"@nl ;
+            pnv:givenName "Hendrik"@nl ;
+            pnv:literalName "Hendrik van Alphen"@nl ;
+            pnv:surnamePrefix "van"@nl ] ;
+    sdo:address "Leijden"@nl ;
+    sdo:birthPlace "Leijden"@nl ;
+    sdo:description "Burgerlijke staat voor het huwelijk: j.m."@nl ;
+    sdo:familyName "van Alphen"@nl ;
+    sdo:gender sdo:Male ;
+    sdo:givenName "Hendrik"@nl ;
+    sdo:name "Hendrik van Alphen"@nl ;
+    sdo:spouse <https://ex.org/Person:949f9b4f-f39c-1c8c-f816-756a539d8dc4> .
+
+<https://ex.org/Person:949f9b4f-f39c-1c8c-f816-756a539d8dc4> a picom:PersonObservation ;
+    prov:hadPrimarySource <https://ex.org/Source:162cf4bb-4eb1-c3bc-7297-8c5a72038999> ;
+    picom:hasRole picot_roles:574 ;
+    sdo:address "Hillegom"@nl ;
+    sdo:birthPlace "Parimaribo in de Colonie Suriname"@nl ;
+    sdo:description "Burgerlijke staat voor het huwelijk: wed."@nl ;
+    sdo:familyName "Kurk"@nl ;
+    sdo:gender sdo:Female ;
+    sdo:givenName "Georgina Geertruijda Elisabeth"@nl ;
+    sdo:name "Georgina Geertruijda Elisabeth Kurk"@nl ;
+    sdo:spouse <https://ex.org/Person:0ee70e0b-28d1-172a-dbfe-7fe7f73fd8c8> .
+
+<https://ex.org/Source:162cf4bb-4eb1-c3bc-7297-8c5a72038999> a sdo:ArchiveComponent ;
+    sdo:additionalType "other: "@nl ;
+    sdo:associatedMedia [ a sdo:ImageObject ;
+            sdo:contentUrl "https://elo.memorix.io/resources/iiif/3/470ac276-6a15-44fe-a10c-6c9894d61cda/info.json"^^xsd:anyURI ;
+            sdo:embedUrl "https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/162cf4bb-4eb1-c3bc-7297-8c5a72038999"^^xsd:anyURI ;
+            sdo:position "1" ;
+            sdo:thumbnailUrl "https://elo.memorix.io/resources/iiif/3/470ac276-6a15-44fe-a10c-6c9894d61cda/full/!250,250/0/default.jpg"^^xsd:anyURI ],
+        [ a sdo:ImageObject ;
+            sdo:contentUrl "https://elo.memorix.io/resources/iiif/3/7aa55676-00e3-46b1-9cd1-2759bce8c60c/info.json"^^xsd:anyURI ;
+            sdo:embedUrl "https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/162cf4bb-4eb1-c3bc-7297-8c5a72038999"^^xsd:anyURI ;
+            sdo:position "2" ;
+            sdo:thumbnailUrl "https://elo.memorix.io/resources/iiif/3/7aa55676-00e3-46b1-9cd1-2759bce8c60c/full/!250,250/0/default.jpg"^^xsd:anyURI ] ;
+    sdo:dateModified "1970-01-01"^^xsd:date ;
+    sdo:description "16"@nl,
+        "1798-1807"@nl,
+        "Datum trouwen: 21-04-1801<br/><br/><a href=\"/collecties/archieven/archievenoverzicht/search/list/findingaid/0837/file/16\">Inventarisnummer 16 van archiefnummer 0837 in Archieven</a>"@nl,
+        "Doop-, Trouw- en Begraafregisters Hillegom"@nl ;
+    sdo:locationCreated "Hillegom"@nl ;
+    sdo:name "Erfgoed Leiden (Leiden), Archiefnaam: Doop-, Trouw- en Begraafregisters Hillegom, Deel: 16, Periode: 1798-1807, (toegangsnr. 0837), inv.nr. 16, Trouwboek van het gerecht van Hillegom, 2 september 1798 - 15 november 1807., 17, "@nl ;
+    sdo:url "https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/162cf4bb-4eb1-c3bc-7297-8c5a72038999"^^xsd:anyURI .
+

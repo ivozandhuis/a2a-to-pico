@@ -113,17 +113,17 @@
 		<xsl:apply-templates select="a2a:InstitutionName"/>
 	</xsl:template>
 	<xsl:template match="a2a:SourceAvailableScans">
-		<sdo:associatedMedia>
-			<xsl:apply-templates select="a2a:Scan"/>
-		</sdo:associatedMedia>
+		<xsl:apply-templates select="a2a:Scan"/>
 	</xsl:template>
 	<xsl:template match="a2a:Scan">
-		<sdo:ImageObject>
-			<xsl:apply-templates select="a2a:OrderSequenceNumber"/>
-			<xsl:apply-templates select="a2a:Uri"/>
-			<xsl:apply-templates select="a2a:UriViewer"/>
-			<xsl:apply-templates select="a2a:UriPreview"/>
-		</sdo:ImageObject>
+		<sdo:associatedMedia>
+			<sdo:ImageObject>
+				<xsl:apply-templates select="a2a:OrderSequenceNumber"/>
+				<xsl:apply-templates select="a2a:Uri"/>
+				<xsl:apply-templates select="a2a:UriViewer"/>
+				<xsl:apply-templates select="a2a:UriPreview"/>
+			</sdo:ImageObject>
+		</sdo:associatedMedia>
 	</xsl:template>
 	<xsl:template match="a2a:Uri">
 		<sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
