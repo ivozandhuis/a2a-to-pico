@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:picom="https://personsincontext.org/model#"
+          xmlns:picot="https://terms.personsincontext.org/"
+          xmlns:pnv="https://w3id.org/pnv#"
+          xmlns:prov="http://www.w3.org/ns/prov#"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+          xmlns:sdo="https://schema.org/"
+          xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+   <picom:PersonObservation rdf:about="https://ex.org/Person:0ee70e0b-28d1-172a-dbfe-7fe7f73fd8c8">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/Source:162cf4bb-4eb1-c3bc-7297-8c5a72038999"/>
+      <picom:hasRole xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                      xmlns:picot_roles="https://terms.personsincontext.org/roles/"
+                      rdf:resource="https://terms.personsincontext.org/roles/574"/>
+      <sdo:spouse xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                   xmlns:picot_roles="https://terms.personsincontext.org/roles/"
+                   rdf:resource="https://ex.org/Person:949f9b4f-f39c-1c8c-f816-756a539d8dc4"/>
+      <sdo:gender xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                   xmlns:picot_roles="https://terms.personsincontext.org/roles/"
+                   rdf:resource="https://schema.org/Male"/>
+      <sdo:name xml:lang="nl">Hendrik van Alphen</sdo:name>
+      <sdo:familyName xml:lang="nl">van Alphen</sdo:familyName>
+      <sdo:givenName xml:lang="nl">Hendrik</sdo:givenName>
+      <sdo:additionalName>
+         <pnv:PersonName>
+            <pnv:literalName xml:lang="nl">Hendrik van Alphen</pnv:literalName>
+            <pnv:givenName xml:lang="nl">Hendrik</pnv:givenName>
+            <pnv:surnamePrefix xml:lang="nl">van</pnv:surnamePrefix>
+            <pnv:baseSurname xml:lang="nl">Alphen</pnv:baseSurname>
+         </pnv:PersonName>
+      </sdo:additionalName>
+      <sdo:birthPlace xml:lang="nl">Leijden</sdo:birthPlace>
+      <sdo:description xml:lang="nl">Burgerlijke staat voor het huwelijk: j.m.</sdo:description>
+      <sdo:address xml:lang="nl">Leijden</sdo:address>
+   </picom:PersonObservation>
+   <picom:PersonObservation rdf:about="https://ex.org/Person:949f9b4f-f39c-1c8c-f816-756a539d8dc4">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/Source:162cf4bb-4eb1-c3bc-7297-8c5a72038999"/>
+      <picom:hasRole xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                      xmlns:picot_roles="https://terms.personsincontext.org/roles/"
+                      rdf:resource="https://terms.personsincontext.org/roles/574"/>
+      <sdo:spouse xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                   xmlns:picot_roles="https://terms.personsincontext.org/roles/"
+                   rdf:resource="https://ex.org/Person:0ee70e0b-28d1-172a-dbfe-7fe7f73fd8c8"/>
+      <sdo:gender xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                   xmlns:picot_roles="https://terms.personsincontext.org/roles/"
+                   rdf:resource="https://schema.org/Female"/>
+      <sdo:name xml:lang="nl">Georgina Geertruijda Elisabeth Kurk</sdo:name>
+      <sdo:familyName xml:lang="nl">Kurk</sdo:familyName>
+      <sdo:givenName xml:lang="nl">Georgina Geertruijda Elisabeth</sdo:givenName>
+      <sdo:birthPlace xml:lang="nl">Parimaribo in de Colonie Suriname</sdo:birthPlace>
+      <sdo:description xml:lang="nl">Burgerlijke staat voor het huwelijk: wed.</sdo:description>
+      <sdo:address xml:lang="nl">Hillegom</sdo:address>
+   </picom:PersonObservation>
+   <picom:PersonObservation rdf:about="https://ex.org/Person:07e7caa9-9bf0-4203-d38c-870baf4c3ff3">
+      <prov:hadPrimarySource rdf:resource="https://ex.org/Source:162cf4bb-4eb1-c3bc-7297-8c5a72038999"/>
+      <sdo:name xml:lang="nl">Johan Erpel</sdo:name>
+      <sdo:familyName xml:lang="nl">Erpel</sdo:familyName>
+      <sdo:givenName xml:lang="nl">Johan</sdo:givenName>
+   </picom:PersonObservation>
+   <sdo:ArchiveComponent rdf:about="https://ex.org/Source:162cf4bb-4eb1-c3bc-7297-8c5a72038999">
+      <sdo:additionalType xml:lang="nl">other: </sdo:additionalType>
+      <sdo:name xml:lang="nl">Erfgoed Leiden (Leiden), Archiefnaam: Doop-, Trouw- en Begraafregisters Hillegom, Deel: 16, Periode: 1798-1807, (toegangsnr. 0837), inv.nr. 16, Trouwboek van het gerecht van Hillegom, 2 september 1798 - 15 november 1807., 17, </sdo:name>
+      <sdo:locationCreated xml:lang="nl">Hillegom</sdo:locationCreated>
+      <sdo:associatedMedia>
+         <sdo:ImageObject>
+            <sdo:position>1</sdo:position>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://elo.memorix.io/resources/iiif/3/470ac276-6a15-44fe-a10c-6c9894d61cda/info.json</sdo:contentUrl>
+            <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/162cf4bb-4eb1-c3bc-7297-8c5a72038999</sdo:embedUrl>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://elo.memorix.io/resources/iiif/3/470ac276-6a15-44fe-a10c-6c9894d61cda/full/!250,250/0/default.jpg</sdo:thumbnailUrl>
+         </sdo:ImageObject>
+         <sdo:ImageObject>
+            <sdo:position>2</sdo:position>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://elo.memorix.io/resources/iiif/3/7aa55676-00e3-46b1-9cd1-2759bce8c60c/info.json</sdo:contentUrl>
+            <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/162cf4bb-4eb1-c3bc-7297-8c5a72038999</sdo:embedUrl>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://elo.memorix.io/resources/iiif/3/7aa55676-00e3-46b1-9cd1-2759bce8c60c/full/!250,250/0/default.jpg</sdo:thumbnailUrl>
+         </sdo:ImageObject>
+      </sdo:associatedMedia>
+      <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/162cf4bb-4eb1-c3bc-7297-8c5a72038999</sdo:url>
+      <sdo:description xml:lang="nl">Datum trouwen: 21-04-1801&lt;br/&gt;&lt;br/&gt;&lt;a href="/collecties/archieven/archievenoverzicht/search/list/findingaid/0837/file/16"&gt;Inventarisnummer 16 van archiefnummer 0837 in Archieven&lt;/a&gt;</sdo:description>
+      <sdo:description xml:lang="nl">Doop-, Trouw- en Begraafregisters Hillegom</sdo:description>
+      <sdo:description xml:lang="nl">16</sdo:description>
+      <sdo:description xml:lang="nl">1798-1807</sdo:description>
+      <sdo:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1970-01-01</sdo:dateModified>
+   </sdo:ArchiveComponent>
+</rdf:RDF>

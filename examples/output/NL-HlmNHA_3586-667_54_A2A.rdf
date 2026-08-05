@@ -12538,14 +12538,6 @@
       <sdo:spouse xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
                    xmlns:picot_roles="https://terms.personsincontext.org/roles/"
                    rdf:resource="https://ex.org/Person2650308133"/>
-      <picom:hasLifeEvent xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
-                           xmlns:picot_roles="https://terms.personsincontext.org/roles/">
-         <rdf:Description>
-            <rdf:type rdf:resource="https://personsincontext.org/model#LifeEvent"/>
-            <picom:eventType rdf:resource="https://terms.personsincontext.org/eventtypes/83"/>
-            <picom:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear"/>
-         </rdf:Description>
-      </picom:hasLifeEvent>
       <sdo:gender xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
                    xmlns:picot_roles="https://terms.personsincontext.org/roles/"
                    rdf:resource="https://schema.org/Male"/>
@@ -12561,14 +12553,6 @@
       <sdo:spouse xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
                    xmlns:picot_roles="https://terms.personsincontext.org/roles/"
                    rdf:resource="https://ex.org/Person2650308134"/>
-      <picom:hasLifeEvent xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
-                           xmlns:picot_roles="https://terms.personsincontext.org/roles/">
-         <rdf:Description>
-            <rdf:type rdf:resource="https://personsincontext.org/model#LifeEvent"/>
-            <picom:eventType rdf:resource="https://terms.personsincontext.org/eventtypes/83"/>
-            <picom:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear"/>
-         </rdf:Description>
-      </picom:hasLifeEvent>
       <sdo:gender xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
                    xmlns:picot_roles="https://terms.personsincontext.org/roles/"
                    rdf:resource="https://schema.org/Female"/>
@@ -12592,14 +12576,6 @@
       <sdo:spouse xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
                    xmlns:picot_roles="https://terms.personsincontext.org/roles/"
                    rdf:resource="https://ex.org/Person2650307916"/>
-      <picom:hasLifeEvent xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
-                           xmlns:picot_roles="https://terms.personsincontext.org/roles/">
-         <rdf:Description>
-            <rdf:type rdf:resource="https://personsincontext.org/model#LifeEvent"/>
-            <picom:eventType rdf:resource="https://terms.personsincontext.org/eventtypes/83"/>
-            <picom:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear"/>
-         </rdf:Description>
-      </picom:hasLifeEvent>
       <sdo:gender xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
                    xmlns:picot_roles="https://terms.personsincontext.org/roles/"
                    rdf:resource="https://schema.org/Male"/>
@@ -12615,14 +12591,6 @@
       <sdo:spouse xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
                    xmlns:picot_roles="https://terms.personsincontext.org/roles/"
                    rdf:resource="https://ex.org/Person2650307917"/>
-      <picom:hasLifeEvent xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
-                           xmlns:picot_roles="https://terms.personsincontext.org/roles/">
-         <rdf:Description>
-            <rdf:type rdf:resource="https://personsincontext.org/model#LifeEvent"/>
-            <picom:eventType rdf:resource="https://terms.personsincontext.org/eventtypes/83"/>
-            <picom:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear"/>
-         </rdf:Description>
-      </picom:hasLifeEvent>
       <sdo:gender xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
                    xmlns:picot_roles="https://terms.personsincontext.org/roles/"
                    rdf:resource="https://schema.org/Female"/>
@@ -12638,14 +12606,6 @@
       <sdo:spouse xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
                    xmlns:picot_roles="https://terms.personsincontext.org/roles/"
                    rdf:resource="https://ex.org/Person2650308262"/>
-      <picom:hasLifeEvent xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
-                           xmlns:picot_roles="https://terms.personsincontext.org/roles/">
-         <rdf:Description>
-            <rdf:type rdf:resource="https://personsincontext.org/model#LifeEvent"/>
-            <picom:eventType rdf:resource="https://terms.personsincontext.org/eventtypes/83"/>
-            <picom:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear"/>
-         </rdf:Description>
-      </picom:hasLifeEvent>
       <sdo:gender xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
                    xmlns:picot_roles="https://terms.personsincontext.org/roles/"
                    rdf:resource="https://schema.org/Male"/>
@@ -12661,14 +12621,6 @@
       <sdo:spouse xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
                    xmlns:picot_roles="https://terms.personsincontext.org/roles/"
                    rdf:resource="https://ex.org/Person2650308263"/>
-      <picom:hasLifeEvent xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
-                           xmlns:picot_roles="https://terms.personsincontext.org/roles/">
-         <rdf:Description>
-            <rdf:type rdf:resource="https://personsincontext.org/model#LifeEvent"/>
-            <picom:eventType rdf:resource="https://terms.personsincontext.org/eventtypes/83"/>
-            <picom:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear"/>
-         </rdf:Description>
-      </picom:hasLifeEvent>
       <sdo:gender xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
                    xmlns:picot_roles="https://terms.personsincontext.org/roles/"
                    rdf:resource="https://schema.org/Female"/>
@@ -12685,9 +12637,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/D97ACDAB76EA489B9C678EED9EEF6CDC</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/D97ACDAB76EA489B9C678EED9EEF6CDC</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/D97ACDAB76EA489B9C678EED9EEF6CDC</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/D97ACDAB76EA489B9C678EED9EEF6CDC</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/D97ACDAB76EA489B9C678EED9EEF6CDC</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/6FC48A5A676B4740B6ABBD3025890E1D</sdo:url>
@@ -12702,9 +12654,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/257C9D54EF3B411CA072852798085C3D</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/257C9D54EF3B411CA072852798085C3D</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/257C9D54EF3B411CA072852798085C3D</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/257C9D54EF3B411CA072852798085C3D</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/257C9D54EF3B411CA072852798085C3D</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/263185B25DF548069C78E9D4B94E8EC2</sdo:url>
@@ -12719,9 +12671,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/0F1586A3AEB341C0BA17F83D1CB781B2</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/0F1586A3AEB341C0BA17F83D1CB781B2</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/0F1586A3AEB341C0BA17F83D1CB781B2</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/0F1586A3AEB341C0BA17F83D1CB781B2</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/0F1586A3AEB341C0BA17F83D1CB781B2</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/5810D244863949098F8EC0C9C91F2ED5</sdo:url>
@@ -12736,9 +12688,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/191961364A354F73AC3377E9221BDC5C</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/191961364A354F73AC3377E9221BDC5C</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/191961364A354F73AC3377E9221BDC5C</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/191961364A354F73AC3377E9221BDC5C</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/191961364A354F73AC3377E9221BDC5C</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/5DBD6B5FACFA4262A9B4DF79012A7086</sdo:url>
@@ -12753,9 +12705,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/5D8FE9FF25E945D8A2B642B32CC75E6D</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/5D8FE9FF25E945D8A2B642B32CC75E6D</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/5D8FE9FF25E945D8A2B642B32CC75E6D</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/5D8FE9FF25E945D8A2B642B32CC75E6D</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/5D8FE9FF25E945D8A2B642B32CC75E6D</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/2822124D766643EDA1FAAD9FE1433530</sdo:url>
@@ -12770,9 +12722,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/95F216EC189A4107B8840F3374EA439A</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/95F216EC189A4107B8840F3374EA439A</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/95F216EC189A4107B8840F3374EA439A</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/95F216EC189A4107B8840F3374EA439A</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/95F216EC189A4107B8840F3374EA439A</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/DA45DD3F6DD64736A397459EF7F40D11</sdo:url>
@@ -12788,9 +12740,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/F314FBB9AE2B4ED1B5A80342DCC950E9</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/F314FBB9AE2B4ED1B5A80342DCC950E9</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/F314FBB9AE2B4ED1B5A80342DCC950E9</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/F314FBB9AE2B4ED1B5A80342DCC950E9</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/F314FBB9AE2B4ED1B5A80342DCC950E9</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/E07A6A5E130C4688815D44FA6937AB7B</sdo:url>
@@ -12805,9 +12757,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/2943F3D55AA04318B42DCE120EE137B5</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/2943F3D55AA04318B42DCE120EE137B5</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/2943F3D55AA04318B42DCE120EE137B5</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/2943F3D55AA04318B42DCE120EE137B5</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/2943F3D55AA04318B42DCE120EE137B5</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/C3740E9817A044E2AE977D5BBE3E55CB</sdo:url>
@@ -12822,9 +12774,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/92DE079529FC4616A595D461A98B68F0</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/92DE079529FC4616A595D461A98B68F0</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/92DE079529FC4616A595D461A98B68F0</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/92DE079529FC4616A595D461A98B68F0</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/92DE079529FC4616A595D461A98B68F0</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/FF931A32D96C40EF9CE0FEB1DC164FEE</sdo:url>
@@ -12839,9 +12791,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/C5905158B0794A9E90E80163B71CFCF4</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/C5905158B0794A9E90E80163B71CFCF4</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/C5905158B0794A9E90E80163B71CFCF4</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/C5905158B0794A9E90E80163B71CFCF4</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/C5905158B0794A9E90E80163B71CFCF4</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/B6F4D541AF2540AD8FC13CF97C957594</sdo:url>
@@ -12857,9 +12809,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/C007D62EF6BD4E0BA538C0E4F47C3329</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/C007D62EF6BD4E0BA538C0E4F47C3329</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/C007D62EF6BD4E0BA538C0E4F47C3329</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/C007D62EF6BD4E0BA538C0E4F47C3329</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/C007D62EF6BD4E0BA538C0E4F47C3329</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/0199A5F126514AD6BACAEB885FE7D444</sdo:url>
@@ -12874,9 +12826,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/CCD1BC9C540844E08CD94D5BA8D25D4E</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/CCD1BC9C540844E08CD94D5BA8D25D4E</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/CCD1BC9C540844E08CD94D5BA8D25D4E</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/CCD1BC9C540844E08CD94D5BA8D25D4E</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/CCD1BC9C540844E08CD94D5BA8D25D4E</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/3B6A00DFBECA4B3D9A31395409159C60</sdo:url>
@@ -12891,9 +12843,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/52D3E0E86F914142964CA6D92C1F9E2D</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/52D3E0E86F914142964CA6D92C1F9E2D</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/52D3E0E86F914142964CA6D92C1F9E2D</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/52D3E0E86F914142964CA6D92C1F9E2D</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/52D3E0E86F914142964CA6D92C1F9E2D</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/A325265CC99646C886C21B0EB4BE0CB1</sdo:url>
@@ -12909,9 +12861,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/7BF9E938A4A745EAA57730C31A57FF8C</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/7BF9E938A4A745EAA57730C31A57FF8C</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/7BF9E938A4A745EAA57730C31A57FF8C</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/7BF9E938A4A745EAA57730C31A57FF8C</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/7BF9E938A4A745EAA57730C31A57FF8C</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/A9403BC51D9D476D840CAA1DC03F04EF</sdo:url>
@@ -12926,9 +12878,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/6E1EF028328347BA9CDA2037A4C2F442</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/6E1EF028328347BA9CDA2037A4C2F442</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/6E1EF028328347BA9CDA2037A4C2F442</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/6E1EF028328347BA9CDA2037A4C2F442</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/6E1EF028328347BA9CDA2037A4C2F442</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/676EEB4D05BF46A9AD9057A22C3F9703</sdo:url>
@@ -12943,9 +12895,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/A2A193DDBA5B41B3B28A4A87FEB2C5D3</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/A2A193DDBA5B41B3B28A4A87FEB2C5D3</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/A2A193DDBA5B41B3B28A4A87FEB2C5D3</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/A2A193DDBA5B41B3B28A4A87FEB2C5D3</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/A2A193DDBA5B41B3B28A4A87FEB2C5D3</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/1B0BE5933ADF40FC8F02F626BE4B5D60</sdo:url>
@@ -12960,9 +12912,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/7F4C78B290134F6AA92026A076F0D582</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/7F4C78B290134F6AA92026A076F0D582</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/7F4C78B290134F6AA92026A076F0D582</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/7F4C78B290134F6AA92026A076F0D582</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/7F4C78B290134F6AA92026A076F0D582</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/3327BAF285CF4098990C61E60333FFEF</sdo:url>
@@ -12977,9 +12929,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/7732CBF9510E4DDDB2C0A3B2A77D4952</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/7732CBF9510E4DDDB2C0A3B2A77D4952</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/7732CBF9510E4DDDB2C0A3B2A77D4952</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/7732CBF9510E4DDDB2C0A3B2A77D4952</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/7732CBF9510E4DDDB2C0A3B2A77D4952</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/BF09C7921E864B1499DAA20BDA5D8557</sdo:url>
@@ -12994,9 +12946,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/50DD5404E4FE49CE96A8670CBED36D4E</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/50DD5404E4FE49CE96A8670CBED36D4E</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/50DD5404E4FE49CE96A8670CBED36D4E</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/50DD5404E4FE49CE96A8670CBED36D4E</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/50DD5404E4FE49CE96A8670CBED36D4E</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/B7EB083447C14FA39F87CCEE6BB57395</sdo:url>
@@ -13011,9 +12963,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/9AF6E2FFA6F3414E894C741C08B70ACB</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/9AF6E2FFA6F3414E894C741C08B70ACB</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/9AF6E2FFA6F3414E894C741C08B70ACB</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/9AF6E2FFA6F3414E894C741C08B70ACB</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/9AF6E2FFA6F3414E894C741C08B70ACB</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/24832E5C9D8945269706490B526AD5AE</sdo:url>
@@ -13028,9 +12980,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/E8B921636F1B4668BCB8CB2FD5B9EC44</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/E8B921636F1B4668BCB8CB2FD5B9EC44</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/E8B921636F1B4668BCB8CB2FD5B9EC44</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/E8B921636F1B4668BCB8CB2FD5B9EC44</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/E8B921636F1B4668BCB8CB2FD5B9EC44</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/A0A969A202684D93978481C4357DD535</sdo:url>
@@ -13046,9 +12998,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/D06C2FC460C34704B3DA0FA170029E67</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/D06C2FC460C34704B3DA0FA170029E67</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/D06C2FC460C34704B3DA0FA170029E67</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/D06C2FC460C34704B3DA0FA170029E67</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/D06C2FC460C34704B3DA0FA170029E67</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/A4B00C6A06CA4EFB8BA74C73936583F0</sdo:url>
@@ -13064,9 +13016,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/363689239D334572BC9EDCFBAFECE107</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/363689239D334572BC9EDCFBAFECE107</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/363689239D334572BC9EDCFBAFECE107</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/363689239D334572BC9EDCFBAFECE107</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/363689239D334572BC9EDCFBAFECE107</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/56254AA84ABA47818B28C7F7682C5C1C</sdo:url>
@@ -13082,9 +13034,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/FA07C7918CCF4A64BF461741B1C6DC9F</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/FA07C7918CCF4A64BF461741B1C6DC9F</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/FA07C7918CCF4A64BF461741B1C6DC9F</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/FA07C7918CCF4A64BF461741B1C6DC9F</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/FA07C7918CCF4A64BF461741B1C6DC9F</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/8D9077F19DEE4F82ADFCCA01D79CCF66</sdo:url>
@@ -13099,9 +13051,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/2780A0FCFE4F4600B4B7542A04C8FF26</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/2780A0FCFE4F4600B4B7542A04C8FF26</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/2780A0FCFE4F4600B4B7542A04C8FF26</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/2780A0FCFE4F4600B4B7542A04C8FF26</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/2780A0FCFE4F4600B4B7542A04C8FF26</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/1EEAD3576B154BD195AEB130DCC64A8E</sdo:url>
@@ -13117,9 +13069,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/8098B917479A42D0A4001AE9528B38E3</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/8098B917479A42D0A4001AE9528B38E3</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/8098B917479A42D0A4001AE9528B38E3</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/8098B917479A42D0A4001AE9528B38E3</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/8098B917479A42D0A4001AE9528B38E3</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/D7406846CC6B45D9914DC6109BB29CFF</sdo:url>
@@ -13134,9 +13086,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/ECF5244D58B14D8A958856016B756BFC</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/ECF5244D58B14D8A958856016B756BFC</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/ECF5244D58B14D8A958856016B756BFC</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/ECF5244D58B14D8A958856016B756BFC</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/ECF5244D58B14D8A958856016B756BFC</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/4C0F4F2FBBF94D51904392F98F62B6E3</sdo:url>
@@ -13151,9 +13103,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/BD9F0D34143A408BB1151B155A65476A</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/BD9F0D34143A408BB1151B155A65476A</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/BD9F0D34143A408BB1151B155A65476A</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/BD9F0D34143A408BB1151B155A65476A</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/BD9F0D34143A408BB1151B155A65476A</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/979CA9D3059A4B498C59804E2DAE963B</sdo:url>
@@ -13168,9 +13120,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/015D9A775D5A48CB8FCF12D596A61CD4</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/015D9A775D5A48CB8FCF12D596A61CD4</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/015D9A775D5A48CB8FCF12D596A61CD4</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/015D9A775D5A48CB8FCF12D596A61CD4</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/015D9A775D5A48CB8FCF12D596A61CD4</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/87C664B471454B4D86031A0FF73BBE30</sdo:url>
@@ -13185,9 +13137,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/77118703F2694AD2AAE5C984AFF28944</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/77118703F2694AD2AAE5C984AFF28944</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/77118703F2694AD2AAE5C984AFF28944</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/77118703F2694AD2AAE5C984AFF28944</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/77118703F2694AD2AAE5C984AFF28944</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/98D7CDAFF1E947B3AA326C2C9F3F50A0</sdo:url>
@@ -13202,9 +13154,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/0BEC19FADE764E6A9E00BDC048FB96E3</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/0BEC19FADE764E6A9E00BDC048FB96E3</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/0BEC19FADE764E6A9E00BDC048FB96E3</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/0BEC19FADE764E6A9E00BDC048FB96E3</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/0BEC19FADE764E6A9E00BDC048FB96E3</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/4DB49495BB3040358C175367134FE204</sdo:url>
@@ -13219,9 +13171,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/C83002AFA3EA48628FE09FFF729FF0CF</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/C83002AFA3EA48628FE09FFF729FF0CF</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/C83002AFA3EA48628FE09FFF729FF0CF</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/C83002AFA3EA48628FE09FFF729FF0CF</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/C83002AFA3EA48628FE09FFF729FF0CF</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/3136EF9A58DB4035877309E1128CCD6E</sdo:url>
@@ -13236,9 +13188,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/31230A5F0AA74BBAA4331F866E805E1F</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/31230A5F0AA74BBAA4331F866E805E1F</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/31230A5F0AA74BBAA4331F866E805E1F</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/31230A5F0AA74BBAA4331F866E805E1F</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/31230A5F0AA74BBAA4331F866E805E1F</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/429F09AF144D4B9BAC6C9DA073CB234E</sdo:url>
@@ -13253,9 +13205,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/CB7DDB1E9B344E318FE71FD56D109BAC</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/CB7DDB1E9B344E318FE71FD56D109BAC</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/CB7DDB1E9B344E318FE71FD56D109BAC</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/CB7DDB1E9B344E318FE71FD56D109BAC</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/CB7DDB1E9B344E318FE71FD56D109BAC</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/5DB1E38DCA0D4BCB8B132B4B84D61FEE</sdo:url>
@@ -13270,9 +13222,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/26E1A6B293B7445B9709CD4B0C4BE0CF</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/26E1A6B293B7445B9709CD4B0C4BE0CF</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/26E1A6B293B7445B9709CD4B0C4BE0CF</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/26E1A6B293B7445B9709CD4B0C4BE0CF</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/26E1A6B293B7445B9709CD4B0C4BE0CF</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/2A51051F297248D58C2644CD1D892C4B</sdo:url>
@@ -13288,9 +13240,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/DC6CC40472DE4282871E8E53980A09F8</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/DC6CC40472DE4282871E8E53980A09F8</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/DC6CC40472DE4282871E8E53980A09F8</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/DC6CC40472DE4282871E8E53980A09F8</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/DC6CC40472DE4282871E8E53980A09F8</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/40695EB9A84D4788B4533CE99B6D1A32</sdo:url>
@@ -13305,9 +13257,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/C69CA24305594D009A216E30DDD46A2C</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/C69CA24305594D009A216E30DDD46A2C</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/C69CA24305594D009A216E30DDD46A2C</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/C69CA24305594D009A216E30DDD46A2C</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/C69CA24305594D009A216E30DDD46A2C</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/3D4DFF5C4D634E568D373E771308A0BE</sdo:url>
@@ -13322,9 +13274,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/648155C9E27C43E2AE80169A0E05077E</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/648155C9E27C43E2AE80169A0E05077E</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/648155C9E27C43E2AE80169A0E05077E</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/648155C9E27C43E2AE80169A0E05077E</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/648155C9E27C43E2AE80169A0E05077E</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/4DDD4BAABC524E34BCC877ECF5045312</sdo:url>
@@ -13339,9 +13291,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/4E5EFF7421AD4D0E857C8637FC2A259F</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/4E5EFF7421AD4D0E857C8637FC2A259F</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/4E5EFF7421AD4D0E857C8637FC2A259F</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/4E5EFF7421AD4D0E857C8637FC2A259F</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/4E5EFF7421AD4D0E857C8637FC2A259F</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/2106014465184C258F8594610B96C917</sdo:url>
@@ -13356,9 +13308,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/BFF4F67EE1FD41648B04244504B52D41</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/BFF4F67EE1FD41648B04244504B52D41</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/BFF4F67EE1FD41648B04244504B52D41</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/BFF4F67EE1FD41648B04244504B52D41</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/BFF4F67EE1FD41648B04244504B52D41</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/0EA4443B76E541A38758904E2A923C67</sdo:url>
@@ -13373,9 +13325,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/FE887C40B4E6428A9442D16069D6389B</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/FE887C40B4E6428A9442D16069D6389B</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/FE887C40B4E6428A9442D16069D6389B</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/FE887C40B4E6428A9442D16069D6389B</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/FE887C40B4E6428A9442D16069D6389B</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/254672843EEB435FA3944347754A1903</sdo:url>
@@ -13390,9 +13342,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/D850D19368E7416BB7ADC9CC5E8F7570</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/D850D19368E7416BB7ADC9CC5E8F7570</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/D850D19368E7416BB7ADC9CC5E8F7570</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/D850D19368E7416BB7ADC9CC5E8F7570</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/D850D19368E7416BB7ADC9CC5E8F7570</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/7E27A7269ED0495BBEDD786979218C8A</sdo:url>
@@ -13407,9 +13359,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/06D1BC77172B455F96846059B1211FA0</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/06D1BC77172B455F96846059B1211FA0</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/06D1BC77172B455F96846059B1211FA0</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/06D1BC77172B455F96846059B1211FA0</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/06D1BC77172B455F96846059B1211FA0</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/D6FCC092A09B40839C10FDBFC800A049</sdo:url>
@@ -13424,9 +13376,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/17A336F2C9AE43A5B0A4C87E8B210E6E</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/17A336F2C9AE43A5B0A4C87E8B210E6E</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/17A336F2C9AE43A5B0A4C87E8B210E6E</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/17A336F2C9AE43A5B0A4C87E8B210E6E</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/17A336F2C9AE43A5B0A4C87E8B210E6E</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/0B20A6179805498BAA4F04264EE8221C</sdo:url>
@@ -13442,9 +13394,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/9CF15021CA934685B4F277789F9D4D2D</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/9CF15021CA934685B4F277789F9D4D2D</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/9CF15021CA934685B4F277789F9D4D2D</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/9CF15021CA934685B4F277789F9D4D2D</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/9CF15021CA934685B4F277789F9D4D2D</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/D54E78B909B54E60AAD137C1390709DD</sdo:url>
@@ -13460,9 +13412,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/BF6100AC2BB84EBE9115071957593856</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/BF6100AC2BB84EBE9115071957593856</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/BF6100AC2BB84EBE9115071957593856</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/BF6100AC2BB84EBE9115071957593856</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/BF6100AC2BB84EBE9115071957593856</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/9118CB2594F74B4D9D60BC1CD72E7E6E</sdo:url>
@@ -13477,9 +13429,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/72E52AE0AB9044F880EC17A5F724CD22</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/72E52AE0AB9044F880EC17A5F724CD22</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/72E52AE0AB9044F880EC17A5F724CD22</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/72E52AE0AB9044F880EC17A5F724CD22</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/72E52AE0AB9044F880EC17A5F724CD22</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/CCFDB18B73BD4295B50B1D371A1CB3F0</sdo:url>
@@ -13495,9 +13447,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/FDAA2C370B504D0292B887B247875954</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/FDAA2C370B504D0292B887B247875954</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/FDAA2C370B504D0292B887B247875954</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/FDAA2C370B504D0292B887B247875954</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/FDAA2C370B504D0292B887B247875954</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/B9743E7121154185A86951A8D9773994</sdo:url>
@@ -13512,9 +13464,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/BAE42171AE6948F3AA6917A022D4EFB1</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/BAE42171AE6948F3AA6917A022D4EFB1</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/BAE42171AE6948F3AA6917A022D4EFB1</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/BAE42171AE6948F3AA6917A022D4EFB1</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/BAE42171AE6948F3AA6917A022D4EFB1</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/C5DC79DDFEE944F6916DF559B35965DF</sdo:url>
@@ -13529,9 +13481,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/993E81E6C6344D97802051B287DAF0B5</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/993E81E6C6344D97802051B287DAF0B5</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/993E81E6C6344D97802051B287DAF0B5</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/993E81E6C6344D97802051B287DAF0B5</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/993E81E6C6344D97802051B287DAF0B5</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/6665912C532D493CAC93B95B53464256</sdo:url>
@@ -13546,9 +13498,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/C25528D91C88416C8D3E55136428D289</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/C25528D91C88416C8D3E55136428D289</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/C25528D91C88416C8D3E55136428D289</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/C25528D91C88416C8D3E55136428D289</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/C25528D91C88416C8D3E55136428D289</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/637EDD0CC9E64231951745AEE9F72089</sdo:url>
@@ -13564,9 +13516,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/3E5481D737A5457D9815E4278D6B0381</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/3E5481D737A5457D9815E4278D6B0381</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/3E5481D737A5457D9815E4278D6B0381</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/3E5481D737A5457D9815E4278D6B0381</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/3E5481D737A5457D9815E4278D6B0381</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/FB72DC9A79214DC1B1B7CBD86D945F79</sdo:url>
@@ -13581,9 +13533,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/D1B4587C2EDA45FF96576509AD794836</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/D1B4587C2EDA45FF96576509AD794836</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/D1B4587C2EDA45FF96576509AD794836</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/D1B4587C2EDA45FF96576509AD794836</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/D1B4587C2EDA45FF96576509AD794836</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/6B87C0F963464EF4A852BB8658397CE0</sdo:url>
@@ -13599,9 +13551,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/19CA5C9E9B734C9C82861400F40A044D</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/19CA5C9E9B734C9C82861400F40A044D</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/19CA5C9E9B734C9C82861400F40A044D</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/19CA5C9E9B734C9C82861400F40A044D</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/19CA5C9E9B734C9C82861400F40A044D</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/F7947B3AEBDE48EE833F290CF67381C6</sdo:url>
@@ -13617,9 +13569,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/46C108C8FEAB49819703BA8523012B91</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/46C108C8FEAB49819703BA8523012B91</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/46C108C8FEAB49819703BA8523012B91</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/46C108C8FEAB49819703BA8523012B91</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/46C108C8FEAB49819703BA8523012B91</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/1CEDFAD2FB9143BD9914A6CDB174E615</sdo:url>
@@ -13634,9 +13586,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/D33F5719C1DC452F817A41345DF34A19</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/D33F5719C1DC452F817A41345DF34A19</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/D33F5719C1DC452F817A41345DF34A19</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/D33F5719C1DC452F817A41345DF34A19</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/D33F5719C1DC452F817A41345DF34A19</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/C215B14DE43A464F836E62146A87CD27</sdo:url>
@@ -13651,9 +13603,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/EF7D6F67CF12414D85BAA261375156B7</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/EF7D6F67CF12414D85BAA261375156B7</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/EF7D6F67CF12414D85BAA261375156B7</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/EF7D6F67CF12414D85BAA261375156B7</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/EF7D6F67CF12414D85BAA261375156B7</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/0C6A612C3F6C43F5B9A8C106AB3BA8AD</sdo:url>
@@ -13668,9 +13620,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/24F94A52DD0B4EB08D1FC6E68AB3AC4C</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/24F94A52DD0B4EB08D1FC6E68AB3AC4C</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/24F94A52DD0B4EB08D1FC6E68AB3AC4C</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/24F94A52DD0B4EB08D1FC6E68AB3AC4C</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/24F94A52DD0B4EB08D1FC6E68AB3AC4C</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/84E5CCB0BABA4CD1831B52A2C6A74471</sdo:url>
@@ -13685,9 +13637,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/637B16BEB3C24FD9869B7E258E4EA76F</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/637B16BEB3C24FD9869B7E258E4EA76F</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/637B16BEB3C24FD9869B7E258E4EA76F</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/637B16BEB3C24FD9869B7E258E4EA76F</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/637B16BEB3C24FD9869B7E258E4EA76F</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/A1EABB84208B48BE9ABFB97037F90084</sdo:url>
@@ -13703,9 +13655,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/821303832F784BCD8EFD307569BFB02A</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/821303832F784BCD8EFD307569BFB02A</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/821303832F784BCD8EFD307569BFB02A</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/821303832F784BCD8EFD307569BFB02A</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/821303832F784BCD8EFD307569BFB02A</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/4977236B720A4972A3A3A5C33A2D56BF</sdo:url>
@@ -13720,9 +13672,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/FEF04DEF86154391A95E1C1694149AD4</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/FEF04DEF86154391A95E1C1694149AD4</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/FEF04DEF86154391A95E1C1694149AD4</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/FEF04DEF86154391A95E1C1694149AD4</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/FEF04DEF86154391A95E1C1694149AD4</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/349EEE879F2B4F79B3B55806EE84CB6D</sdo:url>
@@ -13737,9 +13689,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/F61EC0A69B7A4F7FA6CF788BCC2EDA3F</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/F61EC0A69B7A4F7FA6CF788BCC2EDA3F</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/F61EC0A69B7A4F7FA6CF788BCC2EDA3F</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/F61EC0A69B7A4F7FA6CF788BCC2EDA3F</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/F61EC0A69B7A4F7FA6CF788BCC2EDA3F</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/A9698974DF934638AB226B6F9993A59A</sdo:url>
@@ -13755,9 +13707,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/FCE1C6A097CF4175BEB61748D1C103E6</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/FCE1C6A097CF4175BEB61748D1C103E6</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/FCE1C6A097CF4175BEB61748D1C103E6</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/FCE1C6A097CF4175BEB61748D1C103E6</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/FCE1C6A097CF4175BEB61748D1C103E6</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/79E58F6030B74218BBC830781579605C</sdo:url>
@@ -13772,9 +13724,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/7745785F848F4EF0A677C7D754694FE9</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/7745785F848F4EF0A677C7D754694FE9</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/7745785F848F4EF0A677C7D754694FE9</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/7745785F848F4EF0A677C7D754694FE9</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/7745785F848F4EF0A677C7D754694FE9</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/D96756F9EB8D4FF5AE22DC5FBD5BB2BF</sdo:url>
@@ -13789,9 +13741,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/3E5481D737A5457D9815E4278D6B0381</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/3E5481D737A5457D9815E4278D6B0381</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/3E5481D737A5457D9815E4278D6B0381</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/3E5481D737A5457D9815E4278D6B0381</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/3E5481D737A5457D9815E4278D6B0381</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/08550858488D4B7D9CDE9027B6BD7094</sdo:url>
@@ -13806,9 +13758,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/37A86D1CBC3C4870AB5CBB2903219BCB</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/37A86D1CBC3C4870AB5CBB2903219BCB</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/37A86D1CBC3C4870AB5CBB2903219BCB</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/37A86D1CBC3C4870AB5CBB2903219BCB</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/37A86D1CBC3C4870AB5CBB2903219BCB</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/E991D3439CF2428DAE667F6AA4BA1A40</sdo:url>
@@ -13823,9 +13775,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/580A12AB62354FE88516F95F3382CA13</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/580A12AB62354FE88516F95F3382CA13</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/580A12AB62354FE88516F95F3382CA13</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/580A12AB62354FE88516F95F3382CA13</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/580A12AB62354FE88516F95F3382CA13</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/7E07BFDF54804694A4707228F826DB21</sdo:url>
@@ -13840,9 +13792,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/E14C22E4A505481ABCC905C20934AF24</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/E14C22E4A505481ABCC905C20934AF24</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/E14C22E4A505481ABCC905C20934AF24</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/E14C22E4A505481ABCC905C20934AF24</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/E14C22E4A505481ABCC905C20934AF24</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/7366B5DA3F7D4944B908B41216E8505C</sdo:url>
@@ -13857,9 +13809,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/6874555E847E4CFCBE5E7637099325C2</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/6874555E847E4CFCBE5E7637099325C2</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/6874555E847E4CFCBE5E7637099325C2</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/6874555E847E4CFCBE5E7637099325C2</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/6874555E847E4CFCBE5E7637099325C2</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/48027F8806E244B78CF2255CC6CE35E8</sdo:url>
@@ -13874,9 +13826,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/FA5AC3B28FF24F3D836889D4E5149F45</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/FA5AC3B28FF24F3D836889D4E5149F45</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/FA5AC3B28FF24F3D836889D4E5149F45</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/FA5AC3B28FF24F3D836889D4E5149F45</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/FA5AC3B28FF24F3D836889D4E5149F45</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/86231657BC95488590FA5DCF963784E3</sdo:url>
@@ -13891,9 +13843,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/D19C645AEFE34A50B306DF9EA6E95412</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/D19C645AEFE34A50B306DF9EA6E95412</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/D19C645AEFE34A50B306DF9EA6E95412</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/D19C645AEFE34A50B306DF9EA6E95412</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/D19C645AEFE34A50B306DF9EA6E95412</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/7CD0229C55F54112A71C946D0F677FC8</sdo:url>
@@ -13908,9 +13860,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/BBCD4E592EEB457088763241ACAB4541</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/BBCD4E592EEB457088763241ACAB4541</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/BBCD4E592EEB457088763241ACAB4541</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/BBCD4E592EEB457088763241ACAB4541</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/BBCD4E592EEB457088763241ACAB4541</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/FCBE64AD4D9E4BA581E0B18988E4987B</sdo:url>
@@ -13926,9 +13878,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/2E128730676B4529AE8B130AEC8B2795</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/2E128730676B4529AE8B130AEC8B2795</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/2E128730676B4529AE8B130AEC8B2795</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/2E128730676B4529AE8B130AEC8B2795</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/2E128730676B4529AE8B130AEC8B2795</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/26BC1EDB45A243E891BA2BA3A2817E60</sdo:url>
@@ -13943,9 +13895,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/369E6887165E4553B31654FBC47B1370</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/369E6887165E4553B31654FBC47B1370</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/369E6887165E4553B31654FBC47B1370</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/369E6887165E4553B31654FBC47B1370</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/369E6887165E4553B31654FBC47B1370</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/D55FB5FED4C24A31ADFCE4E16F7092B2</sdo:url>
@@ -13960,9 +13912,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/E8C1662D8E8E4D17BAB5B3AA582E227E</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/E8C1662D8E8E4D17BAB5B3AA582E227E</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/E8C1662D8E8E4D17BAB5B3AA582E227E</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/E8C1662D8E8E4D17BAB5B3AA582E227E</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/E8C1662D8E8E4D17BAB5B3AA582E227E</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/B7F7FE6B6C7A4E7AA448AFDD28171FB3</sdo:url>
@@ -13977,9 +13929,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/92743B13A87B43E58DC21735703EA2E7</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/92743B13A87B43E58DC21735703EA2E7</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/92743B13A87B43E58DC21735703EA2E7</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/92743B13A87B43E58DC21735703EA2E7</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/92743B13A87B43E58DC21735703EA2E7</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/A49B257C86DF4062A39B5B7C8ED1CE59</sdo:url>
@@ -13995,9 +13947,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/39DB423F523E4A7194504B699FBECD3A</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/39DB423F523E4A7194504B699FBECD3A</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/39DB423F523E4A7194504B699FBECD3A</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/39DB423F523E4A7194504B699FBECD3A</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/39DB423F523E4A7194504B699FBECD3A</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/B5CD5A99518347139A8F365A87B422AF</sdo:url>
@@ -14012,9 +13964,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/8C418D8C346249D9AD440CDB38C437A1</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/8C418D8C346249D9AD440CDB38C437A1</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/8C418D8C346249D9AD440CDB38C437A1</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/8C418D8C346249D9AD440CDB38C437A1</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/8C418D8C346249D9AD440CDB38C437A1</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/99BF52959AD446B1A50A8D95945A67AF</sdo:url>
@@ -14030,9 +13982,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/5E73A833622E43A79827242C9CFBB25C</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/5E73A833622E43A79827242C9CFBB25C</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/5E73A833622E43A79827242C9CFBB25C</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/5E73A833622E43A79827242C9CFBB25C</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/5E73A833622E43A79827242C9CFBB25C</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/ED5C033E94E64F5A883AC78B586D6D66</sdo:url>
@@ -14047,9 +13999,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/F8002BF96E7B41A9AFF7547E1D9CCCE9</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/F8002BF96E7B41A9AFF7547E1D9CCCE9</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/F8002BF96E7B41A9AFF7547E1D9CCCE9</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/F8002BF96E7B41A9AFF7547E1D9CCCE9</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/F8002BF96E7B41A9AFF7547E1D9CCCE9</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/ED5B7D3240B84EBCA0D70F0051347A13</sdo:url>
@@ -14064,9 +14016,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/8A47F08D54D44C50A80DF5F3E318C669</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/8A47F08D54D44C50A80DF5F3E318C669</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/8A47F08D54D44C50A80DF5F3E318C669</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/8A47F08D54D44C50A80DF5F3E318C669</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/8A47F08D54D44C50A80DF5F3E318C669</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/8D1EF78F5E1C4AF5BBBB5CA04738E5A4</sdo:url>
@@ -14081,9 +14033,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/8D1D7B1894F247A0A5EC67E25591F31E</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/8D1D7B1894F247A0A5EC67E25591F31E</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/8D1D7B1894F247A0A5EC67E25591F31E</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/8D1D7B1894F247A0A5EC67E25591F31E</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/8D1D7B1894F247A0A5EC67E25591F31E</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/C502298F1E1A472E9D3845E147150B91</sdo:url>
@@ -14098,9 +14050,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/4BC06BBAAC3B4BC086CC324A72FAC821</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/4BC06BBAAC3B4BC086CC324A72FAC821</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/4BC06BBAAC3B4BC086CC324A72FAC821</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/4BC06BBAAC3B4BC086CC324A72FAC821</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/4BC06BBAAC3B4BC086CC324A72FAC821</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/4BC58A263C3E4D719899C2B24906E4DC</sdo:url>
@@ -14115,9 +14067,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/246307BCBBDF46E88AE4F8386C5084D1</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/246307BCBBDF46E88AE4F8386C5084D1</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/246307BCBBDF46E88AE4F8386C5084D1</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/246307BCBBDF46E88AE4F8386C5084D1</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/246307BCBBDF46E88AE4F8386C5084D1</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/4E926F2818C745838D7C48FA625B6BF2</sdo:url>
@@ -14132,9 +14084,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/2F7110719E4C450087ECD638E0CBB742</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/2F7110719E4C450087ECD638E0CBB742</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/2F7110719E4C450087ECD638E0CBB742</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/2F7110719E4C450087ECD638E0CBB742</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/2F7110719E4C450087ECD638E0CBB742</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/6886E1F1689246D6878BD315485A6BB6</sdo:url>
@@ -14149,9 +14101,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/619EF7AACBD24AE1A54270DF86854227</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/619EF7AACBD24AE1A54270DF86854227</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/619EF7AACBD24AE1A54270DF86854227</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/619EF7AACBD24AE1A54270DF86854227</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/619EF7AACBD24AE1A54270DF86854227</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/2D9B3011C1D047C982D801AEEBAF9F16</sdo:url>
@@ -14167,9 +14119,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/6E25FEE0E396416A8C448FD57517AAE8</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/6E25FEE0E396416A8C448FD57517AAE8</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/6E25FEE0E396416A8C448FD57517AAE8</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/6E25FEE0E396416A8C448FD57517AAE8</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/6E25FEE0E396416A8C448FD57517AAE8</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/CDC81D3945D144D9B476FCD7F0A57004</sdo:url>
@@ -14184,9 +14136,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/4857A56BD5A84203B8EC1EF8954637E6</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/4857A56BD5A84203B8EC1EF8954637E6</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/4857A56BD5A84203B8EC1EF8954637E6</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/4857A56BD5A84203B8EC1EF8954637E6</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/4857A56BD5A84203B8EC1EF8954637E6</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/8325CD8217EC4B5988DC06F021BCCA4C</sdo:url>
@@ -14201,9 +14153,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/E89DE4B6BDAF43C0B3217059DAF20AE0</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/E89DE4B6BDAF43C0B3217059DAF20AE0</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/E89DE4B6BDAF43C0B3217059DAF20AE0</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/E89DE4B6BDAF43C0B3217059DAF20AE0</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/E89DE4B6BDAF43C0B3217059DAF20AE0</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/E6408A3238F04C3BA26BE4DA421B8342</sdo:url>
@@ -14218,9 +14170,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/E4FFF761BDB6403696842952E40E71FB</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/E4FFF761BDB6403696842952E40E71FB</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/E4FFF761BDB6403696842952E40E71FB</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/E4FFF761BDB6403696842952E40E71FB</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/E4FFF761BDB6403696842952E40E71FB</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/C76A5C3C5F61470784EB85D38FAF3ABF</sdo:url>
@@ -14235,9 +14187,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/1A8D27DC39C14627821BF10784323781</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/1A8D27DC39C14627821BF10784323781</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/1A8D27DC39C14627821BF10784323781</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/1A8D27DC39C14627821BF10784323781</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/1A8D27DC39C14627821BF10784323781</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/7F88F791D160452382A945C2E9885277</sdo:url>
@@ -14253,9 +14205,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/F5207A8256194BC68665BB4477999928</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/F5207A8256194BC68665BB4477999928</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/F5207A8256194BC68665BB4477999928</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/F5207A8256194BC68665BB4477999928</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/F5207A8256194BC68665BB4477999928</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/612917D3EAF7479197AE0BB22C575799</sdo:url>
@@ -14270,9 +14222,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/CBE1064F3B6348958967FF7861735560</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/CBE1064F3B6348958967FF7861735560</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/CBE1064F3B6348958967FF7861735560</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/CBE1064F3B6348958967FF7861735560</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/CBE1064F3B6348958967FF7861735560</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/C87C39B4C4CA4E01B70E9900A745BFF0</sdo:url>
@@ -14287,9 +14239,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/F51B1527DB834C1D96EA862FBB8B518E</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/F51B1527DB834C1D96EA862FBB8B518E</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/F51B1527DB834C1D96EA862FBB8B518E</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/F51B1527DB834C1D96EA862FBB8B518E</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/F51B1527DB834C1D96EA862FBB8B518E</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/498CBADCFD024A59847C6EAF3F1E6C1B</sdo:url>
@@ -14304,9 +14256,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/9EC1BC6AE6B441478AE7890D97654712</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/download/236/9EC1BC6AE6B441478AE7890D97654712</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/embed/236/9EC1BC6AE6B441478AE7890D97654712</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/9EC1BC6AE6B441478AE7890D97654712</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/thumb/236/9EC1BC6AE6B441478AE7890D97654712</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://proxy.archieven.nl/236/047AF46C65D042B78690FEC440BE44FE</sdo:url>

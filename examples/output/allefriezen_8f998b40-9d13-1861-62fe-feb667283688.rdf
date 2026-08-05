@@ -95,9 +95,9 @@
       <sdo:associatedMedia>
          <sdo:ImageObject>
             <sdo:position>1</sdo:position>
-            <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://tresoar-images.memorix.nl/frl/thumb/640x480/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg</sdo:url>
+            <sdo:contentUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://tresoar-images.memorix.nl/frl/thumb/640x480/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg</sdo:contentUrl>
             <sdo:embedUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://allefriezen.nl/zoeken/deeds/8f998b40-9d13-1861-62fe-feb667283688</sdo:embedUrl>
-            <sdo:thumbnail rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://tresoar-images.memorix.nl/frl/thumb/250x250/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg</sdo:thumbnail>
+            <sdo:thumbnailUrl rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://tresoar-images.memorix.nl/frl/thumb/250x250/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg</sdo:thumbnailUrl>
          </sdo:ImageObject>
       </sdo:associatedMedia>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://allefriezen.nl/zoeken/deeds/8f998b40-9d13-1861-62fe-feb667283688</sdo:url>

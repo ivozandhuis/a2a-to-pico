@@ -65,10 +65,10 @@
 <https://ex.org/Source:8f998b40-9d13-1861-62fe-feb667283688> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/553> ;
     sdo:associatedMedia [ a sdo:ImageObject ;
+            sdo:contentUrl "https://tresoar-images.memorix.nl/frl/thumb/640x480/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg"^^xsd:anyURI ;
             sdo:embedUrl "http://allefriezen.nl/zoeken/deeds/8f998b40-9d13-1861-62fe-feb667283688"^^xsd:anyURI ;
             sdo:position "1" ;
-            sdo:thumbnail "https://tresoar-images.memorix.nl/frl/thumb/250x250/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg"^^xsd:anyURI ;
-            sdo:url "https://tresoar-images.memorix.nl/frl/thumb/640x480/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg"^^xsd:anyURI ] ;
+            sdo:thumbnailUrl "https://tresoar-images.memorix.nl/frl/thumb/250x250/1108ac66-bd25-2613-82bc-d4cc8112c450.jpg"^^xsd:anyURI ] ;
     sdo:dateCreated "1864-02-29"^^xsd:date ;
     sdo:dateModified "2019-08-29"^^xsd:date ;
     sdo:description "A2Acollection oai-pmh_20240413_5195_00005195.xml van FRL"@nl ;
