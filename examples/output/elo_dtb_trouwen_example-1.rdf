@@ -87,7 +87,6 @@
       <sdo:description xml:lang="nl">getuige van de bruid, relatie tot de bruid: bekende, adres: Coenesteegh</sdo:description>
    </picom:PersonObservation>
    <sdo:ArchiveComponent rdf:about="https://ex.org/Source:14b2d6e9-e5b1-06d9-870d-d5a0dfc585b0">
-      <sdo:additionalType xml:lang="nl">other: </sdo:additionalType>
       <sdo:name xml:lang="nl">Erfgoed Leiden (Leiden), Archiefnaam: Doop-, trouw-, begraaf- en geboorteboeken Leiden (DTB Leiden), Deel: 22, Periode: 16..., (toegangsnr. 1004), inv.nr. 22, X. Kerkelijk ondertrouwboek (NH) van Leiden, januari 1678 - 1681., 191, </sdo:name>
       <sdo:locationCreated xml:lang="nl">Leiden</sdo:locationCreated>
       <sdo:associatedMedia>

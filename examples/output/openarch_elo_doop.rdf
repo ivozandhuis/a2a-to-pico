@@ -97,7 +97,6 @@
       <sdo:givenName xml:lang="nl">Jan</sdo:givenName>
    </picom:PersonObservation>
    <sdo:ArchiveComponent rdf:about="https://ex.org/Source:ad8b3fa8-193b-aaba-64c1-15f711a309fa">
-      <sdo:additionalType xml:lang="nl">other:</sdo:additionalType>
       <sdo:name xml:lang="nl">Erfgoed Leiden (Leiden), Archiefnaam: Doop-, trouw-, begraaf- en geboorteboeken Leiden (DTB Leiden), Deel: 228, Periode: 1..., (toegangsnr. 1004), inv.nr. 228, Doopboek van de Pieterskerk (NH) te Leiden, 1725 - 1740., </sdo:name>
       <sdo:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1738-08-20</sdo:dateCreated>
       <sdo:locationCreated xml:lang="nl">Leiden</sdo:locationCreated>

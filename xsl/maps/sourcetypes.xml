@@ -48,4 +48,12 @@
 		<name>Notariële archieven</name>
 		<id>https://terms.personsincontext.org/sourcetypes/572</id>
 	</item>
+	<item>
+		<name>other:</name>
+		<id>delete</id>
+	</item>
+	<item>
+		<name></name>
+		<id>delete</id>
+	</item>
 </items>

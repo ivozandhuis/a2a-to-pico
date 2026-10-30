@@ -82,19 +82,21 @@
 		<xsl:variable name="SourceTypeMap">maps/sourcetypes.xml</xsl:variable>
 		<xsl:variable name="source-type" select="text()"/>
 		<xsl:variable name="source-type-id" select="document($SourceTypeMap)/items/item[name=$source-type]/id"/>
-		<sdo:additionalType>
-			<xsl:choose>
-				<xsl:when test="$source-type-id != ''">
-					<xsl:attribute name="rdf:resource">
-						<xsl:value-of select="$source-type-id"/>
-					</xsl:attribute>
-				</xsl:when>
-				<xsl:otherwise>
-					<xsl:attribute name="xml:lang"><xsl:value-of select="$lang"/></xsl:attribute>
-					<xsl:value-of select="$source-type"/>
-				</xsl:otherwise>
-			</xsl:choose>
-		</sdo:additionalType>
+		<xsl:if test="$source-type-id != 'delete'">
+			<sdo:additionalType>
+				<xsl:choose>
+					<xsl:when test="$source-type-id != ''">
+						<xsl:attribute name="rdf:resource">
+							<xsl:value-of select="$source-type-id"/>
+						</xsl:attribute>
+					</xsl:when>
+					<xsl:otherwise>
+						<xsl:attribute name="xml:lang"><xsl:value-of select="$lang"/></xsl:attribute>
+						<xsl:value-of select="$source-type"/>
+					</xsl:otherwise>
+				</xsl:choose>
+			</sdo:additionalType>
+		</xsl:if>
 	</xsl:template>
 	<xsl:template match="a2a:EAD"/>
 	<xsl:template match="a2a:EAC"/>

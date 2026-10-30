@@ -44,7 +44,6 @@
     sdo:spouse <https://ex.org/https://id.archief.amsterdam/961f6b1f-23bb-53f7-e053-b784100aa83b> .
 
 <https://ex.org/Source:b0e8c5d2-83e3-4430-bb67-a0f1a90835cb> a sdo:ArchiveComponent ;
-    sdo:additionalType "other:Ondertrouw"@nl ;
     sdo:associatedMedia [ a sdo:ImageObject ;
             sdo:embedUrl "https://stadsarchiefamsterdam.memorix.io/resources/records/media/b0e8c5d2-83e3-4430-bb67-a0f1a90835cb/iiif/3/12436204/info.json"^^xsd:anyURI ;
             sdo:position "1" ] ;

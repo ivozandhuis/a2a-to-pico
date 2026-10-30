@@ -30,7 +30,6 @@
       <sdo:givenName xml:lang="nl">Pieter</sdo:givenName>
    </picom:PersonObservation>
    <sdo:ArchiveComponent rdf:about="https://ex.org/Source:5d4a88a2-fdce-c7e4-c511-38641d2685f2">
-      <sdo:additionalType xml:lang="nl">other:</sdo:additionalType>
       <sdo:name xml:lang="nl">Erfgoed Leiden (Leiden), Archiefnaam: Stadsarchief van Leiden (SA II) (1574-1816), Deel: 1321, Periode: 1646-1655, (toegangsnr. 0501A), inv.nr. 1321, Register van begravenen te Leiden, 1646 augustus 19-1655 juli 31., </sdo:name>
       <sdo:locationCreated xml:lang="nl">Leiden</sdo:locationCreated>
       <sdo:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/5d4a88a2-fdce-c7e4-c511-38641d2685f2</sdo:url>

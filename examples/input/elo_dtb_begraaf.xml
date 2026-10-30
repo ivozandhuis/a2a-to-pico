@@ -1,1 +1,71 @@
-<a2a:A2A xmlns:a2a="http://Mindbus.nl/A2A" Version="1.7"><a2a:Person pid="Person:8c33e218-b8ad-f8a5-79c5-6d753c45f8e4"><a2a:PersonName><a2a:PersonNameFirstName>Nn</a2a:PersonNameFirstName><a2a:PersonNameLastName>Donne</a2a:PersonNameLastName></a2a:PersonName><a2a:Gender>Onbekend</a2a:Gender><a2a:Residence><a2a:Place>Scheistraat</a2a:Place></a2a:Residence></a2a:Person><a2a:Person pid="Person:928eb00d-b2df-49bf-0f8d-573b80dcb89c"><a2a:PersonName><a2a:PersonNameFirstName>Pieter</a2a:PersonNameFirstName><a2a:PersonNameLastName>Donne</a2a:PersonNameLastName></a2a:PersonName><a2a:Gender>Onbekend</a2a:Gender></a2a:Person><a2a:Event eid="Event1"><a2a:EventType>other:DTB Begraven</a2a:EventType><a2a:EventPlace><a2a:Place>Leiden, Hooglandse Kerk</a2a:Place></a2a:EventPlace></a2a:Event><a2a:RelationEP><a2a:PersonKeyRef>Person:8c33e218-b8ad-f8a5-79c5-6d753c45f8e4</a2a:PersonKeyRef><a2a:EventKeyRef>Event1</a2a:EventKeyRef><a2a:RelationType>Overledene</a2a:RelationType></a2a:RelationEP><a2a:RelationEP><a2a:PersonKeyRef>Person:928eb00d-b2df-49bf-0f8d-573b80dcb89c</a2a:PersonKeyRef><a2a:EventKeyRef>Event1</a2a:EventKeyRef><a2a:RelationType>Vader</a2a:RelationType></a2a:RelationEP><a2a:Source><a2a:SourcePlace><a2a:Place>Leiden</a2a:Place></a2a:SourcePlace><a2a:SourceIndexDate><a2a:From>1646-01-01</a2a:From><a2a:To>1655-12-31</a2a:To></a2a:SourceIndexDate><a2a:SourceType>other:</a2a:SourceType><a2a:SourceReference><a2a:Place>Leiden</a2a:Place><a2a:InstitutionName>Erfgoed Leiden</a2a:InstitutionName><a2a:Archive>0501A</a2a:Archive><a2a:Collection>Archiefnaam: Stadsarchief van Leiden (SA II) (1574-1816), Deel: 1321, Periode: 1646-1655</a2a:Collection><a2a:Book>Register van begravenen te Leiden, 1646 augustus 19-1655 juli 31.</a2a:Book><a2a:RegistryNumber>1321</a2a:RegistryNumber></a2a:SourceReference><a2a:SourceLastChangeDate>1970-01-01</a2a:SourceLastChangeDate><a2a:SourceDigitalOriginal>https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/5d4a88a2-fdce-c7e4-c511-38641d2685f2</a2a:SourceDigitalOriginal><a2a:RecordGUID>{5d4a88a2-fdce-c7e4-c511-38641d2685f2}</a2a:RecordGUID><a2a:SourceRemark Key="Opmerking"><a2a:Value>Datum begraven: 19-08-1654&lt;br/&gt;&lt;br/&gt;&lt;a href="/collecties/archieven/archievenoverzicht/search/list/findingaid/0501A/file/1321"&gt;Inventarisnummer 1321 van archiefnummer 0501A in Archieven&lt;/a&gt;</a2a:Value></a2a:SourceRemark><a2a:SourceRemark Key="archiefnaam"><a2a:Value>Stadsarchief van Leiden (SA II) (1574-1816)</a2a:Value></a2a:SourceRemark><a2a:SourceRemark Key="deel"><a2a:Value>1321</a2a:Value></a2a:SourceRemark><a2a:SourceRemark Key="register_periode"><a2a:Value>1646-1655</a2a:Value></a2a:SourceRemark><a2a:SourceRemark Key="Provenance"><a2a:Value>A2Acollection oai-pmh_20260701_8920_00008920.xml van ELO</a2a:Value></a2a:SourceRemark></a2a:Source></a2a:A2A>
+<a2a:A2A xmlns:a2a="http://Mindbus.nl/A2A" Version="1.7">
+    <a2a:Person pid="Person:8c33e218-b8ad-f8a5-79c5-6d753c45f8e4">
+        <a2a:PersonName>
+            <a2a:PersonNameFirstName>Nn</a2a:PersonNameFirstName>
+            <a2a:PersonNameLastName>Donne</a2a:PersonNameLastName>
+        </a2a:PersonName>
+        <a2a:Gender>Onbekend</a2a:Gender>
+        <a2a:Residence>
+            <a2a:Place>Scheistraat</a2a:Place>
+        </a2a:Residence>
+    </a2a:Person>
+    <a2a:Person pid="Person:928eb00d-b2df-49bf-0f8d-573b80dcb89c">
+        <a2a:PersonName>
+            <a2a:PersonNameFirstName>Pieter</a2a:PersonNameFirstName>
+            <a2a:PersonNameLastName>Donne</a2a:PersonNameLastName>
+        </a2a:PersonName>
+        <a2a:Gender>Onbekend</a2a:Gender>
+    </a2a:Person>
+    <a2a:Event eid="Event1">
+        <a2a:EventType>other:DTB Begraven</a2a:EventType>
+        <a2a:EventPlace>
+            <a2a:Place>Leiden, Hooglandse Kerk</a2a:Place>
+        </a2a:EventPlace>
+    </a2a:Event>
+    <a2a:RelationEP>
+        <a2a:PersonKeyRef>Person:8c33e218-b8ad-f8a5-79c5-6d753c45f8e4</a2a:PersonKeyRef>
+        <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+        <a2a:RelationType>Overledene</a2a:RelationType>
+    </a2a:RelationEP>
+    <a2a:RelationEP>
+        <a2a:PersonKeyRef>Person:928eb00d-b2df-49bf-0f8d-573b80dcb89c</a2a:PersonKeyRef>
+        <a2a:EventKeyRef>Event1</a2a:EventKeyRef>
+        <a2a:RelationType>Vader</a2a:RelationType>
+    </a2a:RelationEP>
+    <a2a:Source>
+        <a2a:SourcePlace>
+            <a2a:Place>Leiden</a2a:Place>
+        </a2a:SourcePlace>
+        <a2a:SourceIndexDate>
+            <a2a:From>1646-01-01</a2a:From>
+            <a2a:To>1655-12-31</a2a:To>
+        </a2a:SourceIndexDate>
+        <a2a:SourceType>other:</a2a:SourceType>
+        <a2a:SourceReference>
+            <a2a:Place>Leiden</a2a:Place>
+            <a2a:InstitutionName>Erfgoed Leiden</a2a:InstitutionName>
+            <a2a:Archive>0501A</a2a:Archive>
+            <a2a:Collection>Archiefnaam: Stadsarchief van Leiden (SA II) (1574-1816), Deel: 1321, Periode: 1646-1655</a2a:Collection>
+            <a2a:Book>Register van begravenen te Leiden, 1646 augustus 19-1655 juli 31.</a2a:Book>
+            <a2a:RegistryNumber>1321</a2a:RegistryNumber>
+        </a2a:SourceReference>
+        <a2a:SourceLastChangeDate>1970-01-01</a2a:SourceLastChangeDate>
+        <a2a:SourceDigitalOriginal>https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/5d4a88a2-fdce-c7e4-c511-38641d2685f2</a2a:SourceDigitalOriginal>
+        <a2a:RecordGUID>{5d4a88a2-fdce-c7e4-c511-38641d2685f2}</a2a:RecordGUID>
+        <a2a:SourceRemark Key="Opmerking">
+            <a2a:Value>Datum begraven: 19-08-1654&lt;br/&gt;&lt;br/&gt;&lt;a href="/collecties/archieven/archievenoverzicht/search/list/findingaid/0501A/file/1321"&gt;Inventarisnummer 1321 van archiefnummer 0501A in Archieven&lt;/a&gt;</a2a:Value>
+        </a2a:SourceRemark>
+        <a2a:SourceRemark Key="archiefnaam">
+            <a2a:Value>Stadsarchief van Leiden (SA II) (1574-1816)</a2a:Value>
+        </a2a:SourceRemark>
+        <a2a:SourceRemark Key="deel">
+            <a2a:Value>1321</a2a:Value>
+        </a2a:SourceRemark>
+        <a2a:SourceRemark Key="register_periode">
+            <a2a:Value>1646-1655</a2a:Value>
+        </a2a:SourceRemark>
+        <a2a:SourceRemark Key="Provenance">
+            <a2a:Value>A2Acollection oai-pmh_20260701_8920_00008920.xml van ELO</a2a:Value>
+        </a2a:SourceRemark>
+    </a2a:Source>
+</a2a:A2A>

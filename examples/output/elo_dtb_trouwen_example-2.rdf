@@ -58,7 +58,6 @@
       <sdo:givenName xml:lang="nl">Johan</sdo:givenName>
    </picom:PersonObservation>
    <sdo:ArchiveComponent rdf:about="https://ex.org/Source:162cf4bb-4eb1-c3bc-7297-8c5a72038999">
-      <sdo:additionalType xml:lang="nl">other: </sdo:additionalType>
       <sdo:name xml:lang="nl">Erfgoed Leiden (Leiden), Archiefnaam: Doop-, Trouw- en Begraafregisters Hillegom, Deel: 16, Periode: 1798-1807, (toegangsnr. 0837), inv.nr. 16, Trouwboek van het gerecht van Hillegom, 2 september 1798 - 15 november 1807., 17, </sdo:name>
       <sdo:locationCreated xml:lang="nl">Hillegom</sdo:locationCreated>
       <sdo:associatedMedia>
