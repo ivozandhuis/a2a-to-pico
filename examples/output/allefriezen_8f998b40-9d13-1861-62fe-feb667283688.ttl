@@ -18,6 +18,33 @@
     sdo:hasOccupation "arbeidster"@nl ;
     sdo:name "Oetske Lammerts Blaauw"@nl .
 
+<https://ex.org/Person:3f28fb01-c4cb-40b7-aa23-b8e2c4af03c2> a picom:PersonObservation ;
+    prov:hadPrimarySource <https://ex.org/Source:8f998b40-9d13-1861-62fe-feb667283688> ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:baseSurname "Werf"@nl ;
+            pnv:givenName "Jouke"@nl ;
+            pnv:literalName "Jouke Pieters van der Werf"@nl ;
+            pnv:patronym "Pieters"@nl ;
+            pnv:surnamePrefix "van der"@nl ] ;
+    sdo:children <https://ex.org/Person:8961efcb-31b8-d5d0-8708-ef476627dd6b> ;
+    sdo:familyName "van der Werf"@nl ;
+    sdo:gender sdo:Male ;
+    sdo:givenName "Jouke"@nl ;
+    sdo:name "Jouke Pieters van der Werf"@nl ;
+    sdo:spouse <https://ex.org/Person:c02b299d-6e3e-41b4-90a7-98e642f714ef> .
+
+<https://ex.org/Person:c02b299d-6e3e-41b4-90a7-98e642f714ef> a picom:PersonObservation ;
+    prov:hadPrimarySource <https://ex.org/Source:8f998b40-9d13-1861-62fe-feb667283688> ;
+    sdo:additionalName [ a pnv:PersonName ;
+            pnv:givenName "Geeske"@nl ;
+            pnv:literalName "Geeske Pieters"@nl ;
+            pnv:patronym "Pieters"@nl ] ;
+    sdo:children <https://ex.org/Person:8961efcb-31b8-d5d0-8708-ef476627dd6b> ;
+    sdo:gender sdo:Female ;
+    sdo:givenName "Geeske"@nl ;
+    sdo:name "Geeske Pieters"@nl ;
+    sdo:spouse <https://ex.org/Person:3f28fb01-c4cb-40b7-aa23-b8e2c4af03c2> .
+
 <https://ex.org/Person:8961efcb-31b8-d5d0-8708-ef476627dd6b> a picom:PersonObservation ;
     prov:hadPrimarySource <https://ex.org/Source:8f998b40-9d13-1861-62fe-feb667283688> ;
     picom:hasAge "84 jaar" ;
@@ -36,31 +63,6 @@
     sdo:givenName "Pieter"@nl ;
     sdo:hasOccupation "arbeider"@nl ;
     sdo:name "Pieter Joukes van der Werf"@nl .
-
-<https://ex.org/Person:3f28fb01-c4cb-40b7-aa23-b8e2c4af03c2> a picom:PersonObservation ;
-    prov:hadPrimarySource <https://ex.org/Source:8f998b40-9d13-1861-62fe-feb667283688> ;
-    sdo:additionalName [ a pnv:PersonName ;
-            pnv:baseSurname "Werf"@nl ;
-            pnv:givenName "Jouke"@nl ;
-            pnv:literalName "Jouke Pieters van der Werf"@nl ;
-            pnv:patronym "Pieters"@nl ;
-            pnv:surnamePrefix "van der"@nl ] ;
-    sdo:familyName "van der Werf"@nl ;
-    sdo:gender sdo:Male ;
-    sdo:givenName "Jouke"@nl ;
-    sdo:name "Jouke Pieters van der Werf"@nl ;
-    sdo:spouse <https://ex.org/Person:c02b299d-6e3e-41b4-90a7-98e642f714ef> .
-
-<https://ex.org/Person:c02b299d-6e3e-41b4-90a7-98e642f714ef> a picom:PersonObservation ;
-    prov:hadPrimarySource <https://ex.org/Source:8f998b40-9d13-1861-62fe-feb667283688> ;
-    sdo:additionalName [ a pnv:PersonName ;
-            pnv:givenName "Geeske"@nl ;
-            pnv:literalName "Geeske Pieters"@nl ;
-            pnv:patronym "Pieters"@nl ] ;
-    sdo:gender sdo:Female ;
-    sdo:givenName "Geeske"@nl ;
-    sdo:name "Geeske Pieters"@nl ;
-    sdo:spouse <https://ex.org/Person:3f28fb01-c4cb-40b7-aa23-b8e2c4af03c2> .
 
 <https://ex.org/Source:8f998b40-9d13-1861-62fe-feb667283688> a sdo:ArchiveComponent ;
     sdo:additionalType <https://terms.personsincontext.org/sourcetypes/553> ;

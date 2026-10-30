@@ -37,6 +37,9 @@
    </picom:PersonObservation>
    <picom:PersonObservation rdf:about="https://ex.org/Person:3f28fb01-c4cb-40b7-aa23-b8e2c4af03c2">
       <prov:hadPrimarySource rdf:resource="https://ex.org/Source:8f998b40-9d13-1861-62fe-feb667283688"/>
+      <sdo:children xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                     xmlns:picot_roles="https://terms.personsincontext.org/roles/"
+                     rdf:resource="https://ex.org/Person:8961efcb-31b8-d5d0-8708-ef476627dd6b"/>
       <sdo:spouse xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
                    xmlns:picot_roles="https://terms.personsincontext.org/roles/"
                    rdf:resource="https://ex.org/Person:c02b299d-6e3e-41b4-90a7-98e642f714ef"/>
@@ -56,6 +59,9 @@
    </picom:PersonObservation>
    <picom:PersonObservation rdf:about="https://ex.org/Person:c02b299d-6e3e-41b4-90a7-98e642f714ef">
       <prov:hadPrimarySource rdf:resource="https://ex.org/Source:8f998b40-9d13-1861-62fe-feb667283688"/>
+      <sdo:children xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
+                     xmlns:picot_roles="https://terms.personsincontext.org/roles/"
+                     rdf:resource="https://ex.org/Person:8961efcb-31b8-d5d0-8708-ef476627dd6b"/>
       <sdo:spouse xmlns:picot_eventtypes="https://terms.personsincontext.org/eventtypes/"
                    xmlns:picot_roles="https://terms.personsincontext.org/roles/"
                    rdf:resource="https://ex.org/Person:3f28fb01-c4cb-40b7-aa23-b8e2c4af03c2"/>

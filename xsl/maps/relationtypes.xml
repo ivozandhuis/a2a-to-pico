@@ -92,6 +92,10 @@
 			<property>children</property>
 			<related>Kind</related>
 		</relation>
+		<relation>
+			<property>children</property>
+			<related>Overledene</related>
+		</relation>
 	</item>
 	<item>
 		<name>Moeder</name>
@@ -103,6 +107,10 @@
 		<relation>
 			<property>children</property>
 			<related>Kind</related>
+		</relation>
+		<relation>
+			<property>children</property>
+			<related>Overledene</related>
 		</relation>
 	</item>
 	<item>
